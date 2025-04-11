@@ -1,0 +1,32 @@
+[
+  {
+    "id": "xxxxxx",
+    "name": "Super Moped 50cc",
+    "description": "A reliable and efficient 50cc moped, perfect for city commuting.",
+    "price": 799.99,
+    "stock": 12,
+    "image": "/images/moped-001.png",
+    "category": "Mopeds",
+    "tags": ["city", "50cc", "reliable"]
+  },
+  {
+    "id": "helmet-002",
+    "name": "Rider Pro Helmet",
+    "description": "Lightweight helmet with maximum protection and stylish design.",
+    "price": 89.99,
+    "stock": 35,
+    "image": "/images/helmet-002.png",
+    "category": "Accessories",
+    "tags": ["helmet", "safety", "rider"]
+  },
+  {
+    "id": "tire-003",
+    "name": "All-Terrain Tire 12\"",
+    "description": "Durable tire suitable for all road conditions.",
+    "price": 49.50,
+    "stock": 20,
+    "image": "/images/tire-003.png",
+    "category": "Parts",
+    "tags": ["tire", "durable", "12inch"]
+  }
+]
