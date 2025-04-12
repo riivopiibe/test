@@ -7,7 +7,7 @@
     "discounted_price": 259.95,
     "stock": 11,
     "images": ["/products/Drone/Feather-Light/Complete_DRONE_Feather-Light_Silver1.jpg", "/products/Drone/Feather-Light/Complete_DRONE_Feather-Light_Silver2.jpg", "/products/Drone/Feather-Light/Complete_DRONE_Feather-Light_Silver3.jpg"],
-    "video": "link.com",
+    "video": "https://www.youtube.com/embed/_YzTntvUWN4?si=fB4DH_uAl_x5E_uk",
     "category": "Tõuksid",
     "brand": "Drone",
     "tags": ["Complete", "IHC", "Kerge"]
@@ -18,7 +18,7 @@
     "description": "Lightweight helmet with maximum protection and stylish design.",
     "price": 89.99,
     "stock": 3,
-    "images": ["/images/moped-001.png", "/images/moped-002.png"],
+    "images": ["https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/0/4/04c39bd94b4ae2395fabf45f61b5573ffacfbef4_15290.png", "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/d/1/d1e807ba81fef7568cec36ab8f6ac6e27ec9e4b0_15290_2.png", "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/a/d/ada7abe4805887bf5776d0410f3d1a538a081318_15290_4.png", "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/8/a/8a84705d2f9e991b305ef7ba879947d24c7bf55a_15290_5.png", "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/1/b/1b0b203d9258ba2679638fe5bda50972b096d23e_15290_3.png"],
     "category": "Accessories",
     "brand": "Affinity",
     "tags": ["helmet", "safety", "rider"]
