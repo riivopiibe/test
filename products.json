@@ -1,15 +1,15 @@
 [
   {
-    "id": "xxxxxx",
-    "name": "Super Moped 50cc",
-    "description": "A reliable and efficient 50cc moped, perfect for city commuting.",
-    "price": 799.99,
-    "discounted_price": 499.99,
-    "stock": 12,
-    "images": ["/images/moped-001.png", "/images/moped-002.png"],
-    "category": "Mopeds",
-    "brand": "Blunt",
-    "tags": ["city", "50cc", "reliable"]
+    "id": "drone-e2-fl-silver",
+    "name": "DRONE Element 2 Feather-Light - Silver",
+    "description": "The  Element 2 Feather-Light complete scooter  marks a new era in the performance of the Element series of park scooters. This scooter features premium upgrades over the original Element, making it unbeatable in terms of weight and performance. With this model, we sought to refine each component by reducing the weight of each part.",
+    "price": 279.95,
+    "discounted_price": 259.95,
+    "stock": 11,
+    "images": ["/products/Drone/Feather-Light/Complete_DRONE_Feather-Light_Silver1.jpg", "/products/Drone/Feather-Light/Complete_DRONE_Feather-Light_Silver2.jpg", "/products/Drone/Feather-Light/Complete_DRONE_Feather-Light_Silver3.jpg"],
+    "category": "Tõuksid",
+    "brand": "Drone",
+    "tags": ["complete", "IHC", "kerge"]
   },
   {
     "id": "helmet-002",
