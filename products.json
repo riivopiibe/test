@@ -6,11 +6,19 @@
     "price": 279.95,
     "discounted_price": 259.95,
     "stock": 15,
-    "images": ["/products/drone-element-2-feather-light-hobedane-toukkaratas-1.jpg", "/products/drone-element-2-feather-light-hobedane-toukkaratas-2.jpg", "/products/drone-element-2-feather-light-hobedane-toukkaratas-3.jpg"],
+    "images": [
+      "/products/drone-element-2-feather-light-hobedane-toukkaratas-1.jpg",
+      "/products/drone-element-2-feather-light-hobedane-toukkaratas-2.jpg",
+      "/products/drone-element-2-feather-light-hobedane-toukkaratas-3.jpg"
+    ],
     "video": "https://www.youtube.com/embed/_YzTntvUWN4?si=fB4DH_uAl_x5E_uk",
-    "category": "Tõuksid",
+    "category": "Pro tase",
     "brand": "Drone",
-    "tags": ["Complete", "IHC", "Kerge"]
+    "tags": [
+      "Complete",
+      "IHC",
+      "Kerge"
+    ]
   },
   {
     "id": "helmet-002",
@@ -18,45 +26,76 @@
     "description": "Lightweight helmet with maximum protection and stylish design.",
     "price": 89.99,
     "stock": 3,
-    "images": ["https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/0/4/04c39bd94b4ae2395fabf45f61b5573ffacfbef4_15290.png", "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/d/1/d1e807ba81fef7568cec36ab8f6ac6e27ec9e4b0_15290_2.png", "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/a/d/ada7abe4805887bf5776d0410f3d1a538a081318_15290_4.png", "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/8/a/8a84705d2f9e991b305ef7ba879947d24c7bf55a_15290_5.png", "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/1/b/1b0b203d9258ba2679638fe5bda50972b096d23e_15290_3.png"],
+    "images": [
+      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/0/4/04c39bd94b4ae2395fabf45f61b5573ffacfbef4_15290.png",
+      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/d/1/d1e807ba81fef7568cec36ab8f6ac6e27ec9e4b0_15290_2.png",
+      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/a/d/ada7abe4805887bf5776d0410f3d1a538a081318_15290_4.png",
+      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/8/a/8a84705d2f9e991b305ef7ba879947d24c7bf55a_15290_5.png",
+      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/1/b/1b0b203d9258ba2679638fe5bda50972b096d23e_15290_3.png"
+    ],
     "category": "Accessories",
     "brand": "Affinity",
-    "tags": ["helmet", "safety", "rider"]
+    "tags": [
+      "helmet",
+      "safety",
+      "rider"
+    ]
   },
   {
     "id": "tire-003",
     "name": "All-Terrain Tire 12\"",
     "description": "Durable tire suitable for all road conditions.",
-    "price": 49.50,
-    "discounted_price": 30.00,
+    "price": 49.5,
+    "discounted_price": 30.0,
     "stock": 2,
-    "images": ["/images/moped-001.png", "/images/moped-002.png"],
+    "images": [
+      "/images/moped-001.png",
+      "/images/moped-002.png"
+    ],
     "category": "Parts",
     "brand": "AZTEK",
-    "tags": ["tire", "durable", "12inch"]
+    "tags": [
+      "tire",
+      "durable",
+      "12inch"
+    ]
   },
   {
     "id": "tire-004",
     "name": "All-Terrain Tire 12\"",
     "description": "Durable tire suitable for all road conditions.",
-    "price": 49.50,
-    "discounted_price": 30.00,
+    "price": 49.5,
+    "discounted_price": 30.0,
     "stock": 1,
-    "images": ["/images/moped-001.png", "/images/moped-002.png"],
+    "images": [
+      "/images/moped-001.png",
+      "/images/moped-002.png"
+    ],
     "category": "Parts",
     "brand": "AZTEK",
-    "tags": ["tire", "durable", "12inch"]
+    "tags": [
+      "tire",
+      "durable",
+      "12inch"
+    ]
   },
   {
     "id": "tire-005",
     "name": "All-Terrain Tire 12\"",
     "description": "Durable tire suitable for all road conditions.",
-    "price": 49.50,
-    "discounted_price": 30.00,
+    "price": 49.5,
+    "discounted_price": 30.0,
     "stock": 0,
-    "images": ["/images/moped-001.png", "/images/moped-002.png"],
+    "images": [
+      "/images/moped-001.png",
+      "/images/moped-002.png"
+    ],
     "category": "Parts",
     "brand": "AZTEK",
-    "tags": ["tire", "durable", "12inch"]
+    "tags": [
+      "tire",
+      "durable",
+      "12inch"
+    ]
   }
 ]
