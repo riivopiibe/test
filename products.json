@@ -3,13 +3,37 @@
     "id": "toukeratas-drone-element-2-feather-light-hobedane",
     "name": "Drone E2 Feather-Light tõukeratas - hõbedane",
     "description": [
-  "Drone Element 2 Feather-Light tõukeratas viib kergekaalulise freestyle-tõukeratta uuele tasemele. Selle täiustatud komponentide ja tugevdatud, samas ülikerge raamiga pakub see mudel maksimaalset kontrolli pargis ja tänaval.",
-  "Tänu 110 mm topelt-südamikuga ratastele, uuendatud Feather-Light kahvlile ja alumiiniumist lenksule sobib see tõukeratas igale trikihuvilisele - nii algajale kui ka edasijõudnule.",
-  "Kui otsid kerget, stiilset ja vastupidavat tõukeratast taskukohase hinnaga - see on just sulle."
-],
+      "Drone Element 2 Feather-Light tõukeratas viib kergekaalulise freestyle-tõukeratta uuele tasemele. Selle täiustatud komponentide ja tugevdatud, samas ülikerge raamiga pakub see mudel maksimaalset kontrolli pargis ja tänaval.",
+      "Tänu 110 mm topelt-südamikuga ratastele, uuendatud Feather-Light kahvlile ja alumiiniumist lenksule sobib see tõukeratas igale trikihuvilisele - nii algajale kui ka edasijõudnule.",
+      "Kui otsid kerget, stiilset ja vastupidavat tõukeratast taskukohase hinnaga - see on just sulle."
+    ],
+    {
+      "specifications": [
+        {
+          "title": "DESCRIPTION KOS S7 HESIT",
+          "description": "La nouvelle KOS S7 Heist est composée de pièces haut de gamme avec de nouveaux graphismes sur une finition de qualité."
+        },
+        {
+          "title": "SPECS KOS S7 HEIST",
+          "table": {
+            "main": [
+              {
+                "label": "Deck",
+                "value": "Aosv4 x kos deck 6061-t6 aluminium deck 533mm/21\"long x 130mmm/5.1\"wide"
+              },
+              {
+                "label": "Bars",
+                "value": "High density alu reaper v2 bar 650mm/25.6\"high 580mm/22.8wide"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "source_price": 130.0,
     "price": 279.95,
     "discounted_price": 259.95,
-    "stock": 15,
+    "stock": 11,
     "images": [
       "/products/drone-element-2-feather-light-hobedane-toukkaratas-1.jpg",
       "/products/drone-element-2-feather-light-hobedane-toukkaratas-2.jpg",
@@ -32,7 +56,7 @@
     "id": "blunt-prodigy-x-must-oil-slick",
     "name": "Blunt Prodigy X - Must/Oil Slick",
     "description": "Durable tire suitable for all road conditions.",
-    "sprice": 110,
+    "source_price": 110.0,
     "price": 239,
     "discounted_price": 229,
     "stock": 99,
@@ -55,7 +79,7 @@
     "id": "blunt-prodigy-x-oil-slick",
     "name": "Blunt Prodigy X - Oil Slick",
     "description": "Durable tire suitable for all road conditions.",
-    "sprice": 110,
+    "source_price": 110.0,
     "price": 239,
     "discounted_price": 229,
     "stock": 99,
@@ -78,7 +102,7 @@
     "id": "blunt-prodigy-x-burnt-pipe",
     "name": "Blunt Prodigy X - Burnt Pipe",
     "description": "Durable tire suitable for all road conditions.",
-    "sprice": 110,
+    "source_price": 110.0,
     "price": 239,
     "discounted_price": 229,
     "stock": 99,
@@ -101,7 +125,7 @@
     "id": "blunt-prodigy-x-kuldne",
     "name": "Blunt Prodigy X - Kuldne",
     "description": "Durable tire suitable for all road conditions.",
-    "sprice": 110,
+    "source_price": 110.0,
     "price": 239,
     "discounted_price": 229,
     "stock": 99,
@@ -124,7 +148,7 @@
     "id": "blunt-prodigy-x-sinine",
     "name": "Blunt Prodigy X - Sinine",
     "description": "Durable tire suitable for all road conditions.",
-    "sprice": 110,
+    "source_price": 110.0,
     "price": 239,
     "discounted_price": 229,
     "stock": 99,
@@ -147,7 +171,7 @@
     "id": "blunt-prodigy-x-street-must",
     "name": "Blunt Prodigy X Street - Must",
     "description": "Durable tire suitable for all road conditions.",
-    "sprice": 120,
+    "source_price": 120.0,
     "price": 249,
     "discounted_price": 239,
     "stock": 0,
@@ -170,10 +194,10 @@
     "id": "blunt-prodigy-s9-oil-slick",
     "name": "Blunt Prodigy S9 - Oil Slick",
     "description": "Durable tire suitable for all road conditions.",
-    "sprice": 100,
+    "source_price": 100.0,
     "price": 239,
     "discounted_price": 229,
-    "stock": 0,
+    "stock": 99,
     "images": [
       "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
     ],
@@ -193,10 +217,10 @@
     "id": "blunt-prodigy-s9-must-oil-slick",
     "name": "Blunt Prodigy S9 - Must/Oil Slick",
     "description": "Durable tire suitable for all road conditions.",
-    "sprice": 120,
+    "source_price": 100.0,
     "price": 249,
     "discounted_price": 239,
-    "stock": 0,
+    "stock": 99,
     "images": [
       "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
     ],
@@ -216,10 +240,10 @@
     "id": "blunt-kos-s6-heist",
     "name": "Blunt KOS S6 - Heist",
     "description": "Durable tire suitable for all road conditions.",
-    "sprice": 145,
+    "source_price": 145.0,
     "price": 400,
     "discounted_price": 390,
-    "stock": 99,
+    "stock": 3,
     "images": [
       "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
     ],
@@ -239,7 +263,7 @@
     "id": "blunt-kos-s7-charge",
     "name": "Blunt KOS S7 - Charge",
     "description": "Durable tire suitable for all road conditions.",
-    "sprice": 155,
+    "source_price": 155.0,
     "price": 420,
     "discounted_price": 410,
     "stock": 10,
@@ -259,10 +283,56 @@
     ]
   },
   {
+    "id": "blunt-colt-s5-sinine",
+    "name": "Blunt Colt S5 - Sinine",
+    "description": "Durable tire suitable for all road conditions.",
+    "source_price": 72.0,
+    "price": 200,
+    "discounted_price": 190,
+    "stock": 99,
+    "images": [
+      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
+    ],
+    "category": [
+      "Tõuksid",
+      "Kesktase",
+      "Park"
+    ],
+    "brand": "Blunt",
+    "tags": [
+      "tire",
+      "durable",
+      "12inch"
+    ]
+  },
+  {
+    "id": "blunt-colt-s5-roheline",
+    "name": "Blunt Colt S5 - Roheline",
+    "description": "Durable tire suitable for all road conditions.",
+    "source_price": 81.0,
+    "price": 200,
+    "discounted_price": 190,
+    "stock": 99,
+    "images": [
+      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
+    ],
+    "category": [
+      "Tõuksid",
+      "Kesktase",
+      "Park"
+    ],
+    "brand": "Blunt",
+    "tags": [
+      "tire",
+      "durable",
+      "12inch"
+    ]
+  },
+  {
     "id": "blunt-deck-aos-v5-signature-jonathan-perroni-2022",
     "name": "Blunt AOS V5 Jonathan Perroni Signature 2022 v5",
     "description": "Durable tire suitable for all road conditions.",
-    "sprice": 100,
+    "source_price": 100.0,
     "price": 235,
     "discounted_price": 225,
     "stock": 2,
@@ -285,10 +355,10 @@
     "id": "blunt-deck-aos-v6-squad-grey",
     "name": "Blunt AOS V6 Squad - Grey",
     "description": "Durable tire suitable for all road conditions.",
-    "sprice": 90,
+    "source_price": 90.0,
     "price": 200,
     "discounted_price": 190,
-    "stock": 10,
+    "stock": 99,
     "images": [
       "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
     ],
@@ -308,10 +378,10 @@
     "id": "blunt-deck-aos-v6-squad-black",
     "name": "Blunt AOS V6 Squad - Black",
     "description": "Durable tire suitable for all road conditions.",
-    "sprice": 90,
+    "source_price": 90.0,
     "price": 200,
     "discounted_price": 190,
-    "stock": 10,
+    "stock": 99,
     "images": [
       "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
     ],
@@ -325,31 +395,6 @@
       "tire",
       "durable",
       "12inch"
-    ]
-  },
-  {
-    "id": "helmet-002",
-    "name": "Rider Pro Helmet",
-    "description": "Lightweight helmet with maximum protection and stylish design.",
-    "price": 89.99,
-    "stock": 3,
-    "images": [
-      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/0/4/04c39bd94b4ae2395fabf45f61b5573ffacfbef4_15290.png",
-      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/d/1/d1e807ba81fef7568cec36ab8f6ac6e27ec9e4b0_15290_2.png",
-      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/a/d/ada7abe4805887bf5776d0410f3d1a538a081318_15290_4.png",
-      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/8/a/8a84705d2f9e991b305ef7ba879947d24c7bf55a_15290_5.png",
-      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/1/b/1b0b203d9258ba2679638fe5bda50972b096d23e_15290_3.png"
-    ],
-    "category": [
-      "Tõuksid",
-      "Pro tase",
-      "Park"
-    ],
-    "brand": "Affinity",
-    "tags": [
-      "helmet",
-      "safety",
-      "rider"
     ]
   }
 ]
