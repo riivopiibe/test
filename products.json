@@ -117,9 +117,9 @@
     "discounted_price": 259.95,
     "stock": 11,
     "images": [
-      "/products/drone-element-2-feather-light-hobedane-toukkaratas-1.jpg",
-      "/products/drone-element-2-feather-light-hobedane-toukkaratas-2.jpg",
-      "/products/drone-element-2-feather-light-hobedane-toukkaratas-3.jpg"
+      "/products/drone-element-2-feather-light-hobedane-toukeratas-1.jpg",
+      "/products/drone-element-2-feather-light-hobedane-toukeratas-2.jpg",
+      "/products/drone-element-2-feather-light-hobedane-toukeratas-3.jpg"
     ],
     "video": "https://www.youtube.com/embed/_YzTntvUWN4?si=fB4DH_uAl_x5E_uk",
     "category": [
@@ -138,37 +138,61 @@
     "id": "blunt-prodigy-x-must-oil-slick",
     "name": "Blunt Prodigy X - Must/Oil Slick",
     "description": [
-      "Drone Element 2 Feather-Light tõukeratas viib kergekaalulise freestyle-tõukeratta uuele tasemele. Selle täiustatud komponentide ja tugevdatud, samas ülikerge raamiga pakub see mudel maksimaalset kontrolli pargis ja tänaval.",
-      "Tänu 110 mm topelt-südamikuga ratastele, uuendatud Feather-Light kahvlile ja alumiiniumist lenksule sobib see tõukeratas igale trikihuvilisele - nii algajale kui ka edasijõudnule.",
-      "Kui otsid kerget, stiilset ja vastupidavat tõukeratast taskukohase hinnaga - see on just sulle."
+      "Blunt Prodigy X tõukeratas on kümnes põlvkond legendaarsest Prodigy sarjast, mis on tuntud oma professionaalse kvaliteedi ja stiili poolest. Sellel mudelil on uus, aerodünaamiline deck koos täiustatud Extech extrusiooniga, mis muudab selle kergemaks ja vastupidavamaks kui kunagi varem.",
+      "Tänu 120 mm Sector ratastele, madala profiiliga lenksule, tugevdatud Z-klambrile ja täiustatud kompressioonisüsteemile sobib see tõukeratas ideaalselt nii pargi kui ka tänava jaoks. IHC süsteem koos Low Stack juhtpesaga tagab sujuva ja täpse juhtimise igas olukorras.",
+      "Prodigy X sobib suurepäraselt kesktaseme ja edasijõudnud sõitjatele, kes soovivad viia oma trikid järgmisele tasemele – see on professionaalne valik, mis ei vea alt."
     ],
-    "specifications": [
-      {
-        "title": "DESCRIPTION KOS S7 HESIT",
-        "description": "La nouvelle KOS S7 Heist est composée de pièces haut de gamme avec de nouveaux graphismes sur une finition de qualité."
-      },
-      {
-        "title": "SPECS KOS S7 HEIST",
-        "table": {
-          "main": [
-            {
-              "label": "Deck",
-              "value": "Aosv4 x kos deck 6061-t6 aluminium deck 533mm/21\"long x 130mmm/5.1\"wide"
-            },
-            {
-              "label": "Bars",
-              "value": "High density alu reaper v2 bar 650mm/25.6\"high 580mm/22.8wide"
-            }
-          ]
+    {
+      "specifications": [
+        {
+          "title": "TOOTEKIRJELDUS",
+          "description": "Prodigy X 2023 on Blunt Scootersi uusim tippmudel, mis esindab kümnendat generatsiooni populaarsete freestyle tõukerataste seas. Sellel mudelil on täiustatud EXTECH deck-ekstruusioon, uus Z-klamber, Low Stack headset ja SECTOR 120x26mm rattad, mis tagavad sujuva ja vastupidava sõidukogemuse. Kerge Reaper V2 lenks, tugev Diamond IHC kahvel ja TPR gripid ühenduvad, et pakkuda professionaalset kvaliteeti nii edasijõudnud kui ka kesktasemel sõitjale. Uus deck on laiem ja kergem kui eelkäijad, suurendades kontrolli ja vähendades kaalu, samal ajal säilitades tugevuse."
+        },
+        {
+          "title": "TEHNILISED ANDMED",
+          "table": {
+            "main": [
+              { "label": "Kaal", "value": "3.265 kg" },
+              { "label": "Deck", "value": "EXTECH ekstrusioon, 127 mm lai (5\") ja 495 mm pikk (19.5\")" },
+              { "label": "Rattad", "value": "Sector 120 mm x 26 mm, PU 86A" },
+              { "label": "Disain", "value": "Peg-cut vorm, aerodünaamiline peaosa, teemantlõikega tube" },
+              { "label": "Fourche (kahvel)", "value": "Diamond IHC, keermeta" },
+              { "label": "Lenks", "value": "Reaper V2 alumiinium, 620 mm kõrge, 560 mm lai (koos otsikutega)" },
+              { "label": "Lenksu kõrgus (kokku)", "value": "86.5 cm" },
+              { "label": "Lenksu materjal", "value": "Alumiinium" },
+              { "label": "Lenksu väline läbimõõt", "value": "34.9 mm" },
+              { "label": "Gripid", "value": "TPR gripid, 160 mm" },
+              { "label": "Pedaali nurk (headtube)", "value": "83.5°" },
+              { "label": "Kahvli tüüp", "value": "Keermeta (non-threaded)" },
+              { "label": "Kokkusurumissüsteem", "value": "IHC (Internal Hidden Compression)" },
+              { "label": "Pidur", "value": "Flex fender, V2 nailonsüsteem" },
+              { "label": "Laagrid", "value": "–" },
+              { "label": "Klamber", "value": "Z Clamp, Oversized 2-poldiga, 6 mm poldid" },
+              { "label": "Headset", "value": "Low Stack Compression Cap" },
+              { "label": "Sõidustiil", "value": "Freestyle, park" },
+              { "label": "Soovitatav vanus", "value": "13–15 a" },
+              { "label": "Garantii", "value": "24 kuud" },
+              { "label": "Värvivalikud", "value": "Multicolor, Must" },
+              { "label": "Ekstruusiooniprofiil", "value": "EXTECH" },
+              { "label": "Kokkupanek", "value": "Osaliselt kokkupandud" }
+            ]
+          }
         }
-      }
-    ],
+      ]
+    },
     "source_price": 110.0,
     "price": 239,
     "discounted_price": 229,
     "stock": 99,
     "images": [
-      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
+      "/products/blunt-prodigy-x-black-oil-slick-toukeratas-1.jpg",
+      "/products/blunt-prodigy-x-black-oil-slick-toukeratas-2.jpg",
+      "/products/blunt-prodigy-x-black-oil-slick-toukeratas-3.jpg",
+      "/products/blunt-prodigy-x-black-oil-slick-toukeratas-4.jpg",
+      "/products/blunt-prodigy-x-black-oil-slick-toukeratas-5.jpg",
+      "/products/blunt-prodigy-x-black-oil-slick-toukeratas-6.jpg",
+      "/products/blunt-prodigy-x-black-oil-slick-toukeratas-7.jpg",
+      "/products/blunt-prodigy-x-black-oil-slick-toukeratas-8.jpg"
     ],
     "category": [
       "Tõuksid",
