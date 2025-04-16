@@ -12,7 +12,11 @@
       "/products/drone-element-2-feather-light-hobedane-toukkaratas-3.jpg"
     ],
     "video": "https://www.youtube.com/embed/_YzTntvUWN4?si=fB4DH_uAl_x5E_uk",
-    "category": "Pro tase",
+    "category": [
+      "Tõuksid",
+      "Pro tase",
+      "Park"
+    ],
     "brand": "Drone",
     "tags": [
       "Complete",
@@ -33,7 +37,11 @@
       "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/8/a/8a84705d2f9e991b305ef7ba879947d24c7bf55a_15290_5.png",
       "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/1/b/1b0b203d9258ba2679638fe5bda50972b096d23e_15290_3.png"
     ],
-    "category": "Accessories",
+    "category": [
+      "Tõuksid",
+      "Pro tase",
+      "Park"
+    ],
     "brand": "Affinity",
     "tags": [
       "helmet",
@@ -52,7 +60,11 @@
     "images": [
       "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
     ],
-    "category": "Pro tase",
+    "category": [
+      "Tõuksid",
+      "Pro tase",
+      "Park"
+    ],
     "brand": "Blunt",
     "tags": [
       "tire",
@@ -71,7 +83,11 @@
     "images": [
       "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
     ],
-    "category": "Pro tase",
+    "category": [
+      "Tõuksid",
+      "Pro tase",
+      "Park"
+    ],
     "brand": "Blunt",
     "tags": [
       "tire",
@@ -90,7 +106,11 @@
     "images": [
       "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
     ],
-    "category": "Pro tase",
+    "category": [
+      "Tõuksid",
+      "Pro tase",
+      "Park"
+    ],
     "brand": "Blunt",
     "tags": [
       "tire",
@@ -109,7 +129,11 @@
     "images": [
       "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
     ],
-    "category": "Pro tase",
+    "category": [
+      "Tõuksid",
+      "Pro tase",
+      "Park"
+    ],
     "brand": "Blunt",
     "tags": [
       "tire",
@@ -128,7 +152,11 @@
     "images": [
       "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
     ],
-    "category": "Pro tase",
+    "category": [
+      "Tõuksid",
+      "Pro tase",
+      "Park"
+    ],
     "brand": "Blunt",
     "tags": [
       "tire",
@@ -147,7 +175,11 @@
     "images": [
       "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
     ],
-    "category": "Street",
+    "category": [
+      "Tõuksid",
+      "Pro tase",
+      "Street"
+    ],
     "brand": "Blunt",
     "tags": [
       "tire",
@@ -170,7 +202,7 @@
       "Tõuksid",
       "Pro tase",
       "Park"
-    ]
+    ],
     "brand": "Blunt",
     "tags": [
       "tire",
@@ -179,8 +211,8 @@
     ]
   },
   {
-    "id": "blunt-prodigy-x-street-must",
-    "name": "Blunt Prodigy X Street - Must",
+    "id": "blunt-prodigy-s9-must-oil-slick",
+    "name": "Blunt Prodigy S9 - Must/Oil Slick",
     "description": "Durable tire suitable for all road conditions.",
     "sprice": 120,
     "price": 249,
@@ -189,7 +221,126 @@
     "images": [
       "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
     ],
-    "category": "Street",
+    "category": [
+      "Tõuksid",
+      "Pro tase",
+      "Park"
+    ],
+    "brand": "Blunt",
+    "tags": [
+      "tire",
+      "durable",
+      "12inch"
+    ]
+  },
+  {
+    "id": "blunt-kos-s6-heist",
+    "name": "Blunt KOS S6 - Heist",
+    "description": "Durable tire suitable for all road conditions.",
+    "sprice": 145,
+    "price": 400,
+    "discounted_price": 390,
+    "stock": 99,
+    "images": [
+      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
+    ],
+    "category": [
+      "Tõuksid",
+      "Pro tase",
+      "Park"
+    ],
+    "brand": "Blunt",
+    "tags": [
+      "tire",
+      "durable",
+      "12inch"
+    ]
+  },
+  {
+    "id": "blunt-kos-s7-charge",
+    "name": "Blunt KOS S7 - Charge",
+    "description": "Durable tire suitable for all road conditions.",
+    "sprice": 155,
+    "price": 420,
+    "discounted_price": 410,
+    "stock": 10,
+    "images": [
+      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
+    ],
+    "category": [
+      "Tõuksid",
+      "Pro tase",
+      "Park"
+    ],
+    "brand": "Blunt",
+    "tags": [
+      "tire",
+      "durable",
+      "12inch"
+    ]
+  },
+  {
+    "id": "blunt-kos-s7-charge",
+    "name": "Blunt AOS V5 Jonathan Perroni Signature 2022",
+    "description": "Durable tire suitable for all road conditions.",
+    "sprice": 155,
+    "price": 420,
+    "discounted_price": 410,
+    "stock": 10,
+    "images": [
+      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
+    ],
+    "category": [
+      "Tõuksid",
+      "Pro tase",
+      "Park"
+    ],
+    "brand": "Blunt",
+    "tags": [
+      "tire",
+      "durable",
+      "12inch"
+    ]
+  },
+  {
+    "id": "blunt-kos-s7-charge",
+    "name": "Blunt KOS S7 - Charge",
+    "description": "Durable tire suitable for all road conditions.",
+    "sprice": 155,
+    "price": 420,
+    "discounted_price": 410,
+    "stock": 10,
+    "images": [
+      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
+    ],
+    "category": [
+      "Tõuksid",
+      "Pro tase",
+      "Park"
+    ],
+    "brand": "Blunt",
+    "tags": [
+      "tire",
+      "durable",
+      "12inch"
+    ]
+  },
+  {
+    "id": "blunt-kos-s7-charge",
+    "name": "Blunt KOS S7 - Charge",
+    "description": "Durable tire suitable for all road conditions.",
+    "sprice": 155,
+    "price": 420,
+    "discounted_price": 410,
+    "stock": 10,
+    "images": [
+      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
+    ],
+    "category": [
+      "Tõuksid",
+      "Pro tase",
+      "Park"
+    ],
     "brand": "Blunt",
     "tags": [
       "tire",
