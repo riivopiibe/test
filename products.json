@@ -142,44 +142,99 @@
       "Tänu 120 mm Sector ratastele, madala profiiliga lenksule, tugevdatud Z-klambrile ja täiustatud kompressioonisüsteemile sobib see tõukeratas ideaalselt nii pargi kui ka tänava jaoks. IHC süsteem koos Low Stack juhtpesaga tagab sujuva ja täpse juhtimise igas olukorras.",
       "Prodigy X sobib suurepäraselt kesktaseme ja edasijõudnud sõitjatele, kes soovivad viia oma trikid järgmisele tasemele – see on professionaalne valik, mis ei vea alt."
     ],
-    {
-      "specifications": [
-        {
-          "title": "TOOTEKIRJELDUS",
-          "description": "Prodigy X 2023 on Blunt Scootersi uusim tippmudel, mis esindab kümnendat generatsiooni populaarsete freestyle tõukerataste seas. Sellel mudelil on täiustatud EXTECH deck-ekstruusioon, uus Z-klamber, Low Stack headset ja SECTOR 120x26mm rattad, mis tagavad sujuva ja vastupidava sõidukogemuse. Kerge Reaper V2 lenks, tugev Diamond IHC kahvel ja TPR gripid ühenduvad, et pakkuda professionaalset kvaliteeti nii edasijõudnud kui ka kesktasemel sõitjale. Uus deck on laiem ja kergem kui eelkäijad, suurendades kontrolli ja vähendades kaalu, samal ajal säilitades tugevuse."
-        },
-        {
-          "title": "TEHNILISED ANDMED",
-          "table": {
-            "main": [
-              { "label": "Kaal", "value": "3.265 kg" },
-              { "label": "Deck", "value": "EXTECH ekstrusioon, 127 mm lai (5\") ja 495 mm pikk (19.5\")" },
-              { "label": "Rattad", "value": "Sector 120 mm x 26 mm, PU 86A" },
-              { "label": "Disain", "value": "Peg-cut vorm, aerodünaamiline peaosa, teemantlõikega tube" },
-              { "label": "Fourche (kahvel)", "value": "Diamond IHC, keermeta" },
-              { "label": "Lenks", "value": "Reaper V2 alumiinium, 620 mm kõrge, 560 mm lai (koos otsikutega)" },
-              { "label": "Lenksu kõrgus (kokku)", "value": "86.5 cm" },
-              { "label": "Lenksu materjal", "value": "Alumiinium" },
-              { "label": "Lenksu väline läbimõõt", "value": "34.9 mm" },
-              { "label": "Gripid", "value": "TPR gripid, 160 mm" },
-              { "label": "Pedaali nurk (headtube)", "value": "83.5°" },
-              { "label": "Kahvli tüüp", "value": "Keermeta (non-threaded)" },
-              { "label": "Kokkusurumissüsteem", "value": "IHC (Internal Hidden Compression)" },
-              { "label": "Pidur", "value": "Flex fender, V2 nailonsüsteem" },
-              { "label": "Laagrid", "value": "–" },
-              { "label": "Klamber", "value": "Z Clamp, Oversized 2-poldiga, 6 mm poldid" },
-              { "label": "Headset", "value": "Low Stack Compression Cap" },
-              { "label": "Sõidustiil", "value": "Freestyle, park" },
-              { "label": "Soovitatav vanus", "value": "13–15 a" },
-              { "label": "Garantii", "value": "24 kuud" },
-              { "label": "Värvivalikud", "value": "Multicolor, Must" },
-              { "label": "Ekstruusiooniprofiil", "value": "EXTECH" },
-              { "label": "Kokkupanek", "value": "Osaliselt kokkupandud" }
-            ]
-          }
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "Prodigy X 2023 on Blunt Scootersi uusim tippmudel, mis tähistab kümnendat generatsiooni freestyle trikitõukerataste seas. Sellel mudelil on täiustatud EXTECH deck-ekstruusioon, uus Z-klamber, Low Stack headset ja SECTOR 120x26mm rattad, mis tagavad sujuva ja vastupidava sõidukogemuse. Kerge Reaper V2 lenks, tugev Diamond IHC kahvel ja TPR gripid ühenduvad, et pakkuda professionaalset kvaliteeti nii edasijõudnud kui ka kesktasemel sõitjale. Uus deck on laiem ja kergem kui eelkäijad, suurendades kontrolli ja vähendades kaalu, samal ajal säilitades tugevuse."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Kaal",
+              "value": "3,265 kg"
+            },
+            {
+              "label": "Deck",
+              "value": "EXTECH ekstrusioon, 127 mm lai ja 495 mm pikk"
+            },
+            {
+              "label": "Rattad",
+              "value": "Sector 120 mm x 26 mm, PU 86A"
+            },
+            {
+              "label": "Disain",
+              "value": "Peg-cut vorm, teemantlõikega ja aerodünaamiline peaosa"
+            },
+            {
+              "label": "Fourche (kahvel)",
+              "value": "Diamond IHC, keermeta"
+            },
+            {
+              "label": "Lenks",
+              "value": "Reaper V2 alumiinium, 620 mm kõrge ja 560 mm lai (koos otsikutega)"
+            },
+            {
+              "label": "Lenksu kogukõrgus",
+              "value": "865 mm"
+            },
+            {
+              "label": "Lenksu materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Lenksu väline läbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Gripid",
+              "value": "TPR 160 mm"
+            },
+            {
+              "label": "Pedaalinurk (headtube)",
+              "value": "83,5°"
+            },
+            {
+              "label": "Kokkusurumissüsteem",
+              "value": "IHC (Internal Hidden Compression)"
+            },
+            {
+              "label": "Headset",
+              "value": "Low Stack Compression Cap"
+            },
+            {
+              "label": "Klamber",
+              "value": "Z Clamp, Oversized, 2 poldiga (6 mm)"
+            },
+            {
+              "label": "Pidur",
+              "value": "Flex fender, V2 nailonsüsteem"
+            },
+            {
+              "label": "Sõidustiil",
+              "value": "Park, freestyle"
+            },
+            {
+              "label": "Soovitatav vanus",
+              "value": "13–15 a"
+            },
+            {
+              "label": "Garantii",
+              "value": "2 aastat"
+            },
+            {
+              "label": "Värvivalikud",
+              "value": "Multicolor, Must"
+            },
+            {
+              "label": "Kokkupanek",
+              "value": "Osaliselt kokkupandud"
+            }
+          ]
         }
-      ]
-    },
+      }
+    ],
     "source_price": 110.0,
     "price": 239,
     "discounted_price": 229,
