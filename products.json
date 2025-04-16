@@ -264,14 +264,114 @@
   },
   {
     "id": "blunt-prodigy-x-oil-slick",
-    "name": "Blunt Prodigy X - Oil Slick",
-    "description": "Durable tire suitable for all road conditions.",
+    "name": "Blunt Prodigy X - Oil Slick (Õlilaik)",
+    "description": [
+      "Blunt Prodigy X Oil Slick (Õlilaik) on tõeline revolutsioon trikitõukerataste maailmas! 2023. aasta uusim mudel toob endaga kaasa märkimisväärsed uuendused, mis teevad sellest ideaalse valiku keskmise ja edasijõudnud tasemega sõitjatele. Silmapaistev Oil Slick vikerkaarevärvides viimistlus annab tõukerattale pilkupüüdva välimuse, mis kindlasti ei jää märkamatuks ei pargis ega tänaval.",
+      "Revolutsiooniline Extech ekstrusioonitehnoloogia pakub madalama profiiliga, laiemate siseseintega ja reageeriva nõgususega deki, mis on korraga kerge ja vastupidav. Võrreldes eelmiste mudelitega on deck nüüd laiem (5 tolli x 19,5 tolli), pakkudes rohkem ruumi trikkide sooritamiseks. Uuendatud komponendid nagu kõrgema haarduvusega griptape, uus Z-klamber, Low Stack juhtsüsteem ja laiemad SECTOR rattad (120 mm x 26 mm) tagavad sujuvama sõidukogemuse ja parema kontrolli.",
+      "Kaaludes vaid 3,265 kg on see tõukeratas piisavalt kerge, et sooritada keerulisi trikke, kuid samas piisavalt tugev, et taluda igapäevast intensiivset kasutust. Kvaliteetsed TPR käepidemed ja Diamond IHC kahvel lisavad vastupidavust, samas kui alumiiniumist Reaper V2 lenks hoiab kaalu madalal. Blunt Prodigy X on loodud tõstma sinu trikisõidu uuele tasemele – see on täiuslik valik ambitsioonikatele sõitjatele!"
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "Blunt Prodigy X 2023 on kõige uuenduslikum mudel Prodigy seeriast, mis on loodud keskmisel ja edasijõudnud tasemel sõitjatele. See on kümnes põlvkond Prodigy seerias, mis põhineb 12 aastasel professionaalsel kogemusel. Uus Extech ekstrusioonitehnoloogia tagab madalama profiili, laiemad siseseinad ja reageeriva nõgususe, pakkudes samas kergemat kaalu ja suuremat vastupidavust."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Kaal",
+              "value": "3,265 kg"
+            },
+            {
+              "label": "Jalaruumi laius",
+              "value": "345 mm"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "865 mm"
+            },
+            {
+              "label": "Kogupikkus",
+              "value": "690 mm"
+            },
+            {
+              "label": "Lenksu kõrgus",
+              "value": "620 mm"
+            },
+            {
+              "label": "Lenksu laius",
+              "value": "560 mm (otsikutega)"
+            },
+            {
+              "label": "Deki pikkus",
+              "value": "19,5 tolli (495 mm)"
+            },
+            {
+              "label": "Deki laius",
+              "value": "5 tolli (127 mm)"
+            },
+            {
+              "label": "Klamber",
+              "value": "Z Clamp Oversized 2 polti 6 mm"
+            },
+            {
+              "label": "Kahvel",
+              "value": "Diamond IHC"
+            },
+            {
+              "label": "Kokkusurumissüsteem",
+              "value": "IHC (Internal Hidden Compression)"
+            },
+            {
+              "label": "Headset",
+              "value": "Low Stack Compression Cap"
+            },
+            {
+              "label": "Gripid",
+              "value": "TPR 160 mm"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "83,5°"
+            },
+            {
+              "label": "Rattad",
+              "value": "SECTOR 120 mm x 26 mm, PU 86A"
+            },
+            {
+              "label": "Lenks",
+              "value": "Reaper V2 alumiinium"
+            },
+            {
+              "label": "Värv",
+              "value": "Oil Slick (õlilaigud)"
+            },
+            {
+              "label": "Sõidustiil",
+              "value": "Freestyle, park, street"
+            },
+            {
+              "label": "Tase",
+              "value": "Keskmine kuni edasijõudnud"
+            }
+          ]
+        }
+      }
+    ],
     "source_price": 110.0,
     "price": 239,
     "discounted_price": 229,
     "stock": 99,
     "images": [
-      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
+      "/products/blunt-complete-prodigy-x-oil-slick-trikitoukeratas-1.jpg",
+      "/products/blunt-complete-prodigy-x-oil-slick-trikitoukeratas-2.jpg",
+      "/products/blunt-complete-prodigy-x-oil-slick-trikitoukeratas-3.jpg",
+      "/products/blunt-complete-prodigy-x-oil-slick-trikitoukeratas-4.jpg",
+      "/products/blunt-complete-prodigy-x-oil-slick-trikitoukeratas-5.jpg",
+      "/products/blunt-complete-prodigy-x-oil-slick-trikitoukeratas-6.jpg",
+      "/products/blunt-complete-prodigy-x-oil-slick-trikitoukeratas-7.jpg",
+      "/products/blunt-complete-prodigy-x-oil-slick-trikitoukeratas-8.jpg"
     ],
     "video": "https://www.youtube.com/embed/XZS76UFoCzM?si=au8v19wsWDUrU7Vi",
     "category": [
@@ -289,13 +389,141 @@
   {
     "id": "blunt-prodigy-x-burnt-pipe",
     "name": "Blunt Prodigy X - Burnt Pipe",
-    "description": "Durable tire suitable for all road conditions.",
+    "description": [
+      "Blunt Prodigy X Burnt Pipe (põlenud toru efekt) on 2023. aasta tippmudel, mis esindab kümnendat põlvkonda legendaarsest Prodigy seeriast. See silmapaistev trikitõukeratas paistab silma oma unikaalse 'põlenud toru' värviefektiga, mis annab talle eristuva ja pilkupüüdva välimuse. Ideaalne valik keskmisel ja edasijõudnud tasemel sõitjatele, kes soovivad oma oskusi viia järgmisele tasemele.",
+      "Uuenduslik Extech ekstrusioonitehnoloogiaga deck pakub madalama profiili, laiemate siseseintega ja reageeriva nõgususega sõidupinda, mis on korraga kerge ja vastupidav. Võrreldes varasemate mudelitega on deck nüüd laiem (5 × 19,5 tolli), pakkudes rohkem ruumi trikkide sooritamiseks. Täiustatud komponendid nagu kõrgema haarduvusega griptape, uus Z-klamber, Low Stack juhtsüsteem ja laiemad SECTOR rattad (120 mm × 26 mm) tagavad sujuvama sõidukogemuse ja parema kontrolli.",
+      "Kaaludes vaid 3,265 kg on see tõukeratas piisavalt kerge keerukateks trikkideks, kuid samas vastupidav igapäevaseks intensiivseks kasutamiseks. Kvaliteetsed TPR käepidemed, Diamond IHC kahvel ja alumiiniumist Reaper V2 lenks täiendavad seda pargimasinat ideaalselt. Peg-cut disain ja 83,5° headtube nurk pakuvad ideaalset tasakaalu manööverdamisvõime ja stabiilsuse vahel. Burnt Pipe värvitoon on loodud neile, kes soovivad silma paista ja nautida professionaalse kvaliteediga trikitõukeratast."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "Blunt Prodigy X 2023 on kõige uuenduslikum mudel Prodigy seeriast, mis on mõeldud keskmisel ja edasijõudnud tasemel sõitjatele. See on kümnes põlvkond Prodigy seerias, mis põhineb 12 aastasel professionaalsel kogemusel. Uus Extech ekstrusioonitehnoloogia tagab madalama profiili, laiemad siseseinad ja reageeriva nõgususe, pakkudes samas kergemat kaalu ja suuremat vastupidavust."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Kaal",
+              "value": "3,265 kg"
+            },
+            {
+              "label": "Jalaruumi laius",
+              "value": "345 mm"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "865 mm"
+            },
+            {
+              "label": "Kogupikkus",
+              "value": "690 mm"
+            },
+            {
+              "label": "Lenksu kõrgus",
+              "value": "620 mm"
+            },
+            {
+              "label": "Lenksu laius",
+              "value": "560 mm (otsikutega)"
+            },
+            {
+              "label": "Deki pikkus",
+              "value": "19,5 tolli (495 mm)"
+            },
+            {
+              "label": "Deki laius",
+              "value": "5 tolli (127 mm)"
+            },
+            {
+              "label": "Klamber",
+              "value": "Z Clamp Oversized 2 polti 6 mm"
+            },
+            {
+              "label": "Kahvel",
+              "value": "Diamond IHC"
+            },
+            {
+              "label": "Kokkusurumissüsteem",
+              "value": "IHC (Internal Hidden Compression)"
+            },
+            {
+              "label": "Headset",
+              "value": "Low Stack Compression Cap"
+            },
+            {
+              "label": "Gripid",
+              "value": "TPR 160 mm"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "83,5°"
+            },
+            {
+              "label": "Rattad",
+              "value": "SECTOR 120 mm x 26 mm, PU 86A"
+            },
+            {
+              "label": "Lenks",
+              "value": "Reaper V2 alumiinium"
+            },
+            {
+              "label": "Värv",
+              "value": "Burnt Pipe (põlenud toru efekt)"
+            },
+            {
+              "label": "Sõidustiil",
+              "value": "Park"
+            },
+            {
+              "label": "Tase",
+              "value": "Keskmine kuni edasijõudnud"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "32,34 mm"
+            },
+            {
+              "label": "Lenksu väline läbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Soovitatav vanus",
+              "value": "13-15+"
+            },
+            {
+              "label": "Deki vorm",
+              "value": "Peg-cut"
+            },
+            {
+              "label": "Garantii",
+              "value": "2 aastat"
+            },
+            {
+              "label": "Kokkupanek",
+              "value": "Osaliselt kokkupandud"
+            }
+          ]
+        }
+      }
+    ],
     "source_price": 110.0,
     "price": 239,
     "discounted_price": 229,
     "stock": 99,
     "images": [
-      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
+      "/products/blunt-complete-prodigy-x-burnt-pipe-trikitoukeratas-1.jpg",
+      "/products/blunt-complete-prodigy-x-burnt-pipe-trikitoukeratas-2.jpg",
+      "/products/blunt-complete-prodigy-x-burnt-pipe-trikitoukeratas-3.jpg",
+      "/products/blunt-complete-prodigy-x-burnt-pipe-trikitoukeratas-4.jpg",
+      "/products/blunt-complete-prodigy-x-burnt-pipe-trikitoukeratas-5.jpg",
+      "/products/blunt-complete-prodigy-x-burnt-pipe-trikitoukeratas-6.jpg",
+      "/products/blunt-complete-prodigy-x-burnt-pipe-trikitoukeratas-7.jpg",
+      "/products/blunt-complete-prodigy-x-burnt-pipe-trikitoukeratas-8.jpg"
     ],
     "video": "https://www.youtube.com/embed/XZS76UFoCzM?si=au8v19wsWDUrU7Vi",
     "category": [
@@ -313,13 +541,141 @@
   {
     "id": "blunt-prodigy-x-kuldne",
     "name": "Blunt Prodigy X - Kuldne",
-    "description": "Durable tire suitable for all road conditions.",
+    "description": [
+      "Blunt Prodigy X Gold (kuldne) on luksuslik trikitõukeratas, mis ühendab silmapaistva kuldse viimistluse ja 2023. aasta tipptasemel tehnoloogia. See elegantne mudel on kümnes põlvkond kuulsast Prodigy seeriast, pakkudes ainulaadset kombinatsiooni stiili ja jõudlust. Kuldne ja must värvikombinatsioon loob prestiižse välimuse, mis tõmbab tähelepanu igas skeidipargis.",
+      "Täiustatud Extech ekstrusioonitehnoloogia annab dekile madalama profiili ja laiemad siseseinad, muutes selle kergemaks, kuid siiski ülimalt vastupidavaks. Laiem deck (5 × 19,5 tolli) pakub rohkem stabiilsust ja kontrolli trikkide sooritamisel. Kõrgema haarduvusega griptape, uudne Z-klamber ja täiustatud Low Stack juhtsüsteem töötavad koos, et anda sõitjale täpsem kontroll ja parem tagasiside.",
+      "Kuldne Prodigy X on varustatud SECTOR 120 mm × 26 mm ratastega (86A kõvadus), mis pakuvad sujuvamat sõitu ja paremat põrutuskindlust. Legendaarne Reaper V2 alumiiniumist lenks, vastupidavad TPR käepidemed ja tugev Diamond IHC kahvel on säilitatud eelmistest mudelitest, tagades usaldusväärse ja tuttava tunde. 83,5° headtube nurk ja Peg-cut disain annavad ideaalse tasakaalu manööverdamisvõime ja stabiilsuse vahel – täiuslik valik ambitsioonikale trikisõitjale, kes hindab nii jõudlust kui ka stiili."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "Blunt Prodigy X 2023 kuldne väljaanne on uhke lisandus Prodigy seeriasse, mis on mõeldud keskmisel ja edasijõudnud tasemel sõitjatele. Kümnes põlvkond legendaarsest seeriast särab elegantse kuldse viimistlusega, mis on loodud tähelepanu püüdmiseks. Innovaatiline Extech ekstrusioonitehnoloogia ja täiustatud komponendid teevad sellest ideaalse valiku ambitsioonikatele trikisõitjatele."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Kaal",
+              "value": "3,265 kg"
+            },
+            {
+              "label": "Jalaruumi laius",
+              "value": "345 mm"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "865 mm"
+            },
+            {
+              "label": "Kogupikkus",
+              "value": "690 mm"
+            },
+            {
+              "label": "Lenksu kõrgus",
+              "value": "620 mm"
+            },
+            {
+              "label": "Lenksu laius",
+              "value": "560 mm (otsikutega)"
+            },
+            {
+              "label": "Deki pikkus",
+              "value": "19,5 tolli (495 mm)"
+            },
+            {
+              "label": "Deki laius",
+              "value": "5 tolli (127 mm)"
+            },
+            {
+              "label": "Klamber",
+              "value": "Z Clamp Oversized 2 polti 6 mm"
+            },
+            {
+              "label": "Kahvel",
+              "value": "Diamond IHC"
+            },
+            {
+              "label": "Kokkusurumissüsteem",
+              "value": "IHC (Internal Hidden Compression)"
+            },
+            {
+              "label": "Headset",
+              "value": "Low Stack Compression Cap"
+            },
+            {
+              "label": "Gripid",
+              "value": "TPR 160 mm"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "83,5°"
+            },
+            {
+              "label": "Rattad",
+              "value": "SECTOR 120 mm x 26 mm, PU 86A"
+            },
+            {
+              "label": "Lenks",
+              "value": "Reaper V2 alumiinium"
+            },
+            {
+              "label": "Värv",
+              "value": "Kuld ja must"
+            },
+            {
+              "label": "Sõidustiil",
+              "value": "Park"
+            },
+            {
+              "label": "Tase",
+              "value": "Keskmine kuni edasijõudnud"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "32,34 mm"
+            },
+            {
+              "label": "Lenksu väline läbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Soovitatav vanus",
+              "value": "13-15+"
+            },
+            {
+              "label": "Deki vorm",
+              "value": "Peg-cut"
+            },
+            {
+              "label": "Garantii",
+              "value": "2 aastat"
+            },
+            {
+              "label": "Kokkupanek",
+              "value": "Osaliselt kokkupandud"
+            }
+          ]
+        }
+      }
+    ],
     "source_price": 110.0,
     "price": 239,
     "discounted_price": 229,
     "stock": 99,
     "images": [
-      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
+      "/products/blunt-complete-prodigy-x-kuldne-trikitoukeratas-1.jpg",
+      "/products/blunt-complete-prodigy-x-kuldne-trikitoukeratas-2.jpg",
+      "/products/blunt-complete-prodigy-x-kuldne-trikitoukeratas-3.jpg",
+      "/products/blunt-complete-prodigy-x-kuldne-trikitoukeratas-4.jpg",
+      "/products/blunt-complete-prodigy-x-kuldne-trikitoukeratas-5.jpg",
+      "/products/blunt-complete-prodigy-x-kuldne-trikitoukeratas-6.jpg",
+      "/products/blunt-complete-prodigy-x-kuldne-trikitoukeratas-7.jpg",
+      "/products/blunt-complete-prodigy-x-kuldne-trikitoukeratas-8.jpg"
     ],
     "video": "https://www.youtube.com/embed/XZS76UFoCzM?si=au8v19wsWDUrU7Vi",
     "category": [
@@ -337,13 +693,141 @@
   {
     "id": "blunt-prodigy-x-sinine",
     "name": "Blunt Prodigy X - Sinine",
-    "description": "Durable tire suitable for all road conditions.",
+    "description": [
+      "Blunt Prodigy X Teal on värske ja silmapaistev trikitõukeratas, mis paelub tähelepanu oma erksa türkiissinise värvikombinatsiooniga. 2023. aasta mudel esindab kümnendat põlvkonda Prodigy seeriast, mis on arendatud 12 aasta jooksul koostöös professionaalsete sõitjatega. See värskendav türkiissinine toon lisab energiat ja isikupära, muutes tõukeratta silmapaistvaks nii pargis kui tänaval.",
+      "Uuenduslik Extech ekstrusioonitehnoloogia on andnud dekile madalama profiili, laiemad siseseinad ja reageeriva nõgususe, mis tagab optimaalse tasakaalu kaalu ja vastupidavuse vahel. Võrreldes varasemate mudelitega on deck laiem (5 × 19,5 tolli), pakkudes rohkem stabiilsust ja kontrolli. Täiustatud komponendid nagu kõrgema haarduvusega griptape, uus Z-klamber ja täiustatud Low Stack juhtsüsteem tagavad täpsema kontrolli ja parema tagasiside igal hüppel.",
+      "Türkiissinine Prodigy X säilitab legendaarse Reaper V2 alumiiniumist lenksu, mugavad TPR käepidemed ja usaldusväärse Diamond IHC kahvli, lisades neile SECTOR 120 mm × 26 mm rattad (86A kõvadus), mis pakuvad sujuvamat sõitu ja paremat põrutuskindlust. Kaaludes vaid 3,265 kg on see tõukeratas ideaalne tasakaal jõudluse ja käsitsetavuse vahel. 83,5° headtube nurk ja Peg-cut disain tagavad optimaalse manööverdamisvõime parkisõidul. Värskendav türkiissinine toon sobib ideaalselt neile, kes soovivad väljendada oma isikupära ja stiilitunnetust."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "Blunt Prodigy X 2023 türkiissinine (Teal) mudel on värskendav lisandus Prodigy seeriasse, mis on loodud keskmisel ja edasijõudnud tasemel sõitjatele. See kümnes põlvkond Prodigy tõukeratastest ühendab kaasaegse disaini ja professionaalse jõudluse. Uus Extech ekstrusioonitehnoloogia ja värskendatud komponendid tagavad kerge, kuid vastupidava tõukeratta, mis sobib ideaalselt parkisõiduks."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Kaal",
+              "value": "3,265 kg"
+            },
+            {
+              "label": "Jalaruumi laius",
+              "value": "345 mm"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "865 mm"
+            },
+            {
+              "label": "Kogupikkus",
+              "value": "690 mm"
+            },
+            {
+              "label": "Lenksu kõrgus",
+              "value": "620 mm"
+            },
+            {
+              "label": "Lenksu laius",
+              "value": "560 mm (otsikutega)"
+            },
+            {
+              "label": "Deki pikkus",
+              "value": "19,5 tolli (495 mm)"
+            },
+            {
+              "label": "Deki laius",
+              "value": "5 tolli (127 mm)"
+            },
+            {
+              "label": "Klamber",
+              "value": "Z Clamp Oversized 2 polti 6 mm"
+            },
+            {
+              "label": "Kahvel",
+              "value": "Diamond IHC"
+            },
+            {
+              "label": "Kokkusurumissüsteem",
+              "value": "IHC (Internal Hidden Compression)"
+            },
+            {
+              "label": "Headset",
+              "value": "Low Stack Compression Cap"
+            },
+            {
+              "label": "Gripid",
+              "value": "TPR 160 mm"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "83,5°"
+            },
+            {
+              "label": "Rattad",
+              "value": "SECTOR 120 mm x 26 mm, PU 86A"
+            },
+            {
+              "label": "Lenks",
+              "value": "Reaper V2 alumiinium"
+            },
+            {
+              "label": "Värv",
+              "value": "Türkiissinine (Teal) ja must"
+            },
+            {
+              "label": "Sõidustiil",
+              "value": "Park"
+            },
+            {
+              "label": "Tase",
+              "value": "Keskmine kuni edasijõudnud"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "32,34 mm"
+            },
+            {
+              "label": "Lenksu väline läbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Soovitatav vanus",
+              "value": "13-15+"
+            },
+            {
+              "label": "Deki vorm",
+              "value": "Peg-cut"
+            },
+            {
+              "label": "Garantii",
+              "value": "2 aastat"
+            },
+            {
+              "label": "Kokkupanek",
+              "value": "Osaliselt kokkupandud"
+            }
+          ]
+        }
+      }
+    ],
     "source_price": 110.0,
     "price": 239,
     "discounted_price": 229,
     "stock": 99,
     "images": [
-      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
+      "/products/blunt-complete-prodigy-x-teal-trikitoukeratas-1.jpg",
+      "/products/blunt-complete-prodigy-x-teal-trikitoukeratas-2.jpg",
+      "/products/blunt-complete-prodigy-x-teal-trikitoukeratas-3.jpg",
+      "/products/blunt-complete-prodigy-x-teal-trikitoukeratas-4.jpg",
+      "/products/blunt-complete-prodigy-x-teal-trikitoukeratas-5.jpg",
+      "/products/blunt-complete-prodigy-x-teal-trikitoukeratas-6.jpg",
+      "/products/blunt-complete-prodigy-x-teal-trikitoukeratas-7.jpg",
+      "/products/blunt-complete-prodigy-x-teal-trikitoukeratas-8.jpg"
     ],
     "video": "https://www.youtube.com/embed/XZS76UFoCzM?si=au8v19wsWDUrU7Vi",
     "category": [
@@ -361,13 +845,141 @@
   {
     "id": "blunt-prodigy-x-street-must",
     "name": "Blunt Prodigy X Street - Must",
-    "description": "Durable tire suitable for all road conditions.",
+    "description": [
+      "Blunt Prodigy X Street Black on spetsiaalselt tänavasõiduks disainitud trikitõukeratas, mis eristub tavalisest Prodigy X seeriast mitmete oluliste täiustuste poolest. See 2023. aasta mudel on loodud pakkuma maksimaalset jõudlust ja vastupidavust karmides linnatingimustes. Elegantne matt-must viimistlus annab tõukerattale professionaalse ja ajatu välimuse, mis sobib igasugusesse linnamaastikku.",
+      "Erinevalt standardsest Prodigy mudelist on Street versioon varustatud tugevama Cromoly terasest lenksuga ja Box-cut disainiga dekiga, mis pakuvad suuremat tugevust ja kontrolli käsipuude, treppide ja muude linnaobjektide ületamisel. Täiustatud SCS kompressioonisüsteem (Standard Compression System) tagab parema stabiilsuse ja tugevuse võrreldes tavapärase IHC süsteemiga, mis on eriti oluline tänavasõidu karmides tingimustes.",
+      "Prodigy X Street säilitab siiski mitmeid Prodigy seeria tugevusi, nagu innovaatiline Extech ekstrusioonitehnoloogia, mis tagab dekile madalama profiili ja laiemad siseseinad. SECTOR 120 mm × 26 mm rattad (86A kõvadus) on ideaalsed tänavasõiduks, pakkudes head haarduvust erinevatel pindadel. 83° headtube nurk ja 900 mm kogukõrgus on optimeeritud tänavasõiduks, pakkudes paremat manööverdamisvõimet kitsastes kohtades. See must tänavasõidu tõukeratas on mõeldud 15+ vanuses sõitjatele, kes soovivad oma oskusi linnakeskkonnas viia uuele tasemele."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "Blunt Prodigy X Street 2023 on spetsiaalselt tänavasõiduks loodud must trikitõukeratas, mis erineb standardsest Prodigy X mudelist oma Box-cut deki disaini ja täiendatud omaduste poolest. Kümnes põlvkond Prodigy seeriast on täiustatud tänavasõidu jaoks optimeeritud komponentidega, pakkudes suuremat vastupidavust ja kontrolli linnamaastikul. Cromoly terasest lenks ja SCS kompressioonisüsteem tagavad maksimaalse tugevuse ja stabiilsuse keerulistes oludes."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Kaal",
+              "value": "3,265 kg"
+            },
+            {
+              "label": "Jalaruumi laius",
+              "value": "345 mm"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "900 mm"
+            },
+            {
+              "label": "Kogupikkus",
+              "value": "690 mm"
+            },
+            {
+              "label": "Lenksu kõrgus",
+              "value": "620 mm"
+            },
+            {
+              "label": "Lenksu laius",
+              "value": "560 mm (otsikutega)"
+            },
+            {
+              "label": "Deki pikkus",
+              "value": "19,5 tolli (495 mm)"
+            },
+            {
+              "label": "Deki laius",
+              "value": "5 tolli (127 mm)"
+            },
+            {
+              "label": "Klamber",
+              "value": "Z Clamp Oversized 2 polti 6 mm"
+            },
+            {
+              "label": "Kahvel",
+              "value": "Diamond IHC"
+            },
+            {
+              "label": "Kokkusurumissüsteem",
+              "value": "SCS (Standard Compression System)"
+            },
+            {
+              "label": "Headset",
+              "value": "Low Stack Compression Cap"
+            },
+            {
+              "label": "Gripid",
+              "value": "TPR 160 mm"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "83°"
+            },
+            {
+              "label": "Rattad",
+              "value": "SECTOR 120 mm x 26 mm, PU 86A"
+            },
+            {
+              "label": "Lenks",
+              "value": "Cromoly teras"
+            },
+            {
+              "label": "Värv",
+              "value": "Must"
+            },
+            {
+              "label": "Sõidustiil",
+              "value": "Street (tänav)"
+            },
+            {
+              "label": "Tase",
+              "value": "Keskmine kuni edasijõudnud"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "32,34 mm"
+            },
+            {
+              "label": "Lenksu väline läbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Soovitatav vanus",
+              "value": "15+"
+            },
+            {
+              "label": "Deki vorm",
+              "value": "Box-cut"
+            },
+            {
+              "label": "Garantii",
+              "value": "2 aastat"
+            },
+            {
+              "label": "Kokkupanek",
+              "value": "Osaliselt kokkupandud"
+            }
+          ]
+        }
+      }
+    ],
     "source_price": 120.0,
     "price": 249,
     "discounted_price": 239,
     "stock": 0,
     "images": [
-      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
+      "/products/blunt-complete-prodigy-x-street-black-trikitoukeratas-1.jpg",
+      "/products/blunt-complete-prodigy-x-street-black-trikitoukeratas-2.jpg",
+      "/products/blunt-complete-prodigy-x-street-black-trikitoukeratas-3.jpg",
+      "/products/blunt-complete-prodigy-x-street-black-trikitoukeratas-4.jpg",
+      "/products/blunt-complete-prodigy-x-street-black-trikitoukeratas-5.jpg",
+      "/products/blunt-complete-prodigy-x-street-black-trikitoukeratas-6.jpg",
+      "/products/blunt-complete-prodigy-x-street-black-trikitoukeratas-7.jpg",
+      "/products/blunt-complete-prodigy-x-street-black-trikitoukeratas-8.jpg"
     ],
     "video": "https://www.youtube.com/embed/4Jeq18Nkbp8?si=CDXPUsfgF_cgjZyE",
     "category": [
@@ -385,13 +997,144 @@
   {
     "id": "blunt-prodigy-s9-oil-slick",
     "name": "Blunt Prodigy S9 - Oil Slick",
-    "description": "Durable tire suitable for all road conditions.",
+    "description": [
+      "Blunt Prodigy S9 Oil Slick (Õlilaik) on 2022. aasta tõeliselt silmapaistev trikitõukeratas, mis paistab silma oma vapustava vikerkaarevärvilise viimistlusega. See on üheksas põlvkond kuulsast Prodigy seeriast, mis on mõeldud keskmise ja edasijõudnud tasemega sõitjatele, kes soovivad oma oskusi viia uuele tasemele. Oil Slick värvikombinatsioon loob dünaamilise ja pilkupüüdva välimuse, mis kindlasti ei jää skeidipargis märkamatuks.",
+      "Prodigy S9 on eelkäijast kergem, kaaludes vaid 3,5 kg, mis teeb sellest ideaalse tõukeratta keerukamate trikkide sooritamiseks. Deki mõõtmed (495 mm × 120 mm) ja 82,5° headtube nurk pakuvad optimaalset tasakaalu manööverdamisvõime ja stabiilsuse vahel. Ees- ja tagaosas olevad nailonist detailid lisavad vastupidavust, samas kui kõrgkvaliteetne kaheosaline griptape tagab maksimaalse haarduvuse.",
+      "Tõukeratas on varustatud kõrge tihedusega alumiiniumist Reaper V2 lenksuga (620 mm kõrge, 560 mm lai) ja 120 mm × 24 mm Gap Core ratastega (86A kõvadus), mis pakuvad sujuvat sõitu ja head põrutuskindlust. Diamond 6061 alumiiniumist IHC kahvel ja standardne 2-poldiga klamber tagavad tugeva ja usaldusväärse konstruktsiooni. 160 mm pikad TPR käepidemed lisavad mugavust pikematel sõitudel. Prodigy S9 Oil Slick on täiuslik valik ambitsioonikale trikisõitjale, kes hindab nii jõudlust kui ka silmapaistvat disaini."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "Blunt Prodigy S9 2022 Oil Slick on üheksanda põlvkonna trikitõukeratas, mis on loodud keskmise ja edasijõudnud tasemega sõitjatele. See mudel on täiustatud uute komponentidega, mis on kombineeritud kõrgkvaliteetsete osadega, tagades suurepärase jõudluse ja vastupidavuse. Silmapaistev Oil Slick vikerkaarevärvides viimistlus lisab tõukerattale unikaalset stiili ja isikupära."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Kaal",
+              "value": "3,5 kg"
+            },
+            {
+              "label": "Jalaruumi laius",
+              "value": "345 mm"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "880 mm"
+            },
+            {
+              "label": "Kogupikkus",
+              "value": "690 mm"
+            },
+            {
+              "label": "Lenksu kõrgus",
+              "value": "620 mm"
+            },
+            {
+              "label": "Lenksu laius",
+              "value": "560 mm"
+            },
+            {
+              "label": "Deki pikkus",
+              "value": "19,5 tolli (495 mm)"
+            },
+            {
+              "label": "Deki laius",
+              "value": "4,75 tolli (120 mm)"
+            },
+            {
+              "label": "Klamber",
+              "value": "2 poldiga 6061 standardne alumiiniumklamber, 6 mm poldid"
+            },
+            {
+              "label": "Kahvel",
+              "value": "Diamond 6061 alumiinium IHC kahvel, sobib kuni 30 mm × 125 mm ratastega"
+            },
+            {
+              "label": "Kokkusurumissüsteem",
+              "value": "IHC (Internal Hidden Compression)"
+            },
+            {
+              "label": "Pidur",
+              "value": "Nailonist pealekruvitav, 5 mm poldiga"
+            },
+            {
+              "label": "Gripid",
+              "value": "160 mm pikad TPR käepidemed nailonist lenksu otsikutega"
+            },
+            {
+              "label": "Griptape",
+              "value": "Kõrgkvaliteetne 2-osaline"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "82,5°"
+            },
+            {
+              "label": "Rattad",
+              "value": "120 mm x 24 mm, 86A PU Gap Core"
+            },
+            {
+              "label": "Lenks",
+              "value": "Kõrge tihedusega alumiinium Reaper V2"
+            },
+            {
+              "label": "Värv",
+              "value": "Oil Slick (õlirainbow)"
+            },
+            {
+              "label": "Sõidustiil",
+              "value": "Park"
+            },
+            {
+              "label": "Tase",
+              "value": "Keskmine kuni edasijõudnud"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "32,34 mm"
+            },
+            {
+              "label": "Lenksu väline läbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Soovitatav vanus",
+              "value": "13-15+"
+            },
+            {
+              "label": "Deki vorm",
+              "value": "Peg-cut"
+            },
+            {
+              "label": "Garantii",
+              "value": "2 aastat"
+            },
+            {
+              "label": "Kokkupanek",
+              "value": "Osaliselt kokkupandud"
+            }
+          ]
+        }
+      }
+    ],
     "source_price": 100.0,
     "price": 239,
     "discounted_price": 229,
     "stock": 99,
     "images": [
-      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
+      "/products/complete-prodigy-s9-oil-slick-trikitoukeratas-1.png",
+      "/products/complete-prodigy-s9-oil-slick-trikitoukeratas-2.png",
+      "/products/complete-prodigy-s9-oil-slick-trikitoukeratas-3.png",
+      "/products/complete-prodigy-s9-oil-slick-trikitoukeratas-4.png",
+      "/products/complete-prodigy-s9-oil-slick-trikitoukeratas-5.png",
+      "/products/complete-prodigy-s9-oil-slick-trikitoukeratas-6.jpg",
+      "/products/complete-prodigy-s9-oil-slick-trikitoukeratas-7.png",
     ],
     "video": "https://www.youtube.com/embed/eIotGYhvqRQ?si=p-dFiOaR3Y6bJI6S",
     "category": [
@@ -409,13 +1152,143 @@
   {
     "id": "blunt-prodigy-s9-must-oil-slick",
     "name": "Blunt Prodigy S9 - Must/Oil Slick",
-    "description": "Durable tire suitable for all road conditions.",
+    "description": [
+      "Blunt Prodigy S9 Black/Oil Slick on 2022. aasta trikitõukeratas, mis ühendab klassikalise musta disaini ja silmapaistvad Oil Slick vikerkaarevärvides detailid. See on üheksas põlvkond legendaarsest Prodigy seeriast, mis on loodud keskmise ja edasijõudnud tasemega sõitjatele. Must värv annab tõukerattale elegantse ja ajatu välimuse, samas kui Oil Slick detailid lisavad kaasaegset ja pilkupüüdvat stiili.",
+      "Prodigy S9 on kergekaaluline tõukeratas, kaaludes vaid 3,5 kg, mis teeb sellest ideaalse valiku keerukamate trikkide sooritamiseks. Optimaalsete mõõtmetega deck (495 mm × 120 mm) ja 82,5° headtube nurk pakuvad suurepärast tasakaalu manööverdamisvõime ja stabiilsuse vahel. Ees- ja tagaosas olevad nailonist detailid suurendavad vastupidavust, samas kui kõrgkvaliteetne kaheosaline griptape tagab suurepärase haarduvuse igal trikil.",
+      "Must/Oil Slick tõukeratas on varustatud kõrge tihedusega alumiiniumist Reaper V2 lenksuga (620 mm kõrge, 560 mm lai) ja 120 mm × 24 mm Gap Core ratastega (86A kõvadus), mis tagavad sujuva sõidu ja hea põrutuskindluse. Diamond 6061 alumiiniumist IHC kahvel ja standardne 2-poldiga klamber loovad tugeva ja usaldusväärse konstruktsiooni. 160 mm pikad TPR käepidemed lisavad mugavust pikematel sõitudel. Must/Oil Slick värvikombinatsioon pakub stiilset alternatiivi neile, kes eelistavad klassikalist välimust koos mõningate silmapaistvate detailidega."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "Blunt Prodigy S9 2022 Black/Oil Slick on üheksanda põlvkonna trikitõukeratas, mis on loodud keskmise ja edasijõudnud tasemega sõitjatele. See mudel on täiustatud uute komponentidega, mis on kombineeritud kõrgkvaliteetsete osadega, tagades suurepärase jõudluse ja vastupidavuse. Elegantne must korpus koos Oil Slick detailidega loob modernse ja silmapaistva välimuse. <br><br><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/8VzFftQXdIs?si=RQDI-eZEUKOYxT38\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Kaal",
+              "value": "3,5 kg"
+            },
+            {
+              "label": "Jalaruumi laius",
+              "value": "345 mm"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "880 mm"
+            },
+            {
+              "label": "Kogupikkus",
+              "value": "690 mm"
+            },
+            {
+              "label": "Lenksu kõrgus",
+              "value": "620 mm"
+            },
+            {
+              "label": "Lenksu laius",
+              "value": "560 mm"
+            },
+            {
+              "label": "Deki pikkus",
+              "value": "19,5 tolli (495 mm)"
+            },
+            {
+              "label": "Deki laius",
+              "value": "4,75 tolli (120 mm)"
+            },
+            {
+              "label": "Klamber",
+              "value": "2 poldiga 6061 standardne alumiiniumklamber, 6 mm poldid"
+            },
+            {
+              "label": "Kahvel",
+              "value": "Diamond 6061 alumiinium IHC kahvel, sobib kuni 30 mm × 125 mm ratastega"
+            },
+            {
+              "label": "Kokkusurumissüsteem",
+              "value": "IHC (Internal Hidden Compression)"
+            },
+            {
+              "label": "Pidur",
+              "value": "Nailonist pealekruvitav, 5 mm poldiga"
+            },
+            {
+              "label": "Gripid",
+              "value": "160 mm pikad TPR käepidemed nailonist lenksu otsikutega"
+            },
+            {
+              "label": "Griptape",
+              "value": "Kõrgkvaliteetne 2-osaline"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "82,5°"
+            },
+            {
+              "label": "Rattad",
+              "value": "120 mm x 24 mm, 86A PU Gap Core"
+            },
+            {
+              "label": "Lenks",
+              "value": "Kõrge tihedusega alumiinium Reaper V2"
+            },
+            {
+              "label": "Värv",
+              "value": "Must korpus Oil Slick detailidega"
+            },
+            {
+              "label": "Sõidustiil",
+              "value": "Park"
+            },
+            {
+              "label": "Tase",
+              "value": "Keskmine kuni edasijõudnud"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "32,34 mm"
+            },
+            {
+              "label": "Lenksu väline läbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Soovitatav vanus",
+              "value": "13-15+"
+            },
+            {
+              "label": "Deki vorm",
+              "value": "Peg-cut"
+            },
+            {
+              "label": "Garantii",
+              "value": "2 aastat"
+            },
+            {
+              "label": "Kokkupanek",
+              "value": "Osaliselt kokkupandud"
+            }
+          ]
+        }
+      }
+    ],
     "source_price": 100.0,
     "price": 249,
     "discounted_price": 239,
     "stock": 99,
     "images": [
-      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
+      "/products/complete-prodigy-s9-black-oil-slick-trikitoukeratas-1.jpg",
+      "/products/complete-prodigy-s9-black-oil-slick-trikitoukeratas-2.png",
+      "/products/complete-prodigy-s9-black-oil-slick-trikitoukeratas-3.png",
+      "/products/complete-prodigy-s9-black-oil-slick-trikitoukeratas-4.png",
+      "/products/complete-prodigy-s9-black-oil-slick-trikitoukeratas-5.jpg",
+      "/products/complete-prodigy-s9-black-oil-slick-trikitoukeratas-6.jpg"
     ],
     "video": "https://www.youtube.com/embed/eIotGYhvqRQ?si=p-dFiOaR3Y6bJI6S",
     "category": [
@@ -433,13 +1306,133 @@
   {
     "id": "blunt-kos-s6-heist",
     "name": "Blunt KOS S6 - Heist",
-    "description": "Durable tire suitable for all road conditions.",
+    "description": [
+      "Blunt KOS S6 Heist on kuuenda põlvkonna professionaalne trikitõukeratas, mis on loodud edasijõudnud sõitjatele, kes otsivad kõrgetasemelist varustust. Silmapaistev sini-must värvikombinatsioon annab sellele mudelile unikaalse ja kaasaegse välimuse. KOS seeria on tuntud oma erakordse vastupidavuse ja jõudluse poolest, mis teeb sellest ideaalse valiku ambitsioonikatele trikisõitjatele.",
+      "KOS S6 Heist eristub oma pikema ja laiema dekiga (510 mm × 125 mm), mis on valmistatud tugevast 6061-T6 alumiiniumist ja Box-cut disainiga, pakkudes rohkem stabiilsust ja ruumi trikkide sooritamiseks. Kõrge REAPER ALU lenks (650 mm kõrge, 580 mm lai) annab sõitjale parema kontrolli õhus sooritatavate trikkide ajal ja sobib ideaalselt pikematele sõitjatele. Õõnsa südamikuga 120 mm × 26 mm alumiiniumrattad (86A kõvadusega PU) tagavad suurepärase kiiruse ja põrutuskindluse.",
+      "Üheosaline sepistatud 2-poldiga klamber ja DECLARE V2 IHC kahvel loovad tugeva ja jäiga konstruktsiooni, mis kannatab ka kõige nõudlikumaid trikke. 160 mm pikad TPR käepidemed pakuvad mugavat haaret ja maksimaalset kontrolli. KOS S6 Heist on mõeldud 15+ vanuses sõitjatele, kes soovivad viia oma parkisõidu oskused uuele tasemele. Box-cut disain ja 83° headtube nurk tagavad optimaalse tasakaalu manööverdamisvõime ja stabiilsuse vahel. Kaaludes vaid 3,85 kg, on see tõukeratas piisavalt kerge keerukamate trikkide sooritamiseks, kuid samas piisavalt tugev, et taluda igapäevast intensiivset kasutust."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "Blunt KOS S6 Heist on kuuenda põlvkonna professionaalne trikitõukeratas, mis on mõeldud edasijõudnud sõitjatele. Heist mudel paistab silma oma sini-musta värvikombinatsiooniga ja Box-cut disainiga, mis pakub rohkem stabiilsust ja vastupidavust keeruliste trikkide sooritamisel. Pikema deki ja kõrgema lenksuga on see ideaalne valik pikematele ja kogenenumatele sõitjatele, kes otsivad kõrgetasemelist tõukeratast parkisõiduks."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Kaal",
+              "value": "3,85 kg (neto)"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "900 mm"
+            },
+            {
+              "label": "Deki materjal",
+              "value": "6061-T6 alumiinium"
+            },
+            {
+              "label": "Deki pikkus",
+              "value": "20 tolli (510 mm)"
+            },
+            {
+              "label": "Deki laius",
+              "value": "4,9 tolli (125 mm)"
+            },
+            {
+              "label": "Deki vorm",
+              "value": "Box-cut"
+            },
+            {
+              "label": "Lenksu tüüp",
+              "value": "REAPER ALU"
+            },
+            {
+              "label": "Lenksu kõrgus",
+              "value": "650 mm"
+            },
+            {
+              "label": "Lenksu laius",
+              "value": "580 mm"
+            },
+            {
+              "label": "Lenksu väline läbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Gripid",
+              "value": "160 mm pikad TPR käepidemed nailonist lenksu otsikutega"
+            },
+            {
+              "label": "Klamber",
+              "value": "2 poldiga - üheosaline sepistatud klamber - 6 mm poldid"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "32,34 mm"
+            },
+            {
+              "label": "Kahvel",
+              "value": "DECLARE V2 IHC, sobib kuni 30 mm × 125 mm ratastega"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermeta (non-threaded)"
+            },
+            {
+              "label": "Rattad",
+              "value": "120 mm × 26 mm, 6063 alumiiniumist õõnsa südamikuga, 86A PU"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "83°"
+            },
+            {
+              "label": "Pidur",
+              "value": "Nailonist pealekruvitav, 5 mm poldiga"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Kokkusurumissüsteem",
+              "value": "IHC (Internal Hidden Compression)"
+            },
+            {
+              "label": "Värv",
+              "value": "Sinine ja must"
+            },
+            {
+              "label": "Sõidustiil",
+              "value": "Park"
+            },
+            {
+              "label": "Soovitatav vanus",
+              "value": "15+"
+            },
+            {
+              "label": "Garantii",
+              "value": "2 aastat"
+            },
+            {
+              "label": "Kokkupanek",
+              "value": "Osaliselt kokkupandud"
+            }
+          ]
+        }
+      }
+    ],
     "source_price": 145.0,
     "price": 400,
     "discounted_price": 390,
     "stock": 3,
     "images": [
-      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
+      "/products/blunt-complete-kos-s6-heist-trikitoukeratas-1.jpg",
+      "/products/blunt-complete-kos-s6-heist-trikitoukeratas-2.jpg",
+      "/products/blunt-complete-kos-s6-heist-trikitoukeratas-3.jpg",
+      "/products/blunt-complete-kos-s6-heist-trikitoukeratas-4.jpg"
     ],
     "category": [
       "Tõuksid",
@@ -456,13 +1449,152 @@
   {
     "id": "blunt-kos-s7-charge",
     "name": "Blunt KOS S7 - Charge",
-    "description": "Durable tire suitable for all road conditions.",
+    "description": [
+      "Blunt KOS S7 Charge on 2022. aasta absoluutne tippmudel Blunt Scootersi kõrgeimast KOS seeriast. See seitsmenda põlvkonna professionaalne trikitõukeratas on mõeldud tõsistele entusiastidele ja edasijõudnud sõitjatele, kes ei tee kompromisse kvaliteedi ja jõudluse osas. Silmapaistev multicolor ja must disain peegeldab selle mudeli kaasaegset tehnoloogiat ja premium klassi kuulumist.",
+      "KOS S7 Charge eristub oma erakordselt pika ja laia dekiga (533 mm × 130 mm), mis on valmistatud tugevast 6061-T6 alumiiniumist ja Box-cut disainiga, pakkudes rohkem stabiilsust ja ruumi trikkide sooritamiseks. Täiustatud AOSv4 x KOS dek koos nailonist otsikutega tagab maksimaalse vastupidavuse ka kõige intensiivsema kasutuse korral. Kõrge tihedusega alumiiniumist BULL lenks (650 mm kõrge, 580 mm lai) annab sõitjale täieliku kontrolli õhus sooritatavate trikkide ajal.",
+      "Charge mudel on varustatud Tri bearing wheel süsteemiga, mis hõlmab 120 mm × 30 mm rattaid (86A kõvadusega PU) ja ABEC 9 laagreid, mis tagavad maksimaalse kiiruse ja sujuva sõidu. Eksklusiivsed 170 mm pikad Will Scott signature käepidemed HALO lenksu otsikutega pakuvad erakordset mugavust ja haaret. DECLARE V2 alumiinium IHC kahvel ja 2-poldiga sepistatud klamber loovad tugeva ja jäiga konstruktsiooni. Tõukerattal on erakordselt lai jalaruum (385 mm), mis sobib ideaalselt pikematele sõitjatele ja keerukamate trikkide sooritamiseks. 82,5° headtube nurk tagab ideaalse tasakaalu manööverdamisvõime ja stabiilsuse vahel. KOS S7 Charge on mõeldud neile, kes otsivad parimat võimalikku trikitõukeratast ilma kompromissideta."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "Blunt KOS S7 Charge on 2022. aasta tippmudel Blunt Scootersi premium seeriast. See seitsmenda põlvkonna trikitõukeratas on mõeldud keskmise ja edasijõudnud tasemega sõitjatele, kes soovivad kogeda parimat kvaliteeti ja jõudlust. Charge mudel on osa KOS seeriast, mis on Blunti kõrgeim tootesari, pakkudes uusimaid täiustusi ja kõrgkvaliteetseid komponente. Multicolor ja musta värvikombinatsiooniga tõukeratas on loodud parkisõiduks ja keeruliste trikkide sooritamiseks."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Kaal",
+              "value": "4 kg"
+            },
+            {
+              "label": "Jalaruumi laius",
+              "value": "385 mm"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "930 mm"
+            },
+            {
+              "label": "Kogupikkus",
+              "value": "730 mm"
+            },
+            {
+              "label": "Deki materjal",
+              "value": "6061-T6 alumiinium"
+            },
+            {
+              "label": "Deki mudel",
+              "value": "AOSv4 x KOS"
+            },
+            {
+              "label": "Deki pikkus",
+              "value": "21 tolli (533 mm)"
+            },
+            {
+              "label": "Deki laius",
+              "value": "5,1 tolli (130 mm)"
+            },
+            {
+              "label": "Deki vorm",
+              "value": "Box-cut nailonist otsikutega"
+            },
+            {
+              "label": "Lenksu tüüp",
+              "value": "Kõrge tihedusega alumiinium BULL"
+            },
+            {
+              "label": "Lenksu kõrgus",
+              "value": "650 mm"
+            },
+            {
+              "label": "Lenksu laius",
+              "value": "580 mm"
+            },
+            {
+              "label": "Lenksu väline läbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Gripid",
+              "value": "170 mm pikad Will Scott signature käepidemed HALO lenksu otsikutega"
+            },
+            {
+              "label": "Klamber",
+              "value": "2 poldiga 6061 sepistatud alumiiniumklamber, 6 mm poldid"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "32,34 mm"
+            },
+            {
+              "label": "Kahvel",
+              "value": "DECLARE V2 alumiinium IHC, sobib kuni 125 mm ratastega"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermeta (non-threaded)"
+            },
+            {
+              "label": "Rattad",
+              "value": "Tri bearing wheel, 120 mm × 30 mm, 86A PU, ABEC 9 laagrid"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "82,5°"
+            },
+            {
+              "label": "Pidur",
+              "value": "Nailonist pealekruvitav, 5 mm poldiga"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Griptape",
+              "value": "Kõrgkvaliteetne 2-osaline"
+            },
+            {
+              "label": "Kokkusurumissüsteem",
+              "value": "IHC (Internal Hidden Compression)"
+            },
+            {
+              "label": "Värv",
+              "value": "Multicolor ja must"
+            },
+            {
+              "label": "Sõidustiil",
+              "value": "Park"
+            },
+            {
+              "label": "Soovitatav vanus",
+              "value": "15+"
+            },
+            {
+              "label": "Garantii",
+              "value": "2 aastat"
+            },
+            {
+              "label": "Kokkupanek",
+              "value": "Osaliselt kokkupandud"
+            }
+          ]
+        }
+      }
+    ],
     "source_price": 155.0,
     "price": 420,
     "discounted_price": 410,
     "stock": 10,
     "images": [
-      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
+      "/products/blunt-complete-kos-s7-charge-trikitoukeratas-1.png",
+      "/products/blunt-complete-kos-s7-charge-trikitoukeratas-2.png",
+      "/products/blunt-complete-kos-s7-charge-trikitoukeratas-3.png",
+      "/products/blunt-complete-kos-s7-charge-trikitoukeratas-4.png",
+      "/products/blunt-complete-kos-s7-charge-trikitoukeratas-5.png",
+      "/products/blunt-complete-kos-s7-charge-trikitoukeratas-6.jpg",
+      "/products/blunt-complete-kos-s7-charge-trikitoukeratas-7.png"
     ],
     "category": [
       "Tõuksid",
@@ -479,13 +1611,142 @@
   {
     "id": "blunt-colt-s5-sinine",
     "name": "Blunt Colt S5 - Sinine",
-    "description": "Durable tire suitable for all road conditions.",
+    "description": [
+      "Blunt Colt S5 Blue on silmapaistev sinine trikitõukeratas, mis on loodud spetsiaalselt algajatele ja kesktasemel sõitjatele. See on osa uuest COLT S5 seeriast, mis ühendab Prodigy seeria kvaliteetsed komponendid taskukohasema hinnaga. Erksinise värviga tõukeratas on ideaalne valik noortele entusiastidele, kes soovivad arendada oma oskusi skeidipargis ja teha esimesi tõsisemaid trikke.",
+      "Colt S5 on varustatud vastupidava 495 mm × 120 mm dekiga, millel on Peg-cut disain ja nailonist detailid ees ning taga, tagades pikema kasutusea. 4130 Cromoly terasest Prodigy lenks (580 mm kõrge, 520 mm lai) pakub suuremat vastupidavust võrreldes tavaliste alumiiniumlenksdega, olles samas piisavalt kerge mugavaks käsitsemiseks. 110 mm Diamond rattad (86A kõvadus) on ideaalsed algajatele, pakkudes head haarduvust ja kontrolli.",
+      "Tõukeratta kogukõrgus 840 mm ja 82,5° headtube nurk on optimeeritud noortele sõitjatele, tagades parema manööverdamisvõime ja kontrolli. P2 Chromoly IHC kahvel ja standardne 2-poldiga alumiiniumklamber loovad tugeva konstruktsiooni, mis peab vastu ka intensiivsele kasutusele. 160 mm pikad TPR käepidemed pakuvad mugavat haaret ja kõrgkvaliteetne 2-osaline griptape tagab hea haarduvuse. Kaaludes 3,74 kg on see tõukeratas piisavalt kerge, et noored sõitjad saaksid seda hõlpsalt käsitseda ja arendada oma trikisõidu oskusi. Blunt Colt S5 Blue on suurepärane esimene tõsine trikitõukeratas või täiendus algajale, kes soovib liikuda järgmisele tasemele."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "Blunt Colt S5 sinine mudel on osa uuest COLT S5 tõukerataste seeriast, mis on disainitud kasutades kvaliteetseid Prodigy seeria komponente, kuid soodsamal hinnatasemel. See trikitõukeratas on ideaalne algajatele ja kesktasemel sõitjatele, kes soovivad arendada oma oskusi skeidipargis. Erksinine värv annab tõukerattale silmapaistva ja energilise välimuse."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Kaal",
+              "value": "3,74 kg"
+            },
+            {
+              "label": "Jalaruumi laius",
+              "value": "350 mm"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "840 mm"
+            },
+            {
+              "label": "Kogupikkus",
+              "value": "680 mm"
+            },
+            {
+              "label": "Deki pikkus",
+              "value": "19,5 tolli (495 mm)"
+            },
+            {
+              "label": "Deki laius",
+              "value": "4,7 tolli (120 mm)"
+            },
+            {
+              "label": "Deki vorm",
+              "value": "Peg-cut, ees ja taga nailonist detailid"
+            },
+            {
+              "label": "Lenksu materjal",
+              "value": "4130 Cromoly teras (Prodigy seeria)"
+            },
+            {
+              "label": "Lenksu kõrgus",
+              "value": "580 mm"
+            },
+            {
+              "label": "Lenksu laius",
+              "value": "520 mm"
+            },
+            {
+              "label": "Lenksu väline läbimõõt",
+              "value": "31,8 mm"
+            },
+            {
+              "label": "Gripid",
+              "value": "160 mm pikad TPR käepidemed nailonist lenksu otsikutega"
+            },
+            {
+              "label": "Klamber",
+              "value": "2 poldiga 6061 standardne alumiiniumklamber, 6 mm poldid"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "32,34 mm"
+            },
+            {
+              "label": "Kahvel",
+              "value": "P2 Chromoly IHC, sobib kuni 30 mm × 125 mm ratastega"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermeta (non-threaded)"
+            },
+            {
+              "label": "Rattad",
+              "value": "110 mm Diamond, 24 mm laiad, 86A PU"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "82,5°"
+            },
+            {
+              "label": "Pidur",
+              "value": "Nailonist pealekruvitav, 5 mm poldiga"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Griptape",
+              "value": "Kõrgkvaliteetne 2-osaline"
+            },
+            {
+              "label": "Kokkusurumissüsteem",
+              "value": "IHC (Internal Hidden Compression)"
+            },
+            {
+              "label": "Värv",
+              "value": "Sinine"
+            },
+            {
+              "label": "Sõidustiil",
+              "value": "Park"
+            },
+            {
+              "label": "Soovitatav vanus",
+              "value": "11-13+"
+            },
+            {
+              "label": "Garantii",
+              "value": "2 aastat"
+            },
+            {
+              "label": "Kokkupanek",
+              "value": "Osaliselt kokkupandud"
+            }
+          ]
+        }
+      }
+    ],
     "source_price": 72.0,
     "price": 200,
     "discounted_price": 190,
     "stock": 99,
     "images": [
-      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
+      "/products/blunt-complete-colt-s5-blue-trikitoukeratas-1.png",
+      "/products/blunt-complete-colt-s5-blue-trikitoukeratas-2.png",
+      "/products/blunt-complete-colt-s5-blue-trikitoukeratas-3.png",
+      "/products/blunt-complete-colt-s5-blue-trikitoukeratas-4.png",
+      "/products/blunt-complete-colt-s5-blue-trikitoukeratas-5.png"
     ],
     "video": "https://www.youtube.com/embed/u5W1_OJEhLQ?si=FO1gCvFqq9qcxZ9l",
     "category": [
@@ -503,13 +1764,143 @@
   {
     "id": "blunt-colt-s5-roheline",
     "name": "Blunt Colt S5 - Roheline",
-    "description": "Durable tire suitable for all road conditions.",
+    "description": [
+      "Blunt Colt S5 Green on erkroheline trikitõukeratas, mis on loodud algajatele ja kesktasemel sõitjatele. See kuulub COLT S5 seeriasse, mis kombineerib Prodigy seeria kvaliteetsed komponendid taskukohasema hinnaga, tehes sellest ideaalse valiku noortele entusiastidele.",
+      "Tõukeratas on varustatud Peg-cut disainiga dekiga, vastupidava Cromoly terasest lenksuga ja 110 mm Diamond ratastega, mis tagavad hea kontrolli ja stabiilsuse parkisõidul. Silmapaistev roheline värv lisab isikupära ja energilist välimust.",
+      "Soovitatav 11-13+ vanuses sõitjatele, pakub Colt S5 piisavalt vastupidavust ja stabiilsust, et arendada oskusi ja õppida uusi trikke. Kaaludes vaid 3,74 kg on see tõukeratas kergesti käsitsetav ka nooremate sõitjate poolt, tehes sellest suurepärase esimese tõsise trikitõukeratta."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "Blunt Colt S5 roheline mudel on osa uuest COLT S5 tõukerataste seeriast, mis on disainitud kasutades kvaliteetseid Prodigy seeria komponente, kuid soodsamal hinnatasemel. See trikitõukeratas on ideaalne algajatele ja kesktasemel sõitjatele, kes soovivad arendada oma oskusi skeidipargis. Erkroheline värv annab tõukerattale silmapaistva ja energilise välimuse."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Kaal",
+              "value": "3,74 kg"
+            },
+            {
+              "label": "Jalaruumi laius",
+              "value": "350 mm"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "840 mm"
+            },
+            {
+              "label": "Kogupikkus",
+              "value": "680 mm"
+            },
+            {
+              "label": "Deki pikkus",
+              "value": "19,5 tolli (495 mm)"
+            },
+            {
+              "label": "Deki laius",
+              "value": "4,7 tolli (120 mm)"
+            },
+            {
+              "label": "Deki vorm",
+              "value": "Peg-cut, ees ja taga nailonist detailid"
+            },
+            {
+              "label": "Lenksu materjal",
+              "value": "4130 Cromoly teras (Prodigy seeria)"
+            },
+            {
+              "label": "Lenksu kõrgus",
+              "value": "580 mm"
+            },
+            {
+              "label": "Lenksu laius",
+              "value": "520 mm"
+            },
+            {
+              "label": "Lenksu väline läbimõõt",
+              "value": "31,8 mm"
+            },
+            {
+              "label": "Gripid",
+              "value": "160 mm pikad TPR käepidemed nailonist lenksu otsikutega"
+            },
+            {
+              "label": "Klamber",
+              "value": "2 poldiga 6061 standardne alumiiniumklamber, 6 mm poldid"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "32,34 mm"
+            },
+            {
+              "label": "Kahvel",
+              "value": "P2 Chromoly IHC, sobib kuni 30 mm × 125 mm ratastega"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermeta (non-threaded)"
+            },
+            {
+              "label": "Rattad",
+              "value": "110 mm Diamond, 24 mm laiad, 86A PU"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "82,5°"
+            },
+            {
+              "label": "Pidur",
+              "value": "Nailonist pealekruvitav, 5 mm poldiga"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Griptape",
+              "value": "Kõrgkvaliteetne 2-osaline"
+            },
+            {
+              "label": "Kokkusurumissüsteem",
+              "value": "IHC (Internal Hidden Compression)"
+            },
+            {
+              "label": "Värv",
+              "value": "Roheline"
+            },
+            {
+              "label": "Sõidustiil",
+              "value": "Park"
+            },
+            {
+              "label": "Soovitatav vanus",
+              "value": "11-13+"
+            },
+            {
+              "label": "Garantii",
+              "value": "2 aastat"
+            },
+            {
+              "label": "Kokkupanek",
+              "value": "Osaliselt kokkupandud"
+            }
+          ]
+        }
+      }
+    ],
     "source_price": 81.0,
     "price": 200,
     "discounted_price": 190,
     "stock": 99,
     "images": [
-      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
+      "/products/blunt-complete-colt-s5-green-trikitoukeratas-1.png",
+      "/products/blunt-complete-colt-s5-green-trikitoukeratas-2.png",
+      "/products/blunt-complete-colt-s5-green-trikitoukeratas-3.png",
+      "/products/blunt-complete-colt-s5-green-trikitoukeratas-4.png",
+      "/products/blunt-complete-colt-s5-green-trikitoukeratas-5.png",
+      "/products/blunt-complete-colt-s5-green-trikitoukeratas-6.png"
     ],
     "video": "https://www.youtube.com/embed/u5W1_OJEhLQ?si=FO1gCvFqq9qcxZ9l",
     "category": [
@@ -527,13 +1918,77 @@
   {
     "id": "blunt-deck-aos-v5-signature-jonathan-perroni-2022",
     "name": "Blunt AOS V5 Jonathan Perroni Signature 2022 v5",
-    "description": "Durable tire suitable for all road conditions.",
+    "description": [
+      "Blunt AOS V5 Jonathan Perroni signatuurmudeli deck on professionaalse sõitja koostöös loodud tipptasemel komponent trikitõukeratastele. See 2022. aasta mudel paistab silma oma laiema disaini ja multicolor viimistlusega, pakkudes ainulaadset kombinatsiooni stiili ja jõudlust.",
+      "AOS V5 deck on märkimisväärselt lai (6 tolli / 153 mm) ja pikk (22,8 tolli), mis tagab suurema stabiilsuse ja rohkem ruumi jalgadele trikkide sooritamisel. Box-cut disain ja 84° headtube nurk on optimeeritud täpseks manööverdamiseks ja paremaks kontrolli säilitamiseks õhus.",
+      "Jonathan Perroni signatuurmudel sobib eelkõige edasijõudnud sõitjatele, kes otsivad professionaalse kvaliteediga komponenti oma tõukeratta koostamiseks või uuendamiseks. Deck ühildub erinevate ratta suurustega (100-120 mm), võimaldades kohandada tõukeratast vastavalt oma sõidustiilile."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "Blunt AOS V5 on Jonathan Perroni 2022. aasta signatuurmudeli deck, mis on loodud professionaalse freestyle sõitja nõudmiste järgi. See Box-cut disainiga alumiinium deck on eriti lai (6 tolli / 153 mm), pakkudes rohkem ruumi jalgadele ja stabiilsust trikkide sooritamisel. Multicolor viimistlusega deck on ideaalne valik edasijõudnud sõitjatele, kes otsivad maksimaalset jõudlust ja stiili."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Pikkus",
+              "value": "22,8 tolli (579 mm)"
+            },
+            {
+              "label": "Laius",
+              "value": "6 tolli (153 mm)"
+            },
+            {
+              "label": "Vorm",
+              "value": "Box-cut"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "84°"
+            },
+            {
+              "label": "Headset tüüp",
+              "value": "Integreeritud"
+            },
+            {
+              "label": "Telje läbimõõt",
+              "value": "8 mm"
+            },
+            {
+              "label": "Maksimaalne ratta laius",
+              "value": "24 mm"
+            },
+            {
+              "label": "Sobivad ratta läbimõõdud",
+              "value": "100, 110, 115, 120 mm"
+            },
+            {
+              "label": "Värv",
+              "value": "Multicolor"
+            },
+            {
+              "label": "Mudel",
+              "value": "AOS V5 Signature Jonathan Perroni 2022"
+            }
+          ]
+        }
+      }
+    ],
     "source_price": 100.0,
     "price": 235,
     "discounted_price": 225,
     "stock": 2,
     "images": [
-      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
+      "/products/blunt-deck-aos-v5-signature-jonathan-perroni-2022-1.jpg",
+      "/products/blunt-deck-aos-v5-signature-jonathan-perroni-2022-2.jpg",
+      "/products/blunt-deck-aos-v5-signature-jonathan-perroni-2022-3.jpg",
+      "/products/blunt-deck-aos-v5-signature-jonathan-perroni-2022-4.jpg"
     ],
     "video": "https://www.youtube.com/embed/GmMZNSccFvc?si=jyjdLrXAwgHOZXqn",
     "category": [
@@ -551,13 +2006,88 @@
   {
     "id": "blunt-deck-aos-v6-squad-grey",
     "name": "Blunt AOS V6 Squad - Grey",
-    "description": "Durable tire suitable for all road conditions.",
+    "description": [
+      "Blunt AOS V6 Squad hall deck on kuuenda põlvkonna professionaalne trikitõukeratta komponent, mis on mõeldud edasijõudnud sõitjatele. Halliks anodeeritud viimistlus annab sellele kaasaegse ja elegantse välimuse, mis sobib hästi erinevate värvikombinatsoonidega.",
+      "AOS V6 Squad deck on valmistatud vastupidavast Cromoly terasest ja kasutab Boxed Extech ekstrusioonitehnoloogiat, mis tagab maksimaalse tugevuse ja minimaalse kaalu. 22-tolline pikkus ja 5,5-tolline laius pakuvad ideaalset tasakaalu ruumikuse ja manööverdamisvõime vahel.",
+      "Komplekti kuulub 0S46 serigraafiaga griptape, Nylon V2 pidurisüsteem ja Wheel Guard V3, samuti vahepuksid 24 mm ratastele. Deck sobib kasutamiseks erinevate ratta suurustega vahemikus 100-125 mm, võimaldades kohandada tõukeratast vastavalt oma sõidustiilile."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "Blunt AOS V6 Squad hall deck on kuuenda põlvkonna professionaalne trikitõukeratta komponent, mis on loodud vastupidavusele ja jõudlusele. See Boxed Extech ekstrusiooniga Cromoly terasest deck on täiuslik valik edasijõudnud sõitjatele, kes otsivad kvaliteetset ja vastupidavat lahendust. Halliks anodeeritud viimistlus lisab elegantsi ja kaasaegset välimust."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Materjal",
+              "value": "Cromoly teras"
+            },
+            {
+              "label": "Pikkus",
+              "value": "22 tolli (558,8 mm)"
+            },
+            {
+              "label": "Laius",
+              "value": "5,5 tolli (139,7 mm)"
+            },
+            {
+              "label": "Kaal",
+              "value": "1,7 kg"
+            },
+            {
+              "label": "Vorm",
+              "value": "Boxed"
+            },
+            {
+              "label": "Ekstrusioon",
+              "value": "Boxed Extech"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "84°"
+            },
+            {
+              "label": "Pidurisüsteem",
+              "value": "Nylon V2 & Wheel Guard V3 (kaasas)"
+            },
+            {
+              "label": "Griptape",
+              "value": "Kaasas - 0S46 serigraafia"
+            },
+            {
+              "label": "Maksimaalne ratta laius",
+              "value": "30 mm (kaasas vahepuksid 24 mm ratastele)"
+            },
+            {
+              "label": "Sobivad ratta läbimõõdud",
+              "value": "100, 110, 115, 120, 125 mm"
+            },
+            {
+              "label": "Värv",
+              "value": "Hall"
+            },
+            {
+              "label": "Mudel",
+              "value": "AOS V6 Squad"
+            }
+          ]
+        }
+      }
+    ],
     "source_price": 90.0,
     "price": 200,
     "discounted_price": 190,
     "stock": 99,
     "images": [
-      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
+      "/products/blunt-deck-aos-v6-squad-grey-1.jpg",
+      "/products/blunt-deck-aos-v6-squad-grey-2.jpg",
+      "/products/blunt-deck-aos-v6-squad-grey-3.jpg",
+      "/products/blunt-deck-aos-v6-squad-grey-4.jpg",
+      "/products/blunt-deck-aos-v6-squad-grey-5.jpg",
+      "/products/blunt-deck-aos-v6-squad-grey-6.jpg",
+      "/products/blunt-deck-aos-v6-squad-grey-7.jpg"
     ],
     "video": "https://www.youtube.com/embed/JuoFb7iu70M?si=ac7cW2F-rz1Sw5pp",
     "category": [
@@ -575,13 +2105,88 @@
   {
     "id": "blunt-deck-aos-v6-squad-black",
     "name": "Blunt AOS V6 Squad - Black",
-    "description": "Durable tire suitable for all road conditions.",
+    "description": [
+      "Blunt AOS V6 Squad must deck on kuuenda põlvkonna professionaalne trikitõukeratta komponent, mis on mõeldud edasijõudnud sõitjatele. Klassikaline must anodeeritud viimistlus pakub ajatut ja universaalset välimust, mis sobib hästi iga stiili ja värvikombinatsooniga.",
+      "AOS V6 Squad deck on valmistatud vastupidavast Cromoly terasest ja kasutab Boxed Extech ekstrusioonitehnoloogiat, mis tagab maksimaalse tugevuse ja optimaalse kaalu. 22-tolline pikkus ja 5,5-tolline laius pakuvad head tasakaalu ruumikuse ja kontrollitavuse vahel.",
+      "Komplekti kuulub 0S46 serigraafiaga griptape, Nylon V2 pidurisüsteem ja Wheel Guard V3, samuti vahepuksid 24 mm ratastele. Deck sobib kasutamiseks erinevate ratta suurustega vahemikus 100-125 mm, võimaldades kohandada tõukeratast vastavalt oma sõidustiilile ja eelistustele."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "Blunt AOS V6 Squad must deck on kuuenda põlvkonna professionaalne trikitõukeratta komponent, mis on loodud vastupidavusele ja jõudlusele. See Boxed Extech ekstrusiooniga Cromoly terasest deck on täiuslik valik edasijõudnud sõitjatele, kes otsivad kvaliteetset ja vastupidavat lahendust. Must anodeeritud viimistlus lisab klassikalist ja ajatut välimust, mis sobib igasuguse stiiliga."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Materjal",
+              "value": "Cromoly teras"
+            },
+            {
+              "label": "Pikkus",
+              "value": "22 tolli (558,8 mm)"
+            },
+            {
+              "label": "Laius",
+              "value": "5,5 tolli (139,7 mm)"
+            },
+            {
+              "label": "Kaal",
+              "value": "1,7 kg"
+            },
+            {
+              "label": "Vorm",
+              "value": "Boxed"
+            },
+            {
+              "label": "Ekstrusioon",
+              "value": "Boxed Extech"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "84°"
+            },
+            {
+              "label": "Pidurisüsteem",
+              "value": "Nylon V2 & Wheel Guard V3 (kaasas)"
+            },
+            {
+              "label": "Griptape",
+              "value": "Kaasas - 0S46 serigraafia"
+            },
+            {
+              "label": "Maksimaalne ratta laius",
+              "value": "30 mm (kaasas vahepuksid 24 mm ratastele)"
+            },
+            {
+              "label": "Sobivad ratta läbimõõdud",
+              "value": "100, 110, 115, 120, 125 mm"
+            },
+            {
+              "label": "Värv",
+              "value": "Must"
+            },
+            {
+              "label": "Mudel",
+              "value": "AOS V6 Squad"
+            }
+          ]
+        }
+      }
+    ],
     "source_price": 90.0,
     "price": 200,
     "discounted_price": 190,
     "stock": 99,
     "images": [
-      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
+      "/products/blunt-deck-aos-v6-squad-black-1.jpg",
+      "/products/blunt-deck-aos-v6-squad-black-2.jpg",
+      "/products/blunt-deck-aos-v6-squad-black-3.jpg",
+      "/products/blunt-deck-aos-v6-squad-black-4.jpg",
+      "/products/blunt-deck-aos-v6-squad-black-5.jpg",
+      "/products/blunt-deck-aos-v6-squad-black-6.jpg",
+      "/products/blunt-deck-aos-v6-squad-black-7.jpg"
     ],
     "video": "https://www.youtube.com/embed/JuoFb7iu70M?si=ac7cW2F-rz1Sw5pp",
     "category": [
