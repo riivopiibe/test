@@ -9,20 +9,104 @@
     ],
     "specifications": [
       {
-        "title": "DESCRIPTION KOS S7 HESIT",
-        "description": "La nouvelle KOS S7 Heist est composée de pièces haut de gamme avec de nouveaux graphismes sur une finition de qualité."
+        "title": "TOOTEKIRJELDUS",
+        "description": "Drone Element 2 Feather-Light tõukeratas tähistab uut taset pargisõiduks mõeldud trikitõukerataste seas. See mudel on kergem, vastupidavam ja täpsemalt viimistletud kui eelkäijad. Iga komponent on hoolikalt optimeeritud, et pakkuda maksimaalset kontrolli ja sujuvust – ideaalne valik nii algajale kui ka kogenud sõitjale. Tänu oma ülikergele raamile ja täiustatud osadele sobib see skuuter nii parki, tänavale kui ka freestyle-sõiduks. Lisaks annavad elegantsed disainid ja professionaalsed detailid sellele mudelile unikaalse välimuse ja tippkvaliteedi tunde."
       },
       {
-        "title": "SPECS KOS S7 HEIST",
+        "title": "TEHNILISED ANDMED",
         "table": {
           "main": [
             {
-              "label": "Deck",
-              "value": "Aosv4 x kos deck 6061-t6 aluminium deck 533mm/21\"long x 130mmm/5.1\"wide"
+              "label": "Kaal",
+              "value": "2,95 kg"
             },
             {
-              "label": "Bars",
-              "value": "High density alu reaper v2 bar 650mm/25.6\"high 580mm/22.8wide"
+              "label": "Deck",
+              "value": "Element Feather-Light, 114 mm lai ja 483 mm pikk, 6061 T6 alumiinium"
+            },
+            {
+              "label": "Rattad",
+              "value": "Luxe 3 Dual Core, 110 mm, 88A PU"
+            },
+            {
+              "label": "Disain",
+              "value": "Ülemised ja alumised lõiked, kitsenevad otstest"
+            },
+            {
+              "label": "Fourche (kahvel)",
+              "value": "Feather-Light 6061 alumiinium, IHC"
+            },
+            {
+              "label": "Lenks",
+              "value": "Alumiinium, 610 mm kõrge, 570 mm lai (560 mm ilma otsikuteta)"
+            },
+            {
+              "label": "Lenksu kõrgus (kokku)",
+              "value": "85 cm"
+            },
+            {
+              "label": "Lenksu materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Lenksu väline läbimõõt",
+              "value": "34.9 mm"
+            },
+            {
+              "label": "Gripid",
+              "value": "Acolyte silikoonist gripid, 180 mm"
+            },
+            {
+              "label": "Pedaali nurk (headtube)",
+              "value": "83°"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermeta (non-threaded)"
+            },
+            {
+              "label": "Kokkusurumissüsteem",
+              "value": "IHC (Internal Hidden Compression)"
+            },
+            {
+              "label": "Pidur",
+              "value": "Drone Steel Feather-Light, flex fender tüüpi"
+            },
+            {
+              "label": "Laagrid",
+              "value": "Drone Ultra-Sonix Abec 9"
+            },
+            {
+              "label": "Klamber",
+              "value": "Solar 6061-T6 alumiinium, kahe poldiga"
+            },
+            {
+              "label": "Headset",
+              "value": "Drone Synergy 2"
+            },
+            {
+              "label": "Sõidustiil",
+              "value": "Freestyle, park, street"
+            },
+            {
+              "label": "Soovitatav vanus",
+              "value": "7+ (sobib ka 9–11, 11–13, 13–15, 15+ vanustele)"
+            },
+            {
+              "label": "Garantii",
+              "value": "12 kuud"
+            },
+            {
+              "label": "Värvivalikud",
+              "value": "Hõbedane (anodeeritud), must, suitsukroom, neokroom"
+            },
+            {
+              "label": "Ekstruusiooniprofiil",
+              "value": "PARK STRAIGHT"
+            },
+            {
+              "label": "Kokkupanek",
+              "value": "Osaliselt kokkupandud"
             }
           ]
         }
@@ -53,7 +137,32 @@
   {
     "id": "blunt-prodigy-x-must-oil-slick",
     "name": "Blunt Prodigy X - Must/Oil Slick",
-    "description": "Durable tire suitable for all road conditions.",
+    "description": [
+      "Drone Element 2 Feather-Light tõukeratas viib kergekaalulise freestyle-tõukeratta uuele tasemele. Selle täiustatud komponentide ja tugevdatud, samas ülikerge raamiga pakub see mudel maksimaalset kontrolli pargis ja tänaval.",
+      "Tänu 110 mm topelt-südamikuga ratastele, uuendatud Feather-Light kahvlile ja alumiiniumist lenksule sobib see tõukeratas igale trikihuvilisele - nii algajale kui ka edasijõudnule.",
+      "Kui otsid kerget, stiilset ja vastupidavat tõukeratast taskukohase hinnaga - see on just sulle."
+    ],
+    "specifications": [
+      {
+        "title": "DESCRIPTION KOS S7 HESIT",
+        "description": "La nouvelle KOS S7 Heist est composée de pièces haut de gamme avec de nouveaux graphismes sur une finition de qualité."
+      },
+      {
+        "title": "SPECS KOS S7 HEIST",
+        "table": {
+          "main": [
+            {
+              "label": "Deck",
+              "value": "Aosv4 x kos deck 6061-t6 aluminium deck 533mm/21\"long x 130mmm/5.1\"wide"
+            },
+            {
+              "label": "Bars",
+              "value": "High density alu reaper v2 bar 650mm/25.6\"high 580mm/22.8wide"
+            }
+          ]
+        }
+      }
+    ],
     "source_price": 110.0,
     "price": 239,
     "discounted_price": 229,
