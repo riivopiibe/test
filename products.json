@@ -2,7 +2,11 @@
   {
     "id": "toukeratas-drone-element-2-feather-light-hobedane",
     "name": "Drone Element 2 Feather-Light tõukeratas - hõbedane",
-    "description": "Drone Element 2 Feather-Light tõukeratas viib kergekaalulise freestyle-tõukeratta uuele tasemele. Selle täiustatud komponentide ja tugevdatud, samas ülikerge raamiga pakub see mudel maksimaalset kontrolli pargis ja tänaval.  \n\nTänu 110 mm topelt-südamikuga ratastele, uuendatud Feather-Light kahvlile ja alumiiniumist lenksule sobib see tõukeratas igale trikihuvilisele - nii algajale kui ka edasijõudnule.\\nKui otsid kerget, stiilset ja vastupidavat tõukeratast taskukohase hinnaga - see on just sulle.xd",
+    "description": [
+  "Drone Element 2 Feather-Light tõukeratas viib kergekaalulise freestyle-tõukeratta uuele tasemele. Selle täiustatud komponentide ja tugevdatud, samas ülikerge raamiga pakub see mudel maksimaalset kontrolli pargis ja tänaval.",
+  "Tänu 110 mm topelt-südamikuga ratastele, uuendatud Feather-Light kahvlile ja alumiiniumist lenksule sobib see tõukeratas igale trikihuvilisele - nii algajale kui ka edasijõudnule.",
+  "Kui otsid kerget, stiilset ja vastupidavat tõukeratast taskukohase hinnaga - see on just sulle."
+],
     "price": 279.95,
     "discounted_price": 259.95,
     "stock": 15,
@@ -280,20 +284,20 @@
     ]
   },
   {
-    "id": "blunt-kos-s7-charge",
-    "name": "Blunt AOS V5 Jonathan Perroni Signature 2022",
+    "id": "blunt-deck-aos-v5-signature-jonathan-perroni-2022",
+    "name": "Blunt AOS V5 Jonathan Perroni Signature 2022 v5",
     "description": "Durable tire suitable for all road conditions.",
-    "sprice": 155,
-    "price": 420,
-    "discounted_price": 410,
-    "stock": 10,
+    "sprice": 100,
+    "price": 235,
+    "discounted_price": 225,
+    "stock": 2,
     "images": [
       "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
     ],
     "category": [
-      "Tõuksid",
+      "Jupid",
       "Pro tase",
-      "Park"
+      "Tald"
     ],
     "brand": "Blunt",
     "tags": [
@@ -303,20 +307,20 @@
     ]
   },
   {
-    "id": "blunt-kos-s7-charge",
-    "name": "Blunt KOS S7 - Charge",
+    "id": "blunt-deck-aos-v6-squad-grey",
+    "name": "Blunt AOS V6 Squad - Grey",
     "description": "Durable tire suitable for all road conditions.",
-    "sprice": 155,
-    "price": 420,
-    "discounted_price": 410,
+    "sprice": 90,
+    "price": 200,
+    "discounted_price": 190,
     "stock": 10,
     "images": [
       "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
     ],
     "category": [
-      "Tõuksid",
+      "Jupid",
       "Pro tase",
-      "Park"
+      "Tald"
     ],
     "brand": "Blunt",
     "tags": [
@@ -326,20 +330,20 @@
     ]
   },
   {
-    "id": "blunt-kos-s7-charge",
-    "name": "Blunt KOS S7 - Charge",
+    "id": "blunt-deck-aos-v6-squad-black",
+    "name": "Blunt AOS V6 Squad - Black",
     "description": "Durable tire suitable for all road conditions.",
-    "sprice": 155,
-    "price": 420,
-    "discounted_price": 410,
+    "sprice": 90,
+    "price": 200,
+    "discounted_price": 190,
     "stock": 10,
     "images": [
       "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
     ],
     "category": [
-      "Tõuksid",
+      "Jupid",
       "Pro tase",
-      "Park"
+      "Tald"
     ],
     "brand": "Blunt",
     "tags": [
