@@ -2,7 +2,7 @@
   {
     "id": "toukeratas-drone-element-2-feather-light-hobedane",
     "name": "Drone Element 2 Feather-Light tõukeratas - hõbedane",
-    "description": "Drone Element 2 Feather-Light tõukeratas viib kergekaalulise freestyle-tõukeratta uuele tasemele. Selle täiustatud komponentide ja tugevdatud, samas ülikerge raamiga pakub see mudel maksimaalset kontrolli pargis ja tänaval.\\nTänu 110 mm topelt-südamikuga ratastele, uuendatud Feather-Light kahvlile ja alumiiniumist lenksule sobib see tõukeratas igale trikihuvilisele - nii algajale kui ka edasijõudnule.\\nKui otsid kerget, stiilset ja vastupidavat tõukeratast taskukohase hinnaga - see on just sulle.xd",
+    "description": "Drone Element 2 Feather-Light tõukeratas viib kergekaalulise freestyle-tõukeratta uuele tasemele. Selle täiustatud komponentide ja tugevdatud, samas ülikerge raamiga pakub see mudel maksimaalset kontrolli pargis ja tänaval.  \n\nTänu 110 mm topelt-südamikuga ratastele, uuendatud Feather-Light kahvlile ja alumiiniumist lenksule sobib see tõukeratas igale trikihuvilisele - nii algajale kui ka edasijõudnule.\\nKui otsid kerget, stiilset ja vastupidavat tõukeratast taskukohase hinnaga - see on just sulle.xd",
     "price": 279.95,
     "discounted_price": 259.95,
     "stock": 15,
@@ -42,18 +42,18 @@
     ]
   },
   {
-    "id": "tire-003",
-    "name": "All-Terrain Tire 12\"",
+    "id": "blunt-prodigy-x-must-oil-slick",
+    "name": "Blunt Prodigy X - Must/Oil Slick",
     "description": "Durable tire suitable for all road conditions.",
-    "price": 49.5,
-    "discounted_price": 30.0,
-    "stock": 2,
+    "sprice": 110,
+    "price": 239,
+    "discounted_price": 229,
+    "stock": 99,
     "images": [
-      "/images/moped-001.png",
-      "/images/moped-002.png"
+      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
     ],
-    "category": "Parts",
-    "brand": "AZTEK",
+    "category": "Pro tase",
+    "brand": "Blunt",
     "tags": [
       "tire",
       "durable",
@@ -61,18 +61,18 @@
     ]
   },
   {
-    "id": "tire-004",
-    "name": "All-Terrain Tire 12\"",
+    "id": "blunt-prodigy-x-oil-slick",
+    "name": "Blunt Prodigy X - Oil Slick",
     "description": "Durable tire suitable for all road conditions.",
-    "price": 49.5,
-    "discounted_price": 30.0,
-    "stock": 1,
+    "sprice": 110,
+    "price": 239,
+    "discounted_price": 229,
+    "stock": 99,
     "images": [
-      "/images/moped-001.png",
-      "/images/moped-002.png"
+      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
     ],
-    "category": "Parts",
-    "brand": "AZTEK",
+    "category": "Pro tase",
+    "brand": "Blunt",
     "tags": [
       "tire",
       "durable",
@@ -80,18 +80,117 @@
     ]
   },
   {
-    "id": "tire-005",
-    "name": "All-Terrain Tire 12\"",
+    "id": "blunt-prodigy-x-burnt-pipe",
+    "name": "Blunt Prodigy X - Burnt Pipe",
     "description": "Durable tire suitable for all road conditions.",
-    "price": 49.5,
-    "discounted_price": 30.0,
+    "sprice": 110,
+    "price": 239,
+    "discounted_price": 229,
+    "stock": 99,
+    "images": [
+      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
+    ],
+    "category": "Pro tase",
+    "brand": "Blunt",
+    "tags": [
+      "tire",
+      "durable",
+      "12inch"
+    ]
+  },
+  {
+    "id": "blunt-prodigy-x-kuldne",
+    "name": "Blunt Prodigy X - Kuldne",
+    "description": "Durable tire suitable for all road conditions.",
+    "sprice": 110,
+    "price": 239,
+    "discounted_price": 229,
+    "stock": 99,
+    "images": [
+      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
+    ],
+    "category": "Pro tase",
+    "brand": "Blunt",
+    "tags": [
+      "tire",
+      "durable",
+      "12inch"
+    ]
+  },
+  {
+    "id": "blunt-prodigy-x-sinine",
+    "name": "Blunt Prodigy X - Sinine",
+    "description": "Durable tire suitable for all road conditions.",
+    "sprice": 110,
+    "price": 239,
+    "discounted_price": 229,
+    "stock": 99,
+    "images": [
+      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
+    ],
+    "category": "Pro tase",
+    "brand": "Blunt",
+    "tags": [
+      "tire",
+      "durable",
+      "12inch"
+    ]
+  },
+  {
+    "id": "blunt-prodigy-x-street-must",
+    "name": "Blunt Prodigy X Street - Must",
+    "description": "Durable tire suitable for all road conditions.",
+    "sprice": 120,
+    "price": 249,
+    "discounted_price": 239,
     "stock": 0,
     "images": [
-      "/images/moped-001.png",
-      "/images/moped-002.png"
+      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
     ],
-    "category": "Parts",
-    "brand": "AZTEK",
+    "category": "Street",
+    "brand": "Blunt",
+    "tags": [
+      "tire",
+      "durable",
+      "12inch"
+    ]
+  },
+  {
+    "id": "blunt-prodigy-s9-oil-slick",
+    "name": "Blunt Prodigy S9 - Oil Slick",
+    "description": "Durable tire suitable for all road conditions.",
+    "sprice": 100,
+    "price": 239,
+    "discounted_price": 229,
+    "stock": 0,
+    "images": [
+      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
+    ],
+    "category": [
+      "Tõuksid",
+      "Pro tase",
+      "Park"
+    ]
+    "brand": "Blunt",
+    "tags": [
+      "tire",
+      "durable",
+      "12inch"
+    ]
+  },
+  {
+    "id": "blunt-prodigy-x-street-must",
+    "name": "Blunt Prodigy X Street - Must",
+    "description": "Durable tire suitable for all road conditions.",
+    "sprice": 120,
+    "price": 249,
+    "discounted_price": 239,
+    "stock": 0,
+    "images": [
+      "https://pro.sdg-distribution.com/media/catalog/product/cache/bd421f5f97671847b643f2aba2344928/4/e/4e6b8705477450bc1e129c36b6a5a22becd9b712_14992_2_1.jpg"
+    ],
+    "category": "Street",
+    "brand": "Blunt",
     "tags": [
       "tire",
       "durable",
