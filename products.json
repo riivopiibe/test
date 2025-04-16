@@ -7,29 +7,27 @@
       "Tänu 110 mm topelt-südamikuga ratastele, uuendatud Feather-Light kahvlile ja alumiiniumist lenksule sobib see tõukeratas igale trikihuvilisele - nii algajale kui ka edasijõudnule.",
       "Kui otsid kerget, stiilset ja vastupidavat tõukeratast taskukohase hinnaga - see on just sulle."
     ],
-    {
-      "specifications": [
-        {
-          "title": "DESCRIPTION KOS S7 HESIT",
-          "description": "La nouvelle KOS S7 Heist est composée de pièces haut de gamme avec de nouveaux graphismes sur une finition de qualité."
-        },
-        {
-          "title": "SPECS KOS S7 HEIST",
-          "table": {
-            "main": [
-              {
-                "label": "Deck",
-                "value": "Aosv4 x kos deck 6061-t6 aluminium deck 533mm/21\"long x 130mmm/5.1\"wide"
-              },
-              {
-                "label": "Bars",
-                "value": "High density alu reaper v2 bar 650mm/25.6\"high 580mm/22.8wide"
-              }
-            ]
-          }
+    "specifications": [
+      {
+        "title": "DESCRIPTION KOS S7 HESIT",
+        "description": "La nouvelle KOS S7 Heist est composée de pièces haut de gamme avec de nouveaux graphismes sur une finition de qualité."
+      },
+      {
+        "title": "SPECS KOS S7 HEIST",
+        "table": {
+          "main": [
+            {
+              "label": "Deck",
+              "value": "Aosv4 x kos deck 6061-t6 aluminium deck 533mm/21\"long x 130mmm/5.1\"wide"
+            },
+            {
+              "label": "Bars",
+              "value": "High density alu reaper v2 bar 650mm/25.6\"high 580mm/22.8wide"
+            }
+          ]
         }
-      ]
-    },
+      }
+    ],
     "source_price": 130.0,
     "price": 279.95,
     "discounted_price": 259.95,
