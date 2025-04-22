@@ -1,140 +1,5 @@
 [
   {
-    "id": "toukeratas-drone-element-2-feather-light-hobedane",
-    "name": "Drone E2 Feather-Light tõukeratas - hõbedane",
-    "description": [
-      "Drone Element 2 Feather-Light tõukeratas viib kergekaalulise freestyle-tõukeratta uuele tasemele. Selle täiustatud komponentide ja tugevdatud, samas ülikerge raamiga pakub see mudel maksimaalset kontrolli pargis ja tänaval.",
-      "Tänu 110 mm topelt-südamikuga ratastele, uuendatud Feather-Light kahvlile ja alumiiniumist lenksule sobib see tõukeratas igale trikihuvilisele - nii algajale kui ka edasijõudnule.",
-      "Kui otsid kerget, stiilset ja vastupidavat tõukeratast taskukohase hinnaga - see on just sulle."
-    ],
-    "specifications": [
-      {
-        "title": "TOOTEKIRJELDUS",
-        "description": "Drone Element 2 Feather-Light tõukeratas tähistab uut taset pargisõiduks mõeldud trikitõukerataste seas. See mudel on kergem, vastupidavam ja täpsemalt viimistletud kui eelkäijad. Iga komponent on hoolikalt optimeeritud, et pakkuda maksimaalset kontrolli ja sujuvust – ideaalne valik nii algajale kui ka kogenud sõitjale. Tänu oma ülikergele raamile ja täiustatud osadele sobib see skuuter nii parki, tänavale kui ka freestyle-sõiduks. Lisaks annavad elegantsed disainid ja professionaalsed detailid sellele mudelile unikaalse välimuse ja tippkvaliteedi tunde."
-      },
-      {
-        "title": "TEHNILISED ANDMED",
-        "table": {
-          "main": [
-            {
-              "label": "Kaal",
-              "value": "2,95 kg"
-            },
-            {
-              "label": "Deck",
-              "value": "Element Feather-Light, 114 mm lai ja 483 mm pikk, 6061 T6 alumiinium"
-            },
-            {
-              "label": "Rattad",
-              "value": "Luxe 3 Dual Core, 110 mm, 88A PU"
-            },
-            {
-              "label": "Disain",
-              "value": "Ülemised ja alumised lõiked, kitsenevad otstest"
-            },
-            {
-              "label": "Fourche (kahvel)",
-              "value": "Feather-Light 6061 alumiinium, IHC"
-            },
-            {
-              "label": "Lenks",
-              "value": "Alumiinium, 610 mm kõrge, 570 mm lai (560 mm ilma otsikuteta)"
-            },
-            {
-              "label": "Lenksu kõrgus (kokku)",
-              "value": "85 cm"
-            },
-            {
-              "label": "Lenksu materjal",
-              "value": "Alumiinium"
-            },
-            {
-              "label": "Lenksu väline läbimõõt",
-              "value": "34.9 mm"
-            },
-            {
-              "label": "Gripid",
-              "value": "Acolyte silikoonist gripid, 180 mm"
-            },
-            {
-              "label": "Pedaali nurk (headtube)",
-              "value": "83°"
-            },
-            {
-              "label": "Kahvli tüüp",
-              "value": "Keermeta (non-threaded)"
-            },
-            {
-              "label": "Kokkusurumissüsteem",
-              "value": "IHC (Internal Hidden Compression)"
-            },
-            {
-              "label": "Pidur",
-              "value": "Drone Steel Feather-Light, flex fender tüüpi"
-            },
-            {
-              "label": "Laagrid",
-              "value": "Drone Ultra-Sonix Abec 9"
-            },
-            {
-              "label": "Klamber",
-              "value": "Solar 6061-T6 alumiinium, kahe poldiga"
-            },
-            {
-              "label": "Headset",
-              "value": "Drone Synergy 2"
-            },
-            {
-              "label": "Sõidustiil",
-              "value": "Freestyle, park, street"
-            },
-            {
-              "label": "Soovitatav vanus",
-              "value": "7+ (sobib ka 9–11, 11–13, 13–15, 15+ vanustele)"
-            },
-            {
-              "label": "Garantii",
-              "value": "12 kuud"
-            },
-            {
-              "label": "Värvivalikud",
-              "value": "Hõbedane (anodeeritud), must, suitsukroom, neokroom"
-            },
-            {
-              "label": "Ekstruusiooniprofiil",
-              "value": "PARK STRAIGHT"
-            },
-            {
-              "label": "Kokkupanek",
-              "value": "Osaliselt kokkupandud"
-            }
-          ]
-        }
-      }
-    ],
-    "source_price": 130.0,
-    "price": 279.95,
-    "discounted_price": 259.95,
-    "stock": 11,
-    "images": [
-      "/products/drone-element-2-feather-light-hobedane-toukeratas-1.jpg",
-      "/products/drone-element-2-feather-light-hobedane-toukeratas-2.jpg",
-      "/products/drone-element-2-feather-light-hobedane-toukeratas-3.jpg"
-    ],
-    "video": "https://www.youtube.com/embed/6VNiykQ2YUw?si=HNzk-zXr8h3nbj93",
-    "category": [
-      "Tõuksid",
-      "Pro tase",
-      "Park"
-    ],
-    "brand": "Drone",
-    "tags": [
-      "Complete",
-      "IHC",
-      "Kerge"
-    ]
-  },
-  {
     "id": "blunt-prodigy-x-must-oil-slick",
     "name": "Blunt Prodigy X - Must/Oil Slick",
     "description": [
@@ -2200,6 +2065,5446 @@
       "tire",
       "durable",
       "12inch"
+    ]
+  },
+  {
+    "id": "antics-eclipse-sand-black",
+    "name": "Antics Eclipse - Sand/Black",
+    "description": [
+      "Eclipse sari pakub mitmeid komponente, mis teevad sellest ideaalse algajatele mõeldud täiskomplektse tõukeratta.",
+      "Kõige ülemises osas pakub Eclipse täiskomplekt 24-tollist (580 mm) kõrguse ja 23-tollist (520 mm) laiusega Antics alumiiniumist juhtrauda koos Antics Swirl käepidemete ja nailonist juhtraua otsadega.",
+      "Alumises osas sisaldab komplekt uut Antics Eclipse decki. 5-tollise (127 mm) laiuse ja 20,5-tollise (500 mm) pikkusega alumiiniumist deck pakub ideaalset tasakaalu kerguse ja mugavuse vahel."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "Antics Eclipse Sand/Black on täiskomplektne trikitõukeratas, mis on ideaalne algajatele ja edasijõudnutele. See pakub kerget konstruktsiooni, suurepärast juhitavust ning kvaliteetseid komponente, mis teevad selle täiuslikuks valikuks pargi sõidustiili jaoks. Liiva/musta värvikombinatsioon annab tõukerattale silmapaistva ja stiilse välimuse."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Kaal",
+              "value": "3400 g"
+            },
+            {
+              "label": "Decki pikkus",
+              "value": "500 mm (20,5 tolli)"
+            },
+            {
+              "label": "Decki laius",
+              "value": "127 mm (5 tolli)"
+            },
+            {
+              "label": "Juhtraua kõrgus",
+              "value": "580 mm (24 tolli)"
+            },
+            {
+              "label": "Juhtraua laius",
+              "value": "520 mm (23 tolli)"
+            },
+            {
+              "label": "Juhtraua läbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Kompressioonisüsteem",
+              "value": "SCS"
+            },
+            {
+              "label": "Rataste läbimõõt",
+              "value": "120 mm"
+            },
+            {
+              "label": "Juhtraua materjal",
+              "value": "Alumiinium 6061"
+            },
+            {
+              "label": "Rataste kõvadus",
+              "value": "88A"
+            },
+            {
+              "label": "Kahvel",
+              "value": "Antics alumiiniumkahvel - ühilduv 120 mm ratastega"
+            },
+            {
+              "label": "Klamber",
+              "value": "Antics 4-poldiga klamber - 6 mm poldid"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "89,5 cm"
+            },
+            {
+              "label": "Värv",
+              "value": "Liiv, Must"
+            },
+            {
+              "label": "Vorm",
+              "value": "Peg-cut"
+            },
+            {
+              "label": "Materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "32,34 mm"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermestamata"
+            },
+            {
+              "label": "Soovitatav vanus",
+              "value": "13-15 aastat"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "83°"
+            },
+            {
+              "label": "Garantii",
+              "value": "2 aastat"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Montaaž",
+              "value": "Osaline"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 90.0,
+    "price": 229.9,
+    "discounted_price": 190,
+    "stock": 99,
+    "images": [
+      "/products/antics-eclipse-sand-black-trikitoukeratas-alumiinium-120mm-1.png",
+      "/products/antics-eclipse-sand-black-trikitoukeratas-alumiinium-120mm-2.png",
+      "/products/antics-eclipse-sand-black-trikitoukeratas-alumiinium-120mm-3.png",
+      "/products/antics-eclipse-sand-black-trikitoukeratas-alumiinium-120mm-4.png",
+      "/products/antics-eclipse-sand-black-trikitoukeratas-alumiinium-120mm-5.png",
+      "/products/antics-eclipse-sand-black-trikitoukeratas-alumiinium-120mm-6.png"
+    ],
+    "video": "",
+    "category": [
+      "Komplektsed",
+      "Algaja tase",
+      "Tõukerattad"
+    ],
+    "brand": "Antics",
+    "tags": [
+      "trikitõukeratas",
+      "120mm",
+      "alumiinium",
+      "SCS",
+      "park"
+    ]
+  },
+  {
+    "id": "aztek-corsa-black",
+    "name": "AZTEK Corsa - Black",
+    "description": [
+      "See on AZTEK Corsa täiskomplektse tõukeratta uusim versioon.",
+      "See mudel on varustatud uute Architect 2 ratastega. Kerge kaal 2,8 kg võimaldab laia liikumisulatust ja suurepärast stabiilsust.",
+      "AZTEK Corsa on ideaalne valik sõitjatele, kes otsivad kvaliteetset, kuid kergekaalulist tõukeratast pargi sõidustiili jaoks."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "AZTEK Corsa Black on professionaalne täiskomplektne trikitõukeratas, mis on loodud pakkuma maksimaalset jõudlust kõige nõudlikumatele sõitjatele. Selle ülimalt kerge konstruktsioon kaaluga vaid 2,8 kg muudab selle ideaalseks keerukamate trikkide sooritamiseks, pakkudes samal ajal erakordset vastupidavust igapäevaseks kasutamiseks."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Decki mõõdud",
+              "value": "4,8\" x 19,5\" (122 mm x 495 mm)"
+            },
+            {
+              "label": "Juhtraud",
+              "value": "Odyssey alumiiniumist 24\" x 22\" (600 mm x 560 mm)"
+            },
+            {
+              "label": "Kompressioonisüsteem",
+              "value": "SCS"
+            },
+            {
+              "label": "Kahvel",
+              "value": "Circa 2"
+            },
+            {
+              "label": "Rattad",
+              "value": "Architect 2 110 mm"
+            },
+            {
+              "label": "Käepidemed",
+              "value": "Aztek Lite"
+            },
+            {
+              "label": "Kaal",
+              "value": "2,8 kg"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "85 cm"
+            },
+            {
+              "label": "Värv",
+              "value": "Must"
+            },
+            {
+              "label": "Vorm",
+              "value": "Peg-cut"
+            },
+            {
+              "label": "Materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Rataste läbimõõt",
+              "value": "110 mm"
+            },
+            {
+              "label": "Kasutusala",
+              "value": "Park"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "32,34 mm"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermestamata"
+            },
+            {
+              "label": "Soovitatav vanus",
+              "value": "13-15 aastat"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "83°"
+            },
+            {
+              "label": "Garantii",
+              "value": "2 aastat"
+            },
+            {
+              "label": "Juhtraua materjal",
+              "value": "Chromoly teras"
+            },
+            {
+              "label": "Juhtraua kõrgus",
+              "value": "600 mm"
+            },
+            {
+              "label": "Juhtraua läbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Montaaž",
+              "value": "Osaline"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 120.0,
+    "price": 279.9,
+    "discounted_price": 249.9,
+    "stock": 51,
+    "images": [
+      "/products/aztek-corsa-black-trikitoukeratas-110mm-kerge-park-1.png",
+      "/products/aztek-corsa-black-trikitoukeratas-110mm-kerge-park-2.png",
+      "/products/aztek-corsa-black-trikitoukeratas-110mm-kerge-park-3.png",
+      "/products/aztek-corsa-black-trikitoukeratas-110mm-kerge-park-4.png",
+      "/products/aztek-corsa-black-trikitoukeratas-110mm-kerge-park-5.png"
+    ],
+    "video": "",
+    "category": [
+      "Komplektsed",
+      "Pro tase",
+      "Tõukerattad"
+    ],
+    "brand": "AZTEK",
+    "tags": [
+      "kerge",
+      "110mm",
+      "park",
+      "SCS",
+      "professionaalne"
+    ]
+  },
+  {
+    "id": "aztek-corsa-blue",
+    "name": "AZTEK Corsa - Blue",
+    "description": [
+      "Tutvustame AZTEK Corsa täiskomplektse trikitõukeratta uusimat versiooni.",
+      "See sinine mudel on varustatud innovaatiliste Architect 2 ratastega. Ülimalt kerge konstruktsioon kaaluga vaid 2,8 kg tagab suurepärase manööverdamisvõime ja stabiilsuse.",
+      "AZTEK Corsa sinine mudel on suurepärane valik kogenud sõitjatele, kes hindavad kõrget kvaliteeti ja dünaamilist sõiduelamust pargi stiilis sõitmisel."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "AZTEK Corsa Blue on tipptasemel täiskomplektne trikitõukeratas, mis on disainitud pakkumaks maksimaalset jõudlust ja vastupidavust. Silmatorkav sinine värv lisab tõukerattale kaasaegset ja dünaamilist ilmet. Selle ülimalt kerge konstruktsioon muudab trikitõukeratta ideaalseks valikuks nii algajatele kui ka kogenud sõitjatele, kes soovivad oma oskusi arendada."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Decki mõõdud",
+              "value": "4,8\" x 19,5\" (122 mm x 495 mm)"
+            },
+            {
+              "label": "Juhtraud",
+              "value": "Odyssey alumiiniumist 24\" x 22\" (600 mm x 560 mm)"
+            },
+            {
+              "label": "Kompressioonisüsteem",
+              "value": "SCS"
+            },
+            {
+              "label": "Kahvel",
+              "value": "Circa 2"
+            },
+            {
+              "label": "Rattad",
+              "value": "Architect 2 110 mm"
+            },
+            {
+              "label": "Käepidemed",
+              "value": "Aztek Lite"
+            },
+            {
+              "label": "Kaal",
+              "value": "2,8 kg"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "85 cm"
+            },
+            {
+              "label": "Värv",
+              "value": "Sinine"
+            },
+            {
+              "label": "Vorm",
+              "value": "Peg-cut"
+            },
+            {
+              "label": "Materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Rataste läbimõõt",
+              "value": "110 mm"
+            },
+            {
+              "label": "Kasutusala",
+              "value": "Park"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "32,34 mm"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermestamata"
+            },
+            {
+              "label": "Soovitatav vanus",
+              "value": "13-15 aastat"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "83°"
+            },
+            {
+              "label": "Garantii",
+              "value": "2 aastat"
+            },
+            {
+              "label": "Juhtraua materjal",
+              "value": "Chromoly teras"
+            },
+            {
+              "label": "Juhtraua kõrgus",
+              "value": "600 mm"
+            },
+            {
+              "label": "Juhtraua läbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Montaaž",
+              "value": "Osaline"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 120.0,
+    "price": 279.9,
+    "discounted_price": 249.9,
+    "stock": 24,
+    "images": [
+      "/products/aztek-corsa-blue-trikitoukeratas-110mm-sinine-kerge-1.png",
+      "/products/aztek-corsa-blue-trikitoukeratas-110mm-sinine-kerge-2.png",
+      "/products/aztek-corsa-blue-trikitoukeratas-110mm-sinine-kerge-3.png",
+      "/products/aztek-corsa-blue-trikitoukeratas-110mm-sinine-kerge-4.png",
+      "/products/aztek-corsa-blue-trikitoukeratas-110mm-sinine-kerge-5.png"
+    ],
+    "video": "",
+    "category": [
+      "Komplektsed",
+      "Pro tase",
+      "Tõukerattad"
+    ],
+    "brand": "AZTEK",
+    "tags": [
+      "sinine",
+      "110mm",
+      "park",
+      "SCS",
+      "kerge"
+    ]
+  },
+  {
+    "id": "aztek-siren-black",
+    "name": "AZTEK Siren - Black",
+    "description": [
+      "Tutvustame AZTEK Siren täiskomplektse trikitõukeratta uusimat versiooni.",
+      "See on varustatud uute Architect 2 XL (115 x 30 mm) ratastega, Siren 6\" x 22\" (150 x 558 mm) deckega, 27\" x 24\" chromoly juhtrauaga ja sepistatud keermestamata kahvliga.",
+      "AZTEK Siren must mudel on ideaalne valik edasijõudnud sõitjatele, kes otsivad kvaliteetset, vastupidavat ja suurepärase juhitavusega tõukeratast pargi sõidustiili jaoks."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "AZTEK Siren Black on professionaalne täiskomplektne trikitõukeratas, mis on loodud pakkuma maksimaalset jõudlust ja kontrolli. Selle laiem deck ja kõrgem juhtraud muudavad selle ideaalseks valikuks kogenud sõitjatele, kes soovivad oma oskusi viia järgmisele tasemele. Klassikaline must disain annab tõukerattale ajatu ja stiilse välimuse."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Decki mõõdud",
+              "value": "6,0\" x 22\" (150 mm x 558 mm)"
+            },
+            {
+              "label": "Juhtraud",
+              "value": "Chromoly 27\" x 24\" (680 mm x 610 mm)"
+            },
+            {
+              "label": "Kompressioonisüsteem",
+              "value": "SCS"
+            },
+            {
+              "label": "Kahvel",
+              "value": "Sepistatud kerge alumiiniumkahvel"
+            },
+            {
+              "label": "Rattad",
+              "value": "Architect 2 XL 115 x 30 mm"
+            },
+            {
+              "label": "Käepidemed",
+              "value": "Aztek Lite"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "94 cm"
+            },
+            {
+              "label": "Värv",
+              "value": "Must"
+            },
+            {
+              "label": "Vorm",
+              "value": "Box-cut"
+            },
+            {
+              "label": "Materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Rataste läbimõõt",
+              "value": "115 mm"
+            },
+            {
+              "label": "Kasutusala",
+              "value": "Park"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "32,34 mm"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermestamata"
+            },
+            {
+              "label": "Soovitatav vanus",
+              "value": "15 aastat ja vanemad"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "83°"
+            },
+            {
+              "label": "Garantii",
+              "value": "2 aastat"
+            },
+            {
+              "label": "Juhtraua materjal",
+              "value": "Chromoly teras"
+            },
+            {
+              "label": "Juhtraua kõrgus",
+              "value": "680 mm"
+            },
+            {
+              "label": "Juhtraua läbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Montaaž",
+              "value": "Osaline"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 120.0,
+    "price": 269.9,
+    "discounted_price": 249.9,
+    "stock": 85,
+    "images": [
+      "/products/aztek-siren-black-trikitoukeratas-115mm-professionaalne-1.png",
+      "/products/aztek-siren-black-trikitoukeratas-115mm-professionaalne-2.png",
+      "/products/aztek-siren-black-trikitoukeratas-115mm-professionaalne-3.png",
+      "/products/aztek-siren-black-trikitoukeratas-115mm-professionaalne-4.png",
+      "/products/aztek-siren-black-trikitoukeratas-115mm-professionaalne-5.png"
+    ],
+    "video": "",
+    "category": [
+      "Komplektsed",
+      "Pro tase",
+      "Tõukerattad"
+    ],
+    "brand": "AZTEK",
+    "tags": [
+      "115mm",
+      "park",
+      "SCS",
+      "box-cut",
+      "professionaalne"
+    ]
+  },
+  {
+    "id": "aztek-siren-gray",
+    "name": "AZTEK Siren - Gray",
+    "description": [
+      "Tutvustame AZTEK Siren täiskomplektse trikitõukeratta uusimat versiooni halliks värvitud disainiga.",
+      "See on varustatud eriliste Architect 2 XL (115 x 30 mm) ratastega, ruumika Siren 6\" x 22\" (150 x 558 mm) deckega, vastupidava 27\" x 24\" chromoly juhtrauaga ja kvaliteetse sepistatud keermestamata kahvliga.",
+      "AZTEK Siren hall mudel on suurepärane valik tõsistele trikisõitjatele, kes hindavad tipptasemel komponente, avaramat sõiduplatvormi ja elegantset halli värvitooni."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "AZTEK Siren Gray on kõrgekvaliteediline täiskomplektne trikitõukeratas, mis on disainitud pakkuma parimat sõidukogemust. Selle laiem deck annab rohkem ruumi jalgadele ning kõrgem juhtraud võimaldab paremat kontrolli trikkide sooritamisel. Modernne hall värvitoon lisab tõukerattale kaasaegset ja peent välimust, mis eristub teistest mudelitest."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Decki mõõdud",
+              "value": "6,0\" x 22\" (150 mm x 558 mm)"
+            },
+            {
+              "label": "Juhtraud",
+              "value": "Chromoly 27\" x 24\" (680 mm x 610 mm)"
+            },
+            {
+              "label": "Kompressioonisüsteem",
+              "value": "SCS"
+            },
+            {
+              "label": "Kahvel",
+              "value": "Sepistatud kerge alumiiniumkahvel"
+            },
+            {
+              "label": "Rattad",
+              "value": "Architect 2 XL 115 x 30 mm"
+            },
+            {
+              "label": "Käepidemed",
+              "value": "Aztek Lite"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "94 cm"
+            },
+            {
+              "label": "Värv",
+              "value": "Hall"
+            },
+            {
+              "label": "Vorm",
+              "value": "Box-cut"
+            },
+            {
+              "label": "Materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Rataste läbimõõt",
+              "value": "115 mm"
+            },
+            {
+              "label": "Kasutusala",
+              "value": "Park"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "32,34 mm"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermestamata"
+            },
+            {
+              "label": "Soovitatav vanus",
+              "value": "15 aastat ja vanemad"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "83°"
+            },
+            {
+              "label": "Garantii",
+              "value": "2 aastat"
+            },
+            {
+              "label": "Juhtraua materjal",
+              "value": "Chromoly teras"
+            },
+            {
+              "label": "Juhtraua kõrgus",
+              "value": "680 mm"
+            },
+            {
+              "label": "Juhtraua läbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Montaaž",
+              "value": "Osaline"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 120.0,
+    "price": 269.9,
+    "discounted_price": 249.9,
+    "stock": 27,
+    "images": [
+      "/products/aztek-siren-gray-trikitoukeratas-115mm-hall-kvaliteetne-1.png",
+      "/products/aztek-siren-gray-trikitoukeratas-115mm-hall-kvaliteetne-2.png",
+      "/products/aztek-siren-gray-trikitoukeratas-115mm-hall-kvaliteetne-3.png",
+      "/products/aztek-siren-gray-trikitoukeratas-115mm-hall-kvaliteetne-4.png",
+      "/products/aztek-siren-gray-trikitoukeratas-115mm-hall-kvaliteetne-5.png"
+    ],
+    "video": "",
+    "category": [
+      "Komplektsed",
+      "Pro tase",
+      "Tõukerattad"
+    ],
+    "brand": "AZTEK",
+    "tags": [
+      "hall",
+      "115mm",
+      "park",
+      "SCS",
+      "box-cut"
+    ]
+  },
+  {
+    "id": "aztek-siren-zircon-sand",
+    "name": "AZTEK Siren - Zircon Sand",
+    "description": [
+      "Tutvustame AZTEK Siren täiskomplektset trikitõukeratast eksklusiivselt Zircon Sand värvitooniga.",
+      "See on varustatud laiade Architect 2 XL (115 x 30 mm) ratastega, avarama 6\" x 22\" (15,2 cm x 55,8 cm) Siren deckega, kõrge 27\" x 24\" 4130 Chromoly juhtrauaga ja kvaliteetse sepistatud alumiiniumkahvliga.",
+      "AZTEK Siren Zircon Sand on mõeldud nõudlikule sõitjale, kes hindab nii välimust kui ka funktsionaalsust. GFR nailonist peg-sisendid lisavad vastupidavust pikemaks kasutusajaks."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "AZTEK Siren Zircon Sand on kõrgekvaliteediline täiskomplektne trikitõukeratas, mis paistab silma unikaalse liivakollase värvitooniga. See on loodud pakkuma parimat sõidukogemust igale vanusegrupile, alates algajatest kuni professionaalsete sõitjateni. Avarama decki ja kõrgema juhtrauaga disain tagab parema tasakaalu ja kontrolli trikkide sooritamisel."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Decki mõõdud",
+              "value": "6,0\" x 22\" (15,2 cm x 55,8 cm)"
+            },
+            {
+              "label": "Peg-sisendid",
+              "value": "GFR nailonist"
+            },
+            {
+              "label": "Juhtraud",
+              "value": "27\" x 24\" 4130 Chromoly (68 cm x 61 cm, koos SCS kõrgusega)"
+            },
+            {
+              "label": "Kompressioonisüsteem",
+              "value": "SCS"
+            },
+            {
+              "label": "Kahvel",
+              "value": "Sepistatud kerge alumiiniumkahvel"
+            },
+            {
+              "label": "Rattad",
+              "value": "115 x 30 mm Architect 2 XL"
+            },
+            {
+              "label": "Käepidemed",
+              "value": "Aztek Lite"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "94 cm"
+            },
+            {
+              "label": "Värv",
+              "value": "Zircon Sand (kollane)"
+            },
+            {
+              "label": "Vorm",
+              "value": "Box-cut"
+            },
+            {
+              "label": "Materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Rataste läbimõõt",
+              "value": "115 mm"
+            },
+            {
+              "label": "Kasutusala",
+              "value": "Park"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "32,34 mm"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermestamata"
+            },
+            {
+              "label": "Soovitatav vanus",
+              "value": "7-15+ aastat"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "83°"
+            },
+            {
+              "label": "Garantii",
+              "value": "24 kuud"
+            },
+            {
+              "label": "Juhtraua materjal",
+              "value": "Chromoly teras"
+            },
+            {
+              "label": "Juhtraua kõrgus",
+              "value": "68 cm"
+            },
+            {
+              "label": "Juhtraua läbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Montaaž",
+              "value": "Osaline"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 120.0,
+    "price": 269.9,
+    "discounted_price": 249.9,
+    "stock": 83,
+    "images": [
+      "/products/aztek-siren-zircon-sand-trikitoukeratas-115mm-kollane-1.jpg",
+      "/products/aztek-siren-zircon-sand-trikitoukeratas-115mm-kollane-2.jpg",
+      "/products/aztek-siren-zircon-sand-trikitoukeratas-115mm-kollane-3.jpg",
+      "/products/aztek-siren-zircon-sand-trikitoukeratas-115mm-kollane-4.jpg",
+      "/products/aztek-siren-zircon-sand-trikitoukeratas-115mm-kollane-5.jpg"
+    ],
+    "video": "",
+    "category": [
+      "Komplektsed",
+      "Pro tase",
+      "Tõukerattad"
+    ],
+    "brand": "AZTEK",
+    "tags": [
+      "kollane",
+      "115mm",
+      "park",
+      "SCS",
+      "box-cut"
+    ]
+  },
+  {
+    "id": "aztek-fountain-black",
+    "name": "AZTEK Fountain - Black",
+    "description": [
+      "Tutvustame AZTEK Fountain täiskomplektse trikitõukeratta uusimat versiooni.",
+      "Fountain komplektne tõukeratas on AZTEK-i kõige uuem mudel. See on varustatud 5,5\" x 21\" (127 mm x 533 mm) deckega, millel on täielikult ekstrudeeritud juhttoru ja massiivalumiiniumist jalad. Täiendatud 3D sepistatud alumiiniumkahvli, Apollo sulamist juhtraua ja SCS kompressiooniga sobib see tõukeratas igale vanusele.",
+      "AZTEK Fountain must mudel on ideaalne valik sõitjatele, kes otsivad universaalset ja vastupidavat trikitõukeratast pargi sõidustiili jaoks."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "AZTEK Fountain Black on mitmekülgne täiskomplektne trikitõukeratas, mis on loodud pakkuma suurepärast tasakaalu jõudluse ja vastupidavuse vahel. Selle keskmise suurusega deck ja optimaalse kõrgusega juhtraud teevad sellest ideaalse valiku nii algajatele kui ka edasijõudnud sõitjatele. Elegantne must disain annab tõukerattale klassikalise ja ajatu välimuse."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Decki mõõdud",
+              "value": "5,5\" x 21\" (127 mm x 533 mm)"
+            },
+            {
+              "label": "Jalad",
+              "value": "Alumiiniumist sisendid"
+            },
+            {
+              "label": "Juhtraud",
+              "value": "Apollo sulamist 26\" x 22\" (660 mm x 560 mm)"
+            },
+            {
+              "label": "Kompressioonisüsteem",
+              "value": "SCS"
+            },
+            {
+              "label": "Kahvel",
+              "value": "3D sepistatud alumiiniumkahvel"
+            },
+            {
+              "label": "Rattad",
+              "value": "Architect 2 110 mm"
+            },
+            {
+              "label": "Käepidemed",
+              "value": "Aztek Lite"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "89 cm"
+            },
+            {
+              "label": "Värv",
+              "value": "Must"
+            },
+            {
+              "label": "Vorm",
+              "value": "Box-cut"
+            },
+            {
+              "label": "Materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Rataste läbimõõt",
+              "value": "110 mm"
+            },
+            {
+              "label": "Kasutusala",
+              "value": "Park"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "32,34 mm"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermestamata"
+            },
+            {
+              "label": "Soovitatav vanus",
+              "value": "13-15 aastat"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "83°"
+            },
+            {
+              "label": "Garantii",
+              "value": "2 aastat"
+            },
+            {
+              "label": "Juhtraua materjal",
+              "value": "Chromoly teras"
+            },
+            {
+              "label": "Juhtraua kõrgus",
+              "value": "660 mm"
+            },
+            {
+              "label": "Juhtraua läbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Montaaž",
+              "value": "Osaline"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 100.0,
+    "price": 229.9,
+    "discounted_price": 209.9,
+    "stock": 26,
+    "images": [
+      "/products/aztek-fountain-black-trikitoukeratas-110mm-alumiinium-1.jpg",
+      "/products/aztek-fountain-black-trikitoukeratas-110mm-alumiinium-2.jpg",
+      "/products/aztek-fountain-black-trikitoukeratas-110mm-alumiinium-3.jpg",
+      "/products/aztek-fountain-black-trikitoukeratas-110mm-alumiinium-4.jpg",
+      "/products/aztek-fountain-black-trikitoukeratas-110mm-alumiinium-5.jpg"
+    ],
+    "video": "",
+    "category": [
+      "Komplektsed",
+      "Kesktase",
+      "Tõukerattad"
+    ],
+    "brand": "AZTEK",
+    "tags": [
+      "110mm",
+      "park",
+      "SCS",
+      "box-cut",
+      "universaalne"
+    ]
+  },
+  {
+    "id": "aztek-fountain-gray",
+    "name": "AZTEK Fountain - Gray",
+    "description": [
+      "Tutvustame AZTEK Fountain täiskomplektse trikitõukeratta uusimat versiooni halli värvitooniga.",
+      "Fountain komplektne tõukeratas on AZTEK-i kaasaegne mudel. See on varustatud 5,5\" x 21\" (127 mm x 533 mm) deckega, millel on täielikult ekstrudeeritud juhttoru ja vastupidavast alumiiniumist jalad. Kombineerituna 3D sepistatud alumiiniumkahvli, Apollo sulamist juhtraua ja SCS kompressioonisüsteemiga pakub see tõukeratas suurepärast jõudlust igale vanusegrupile.",
+      "AZTEK Fountain hall mudel on stiilne ja mitmekülgne valik, mis sobib suurepäraselt pargi sõidustiili harrastajatele, kes hindavad kaasaegset disaini ja kvaliteetseid komponente."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "AZTEK Fountain Gray on kõrgekvaliteediline täiskomplektne trikitõukeratas, mis paistab silma elegantse halli värvitooniga. See on loodud pakkuma ideaalset tasakaalu manööverdamisvõime ja stabiilsuse vahel. Tänu oma optimaalsetele mõõtmetele ja kaalule sobib see tõukeratas suurepäraselt nii algajatele kui ka edasijõudnud sõitjatele, võimaldades sooritada erinevaid trikke pargi keskkonnas."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Decki mõõdud",
+              "value": "5,5\" x 21\" (127 mm x 533 mm)"
+            },
+            {
+              "label": "Jalad",
+              "value": "Alumiiniumist sisendid"
+            },
+            {
+              "label": "Juhtraud",
+              "value": "Apollo sulamist 26\" x 22\" (660 mm x 560 mm)"
+            },
+            {
+              "label": "Kompressioonisüsteem",
+              "value": "SCS"
+            },
+            {
+              "label": "Kahvel",
+              "value": "3D sepistatud alumiiniumkahvel"
+            },
+            {
+              "label": "Rattad",
+              "value": "Architect 2 110 mm"
+            },
+            {
+              "label": "Käepidemed",
+              "value": "Aztek Lite"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "89 cm"
+            },
+            {
+              "label": "Värv",
+              "value": "Hall"
+            },
+            {
+              "label": "Vorm",
+              "value": "Box-cut"
+            },
+            {
+              "label": "Materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Rataste läbimõõt",
+              "value": "110 mm"
+            },
+            {
+              "label": "Kasutusala",
+              "value": "Park"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "32,34 mm"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermestamata"
+            },
+            {
+              "label": "Soovitatav vanus",
+              "value": "13-15 aastat"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "83°"
+            },
+            {
+              "label": "Garantii",
+              "value": "2 aastat"
+            },
+            {
+              "label": "Juhtraua materjal",
+              "value": "Chromoly teras"
+            },
+            {
+              "label": "Juhtraua kõrgus",
+              "value": "660 mm"
+            },
+            {
+              "label": "Juhtraua läbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Montaaž",
+              "value": "Osaline"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 100.0,
+    "price": 229.9,
+    "discounted_price": 209.9,
+    "stock": 33,
+    "images": [
+      "/products/aztek-fountain-gray-trikitoukeratas-110mm-hall-kvaliteetne-1.jpg",
+      "/products/aztek-fountain-gray-trikitoukeratas-110mm-hall-kvaliteetne-2.jpg",
+      "/products/aztek-fountain-gray-trikitoukeratas-110mm-hall-kvaliteetne-3.jpg",
+      "/products/aztek-fountain-gray-trikitoukeratas-110mm-hall-kvaliteetne-4.jpg",
+      "/products/aztek-fountain-gray-trikitoukeratas-110mm-hall-kvaliteetne-5.jpg"
+    ],
+    "video": "",
+    "category": [
+      "Komplektsed",
+      "Kesktase",
+      "Tõukerattad"
+    ],
+    "brand": "AZTEK",
+    "tags": [
+      "hall",
+      "110mm",
+      "park",
+      "SCS",
+      "box-cut"
+    ]
+  },
+  {
+    "id": "aztek-architect-black",
+    "name": "AZTEK Architect - Black",
+    "description": [
+      "Tutvustame AZTEK Architect täiskomplektse trikitõukeratta uusimat versiooni.",
+      "Architect Complete on AZTEK-i uusim sisenemistaseme trikitõukeratta mudel. See on varustatud 5,5\" x 21\" (127 mm x 533 mm) kerge deckega.",
+      "Chromoly juhtraud ja kahvel ning 110 mm kõrge põrkuvusega rattad taluvad kõiki koormusi. SCS kompressioonisüsteem hoiab kõik komponendid kindlalt paigas, tagades stabiilse sõidukogemuse."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "AZTEK Architect Black on suurepärane sisenemistaseme täiskomplektne trikitõukeratas, mis on ideaalne algajatele ja kesktaseme sõitjatele. See on loodud pakkuma usaldusväärset jõudlust ja vastupidavust soodsa hinnaga. Klassikaline must disain sobib igale sõitjale, pakkudes ajatut ja universaalset välimust."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Decki mõõdud",
+              "value": "5,5\" x 21\" (127 mm x 533 mm)"
+            },
+            {
+              "label": "Jalad",
+              "value": "Vastupidavad nailonist sisendid"
+            },
+            {
+              "label": "Juhtraud",
+              "value": "26\" x 22\" (660 mm x 560 mm) Chromoly T-Bars"
+            },
+            {
+              "label": "Kompressioonisüsteem",
+              "value": "SCS"
+            },
+            {
+              "label": "Kahvel",
+              "value": "Valatud kroomkahvel"
+            },
+            {
+              "label": "Rattad",
+              "value": "Architect 2 110 mm"
+            },
+            {
+              "label": "Käepidemed",
+              "value": "Aztek Lite"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "88 cm"
+            },
+            {
+              "label": "Värv",
+              "value": "Must"
+            },
+            {
+              "label": "Vorm",
+              "value": "Box-cut"
+            },
+            {
+              "label": "Materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Rataste läbimõõt",
+              "value": "110 mm"
+            },
+            {
+              "label": "Kasutusala",
+              "value": "Park"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "32,34 mm"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermestamata"
+            },
+            {
+              "label": "Soovitatav vanus",
+              "value": "13-15 aastat"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "83°"
+            },
+            {
+              "label": "Garantii",
+              "value": "2 aastat"
+            },
+            {
+              "label": "Juhtraua materjal",
+              "value": "Chromoly teras"
+            },
+            {
+              "label": "Juhtraua kõrgus",
+              "value": "660 mm"
+            },
+            {
+              "label": "Juhtraua läbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Montaaž",
+              "value": "Osaline"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 90.0,
+    "price": 199.9,
+    "discounted_price": 179.9,
+    "stock": 99,
+    "images": [
+      "/products/aztek-architect-black-trikitoukeratas-110mm-algaja-1.png",
+      "/products/aztek-architect-black-trikitoukeratas-110mm-algaja-2.png",
+      "/products/aztek-architect-black-trikitoukeratas-110mm-algaja-3.png",
+      "/products/aztek-architect-black-trikitoukeratas-110mm-algaja-4.png",
+      "/products/aztek-architect-black-trikitoukeratas-110mm-algaja-5.png"
+    ],
+    "video": "",
+    "category": [
+      "Komplektsed",
+      "Algaja tase",
+      "Tõukerattad"
+    ],
+    "brand": "AZTEK",
+    "tags": [
+      "110mm",
+      "park",
+      "SCS",
+      "box-cut",
+      "algaja"
+    ]
+  },
+  {
+    "id": "aztek-architect-silver",
+    "name": "AZTEK Architect - Silver",
+    "description": [
+      "Tutvustame AZTEK Architect täiskomplektse trikitõukeratta uusimat versiooni hõbedases toonis.",
+      "Architect Complete on AZTEK-i uusim sisenemistaseme trikitõukeratta mudel. See on varustatud 5,5\" x 21\" (127 mm x 533 mm) kerge deckega, mis on ideaalne algajatele pargi sõidustiili harrastajatele.",
+      "Vastupidav Chromoly juhtraud ja kahvel ning 110 mm kõrge põrkuvusega rattad tagavad pikaajalise kasutuskindluse. SCS kompressioonisüsteem hoiab kõik komponendid turvaliselt koos, pakkudes stabiilset ja nauditavat sõidukogemust."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "AZTEK Architect Silver on kvaliteetne sisenemistaseme täiskomplektne trikitõukeratas, mis paistab silma elegantse hõbedase ja musta värvikombinatsiooniga. See on loodud pakkuma suurepärast jõudlust ja vastupidavust soodsa hinnaga. Tänu oma optimaalsele suurusele ja kaalule sobib see ideaalselt algajatele ja kesktaseme sõitjatele, kes soovivad arendada oma oskusi pargi keskkonnas."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Decki mõõdud",
+              "value": "5,5\" x 21\" (127 mm x 533 mm)"
+            },
+            {
+              "label": "Jalad",
+              "value": "Vastupidavad nailonist sisendid"
+            },
+            {
+              "label": "Juhtraud",
+              "value": "26\" x 22\" (660 mm x 560 mm) Chromoly T-Bars"
+            },
+            {
+              "label": "Kompressioonisüsteem",
+              "value": "SCS"
+            },
+            {
+              "label": "Kahvel",
+              "value": "Valatud kroomkahvel"
+            },
+            {
+              "label": "Rattad",
+              "value": "Architect 2 110 mm"
+            },
+            {
+              "label": "Käepidemed",
+              "value": "Aztek Lite"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "88 cm"
+            },
+            {
+              "label": "Värv",
+              "value": "Hõbedane, Must"
+            },
+            {
+              "label": "Vorm",
+              "value": "Box-cut"
+            },
+            {
+              "label": "Materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Rataste läbimõõt",
+              "value": "110 mm"
+            },
+            {
+              "label": "Kasutusala",
+              "value": "Park"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "32,34 mm"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermestamata"
+            },
+            {
+              "label": "Soovitatav vanus",
+              "value": "13-15 aastat"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "83°"
+            },
+            {
+              "label": "Garantii",
+              "value": "2 aastat"
+            },
+            {
+              "label": "Juhtraua materjal",
+              "value": "Chromoly teras"
+            },
+            {
+              "label": "Juhtraua kõrgus",
+              "value": "660 mm"
+            },
+            {
+              "label": "Juhtraua läbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Montaaž",
+              "value": "Osaline"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 90.0,
+    "price": 199.9,
+    "discounted_price": 179.9,
+    "stock": 99,
+    "images": [
+      "/products/aztek-architect-silver-trikitoukeratas-110mm-hobedane-algaja-1.png",
+      "/products/aztek-architect-silver-trikitoukeratas-110mm-hobedane-algaja-2.png",
+      "/products/aztek-architect-silver-trikitoukeratas-110mm-hobedane-algaja-3.png",
+      "/products/aztek-architect-silver-trikitoukeratas-110mm-hobedane-algaja-4.png",
+      "/products/aztek-architect-silver-trikitoukeratas-110mm-hobedane-algaja-5.png"
+    ],
+    "video": "",
+    "category": [
+      "Komplektsed",
+      "Algaja tase",
+      "Tõukerattad"
+    ],
+    "brand": "AZTEK",
+    "tags": [
+      "hõbedane",
+      "110mm",
+      "park",
+      "SCS",
+      "algaja"
+    ]
+  },
+  {
+    "id": "aztek-architect-gray",
+    "name": "AZTEK Architect - Gray",
+    "description": [
+      "Tutvustame AZTEK Architect täiskomplektse trikitõukeratta uusimat versiooni halliks värvitud disainiga.",
+      "Architect Complete on AZTEK-i populaarne sisenemistaseme trikitõukeratta mudel. See on varustatud kompaktse 5,5\" x 21\" (127 mm x 533 mm) kerge deckega, mis sobib ideaalselt algajatele ja kesktaseme sõitjatele.",
+      "Kvaliteetne Chromoly juhtraud ja kahvel ning 110 mm kõrge põrkuvusega rattad pakuvad suurepärast vastupidavust igapäevasel kasutamisel. SCS kompressioonisüsteem tagab kõikide komponentide kindla ühenduse, pakkudes turvalist ja nauditavat sõidukogemust."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "AZTEK Architect Gray on kaasaegne sisenemistaseme täiskomplektne trikitõukeratas, mis on loodud pakkuma suurepärast tasakaalu jõudluse, vastupidavuse ja hinna vahel. Elegantne hall värvitoon annab tõukerattale modernse ja stiilse välimuse, mis eristub teistest mudelitest. See on ideaalne valik algajatele ja kesktaseme sõitjatele, kes soovivad arendada oma oskusi pargi keskkonnas."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Decki mõõdud",
+              "value": "5,5\" x 21\" (127 mm x 533 mm)"
+            },
+            {
+              "label": "Jalad",
+              "value": "Vastupidavad nailonist sisendid"
+            },
+            {
+              "label": "Juhtraud",
+              "value": "26\" x 22\" (660 mm x 560 mm) Chromoly T-Bars"
+            },
+            {
+              "label": "Kompressioonisüsteem",
+              "value": "SCS"
+            },
+            {
+              "label": "Kahvel",
+              "value": "Valatud kroomkahvel"
+            },
+            {
+              "label": "Rattad",
+              "value": "Architect 2 110 mm"
+            },
+            {
+              "label": "Käepidemed",
+              "value": "Aztek Lite"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "88 cm"
+            },
+            {
+              "label": "Värv",
+              "value": "Hall"
+            },
+            {
+              "label": "Vorm",
+              "value": "Box-cut"
+            },
+            {
+              "label": "Materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Rataste läbimõõt",
+              "value": "110 mm"
+            },
+            {
+              "label": "Kasutusala",
+              "value": "Park"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "32,34 mm"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermestamata"
+            },
+            {
+              "label": "Soovitatav vanus",
+              "value": "13-15 aastat"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "83°"
+            },
+            {
+              "label": "Garantii",
+              "value": "2 aastat"
+            },
+            {
+              "label": "Juhtraua materjal",
+              "value": "Chromoly teras"
+            },
+            {
+              "label": "Juhtraua kõrgus",
+              "value": "660 mm"
+            },
+            {
+              "label": "Juhtraua läbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Montaaž",
+              "value": "Osaline"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 90.0,
+    "price": 199.9,
+    "discounted_price": 179.9,
+    "stock": 99,
+    "images": [
+      "/products/aztek-architect-gray-trikitoukeratas-110mm-hall-algaja-1.png",
+      "/products/aztek-architect-gray-trikitoukeratas-110mm-hall-algaja-2.png",
+      "/products/aztek-architect-gray-trikitoukeratas-110mm-hall-algaja-3.png",
+      "/products/aztek-architect-gray-trikitoukeratas-110mm-hall-algaja-4.png",
+      "/products/aztek-architect-gray-trikitoukeratas-110mm-hall-algaja-5.png"
+    ],
+    "video": "",
+    "category": [
+      "Komplektsed",
+      "Algaja tase",
+      "Tõukerattad"
+    ],
+    "brand": "AZTEK",
+    "tags": [
+      "hall",
+      "110mm",
+      "park",
+      "SCS",
+      "algaja"
+    ]
+  },
+  {
+    "id": "aztek-architect-blue",
+    "name": "AZTEK Architect - Blue",
+    "description": [
+      "Tutvustame AZTEK Architect täiskomplektse trikitõukeratta uusimat versiooni silmapaistva sinise värvitooniga.",
+      "Architect Complete on AZTEK-i populaarne sisenemistaseme trikitõukeratta mudel. See on varustatud 5,5\" x 21\" (127 mm x 533 mm) kerge deckega, mis on ideaalne algajatele ja kesktaseme pargi sõidustiili harrastajatele.",
+      "Vastupidav Chromoly juhtraud ja kahvel ning 110 mm kõrge põrkuvusega rattad taluvad kõiki koormusi, tagades pikaajalise kasutuskindluse. SCS kompressioonisüsteem hoiab kõik komponendid kindlalt koos, pakkudes stabiilset ja nauditavat sõidukogemust."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "AZTEK Architect Blue on värvikas ja energiline sisenemistaseme täiskomplektne trikitõukeratas, mis paistab silma erksalt sinise värvitooniga. See on loodud pakkuma suurepärast jõudlust ja vastupidavust soodsa hinnaga. Tänu oma optimaalsele suurusele ja kaalule sobib see ideaalselt algajatele ja kesktaseme sõitjatele, kes soovivad arendada oma oskusi pargi keskkonnas, samal ajal silma paistes oma unikaalse välimusega."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Decki mõõdud",
+              "value": "5,5\" x 21\" (127 mm x 533 mm)"
+            },
+            {
+              "label": "Jalad",
+              "value": "Vastupidavad nailonist sisendid"
+            },
+            {
+              "label": "Juhtraud",
+              "value": "26\" x 22\" (660 mm x 560 mm) Chromoly T-Bars"
+            },
+            {
+              "label": "Kompressioonisüsteem",
+              "value": "SCS"
+            },
+            {
+              "label": "Kahvel",
+              "value": "Valatud kroomkahvel"
+            },
+            {
+              "label": "Rattad",
+              "value": "Architect 2 110 mm"
+            },
+            {
+              "label": "Käepidemed",
+              "value": "Aztek Lite"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "88 cm"
+            },
+            {
+              "label": "Värv",
+              "value": "Sinine"
+            },
+            {
+              "label": "Vorm",
+              "value": "Box-cut"
+            },
+            {
+              "label": "Materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Rataste läbimõõt",
+              "value": "110 mm"
+            },
+            {
+              "label": "Kasutusala",
+              "value": "Park"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "32,34 mm"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermestamata"
+            },
+            {
+              "label": "Soovitatav vanus",
+              "value": "13-15 aastat"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "83°"
+            },
+            {
+              "label": "Garantii",
+              "value": "2 aastat"
+            },
+            {
+              "label": "Juhtraua materjal",
+              "value": "Chromoly teras"
+            },
+            {
+              "label": "Juhtraua kõrgus",
+              "value": "660 mm"
+            },
+            {
+              "label": "Juhtraua läbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Montaaž",
+              "value": "Osaline"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 90.0,
+    "price": 199.9,
+    "discounted_price": 179.9,
+    "stock": 63,
+    "images": [
+      "/products/aztek-architect-blue-trikitoukeratas-110mm-sinine-algaja-1.png",
+      "/products/aztek-architect-blue-trikitoukeratas-110mm-sinine-algaja-2.png",
+      "/products/aztek-architect-blue-trikitoukeratas-110mm-sinine-algaja-3.png",
+      "/products/aztek-architect-blue-trikitoukeratas-110mm-sinine-algaja-4.png",
+      "/products/aztek-architect-blue-trikitoukeratas-110mm-sinine-algaja-5.png"
+    ],
+    "video": "",
+    "category": [
+      "Komplektsed",
+      "Algaja tase",
+      "Tõukerattad"
+    ],
+    "brand": "AZTEK",
+    "tags": [
+      "sinine",
+      "110mm",
+      "park",
+      "SCS",
+      "algaja"
+    ]
+  },
+  {
+    "id": "aztek-architect-zircon-sand",
+    "name": "AZTEK Architect - Zircon Sand",
+    "description": [
+      "Tutvustame AZTEK Architect täiskomplektset trikitõukeratast eksklusiivselt Zircon Sand kollases värvitoonis.",
+      "See mudel on varustatud 5,5\" x 21\" (12,8 cm x 53,3 cm) kerge deckega, mis on ideaalne algajatele ja kesktaseme sõitjatele. Vastupidavad nailonist jalad tagavad pikaajalise kasutuskindluse.",
+      "Chromoly 26\" x 22\" T-kujuline juhtraud, valatud kroomkahvel ja 110 mm Architect 2 rattad moodustavad kvaliteetse komplekti, mis sobib suurepäraselt pargi sõidustiili harrastamiseks igas vanuses sõitjatele."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "AZTEK Architect Zircon Sand on silmapaistev täiskomplektne trikitõukeratas, mis eristub oma unikaalse liivakollase värvitooniga. See on loodud pakkuma suurepärast jõudlust ja vastupidavust soodsa hinnaga. Tänu oma universaalsele disainile ja optimaalsele suurusele sobib see tõukeratas laiale vanusegrupile, alates 7-aastastest lastest kuni täiskasvanuteni, olles ideaalne valik algajatele ja kesktaseme sõitjatele."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Decki mõõdud",
+              "value": "5,5\" x 21\" (12,8 cm x 53,3 cm)"
+            },
+            {
+              "label": "Jalad",
+              "value": "Vastupidavad nailonist sisendid"
+            },
+            {
+              "label": "Juhtraud",
+              "value": "26\" x 22\" Chromoly T-Bars (koos SCS kõrgusega)"
+            },
+            {
+              "label": "Kompressioonisüsteem",
+              "value": "SCS"
+            },
+            {
+              "label": "Kahvel",
+              "value": "Valatud kroomkahvel"
+            },
+            {
+              "label": "Rattad",
+              "value": "Architect 2 110 mm"
+            },
+            {
+              "label": "Käepidemed",
+              "value": "Aztek Lite"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "88 cm"
+            },
+            {
+              "label": "Värv",
+              "value": "Zircon Sand (kollane)"
+            },
+            {
+              "label": "Vorm",
+              "value": "Box-cut"
+            },
+            {
+              "label": "Materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Rataste läbimõõt",
+              "value": "110 mm"
+            },
+            {
+              "label": "Kasutusala",
+              "value": "Park"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "32,34 mm"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermestamata"
+            },
+            {
+              "label": "Soovitatav vanus",
+              "value": "7-15+ aastat"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "83°"
+            },
+            {
+              "label": "Garantii",
+              "value": "24 kuud"
+            },
+            {
+              "label": "Juhtraua materjal",
+              "value": "Chromoly teras"
+            },
+            {
+              "label": "Juhtraua kõrgus",
+              "value": "66 cm"
+            },
+            {
+              "label": "Juhtraua läbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Montaaž",
+              "value": "Osaline"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 90.0,
+    "price": 199.9,
+    "discounted_price": 179.9,
+    "stock": 71,
+    "images": [
+      "/products/aztek-architect-zircon-sand-trikitoukeratas-110mm-kollane-1.jpg",
+      "/products/aztek-architect-zircon-sand-trikitoukeratas-110mm-kollane-2.jpg",
+      "/products/aztek-architect-zircon-sand-trikitoukeratas-110mm-kollane-3.jpg",
+      "/products/aztek-architect-zircon-sand-trikitoukeratas-110mm-kollane-4.jpg",
+      "/products/aztek-architect-zircon-sand-trikitoukeratas-110mm-kollane-5.jpg"
+    ],
+    "video": "",
+    "category": [
+      "Komplektsed",
+      "Algaja tase",
+      "Tõukerattad"
+    ],
+    "brand": "AZTEK",
+    "tags": [
+      "kollane",
+      "110mm",
+      "park",
+      "SCS",
+      "algaja"
+    ]
+  },
+  {
+    "id": "aztek-deck-coates-europa-2-7-x-23-black-ltd",
+    "name": "AZTEK Deck Coates Europa 2-7 x 23 - Black LTD",
+    "description": [
+      "AZTEK Coates Europa 2 on professionaalne trikitõukeratta deck, mis on loodud koostöös legendaarse sõitja Coates'iga.",
+      "See 7\" x 23\" (17,78 cm x 58,42 cm) mõõtmetega deck on valmistatud kvaliteetsest Chromoly terasest, pakkudes optimaalset tasakaalu tugevuse ja kaalu vahel.",
+      "Kerged alumiiniumist sisemised vahepuksid ja täielikult keevitatud CNC-töödeldud alumiiniumist jalad tagavad maksimaalse vastupidavuse ja jõudluse kõige nõudlikumates tingimustes."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "AZTEK Deck Coates Europa 2-7 x 23 Black LTD on piiratud koguses valmistatud kõrgekvaliteediline trikitõukeratta deck, mis on mõeldud edasijõudnud sõitjatele. Selle laiem konstruktsioon pakub rohkem ruumi jalgadele, võimaldades sooritada keerukamaid trikke. 84° headtube nurk tagab suurepärase manööverdamisvõime ja kontrolli pargi sõidustiilis."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Mõõdud",
+              "value": "7\" x 23\" (17,78 cm x 58,42 cm)"
+            },
+            {
+              "label": "Sisemised vahepuksid",
+              "value": "Kerged alumiiniumist"
+            },
+            {
+              "label": "Jalad",
+              "value": "Täielikult keevitatud CNC-töödeldud alumiiniumist"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "84°"
+            },
+            {
+              "label": "Värv",
+              "value": "Must"
+            },
+            {
+              "label": "Vorm",
+              "value": "Box-cut"
+            },
+            {
+              "label": "Materjal",
+              "value": "Chromoly teras"
+            },
+            {
+              "label": "Pikkus",
+              "value": "58,4 cm"
+            },
+            {
+              "label": "Laius",
+              "value": "17,7 cm"
+            },
+            {
+              "label": "Maksimaalne ratta laius",
+              "value": "30 mm"
+            },
+            {
+              "label": "Sobivad ratta läbimõõdud",
+              "value": "100, 110, 115, 120, 125 mm"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 100.0,
+    "price": 219.9,
+    "discounted_price": 199.9,
+    "stock": 0,
+    "images": [
+      "/products/aztek-deck-coates-europa-2-7-x-23-black-ltd-trikitoukeratta-tald-1.jpg",
+      "/products/aztek-deck-coates-europa-2-7-x-23-black-ltd-trikitoukeratta-tald-2.jpg",
+      "/products/aztek-deck-coates-europa-2-7-x-23-black-ltd-trikitoukeratta-tald-3.jpg",
+      "/products/aztek-deck-coates-europa-2-7-x-23-black-ltd-trikitoukeratta-tald-4.jpg",
+      "/products/aztek-deck-coates-europa-2-7-x-23-black-ltd-trikitoukeratta-tald-5.jpg"
+    ],
+    "video": "",
+    "category": [
+      "Jupid",
+      "Pro tase",
+      "Tald"
+    ],
+    "brand": "AZTEK",
+    "tags": [
+      "box-cut",
+      "7-tolline",
+      "must",
+      "piiratud"
+    ]
+  },
+  {
+    "id": "aztek-deck-coates-europa-2-7-x-24-black-ltd",
+    "name": "AZTEK Deck Coates Europa 2-7 x 24 - Black LTD",
+    "description": [
+      "AZTEK Coates Europa 2 on professionaalne trikitõukeratta deck, mis on loodud koostöös tippsõitja Coates'iga, pakkudes pikemat 24-tollist disaini.",
+      "See 7\" x 24\" (178 mm x 609 mm) mõõtmetega deck on valmistatud kvaliteetsest Chromoly terasest, pakkudes suurepärast vastupidavust ja jõudlust.",
+      "Kergete alumiiniumist sisemiste vahepukside ja täielikult keevitatud CNC-töödeldud alumiiniumist jalgadega on see deck loodud kestma ka kõige intensiivsema kasutuse korral."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "AZTEK Deck Coates Europa 2-7 x 24 Black LTD on piiratud koguses valmistatud eriliselt pikk trikitõukeratta deck, mis on mõeldud professionaalsetele sõitjatele. Selle laiem ja pikem konstruktsioon pakub maksimaalset stabiilsust ja ruumi jalgadele, võimaldades sooritada kõige keerukamaid trikke. 84° headtube nurk tagab optimaalse tasakaalu kiiruse ja kontrolli vahel pargi sõidustiilis."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Mõõdud",
+              "value": "7\" x 24\" (178 mm x 609 mm)"
+            },
+            {
+              "label": "Sisemised vahepuksid",
+              "value": "Kerged alumiiniumist"
+            },
+            {
+              "label": "Jalad",
+              "value": "Täielikult keevitatud CNC-töödeldud alumiiniumist"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "84°"
+            },
+            {
+              "label": "Värv",
+              "value": "Must"
+            },
+            {
+              "label": "Vorm",
+              "value": "Box-cut"
+            },
+            {
+              "label": "Materjal",
+              "value": "Chromoly teras"
+            },
+            {
+              "label": "Pikkus",
+              "value": "60,9 cm"
+            },
+            {
+              "label": "Laius",
+              "value": "17,7 cm"
+            },
+            {
+              "label": "Maksimaalne ratta laius",
+              "value": "30 mm"
+            },
+            {
+              "label": "Sobivad ratta läbimõõdud",
+              "value": "100, 110, 115, 120, 125 mm"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 100.0,
+    "price": 219.9,
+    "discounted_price": 199.9,
+    "stock": 8,
+    "images": [
+      "/products/aztek-deck-coates-europa-2-7-x-24-black-ltd-trikitoukeratta-tald-1.jpg",
+      "/products/aztek-deck-coates-europa-2-7-x-24-black-ltd-trikitoukeratta-tald-2.jpg",
+      "/products/aztek-deck-coates-europa-2-7-x-24-black-ltd-trikitoukeratta-tald-3.jpg",
+      "/products/aztek-deck-coates-europa-2-7-x-24-black-ltd-trikitoukeratta-tald-4.jpg",
+      "/products/aztek-deck-coates-europa-2-7-x-24-black-ltd-trikitoukeratta-tald-5.jpg"
+    ],
+    "video": "",
+    "category": [
+      "Jupid",
+      "Pro tase",
+      "Tald"
+    ],
+    "brand": "AZTEK",
+    "tags": [
+      "box-cut",
+      "7-tolline",
+      "must",
+      "piiratud"
+    ]
+  },
+  {
+    "id": "aztek-coates-europa-2-7-x-23-hall",
+    "name": "AZTEK Coates Europa 2-7 X 23 - Hall",
+    "description": [
+      "Tutvustame Austin Coates'i professionaalse trikitõukeratta decki Europa täiustatud ja kergendatud versiooni.",
+      "Decki tagaosa on märkimisväärselt täiustatud, laiendades tasapinnalist pinda ning lisades sujuvad kontuurid, mis tagavad parema kontrolli grind'ide sooritamisel.",
+      "See 7\" x 23\" mõõtmetega deck on varustatud kergete alumiiniumist sisemiste vahepukside ja täielikult keevitatud CNC-töödeldud alumiiniumist jalgadega, pakkudes optimaalset tasakaalu vastupidavuse ja kaalu vahel."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "AZTEK Coates Europa 2-7 X 23 Hall on professionaalne trikitõukeratta deck, mis on loodud koostöös tippsõitja Austin Coates'iga. Selle kroomi värvitoonis viimistlus annab deckile kaasaegse ja elegantse välimuse. Täiustatud tagaosa disain pakub paremat kontrolli trikkide sooritamisel, muutes selle ideaalseks valikuks edasijõudnud sõitjatele, kes otsivad kõrge jõudlusega komponenti."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Mõõdud",
+              "value": "7\" x 23\""
+            },
+            {
+              "label": "Sisemised vahepuksid",
+              "value": "Kerged alumiiniumist"
+            },
+            {
+              "label": "Jalad",
+              "value": "Täielikult keevitatud CNC-töödeldud alumiiniumist"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "84°"
+            },
+            {
+              "label": "Värv",
+              "value": "Kroom (hall)"
+            },
+            {
+              "label": "Vorm",
+              "value": "Box-cut"
+            },
+            {
+              "label": "Materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Pikkus",
+              "value": "23\""
+            },
+            {
+              "label": "Laius",
+              "value": "7\""
+            },
+            {
+              "label": "Juhtkomplekti tüüp",
+              "value": "Integreeritud"
+            },
+            {
+              "label": "Telje läbimõõt",
+              "value": "8 mm"
+            },
+            {
+              "label": "Maksimaalne ratta laius",
+              "value": "30 mm"
+            },
+            {
+              "label": "Sobivad ratta läbimõõdud",
+              "value": "100, 110, 115, 120, 125 mm"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 90.0,
+    "price": 199.9,
+    "discounted_price": 179.9,
+    "stock": 0,
+    "images": [
+      "/products/aztek-coates-europa-2-7-x-23-hall-trikitoukeratta-tald-kroom-1.png",
+      "/products/aztek-coates-europa-2-7-x-23-hall-trikitoukeratta-tald-kroom-2.png",
+      "/products/aztek-coates-europa-2-7-x-23-hall-trikitoukeratta-tald-kroom-3.png",
+      "/products/aztek-coates-europa-2-7-x-23-hall-trikitoukeratta-tald-kroom-4.png",
+      "/products/aztek-coates-europa-2-7-x-23-hall-trikitoukeratta-tald-kroom-5.png",
+      "/products/aztek-coates-europa-2-7-x-23-hall-trikitoukeratta-tald-kroom-6.png"
+    ],
+    "video": "",
+    "category": [
+      "Jupid",
+      "Pro tase",
+      "Tald"
+    ],
+    "brand": "AZTEK",
+    "tags": [
+      "box-cut",
+      "7-tolline",
+      "kroom",
+      "hall"
+    ]
+  },
+  {
+    "id": "aztek-coates-europa-2-7-x-24-hall",
+    "name": "AZTEK Coates Europa 2-7 X 24 - Hall",
+    "description": [
+      "Tutvustame Austin Coates'i professionaalse trikitõukeratta decki Europa täiustatud ja kergendatud versiooni pikemas 24-tollises formaadis.",
+      "Decki tagaosa on märkimisväärselt täiustatud, laiendades tasapinnalist pinda ning lisades sujuvad kontuurid, mis tagavad parema kontrolli grind'ide sooritamisel.",
+      "See 7\" x 24\" mõõtmetega deck on varustatud kergete alumiiniumist sisemiste vahepukside ja täielikult keevitatud CNC-töödeldud alumiiniumist jalgadega, pakkudes optimaalset jõudlust ja vastupidavust."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "AZTEK Coates Europa 2-7 X 24 Hall on pikendatud professionaalne trikitõukeratta deck, mis on loodud koostöös tippsõitja Austin Coates'iga. Selle kroomi värvitoonis viimistlus annab deckile kaasaegse ja elegantse välimuse. Pikem disain pakub rohkem ruumi jalgadele ja paremat stabiilsust, muutes selle ideaalseks valikuks edasijõudnud sõitjatele, kes eelistavad avaramat sõiduplatvormi."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Mõõdud",
+              "value": "7\" x 24\""
+            },
+            {
+              "label": "Sisemised vahepuksid",
+              "value": "Kerged alumiiniumist"
+            },
+            {
+              "label": "Jalad",
+              "value": "Täielikult keevitatud CNC-töödeldud alumiiniumist"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "84°"
+            },
+            {
+              "label": "Värv",
+              "value": "Kroom (hall)"
+            },
+            {
+              "label": "Vorm",
+              "value": "Box-cut"
+            },
+            {
+              "label": "Materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Pikkus",
+              "value": "24\""
+            },
+            {
+              "label": "Laius",
+              "value": "7\""
+            },
+            {
+              "label": "Juhtkomplekti tüüp",
+              "value": "Integreeritud"
+            },
+            {
+              "label": "Telje läbimõõt",
+              "value": "8 mm"
+            },
+            {
+              "label": "Maksimaalne ratta laius",
+              "value": "30 mm"
+            },
+            {
+              "label": "Sobivad ratta läbimõõdud",
+              "value": "100, 110, 115, 120, 125 mm"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 90.0,
+    "price": 199.9,
+    "discounted_price": 179.9,
+    "stock": 0,
+    "images": [
+      "/products/aztek-coates-europa-2-7-x-24-hall-trikitoukeratta-tald-kroom-1.png",
+      "/products/aztek-coates-europa-2-7-x-24-hall-trikitoukeratta-tald-kroom-2.png",
+      "/products/aztek-coates-europa-2-7-x-24-hall-trikitoukeratta-tald-kroom-3.png",
+      "/products/aztek-coates-europa-2-7-x-24-hall-trikitoukeratta-tald-kroom-4.png",
+      "/products/aztek-coates-europa-2-7-x-24-hall-trikitoukeratta-tald-kroom-5.png",
+      "/products/aztek-coates-europa-2-7-x-24-hall-trikitoukeratta-tald-kroom-6.png"
+    ],
+    "video": "",
+    "category": [
+      "Jupid",
+      "Pro tase",
+      "Tald"
+    ],
+    "brand": "AZTEK",
+    "tags": [
+      "box-cut",
+      "7-tolline",
+      "kroom",
+      "hall",
+      "pikk"
+    ]
+  },
+  {
+    "id": "aztek-deck-europa-2-23-black-magic",
+    "name": "AZTEK Deck Europa 2 - 23\" Black Magic",
+    "description": [
+      "Vahepuksid on nüüd valmistatud CNC-töödeldud kergest alumiiniumist, mis tagab veelgi väiksema kaalu.",
+      "See on Azteki suurim deck, laiusega 7 tolli, nüüd saadaval elegantses Black Magic värvitoonis.",
+      "Täiustatud dünaamilise lihvimispinnaga, kergete alumiiniumist sisemiste vahepukside ja täielikult keevitatud CNC-töödeldud alumiiniumist jalgadega on see deck ideaalne valik professionaalsele sõitjale."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "AZTEK Deck Europa 2 - 23\" Black Magic on kõrgekvaliteediline trikitõukeratta deck, mis paistab silma oma laiade mõõtmete ja silmapaistva musta viimistlusega. See on loodud pakkuma maksimaalset ruumi jalgadele ja optimaalset kontrolli trikkide sooritamisel. 84° headtube nurk tagab suurepärase manööverdamisvõime, muutes selle ideaalseks valikuks edasijõudnud sõitjatele, kes hindavad täpsust ja vastupidavust."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Mõõdud",
+              "value": "7\" x 23\" (177 mm x 584 mm)"
+            },
+            {
+              "label": "Lihvimispind",
+              "value": "Täiustatud dünaamiline"
+            },
+            {
+              "label": "Sisemised vahepuksid",
+              "value": "Kerged alumiiniumist"
+            },
+            {
+              "label": "Jalad",
+              "value": "Täielikult keevitatud CNC-töödeldud alumiiniumist"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "84°"
+            },
+            {
+              "label": "Värv",
+              "value": "Black Magic (must)"
+            },
+            {
+              "label": "Vorm",
+              "value": "Box-cut"
+            },
+            {
+              "label": "Materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Pikkus",
+              "value": "58,4 cm"
+            },
+            {
+              "label": "Laius",
+              "value": "17,7 cm"
+            },
+            {
+              "label": "Maksimaalne ratta laius",
+              "value": "30 mm"
+            },
+            {
+              "label": "Sobivad ratta läbimõõdud",
+              "value": "100, 110, 115, 120, 125 mm"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 90.0,
+    "price": 199.9,
+    "discounted_price": 179.9,
+    "stock": 99,
+    "images": [
+      "/products/aztek-deck-europa-2-23-black-magic-trikitoukeratta-tald-must-1.jpg",
+      "/products/aztek-deck-europa-2-23-black-magic-trikitoukeratta-tald-must-2.jpg",
+      "/products/aztek-deck-europa-2-23-black-magic-trikitoukeratta-tald-must-3.jpg",
+      "/products/aztek-deck-europa-2-23-black-magic-trikitoukeratta-tald-must-4.jpg",
+      "/products/aztek-deck-europa-2-23-black-magic-trikitoukeratta-tald-must-5.jpg",
+      "/products/aztek-deck-europa-2-23-black-magic-trikitoukeratta-tald-must-6.jpg"
+    ],
+    "video": "",
+    "category": [
+      "Jupid",
+      "Pro tase",
+      "Tald"
+    ],
+    "brand": "AZTEK",
+    "tags": [
+      "box-cut",
+      "7-tolline",
+      "must",
+      "lai"
+    ]
+  },
+  {
+    "id": "aztek-deck-europa-2-24-black-magic",
+    "name": "AZTEK Deck Europa 2 - 24\" Black Magic",
+    "description": [
+      "Vahepuksid on nüüd valmistatud CNC-töödeldud kergest alumiiniumist, mis tagab veelgi väiksema kaalu ja parema jõudluse.",
+      "See on Azteki suurim deck, laiusega 7 tolli ja ekstrapika 24-tollise disainiga, nüüd saadaval elegantses Black Magic värvitoonis.",
+      "Täiustatud dünaamilise lihvimispinna, kergete alumiiniumist sisemiste vahepukside ja täielikult keevitatud CNC-töödeldud alumiiniumist jalgadega on see deck loodud vastama kõige nõudlikumate professionaalsete sõitjate vajadustele."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "AZTEK Deck Europa 2 - 24\" Black Magic on erakordselt pikk ja lai trikitõukeratta deck, mis on mõeldud edasijõudnud sõitjatele, kes otsivad maksimaalset ruumi ja stabiilsust. Selle silmapaistev must viimistlus annab deckile elegantse ja professionaalse välimuse. 84° headtube nurk tagab optimaalse tasakaalu kiiruse ja kontrolli vahel, võimaldades sooritada kõige keerukamaid trikke."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Mõõdud",
+              "value": "7\" x 24\" (177 mm x 609 mm)"
+            },
+            {
+              "label": "Lihvimispind",
+              "value": "Täiustatud dünaamiline"
+            },
+            {
+              "label": "Sisemised vahepuksid",
+              "value": "Kerged alumiiniumist"
+            },
+            {
+              "label": "Jalad",
+              "value": "Täielikult keevitatud CNC-töödeldud alumiiniumist"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "84°"
+            },
+            {
+              "label": "Värv",
+              "value": "Black Magic (must)"
+            },
+            {
+              "label": "Vorm",
+              "value": "Box-cut"
+            },
+            {
+              "label": "Materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Pikkus",
+              "value": "60,9 cm"
+            },
+            {
+              "label": "Laius",
+              "value": "17,7 cm"
+            },
+            {
+              "label": "Maksimaalne ratta laius",
+              "value": "30 mm"
+            },
+            {
+              "label": "Sobivad ratta läbimõõdud",
+              "value": "100, 110, 115, 120, 125 mm"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 90.0,
+    "price": 199.9,
+    "discounted_price": 179.9,
+    "stock": 0,
+    "images": [
+      "/products/aztek-deck-europa-2-24-black-magic-trikitoukeratta-tald-must-pikk-1.jpg",
+      "/products/aztek-deck-europa-2-24-black-magic-trikitoukeratta-tald-must-pikk-2.jpg",
+      "/products/aztek-deck-europa-2-24-black-magic-trikitoukeratta-tald-must-pikk-3.jpg",
+      "/products/aztek-deck-europa-2-24-black-magic-trikitoukeratta-tald-must-pikk-4.jpg",
+      "/products/aztek-deck-europa-2-24-black-magic-trikitoukeratta-tald-must-pikk-5.jpg",
+      "/products/aztek-deck-europa-2-24-black-magic-trikitoukeratta-tald-must-pikk-6.jpg"
+    ],
+    "video": "",
+    "category": [
+      "Jupid",
+      "Pro tase",
+      "Tald"
+    ],
+    "brand": "AZTEK",
+    "tags": [
+      "box-cut",
+      "7-tolline",
+      "must",
+      "ekstrapikk"
+    ]
+  },
+  {
+    "id": "drone-shadow-3-feather-light-smoked-chrome",
+    "name": "Drone Shadow 3 Feather-Light - Suitsukroom",
+    "description": [
+      "Uus ajastu Drone'i disainis on saabunud! Shadow 3 Feather-Light täistõukeratas on üks kergemaid saadaolevaid mudeleid, mis võtab üle Shadow seeria parimad elemendid, pakkudes üht kõige edasijõudnumat täistõukeratast turul.",
+      "Shadow 3 Feather-Light on kergekaaluline, reaktiivne ja vastutustundlik tõukeratas, mis on loodud pakkuma suurepärast jõudlust. Selle unikaalne disain sisaldab dekis kaaluvähendavaid väljalõikeid, mis muudavad sõitmiskogemuse veelgi dünaamilisemaks.",
+      "Tõukeratas on varustatud Helios Hollow Spoked 110 mm ratastega ja kvaliteetsete Ultra-Sonix Abec 9 laagritega, tagades sujuva ja kiire sõidu. Shadow ALU juhtraud koos Acolyte silikoonist käepidemete ja Chromoly Feather-Light piduriga täiendavad seda tipptasemel trikitõukeratast."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "Drone Shadow 3 Feather-Light Suitsukroom täistõukeratas on revolutsiooniline mudel, mis ühendab ülima kerguse ja vastupidavuse. Kaaludes vaid 3,15 kg, on see üks kergemaid professionaalseid trikitõukerattaid turul. Suitsukroomi viimistlus annab tõukerattale elegantse ja kaasaegse välimuse, mis eristub teistest."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Kaal",
+              "value": "3,15 kg (6,9 lb)"
+            },
+            {
+              "label": "Deck",
+              "value": "Shadow 3 Feather-Light 4,9\" (124,4 mm) x 19,2\" (488 mm) kaaluvähendavate väljalõigetega"
+            },
+            {
+              "label": "Rattad",
+              "value": "Helios Hollow Spoked 110 mm 88A PU"
+            },
+            {
+              "label": "Kahvel",
+              "value": "Feather-Light 6061 Alumiinium IHC"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "82,5 kraadi"
+            },
+            {
+              "label": "Laagrid",
+              "value": "Ultra-Sonix Abec 9"
+            },
+            {
+              "label": "Juhtraud",
+              "value": "Shadow ALU 630 mm kõrge x 580 mm lai (570 mm ilma otsikuteta)"
+            },
+            {
+              "label": "Käepidemed",
+              "value": "Acolyte 180 mm silikoonist koos juhtraua otsikutega"
+            },
+            {
+              "label": "Pidur",
+              "value": "Chromoly 120 mm Feather-Light"
+            },
+            {
+              "label": "Headset",
+              "value": "Synergy 2"
+            },
+            {
+              "label": "Klamber",
+              "value": "Solar 6061-T6 Alumiinium topeltklamber"
+            },
+            {
+              "label": "Värv",
+              "value": "Suitsukroom"
+            },
+            {
+              "label": "Extrusioon",
+              "value": "PARK TAPERED"
+            },
+            {
+              "label": "Materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "86 cm"
+            },
+            {
+              "label": "Juhtraua kõrgus",
+              "value": "63 cm"
+            },
+            {
+              "label": "Juhtraua välisläbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermestamata"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Kompressioonisüsteem",
+              "value": "IHC"
+            },
+            {
+              "label": "Kasutus",
+              "value": "Freestyle"
+            },
+            {
+              "label": "Garantii",
+              "value": "12 kuud"
+            },
+            {
+              "label": "Vorm",
+              "value": "Boxed"
+            },
+            {
+              "label": "Mudel",
+              "value": "Shadow 3 Feather-Light"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 339.90,
+    "price": 339.90,
+    "discounted_price": null,
+    "stock": 3,
+    "images": [
+      "/products/drone-shadow-3-feather-light-smoked-chrome-trick-scooter-lightweight-1.jpg",
+      "/products/drone-shadow-3-feather-light-smoked-chrome-trick-scooter-lightweight-2.jpg",
+      "/products/drone-shadow-3-feather-light-smoked-chrome-trick-scooter-lightweight-3.jpg",
+      "/products/drone-shadow-3-feather-light-smoked-chrome-trick-scooter-lightweight-4.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/VIDEOID",
+    "category": [
+      "Täistõukerattad",
+      "Pro tase",
+      "Kergekaalulised"
+    ],
+    "brand": "DRONE SCOOTER",
+    "tags": [
+      "kerge",
+      "feather-light",
+      "freestyle",
+      "110mm",
+      "alumiinium"
+    ]
+  },
+  {
+    "id": "drone-shadow-3-feather-light-must",
+    "name": "Drone Shadow 3 Feather-Light - Must",
+    "description": [
+      "Drone Shadow 3 Feather-Light täistõukeratas on üks kergemaid trikitõukerattaid turul, mis põhineb populaarsel Shadow seerial ning sisaldab ülimalt kergeid komponente, mis on välja töötatud uue Shadow 3 deki ümber.",
+      "Deck kaalub vaid 1,2 kg, mis teeb kogu tõukeratta kaaluks vaid 3,15 kg. Shadow 3 on tõeline jõudlustoode, mis on varustatud uute Helios Hollow-Spoked ratastega. Nendel ratastel on optimeeritud tuum ja PU suhe, mis vähendab kaalu, suurendab jäikust ja maksimeerib jõuülekannet maksimaalse kiiruse saavutamiseks.",
+      "Rattad pöörlevad meie uute Ultra-Sonix laagrite ümber, mis pakuvad võrreldamatut kiirust. Kahvlid on hoolikalt viimistletud, vähendades üleliigset kaalu, et luua minimalistlik ja kerge disain, mis parandab tõukeratta kontrolli ja üldist jõudlust."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "Drone Shadow 3 Feather-Light Must on revolutsiooniline täistõukeratas, mis ühendab ülima kerguse ja jõudluse. Kaaludes vaid 3,15 kg, on see üks kergemaid professionaalseid trikitõukerattaid turul. Musta viimistlusega tõukeratas on loodud edasijõudnud sõitjatele, kes otsivad maksimaalset kontrolli ja kiirust. Unikaalne disain sisaldab kaaluvähendavaid väljalõikeid ja tipptasemel komponente."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Kaal",
+              "value": "3,15 kg (6,9 lb)"
+            },
+            {
+              "label": "Deck",
+              "value": "Shadow 3 Feather-Light 4,9\" (124,4 mm) x 19,2\" (488 mm)"
+            },
+            {
+              "label": "Rattad",
+              "value": "Helios Hollow Spoked 110 mm 88A PU"
+            },
+            {
+              "label": "Kahvel",
+              "value": "Feather-Light 6061 Alumiinium IHC"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "82,5 kraadi"
+            },
+            {
+              "label": "Laagrid",
+              "value": "Ultra-Sonix Abec 9"
+            },
+            {
+              "label": "Juhtraud",
+              "value": "Shadow ALU 630 mm kõrge x 580 mm lai (570 mm ilma otsikuteta)"
+            },
+            {
+              "label": "Käepidemed",
+              "value": "Acolyte 180 mm silikoonist koos juhtraua otsikutega"
+            },
+            {
+              "label": "Pidur",
+              "value": "Chromoly 120 mm Feather-Light"
+            },
+            {
+              "label": "Headset",
+              "value": "Synergy 2"
+            },
+            {
+              "label": "Klamber",
+              "value": "Solar 6061-T6 Alumiinium topeltklamber"
+            },
+            {
+              "label": "Värv",
+              "value": "Must"
+            },
+            {
+              "label": "Vorm",
+              "value": "Box-cut"
+            },
+            {
+              "label": "Materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "86,5 cm"
+            },
+            {
+              "label": "Juhtraua kõrgus",
+              "value": "63 cm"
+            },
+            {
+              "label": "Juhtraua välisläbimõõt",
+              "value": "31,8 mm"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "31,8 mm"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermestatud"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Kompressioonisüsteem",
+              "value": "IHC"
+            },
+            {
+              "label": "Kasutus",
+              "value": "FreeRide, Freestyle, Park"
+            },
+            {
+              "label": "Garantii",
+              "value": "12 kuud"
+            },
+            {
+              "label": "Mudel",
+              "value": "Shadow 3 Feather-Light"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 319.90,
+    "price": 319.90,
+    "discounted_price": null,
+    "stock": 16,
+    "images": [
+      "/products/drone-shadow-3-feather-light-noir-trick-scooter-lightweight-1.jpg",
+      "/products/drone-shadow-3-feather-light-noir-trick-scooter-lightweight-2.jpg",
+      "/products/drone-shadow-3-feather-light-noir-trick-scooter-lightweight-3.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/VIDEOID",
+    "category": [
+      "Täistõukerattad",
+      "Pro tase",
+      "Kergekaalulised"
+    ],
+    "brand": "DRONE SCOOTER",
+    "tags": [
+      "kerge",
+      "feather-light",
+      "freestyle",
+      "110mm",
+      "alumiinium",
+      "freeride",
+      "park"
+    ]
+  },
+  {
+    "id": "drone-shadow-3-feather-light-silver-anodized",
+    "name": "Drone Shadow 3 Feather-Light - Anodeeritud Hõbe",
+    "description": [
+      "Uus ajastu Drone'i disainis on saabunud! Shadow 3 Feather-Light täistõukeratas on üks kergemaid saadaolevaid mudeleid, mis võtab üle Shadow seeria parimad elemendid, pakkudes üht kõige edasijõudnumat täistõukeratast turul.",
+      "Shadow 3 Feather-Light on kergekaaluline, reaktiivne ja vastutustundlik tõukeratas, mis on loodud pakkuma suurepärast jõudlust. Selle unikaalne disain sisaldab dekis kaaluvähendavaid väljalõikeid, mis muudavad sõitmiskogemuse veelgi dünaamilisemaks.",
+      "Anodeeritud hõbedase viimistlusega tõukeratas on varustatud Helios Hollow Spoked 110 mm ratastega ja kvaliteetsete Ultra-Sonix Abec 9 laagritega, tagades sujuva ja kiire sõidu. Shadow ALU juhtraud koos Acolyte silikoonist käepidemete ja Chromoly Feather-Light piduriga täiendavad seda tipptasemel trikitõukeratast."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "Drone Shadow 3 Feather-Light Anodeeritud Hõbe täistõukeratas on revolutsiooniline mudel, mis ühendab ülima kerguse ja vastupidavuse. Kaaludes vaid 3,15 kg, on see üks kergemaid professionaalseid trikitõukerattaid turul. Anodeeritud hõbedane viimistlus annab tõukerattale elegantse ja kaasaegse välimuse, mis sobib igasuguse stiili ja sõidustiiliga."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Kaal",
+              "value": "3,15 kg (6,9 lb)"
+            },
+            {
+              "label": "Deck",
+              "value": "Shadow 3 Feather-Light 4,9\" (124,4 mm) x 19,2\" (488 mm) kaaluvähendavate väljalõigetega"
+            },
+            {
+              "label": "Rattad",
+              "value": "Helios Hollow Spoked 110 mm 88A PU"
+            },
+            {
+              "label": "Kahvel",
+              "value": "Feather-Light 6061 Alumiinium IHC"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "82,5 kraadi"
+            },
+            {
+              "label": "Laagrid",
+              "value": "Ultra-Sonix Abec 9"
+            },
+            {
+              "label": "Juhtraud",
+              "value": "Shadow ALU 630 mm kõrge x 580 mm lai (570 mm ilma otsikuteta)"
+            },
+            {
+              "label": "Käepidemed",
+              "value": "Acolyte 180 mm silikoonist koos juhtraua otsikutega"
+            },
+            {
+              "label": "Pidur",
+              "value": "Chromoly 120 mm Feather-Light"
+            },
+            {
+              "label": "Headset",
+              "value": "Synergy 2"
+            },
+            {
+              "label": "Klamber",
+              "value": "Solar 6061-T6 Alumiinium topeltklamber"
+            },
+            {
+              "label": "Värv",
+              "value": "Anodeeritud Hõbe"
+            },
+            {
+              "label": "Extrusioon",
+              "value": "PARK TAPERED"
+            },
+            {
+              "label": "Materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "87 cm"
+            },
+            {
+              "label": "Juhtraua kõrgus",
+              "value": "63 cm"
+            },
+            {
+              "label": "Juhtraua välisläbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermestamata"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Kompressioonisüsteem",
+              "value": "IHC"
+            },
+            {
+              "label": "Kasutus",
+              "value": "Freestyle, Park, Street"
+            },
+            {
+              "label": "Garantii",
+              "value": "12 kuud"
+            },
+            {
+              "label": "Vorm",
+              "value": "Boxed"
+            },
+            {
+              "label": "Mudel",
+              "value": "Shadow 3 Feather-Light"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 319.90,
+    "price": 319.90,
+    "discounted_price": null,
+    "stock": 12,
+    "images": [
+      "/products/drone-shadow-3-feather-light-silver-anodized-trick-scooter-lightweight-1.jpg",
+      "/products/drone-shadow-3-feather-light-silver-anodized-trick-scooter-lightweight-2.jpg",
+      "/products/drone-shadow-3-feather-light-silver-anodized-trick-scooter-lightweight-3.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/VIDEOID",
+    "category": [
+      "Täistõukerattad",
+      "Pro tase",
+      "Kergekaalulised"
+    ],
+    "brand": "DRONE SCOOTER",
+    "tags": [
+      "kerge",
+      "feather-light",
+      "freestyle",
+      "110mm",
+      "alumiinium",
+      "park",
+      "street"
+    ]
+  },
+  {
+    "id": "drone-element-2-feather-light-black",
+    "name": "Drone Element 2 Feather-Light - Must",
+    "description": [
+      "Element 2 Feather-Light täistõukeratas tähistab uut ajastut Element seeria park-tõukerataste jõudluses. See tõukeratas on varustatud kõrgetasemeliste täiustustega võrreldes originaal Element'iga, mis muudab selle kaalu ja jõudluse osas võitmatuks. Selle mudeliga oleme püüdnud täiustada iga komponenti, vähendades iga detaili kaalu.",
+      "Element 2 Feather-Light on ülimalt kerge, kaaludes vaid 2,95 kg, mis teeb sellest ideaalse valiku trikkide sooritamiseks ja manööverdamiseks. Tõukeratta disain sisaldab väljalõikeid nii üla- kui alaosas ning kitsenemisi ees ja taga, mis vähendavad kaalu, säilitades samas tugevuse ja vastupidavuse.",
+      "Must Element 2 on varustatud uute Luxe 3 Dual Core 110 mm ratastega, Drone Ultra-Sonix Abec 9 laagritega ja uue Feather-Light kahvliga, mis koos pakuvad suurepärast jõudlust ja kontrolli. Tõukeratas on täiustatud Acolyte silikoonist käepidemete ja Drone Steel Feather-Light piduriga, mis tagavad mugava ja usaldusväärse sõidukogemuse."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "Drone Element 2 Feather-Light Must täistõukeratas on uuenduslik mudel, mis on loodud maksimaalseks jõudluseks parkides ja tänavatel. See on üks kergemaid professionaalseid trikitõukerattaid turul, kaaludes vaid 2,95 kg. Musta viimistlusega tõukeratas on valmistatud kvaliteetsest 6061 T6 alumiiniumist ning disainitud edasijõudnud sõitjatele, kes otsivad kerget ja vastutustundlikku trikitõukeratast."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Kaal",
+              "value": "2,95 kg (6,5 lb)"
+            },
+            {
+              "label": "Deck",
+              "value": "Element Feather-Light 4,5\" (114 mm) x 19\" (483 mm), 6061 T6 alumiinium"
+            },
+            {
+              "label": "Rattad",
+              "value": "Luxe 3 Dual Core 110 mm 88A PU"
+            },
+            {
+              "label": "Disain",
+              "value": "Väljalõiked üla- ja alaosas, kitsenemised ees ja taga"
+            },
+            {
+              "label": "Kahvel",
+              "value": "Uus Feather-Light 6061 Alumiinium IHC"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "82,5 kraadi"
+            },
+            {
+              "label": "Laagrid",
+              "value": "Drone Ultra-Sonix Abec 9"
+            },
+            {
+              "label": "Juhtraud",
+              "value": "Alumiinium 610 mm kõrge x 570 mm lai (560 mm ilma otsikuteta)"
+            },
+            {
+              "label": "Käepidemed",
+              "value": "Uued Acolyte silikoonist käepidemed 180 mm"
+            },
+            {
+              "label": "Pidur",
+              "value": "Drone Steel Feather-Light"
+            },
+            {
+              "label": "Headset",
+              "value": "Drone Synergy 2"
+            },
+            {
+              "label": "Klamber",
+              "value": "Solar 6061-T6 Alumiinium topeltklamber"
+            },
+            {
+              "label": "Värv",
+              "value": "Must"
+            },
+            {
+              "label": "Extrusioon",
+              "value": "PARK STRAIGHT"
+            },
+            {
+              "label": "Materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "84,5 cm"
+            },
+            {
+              "label": "Juhtraua kõrgus",
+              "value": "61 cm"
+            },
+            {
+              "label": "Juhtraua välisläbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Juhtraua vorm",
+              "value": "Y-kujuline"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermestamata"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Kompressioonisüsteem",
+              "value": "IHC"
+            },
+            {
+              "label": "Kasutus",
+              "value": "Freestyle, Park, Street"
+            },
+            {
+              "label": "Garantii",
+              "value": "12 kuud"
+            },
+            {
+              "label": "Vorm",
+              "value": "Boxed"
+            },
+            {
+              "label": "Mudel",
+              "value": "Element 2 Feather-Light"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 259.90,
+    "price": 259.90,
+    "discounted_price": null,
+    "stock": 11,
+    "images": [
+      "/products/drone-element-2-feather-light-black-trick-scooter-lightweight-1.jpg",
+      "/products/drone-element-2-feather-light-black-trick-scooter-lightweight-2.jpg",
+      "/products/drone-element-2-feather-light-black-trick-scooter-lightweight-3.jpg"
+    ],
+    "video": "",
+    "category": [
+      "Täistõukerattad",
+      "Pro tase",
+      "Kergekaalulised"
+    ],
+    "brand": "DRONE SCOOTER",
+    "tags": [
+      "kerge",
+      "feather-light",
+      "freestyle",
+      "110mm",
+      "alumiinium",
+      "park",
+      "street",
+      "element"
+    ]
+  },
+  {
+    "id": "toukeratas-drone-element-2-feather-light-hobedane",
+    "name": "Drone E2 Feather-Light tõukeratas - hõbedane",
+    "description": [
+      "Drone Element 2 Feather-Light tõukeratas viib kergekaalulise freestyle-tõukeratta uuele tasemele. Selle täiustatud komponentide ja tugevdatud, samas ülikerge raamiga pakub see mudel maksimaalset kontrolli pargis ja tänaval.",
+      "Tänu 110 mm topelt-südamikuga ratastele, uuendatud Feather-Light kahvlile ja alumiiniumist lenksule sobib see tõukeratas igale trikihuvilisele - nii algajale kui ka edasijõudnule.",
+      "Kui otsid kerget, stiilset ja vastupidavat tõukeratast taskukohase hinnaga - see on just sulle."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "Drone Element 2 Feather-Light tõukeratas tähistab uut taset pargisõiduks mõeldud trikitõukerataste seas. See mudel on kergem, vastupidavam ja täpsemalt viimistletud kui eelkäijad. Iga komponent on hoolikalt optimeeritud, et pakkuda maksimaalset kontrolli ja sujuvust – ideaalne valik nii algajale kui ka kogenud sõitjale. Tänu oma ülikergele raamile ja täiustatud osadele sobib see skuuter nii parki, tänavale kui ka freestyle-sõiduks. Lisaks annavad elegantsed disainid ja professionaalsed detailid sellele mudelile unikaalse välimuse ja tippkvaliteedi tunde."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Kaal",
+              "value": "2,95 kg"
+            },
+            {
+              "label": "Deck",
+              "value": "Element Feather-Light, 114 mm lai ja 483 mm pikk, 6061 T6 alumiinium"
+            },
+            {
+              "label": "Rattad",
+              "value": "Luxe 3 Dual Core, 110 mm, 88A PU"
+            },
+            {
+              "label": "Disain",
+              "value": "Ülemised ja alumised lõiked, kitsenevad otstest"
+            },
+            {
+              "label": "Fourche (kahvel)",
+              "value": "Feather-Light 6061 alumiinium, IHC"
+            },
+            {
+              "label": "Lenks",
+              "value": "Alumiinium, 610 mm kõrge, 570 mm lai (560 mm ilma otsikuteta)"
+            },
+            {
+              "label": "Lenksu kõrgus (kokku)",
+              "value": "85 cm"
+            },
+            {
+              "label": "Lenksu materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Lenksu väline läbimõõt",
+              "value": "34.9 mm"
+            },
+            {
+              "label": "Gripid",
+              "value": "Acolyte silikoonist gripid, 180 mm"
+            },
+            {
+              "label": "Pedaali nurk (headtube)",
+              "value": "83°"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermeta (non-threaded)"
+            },
+            {
+              "label": "Kokkusurumissüsteem",
+              "value": "IHC (Internal Hidden Compression)"
+            },
+            {
+              "label": "Pidur",
+              "value": "Drone Steel Feather-Light, flex fender tüüpi"
+            },
+            {
+              "label": "Laagrid",
+              "value": "Drone Ultra-Sonix Abec 9"
+            },
+            {
+              "label": "Klamber",
+              "value": "Solar 6061-T6 alumiinium, kahe poldiga"
+            },
+            {
+              "label": "Headset",
+              "value": "Drone Synergy 2"
+            },
+            {
+              "label": "Sõidustiil",
+              "value": "Freestyle, park, street"
+            },
+            {
+              "label": "Soovitatav vanus",
+              "value": "7+ (sobib ka 9–11, 11–13, 13–15, 15+ vanustele)"
+            },
+            {
+              "label": "Garantii",
+              "value": "12 kuud"
+            },
+            {
+              "label": "Värvivalikud",
+              "value": "Hõbedane (anodeeritud), must, suitsukroom, neokroom"
+            },
+            {
+              "label": "Ekstruusiooniprofiil",
+              "value": "PARK STRAIGHT"
+            },
+            {
+              "label": "Kokkupanek",
+              "value": "Osaliselt kokkupandud"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 130.0,
+    "price": 279.95,
+    "discounted_price": 259.95,
+    "stock": 11,
+    "images": [
+      "/products/drone-element-2-feather-light-hobedane-toukeratas-1.jpg",
+      "/products/drone-element-2-feather-light-hobedane-toukeratas-2.jpg",
+      "/products/drone-element-2-feather-light-hobedane-toukeratas-3.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/6VNiykQ2YUw?si=HNzk-zXr8h3nbj93",
+    "category": [
+      "Tõuksid",
+      "Pro tase",
+      "Park"
+    ],
+    "brand": "Drone",
+    "tags": [
+      "Complete",
+      "IHC",
+      "Kerge"
+    ]
+  },
+  {
+    "id": "drone-element-2-feather-light-silver",
+    "name": "Drone Element 2 Feather-Light - Hõbe",
+    "description": [
+      "Element 2 Feather-Light täistõukeratas tähistab uut ajastut Element seeria park-tõukerataste jõudluses. See tõukeratas on varustatud kõrgetasemeliste täiustustega võrreldes originaal Element'iga, mis muudab selle kaalu ja jõudluse osas võitmatuks. Selle mudeliga oleme püüdnud täiustada iga komponenti, vähendades iga detaili kaalu.",
+      "Element 2 Feather-Light on ülimalt kerge, kaaludes vaid 2,95 kg, mis teeb sellest ideaalse valiku trikkide sooritamiseks ja manööverdamiseks. Tõukeratta disain sisaldab väljalõikeid nii üla- kui alaosas ning kitsenemisi ees ja taga, mis vähendavad kaalu, säilitades samas tugevuse ja vastupidavuse.",
+      "Hõbedane Element 2 on varustatud uute Luxe 3 Dual Core 110 mm ratastega, Drone Ultra-Sonix Abec 9 laagritega ja uue Feather-Light kahvliga, mis koos pakuvad suurepärast jõudlust ja kontrolli. Tõukeratas on täiustatud Acolyte silikoonist käepidemete ja Drone Steel Feather-Light piduriga, mis tagavad mugava ja usaldusväärse sõidukogemuse."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "Drone Element 2 Feather-Light Hõbe täistõukeratas on uuenduslik mudel, mis on loodud maksimaalseks jõudluseks parkides ja tänavatel. See on üks kergemaid professionaalseid trikitõukerattaid turul, kaaludes vaid 2,95 kg. Hõbedase viimistlusega tõukeratas on valmistatud kvaliteetsest 6061 T6 alumiiniumist ning disainitud edasijõudnud sõitjatele, kes otsivad kerget ja vastutustundlikku trikitõukeratast."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Kaal",
+              "value": "2,95 kg (6,5 lb)"
+            },
+            {
+              "label": "Deck",
+              "value": "Element Feather-Light 4,5\" (114 mm) x 19\" (483 mm), 6061 T6 alumiinium"
+            },
+            {
+              "label": "Rattad",
+              "value": "Luxe 3 Dual Core 110 mm 88A PU"
+            },
+            {
+              "label": "Disain",
+              "value": "Väljalõiked üla- ja alaosas, kitsenemised ees ja taga"
+            },
+            {
+              "label": "Kahvel",
+              "value": "Uus Feather-Light 6061 Alumiinium IHC"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "82,5 kraadi"
+            },
+            {
+              "label": "Laagrid",
+              "value": "Drone Ultra-Sonix Abec 9"
+            },
+            {
+              "label": "Juhtraud",
+              "value": "Alumiinium 610 mm kõrge x 570 mm lai (560 mm ilma otsikuteta)"
+            },
+            {
+              "label": "Käepidemed",
+              "value": "Uued Acolyte silikoonist käepidemed 180 mm"
+            },
+            {
+              "label": "Pidur",
+              "value": "Drone Steel Feather-Light"
+            },
+            {
+              "label": "Headset",
+              "value": "Drone Synergy 2"
+            },
+            {
+              "label": "Klamber",
+              "value": "Solar 6061-T6 Alumiinium topeltklamber"
+            },
+            {
+              "label": "Värv",
+              "value": "Hõbe"
+            },
+            {
+              "label": "Extrusioon",
+              "value": "PARK STRAIGHT"
+            },
+            {
+              "label": "Materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "85 cm"
+            },
+            {
+              "label": "Juhtraua kõrgus",
+              "value": "61 cm"
+            },
+            {
+              "label": "Juhtraua välisläbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermestamata"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Kompressioonisüsteem",
+              "value": "IHC"
+            },
+            {
+              "label": "Kasutus",
+              "value": "Freestyle, Park, Street"
+            },
+            {
+              "label": "Garantii",
+              "value": "12 kuud"
+            },
+            {
+              "label": "Vorm",
+              "value": "Boxed"
+            },
+            {
+              "label": "Mudel",
+              "value": "Element 2 Feather-Light"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 259.90,
+    "price": 259.90,
+    "discounted_price": null,
+    "stock": 11,
+    "images": [
+      "/products/drone-element-2-feather-light-silver-trick-scooter-lightweight-1.jpg",
+      "/products/drone-element-2-feather-light-silver-trick-scooter-lightweight-2.jpg",
+      "/products/drone-element-2-feather-light-silver-trick-scooter-lightweight-3.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/VIDEOID",
+    "category": [
+      "Täistõukerattad",
+      "Pro tase",
+      "Kergekaalulised"
+    ],
+    "brand": "DRONE SCOOTER",
+    "tags": [
+      "kerge",
+      "feather-light",
+      "freestyle",
+      "110mm",
+      "alumiinium",
+      "park",
+      "street",
+      "element"
+    ]
+  },
+  {
+    "id": "drone-element-2-feather-light-smoked-chrome",
+    "name": "Drone Element 2 Feather-Light - Suitsukroom",
+    "description": [
+      "Element 2 Feather-Light täistõukeratas tähistab uut ajastut Element seeria park-tõukerataste jõudluses. See tõukeratas on varustatud kõrgetasemeliste täiustustega võrreldes originaal Element'iga, mis muudab selle kaalu ja jõudluse osas võitmatuks. Selle mudeliga oleme püüdnud täiustada iga komponenti, vähendades iga detaili kaalu.",
+      "Element 2 Feather-Light on ülimalt kerge, kaaludes vaid 2,95 kg, mis teeb sellest ideaalse valiku trikkide sooritamiseks ja manööverdamiseks. Tõukeratta disain sisaldab väljalõikeid nii üla- kui alaosas ning kitsenemisi ees ja taga, mis vähendavad kaalu, säilitades samas tugevuse ja vastupidavuse.",
+      "Suitsukroom viimistlusega Element 2 on varustatud uute Luxe 3 Dual Core 110 mm ratastega, Drone Ultra-Sonix Abec 9 laagritega ja uue Feather-Light kahvliga, mis koos pakuvad suurepärast jõudlust ja kontrolli. Tõukeratas on täiustatud Acolyte silikoonist käepidemete ja Drone Steel Feather-Light piduriga, mis tagavad mugava ja usaldusväärse sõidukogemuse."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "Drone Element 2 Feather-Light Suitsukroom täistõukeratas on uuenduslik mudel, mis on loodud maksimaalseks jõudluseks parkides ja tänavatel. See on üks kergemaid professionaalseid trikitõukerattaid turul, kaaludes vaid 2,95 kg. Suitsukroomi viimistlusega tõukeratas on valmistatud kvaliteetsest 6061 T6 alumiiniumist ning disainitud edasijõudnud sõitjatele, kes otsivad kerget ja vastutustundlikku trikitõukeratast."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Kaal",
+              "value": "2,95 kg (6,5 lb)"
+            },
+            {
+              "label": "Deck",
+              "value": "Element Feather-Light 4,5\" (114 mm) x 19\" (483 mm), 6061 T6 alumiinium"
+            },
+            {
+              "label": "Rattad",
+              "value": "Luxe 3 Dual Core 110 mm 88A PU"
+            },
+            {
+              "label": "Disain",
+              "value": "Väljalõiked üla- ja alaosas, kitsenemised ees ja taga"
+            },
+            {
+              "label": "Kahvel",
+              "value": "Uus Feather-Light 6061 Alumiinium IHC"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "82,5 kraadi"
+            },
+            {
+              "label": "Laagrid",
+              "value": "Drone Ultra-Sonix Abec 9"
+            },
+            {
+              "label": "Juhtraud",
+              "value": "Alumiinium 610 mm kõrge x 570 mm lai (560 mm ilma otsikuteta)"
+            },
+            {
+              "label": "Käepidemed",
+              "value": "Uued Acolyte silikoonist käepidemed 180 mm"
+            },
+            {
+              "label": "Pidur",
+              "value": "Drone Steel Feather-Light"
+            },
+            {
+              "label": "Headset",
+              "value": "Drone Synergy 2"
+            },
+            {
+              "label": "Klamber",
+              "value": "Solar 6061-T6 Alumiinium topeltklamber"
+            },
+            {
+              "label": "Värv",
+              "value": "Suitsukroom"
+            },
+            {
+              "label": "Extrusioon",
+              "value": "PARK STRAIGHT"
+            },
+            {
+              "label": "Materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "85 cm"
+            },
+            {
+              "label": "Juhtraua kõrgus",
+              "value": "61 cm"
+            },
+            {
+              "label": "Juhtraua välisläbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Juhtraua vorm",
+              "value": "Y-kujuline"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermestamata"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Kompressioonisüsteem",
+              "value": "IHC"
+            },
+            {
+              "label": "Kasutus",
+              "value": "Freestyle, Park, Street"
+            },
+            {
+              "label": "Garantii",
+              "value": "12 kuud"
+            },
+            {
+              "label": "Vorm",
+              "value": "Boxed"
+            },
+            {
+              "label": "Mudel",
+              "value": "Element 2 Feather-Light"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 269.90,
+    "price": 269.90,
+    "discounted_price": null,
+    "stock": 6,
+    "images": [
+      "/products/drone-element-2-feather-light-smoked-chrome-trick-scooter-lightweight-1.jpg",
+      "/products/drone-element-2-feather-light-smoked-chrome-trick-scooter-lightweight-2.jpg",
+      "/products/drone-element-2-feather-light-smoked-chrome-trick-scooter-lightweight-3.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/VIDEOID",
+    "category": [
+      "Täistõukerattad",
+      "Pro tase",
+      "Kergekaalulised"
+    ],
+    "brand": "DRONE SCOOTER",
+    "tags": [
+      "kerge",
+      "feather-light",
+      "freestyle",
+      "110mm",
+      "alumiinium",
+      "park",
+      "street",
+      "element"
+    ]
+  },
+  {
+    "id": "drone-element-2-feather-light-neochrome",
+    "name": "Drone Element 2 Feather-Light - Neokroom",
+    "description": [
+      "Element 2 Feather-Light täistõukeratas tähistab uut ajastut Element seeria park-tõukerataste jõudluses. See tõukeratas on varustatud kõrgetasemeliste täiustustega võrreldes originaal Element'iga, mis muudab selle kaalu ja jõudluse osas võitmatuks. Selle mudeliga oleme püüdnud täiustada iga komponenti, vähendades iga detaili kaalu.",
+      "Element 2 Feather-Light on ülimalt kerge, kaaludes vaid 2,95 kg, mis teeb sellest ideaalse valiku trikkide sooritamiseks ja manööverdamiseks. Tõukeratta disain sisaldab väljalõikeid nii üla- kui alaosas ning kitsenemisi ees ja taga, mis vähendavad kaalu, säilitades samas tugevuse ja vastupidavuse.",
+      "Neokroomi viimistlusega Element 2 on varustatud uute Luxe 3 Dual Core 110 mm ratastega, Drone Ultra-Sonix Abec 9 laagritega ja uue Feather-Light kahvliga, mis koos pakuvad suurepärast jõudlust ja kontrolli. Tõukeratas on täiustatud Acolyte silikoonist käepidemete ja Drone Steel Feather-Light piduriga, mis tagavad mugava ja usaldusväärse sõidukogemuse."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "Drone Element 2 Feather-Light Neokroom täistõukeratas on uuenduslik mudel, mis on loodud maksimaalseks jõudluseks parkides ja tänavatel. See on üks kergemaid professionaalseid trikitõukerattaid turul, kaaludes vaid 2,95 kg. Neokroomi viimistlus annab tõukerattale ainulaadse, värviküllase välimuse, mis muutub vastavalt valgusele ja vaatenurgale. Valmistatud kvaliteetsest 6061 T6 alumiiniumist, on see disainitud edasijõudnud sõitjatele, kes otsivad kerget ja vastutustundlikku trikitõukeratast."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Kaal",
+              "value": "2,95 kg (6,5 lb)"
+            },
+            {
+              "label": "Deck",
+              "value": "Element Feather-Light 4,5\" (114 mm) x 19\" (483 mm), 6061 T6 alumiinium"
+            },
+            {
+              "label": "Rattad",
+              "value": "Luxe 3 Dual Core 110 mm 88A PU"
+            },
+            {
+              "label": "Disain",
+              "value": "Väljalõiked üla- ja alaosas, kitsenemised ees ja taga"
+            },
+            {
+              "label": "Kahvel",
+              "value": "Uus Feather-Light 6061 Alumiinium IHC"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "82,5 kraadi"
+            },
+            {
+              "label": "Laagrid",
+              "value": "Drone Ultra-Sonix Abec 9"
+            },
+            {
+              "label": "Juhtraud",
+              "value": "Alumiinium 610 mm kõrge x 570 mm lai (560 mm ilma otsikuteta)"
+            },
+            {
+              "label": "Käepidemed",
+              "value": "Uued Acolyte silikoonist käepidemed 180 mm"
+            },
+            {
+              "label": "Pidur",
+              "value": "Drone Steel Feather-Light"
+            },
+            {
+              "label": "Headset",
+              "value": "Drone Synergy 2"
+            },
+            {
+              "label": "Klamber",
+              "value": "Solar 6061-T6 Alumiinium topeltklamber"
+            },
+            {
+              "label": "Värv",
+              "value": "Neokroom (mitmevärviline)"
+            },
+            {
+              "label": "Extrusioon",
+              "value": "PARK STRAIGHT"
+            },
+            {
+              "label": "Materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "85 cm"
+            },
+            {
+              "label": "Juhtraua kõrgus",
+              "value": "61 cm"
+            },
+            {
+              "label": "Juhtraua välisläbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermestamata"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Kompressioonisüsteem",
+              "value": "IHC"
+            },
+            {
+              "label": "Kasutus",
+              "value": "Freestyle, Park, Street"
+            },
+            {
+              "label": "Garantii",
+              "value": "12 kuud"
+            },
+            {
+              "label": "Vorm",
+              "value": "Boxed"
+            },
+            {
+              "label": "Mudel",
+              "value": "Element 2 Feather-Light"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 269.90,
+    "price": 269.90,
+    "discounted_price": null,
+    "stock": 1,
+    "images": [
+      "/products/drone-element-2-feather-light-neochrome-trick-scooter-lightweight-1.jpg",
+      "/products/drone-element-2-feather-light-neochrome-trick-scooter-lightweight-2.jpg",
+      "/products/drone-element-2-feather-light-neochrome-trick-scooter-lightweight-3.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/VIDEOID",
+    "category": [
+      "Täistõukerattad",
+      "Pro tase",
+      "Kergekaalulised"
+    ],
+    "brand": "DRONE SCOOTER",
+    "tags": [
+      "kerge",
+      "feather-light",
+      "freestyle",
+      "110mm",
+      "alumiinium",
+      "park",
+      "street",
+      "element",
+      "neokroom"
+    ]
+  },
+  {
+    "id": "drone-kai-saunders-saundezy-signature-nexus-65-x-22-black",
+    "name": "Drone Kai Saunders 'Saundezy' Signature Nexus - 6,5\" x 22\" - Must",
+    "description": [
+      "Kai Saunders 'Saundezy' Nexus täistõukeratas on meie lipulaev street-sõiduks, mis on varustatud Kai 'Saundezy' 6,5\" Street dekiga. See mudel on loodud kogenud street-sõitjatele, kombineerides jõudlust, stiili ja vastupidavust, et pakkuda erakordset sõidukogemust.",
+      "Tõukeratas on varustatud perforeeritud ülemise plaadiga ja Kai signatuurgraafikaga, mis lisab ainulaadse välimuse. Drone Contrast 3 SCS klamber, Relic 3 Chromoly juhtraud ja Acolyte 180mm käepidemed tagavad täpse kontrolli ja mugavuse sõidu ajal.",
+      "Luxe 3 110mm Dual Core rattad ja Shadow 3 Feather-Light SCS kahvel pakuvad suurepärast jõudlust nii parkides kui tänavatel. Tõukeratas on kohandatav 120 mm ja 30 mm laiuste ratastega, mis võimaldab seda kohandada vastavalt sõidustiilile. Uus reguleeritav Feather-Light 125 mm fender ja täiendav terasest pidur tagavad maksimaalse kontrolli."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "Drone Kai Saunders 'Saundezy' Signature Nexus Must täistõukeratas on professionaalne street-sõidu mudel, mis on välja töötatud koostöös legendaarse trikitõukeratta sõitja Kai Saundersiga. See 6,5\" x 22\" dekiga tõukeratas on loodud pakkuma maksimaalset kontrolli ja jõudlust street-trikkide sooritamisel. Musta viimistlusega tõukeratas sisaldab Kai signatuurgraafikat ja on varustatud tipptasemel komponentidega, mis rahuldavad ka kõige nõudlikumate sõitjate vajadused."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Deck",
+              "value": "'Saundezy' Nexus 1 Signature: 6,5\" x 22\""
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "910 mm (91 cm)"
+            },
+            {
+              "label": "Kaal",
+              "value": "3,7 kg"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "84°"
+            },
+            {
+              "label": "Ülemine plaat",
+              "value": "Perforeeritud"
+            },
+            {
+              "label": "Graafika",
+              "value": "Kai signatuurgraafika"
+            },
+            {
+              "label": "Klamber",
+              "value": "Drone Contrast 3 SCS"
+            },
+            {
+              "label": "Juhtraud",
+              "value": "Relic 3 Chromoly"
+            },
+            {
+              "label": "Juhtraua kõrgus",
+              "value": "71 cm"
+            },
+            {
+              "label": "Juhtraua vorm",
+              "value": "T-kujuline"
+            },
+            {
+              "label": "Käepidemed",
+              "value": "Acolyte 180mm"
+            },
+            {
+              "label": "Rattad",
+              "value": "Luxe 3 110mm Dual Core"
+            },
+            {
+              "label": "Kahvel",
+              "value": "Shadow 3 Feather-Light SCS"
+            },
+            {
+              "label": "Rataste ühilduvus",
+              "value": "Ühildub 120 mm ja 30 mm laiuste ratastega, 12STD valikutega"
+            },
+            {
+              "label": "Fender",
+              "value": "Uus reguleeritav Feather-Light 125 mm"
+            },
+            {
+              "label": "Pidur",
+              "value": "Täiendav terasest pidur"
+            },
+            {
+              "label": "Värv",
+              "value": "Must"
+            },
+            {
+              "label": "Juhtraua välisläbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermestamata"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Kompressioonisüsteem",
+              "value": "SCS"
+            },
+            {
+              "label": "Kasutus",
+              "value": "Freestyle, Park, Street"
+            },
+            {
+              "label": "Garantii",
+              "value": "12 kuud"
+            },
+            {
+              "label": "Vorm",
+              "value": "Boxed"
+            },
+            {
+              "label": "Materjal",
+              "value": "Chromoly teras"
+            },
+            {
+              "label": "Juhtraua materjal",
+              "value": "Chromoly teras"
+            },
+            {
+              "label": "Mudel",
+              "value": "Kai Saunders 'Saundezy' Signature Nexus"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 339.90,
+    "price": 339.90,
+    "discounted_price": null,
+    "stock": 0,
+    "images": [
+      "/products/drone-kai-saunders-saundezy-signature-nexus-65x22-black-trick-scooter-pro-1.jpg",
+      "/products/drone-kai-saunders-saundezy-signature-nexus-65x22-black-trick-scooter-pro-2.jpg",
+      "/products/drone-kai-saunders-saundezy-signature-nexus-65x22-black-trick-scooter-pro-3.jpg",
+      "/products/drone-kai-saunders-saundezy-signature-nexus-65x22-black-trick-scooter-pro-4.jpg",
+      "/products/drone-kai-saunders-saundezy-signature-nexus-65x22-black-trick-scooter-pro-5.jpg",
+      "/products/drone-kai-saunders-saundezy-signature-nexus-65x22-black-trick-scooter-pro-6.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/VIDEOID",
+    "category": [
+      "Täistõukerattad",
+      "Pro tase",
+      "Signature"
+    ],
+    "brand": "DRONE SCOOTER",
+    "tags": [
+      "signature",
+      "kai-saunders",
+      "saundezy",
+      "street",
+      "110mm",
+      "chromoly",
+      "nexus",
+      "pro",
+      "scs"
+    ]
+  },
+  {
+    "id": "kai-saunders-saundezy-signature-element-5-x-192-black",
+    "name": "Kai Saunders 'Saundezy' Signature Element - 5\" x 19,2\" - Must",
+    "description": [
+      "Kai Saunders 'Saundezy' Element 2 täistõukeratas on innovaatiline ja mitmekülgne valik sõitjatele, kes soovivad oma piire ületada. See professionaalne trikitõukeratas on disainitud koostöös legendaarse trikitõukeratta sõitja Kai Saundersiga.",
+      "Element 2 on varustatud perforeeritud ülemise plaadiga ja Kai signatuurgraafikaga, mis lisab ainulaadse välimuse. Drone Contrast 3 SCS klamber, Shadow 3 alumiiniumist juhtraud ja Alcolyte 180 mm käepidemed tagavad täpse kontrolli ja mugavuse sõidu ajal.",
+      "Luxe 3 110mm Dual Core rattad ja Shadow 3 ultra-kerge SCS kahvel pakuvad suurepärast jõudlust nii parkides kui tänavatel. Tõukeratas on varustatud nailonist isepingulduvate deki otsikutega ning komplekti kuuluvad reguleeritav ultra-kerge 125 mm pidur ja täiendav poripõll."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "Kai Saunders 'Saundezy' Signature Element Must täistõukeratas on professionaalne mudel, mis on välja töötatud koostöös kuulsa trikitõukeratta sõitja Kai Saundersiga. See 5\" x 19,2\" dekiga tõukeratas on loodud pakkuma maksimaalset mitmekülgsust ja jõudlust erinevate trikkide sooritamisel. Kaaludes vaid 3,1 kg, on see ideaalne valik nii park- kui street-sõiduks. Musta viimistlusega tõukeratas sisaldab Kai signatuurgraafikat ja on varustatud kvaliteetsete komponentidega, mis tagavad sujuva ja täpse sõidukogemuse."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Deck",
+              "value": "Element 2: 5\" x 19,2\""
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "850 mm (85 cm)"
+            },
+            {
+              "label": "Kaal",
+              "value": "3,1 kg"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "82,5° täiustatud blunt-plaadiga"
+            },
+            {
+              "label": "Ülemine plaat",
+              "value": "Perforeeritud"
+            },
+            {
+              "label": "Graafika",
+              "value": "Kai signatuurgraafika"
+            },
+            {
+              "label": "Klamber",
+              "value": "Drone Contrast 3 SCS"
+            },
+            {
+              "label": "Juhtraud",
+              "value": "Shadow 3 alumiinium"
+            },
+            {
+              "label": "Juhtraua kõrgus",
+              "value": "56 cm"
+            },
+            {
+              "label": "Käepidemed",
+              "value": "Alcolyte 180 mm"
+            },
+            {
+              "label": "Rattad",
+              "value": "Luxe 3 110 mm Dual Core"
+            },
+            {
+              "label": "Kahvel",
+              "value": "Shadow 3 ultra-kerge SCS"
+            },
+            {
+              "label": "Deki otsikud",
+              "value": "Nailonist isepingulduvad"
+            },
+            {
+              "label": "Pidur",
+              "value": "Reguleeritav ultra-kerge 125 mm"
+            },
+            {
+              "label": "Lisad",
+              "value": "Täiendav poripõll kaasas"
+            },
+            {
+              "label": "Värv",
+              "value": "Must"
+            },
+            {
+              "label": "Juhtraua välisläbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermestamata"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Kompressioonisüsteem",
+              "value": "SCS"
+            },
+            {
+              "label": "Kasutus",
+              "value": "Freestyle, Park, Street"
+            },
+            {
+              "label": "Garantii",
+              "value": "12 kuud"
+            },
+            {
+              "label": "Vorm",
+              "value": "Boxed"
+            },
+            {
+              "label": "Materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Juhtraua materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Mudel",
+              "value": "Kai Saunders 'Saundezy' Signature Element"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 129.90,
+    "price": 129.90,
+    "discounted_price": null,
+    "stock": 79,
+    "images": [
+      "/products/kai-saunders-saundezy-signature-element-5x192-black-trick-scooter-pro-1.png"
+    ],
+    "video": "https://www.youtube.com/embed/VIDEOID",
+    "category": [
+      "Täistõukerattad",
+      "Pro tase",
+      "Signature"
+    ],
+    "brand": "DRONE SCOOTER",
+    "tags": [
+      "signature",
+      "kai-saunders",
+      "saundezy",
+      "street",
+      "110mm",
+      "alumiinium",
+      "element",
+      "park",
+      "freestyle",
+      "scs"
+    ]
+  },
+  {
+    "id": "drone-kai-saunders-saundezy-signature-element-5-x-192-black",
+    "name": "Drone Kai Saunders 'Saundezy' Signature Element - 5\" x 19,2\" - Must",
+    "description": [
+      "Kai Saunders 'Saundezy' Element 2 täistõukeratas on innovaatiline ja mitmekülgne valik sõitjatele, kes soovivad oma piire ületada. See professionaalne trikitõukeratas on disainitud koostöös legendaarse trikitõukeratta sõitja Kai Saundersiga.",
+      "Element 2 on varustatud perforeeritud ülemise plaadiga ja Kai signatuurgraafikaga, mis lisab ainulaadse välimuse. Drone Contrast 3 SCS klamber, Shadow 3 alumiiniumist juhtraud ja Alcolyte 180 mm käepidemed tagavad täpse kontrolli ja mugavuse sõidu ajal.",
+      "Luxe 3 110mm Dual Core rattad ja Shadow 3 ultra-kerge SCS kahvel pakuvad suurepärast jõudlust nii parkides kui tänavatel. Tõukeratas on varustatud nailonist isepingulduvate deki otsikutega ning komplekti kuuluvad reguleeritav ultra-kerge 125 mm pidur ja täiendav poripõll."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "Drone Kai Saunders 'Saundezy' Signature Element Must täistõukeratas on professionaalne mudel, mis on välja töötatud koostöös kuulsa trikitõukeratta sõitja Kai Saundersiga. See 5\" x 19,2\" dekiga tõukeratas on loodud pakkuma maksimaalset mitmekülgsust ja jõudlust erinevate trikkide sooritamisel. Kaaludes vaid 3,1 kg, on see ideaalne valik nii park- kui street-sõiduks. Musta viimistlusega tõukeratas sisaldab Kai signatuurgraafikat ja on varustatud kvaliteetsete komponentidega, mis tagavad sujuva ja täpse sõidukogemuse."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Deck",
+              "value": "Element 2: 5\" x 19,2\""
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "850 mm (85 cm)"
+            },
+            {
+              "label": "Kaal",
+              "value": "3,1 kg"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "82,5° täiustatud blunt-plaadiga"
+            },
+            {
+              "label": "Ülemine plaat",
+              "value": "Perforeeritud"
+            },
+            {
+              "label": "Graafika",
+              "value": "Kai signatuurgraafika"
+            },
+            {
+              "label": "Klamber",
+              "value": "Drone Contrast 3 SCS"
+            },
+            {
+              "label": "Juhtraud",
+              "value": "Shadow 3 alumiinium"
+            },
+            {
+              "label": "Juhtraua kõrgus",
+              "value": "56 cm"
+            },
+            {
+              "label": "Juhtraua vorm",
+              "value": "Y-kujuline"
+            },
+            {
+              "label": "Käepidemed",
+              "value": "Alcolyte 180 mm"
+            },
+            {
+              "label": "Rattad",
+              "value": "Luxe 3 110 mm Dual Core"
+            },
+            {
+              "label": "Kahvel",
+              "value": "Shadow 3 ultra-kerge SCS"
+            },
+            {
+              "label": "Deki otsikud",
+              "value": "Nailonist isepingulduvad"
+            },
+            {
+              "label": "Pidur",
+              "value": "Reguleeritav ultra-kerge 125 mm"
+            },
+            {
+              "label": "Lisad",
+              "value": "Täiendav poripõll kaasas"
+            },
+            {
+              "label": "Värv",
+              "value": "Must"
+            },
+            {
+              "label": "Juhtraua välisläbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermestamata"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Kompressioonisüsteem",
+              "value": "SCS"
+            },
+            {
+              "label": "Kasutus",
+              "value": "Freestyle, Park, Street"
+            },
+            {
+              "label": "Garantii",
+              "value": "12 kuud"
+            },
+            {
+              "label": "Vorm",
+              "value": "Boxed"
+            },
+            {
+              "label": "Materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Juhtraua materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Mudel",
+              "value": "Kai Saunders 'Saundezy' Signature Element"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 129.90,
+    "price": 129.90,
+    "discounted_price": null,
+    "stock": 59,
+    "images": [
+      "/products/drone-kai-saunders-saundezy-signature-element-5x192-black-trick-scooter-pro-1.png",
+      "/products/drone-kai-saunders-saundezy-signature-element-5x192-black-trick-scooter-pro-2.jpg",
+      "/products/drone-kai-saunders-saundezy-signature-element-5x192-black-trick-scooter-pro-3.jpg",
+      "/products/drone-kai-saunders-saundezy-signature-element-5x192-black-trick-scooter-pro-4.jpg",
+      "/products/drone-kai-saunders-saundezy-signature-element-5x192-black-trick-scooter-pro-5.jpg",
+      "/products/drone-kai-saunders-saundezy-signature-element-5x192-black-trick-scooter-pro-6.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/VIDEOID",
+    "category": [
+      "Täistõukerattad",
+      "Pro tase",
+      "Signature"
+    ],
+    "brand": "DRONE SCOOTER",
+    "tags": [
+      "signature",
+      "kai-saunders",
+      "saundezy",
+      "street",
+      "110mm",
+      "alumiinium",
+      "element",
+      "park",
+      "freestyle",
+      "scs"
+    ]
+  },
+  {
+    "id": "drone-kai-saunders-saundezy-signature-element-5-x-192-chrome-blue",
+    "name": "Drone Kai Saunders 'Saundezy' Signature Element - 5\" x 19,2\" - Sinakroom",
+    "description": [
+      "Kai Saunders 'Saundezy' Element 2 täistõukeratas on innovaatiline ja mitmekülgne valik sõitjatele, kes soovivad oma piire ületada. See professionaalne trikitõukeratas on disainitud koostöös legendaarse trikitõukeratta sõitja Kai Saundersiga.",
+      "Element 2 on varustatud perforeeritud ülemise plaadiga ja Kai signatuurgraafikaga, mis lisab ainulaadse välimuse. Drone Contrast 3 SCS klamber, Shadow 3 alumiiniumist juhtraud ja Alcolyte 180 mm käepidemed tagavad täpse kontrolli ja mugavuse sõidu ajal.",
+      "Sinakroomi viimistlusega Element 2 on varustatud Luxe 3 110mm Dual Core ratastega ja Shadow 3 ultra-kerge SCS kahvliga, mis pakuvad suurepärast jõudlust nii parkides kui tänavatel. Tõukeratas on varustatud nailonist isepingulduvate deki otsikutega ning komplekti kuuluvad reguleeritav ultra-kerge 125 mm pidur ja täiendav poripõll."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "Drone Kai Saunders 'Saundezy' Signature Element Sinakroom täistõukeratas on professionaalne mudel, mis on välja töötatud koostöös kuulsa trikitõukeratta sõitja Kai Saundersiga. See 5\" x 19,2\" dekiga tõukeratas on loodud pakkuma maksimaalset mitmekülgsust ja jõudlust erinevate trikkide sooritamisel. Kaaludes vaid 3,1 kg, on see ideaalne valik nii park- kui street-sõiduks. Sinakroomi viimistlus annab tõukerattale silmapaistva ja kaasaegse välimuse, mis sisaldab Kai signatuurgraafikat ja on varustatud kvaliteetsete komponentidega."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Deck",
+              "value": "Element 2: 5\" x 19,2\""
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "850 mm (85 cm)"
+            },
+            {
+              "label": "Kaal",
+              "value": "3,1 kg"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "82,5° täiustatud blunt-plaadiga"
+            },
+            {
+              "label": "Ülemine plaat",
+              "value": "Perforeeritud"
+            },
+            {
+              "label": "Graafika",
+              "value": "Kai signatuurgraafika"
+            },
+            {
+              "label": "Klamber",
+              "value": "Drone Contrast 3 SCS"
+            },
+            {
+              "label": "Juhtraud",
+              "value": "Shadow 3 alumiinium"
+            },
+            {
+              "label": "Juhtraua kõrgus",
+              "value": "56 cm"
+            },
+            {
+              "label": "Juhtraua vorm",
+              "value": "Y-kujuline"
+            },
+            {
+              "label": "Käepidemed",
+              "value": "Alcolyte 180 mm"
+            },
+            {
+              "label": "Rattad",
+              "value": "Luxe 3 110 mm Dual Core"
+            },
+            {
+              "label": "Kahvel",
+              "value": "Shadow 3 ultra-kerge SCS"
+            },
+            {
+              "label": "Deki otsikud",
+              "value": "Nailonist isepingulduvad"
+            },
+            {
+              "label": "Pidur",
+              "value": "Reguleeritav ultra-kerge 125 mm"
+            },
+            {
+              "label": "Lisad",
+              "value": "Täiendav poripõll kaasas"
+            },
+            {
+              "label": "Värv",
+              "value": "Sinakroom, Must"
+            },
+            {
+              "label": "Juhtraua välisläbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermestamata"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Kompressioonisüsteem",
+              "value": "SCS"
+            },
+            {
+              "label": "Kasutus",
+              "value": "Freestyle, Park, Street"
+            },
+            {
+              "label": "Garantii",
+              "value": "12 kuud"
+            },
+            {
+              "label": "Vorm",
+              "value": "Boxed"
+            },
+            {
+              "label": "Materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Juhtraua materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Mudel",
+              "value": "Kai Saunders 'Saundezy' Signature Element"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 129.90,
+    "price": 129.90,
+    "discounted_price": null,
+    "stock": 35,
+    "images": [
+      "/products/drone-kai-saunders-saundezy-signature-element-5x192-chrome-blue-trick-scooter-pro-1.jpg",
+      "/products/drone-kai-saunders-saundezy-signature-element-5x192-chrome-blue-trick-scooter-pro-2.jpg",
+      "/products/drone-kai-saunders-saundezy-signature-element-5x192-chrome-blue-trick-scooter-pro-3.jpg",
+      "/products/drone-kai-saunders-saundezy-signature-element-5x192-chrome-blue-trick-scooter-pro-4.jpg",
+      "/products/drone-kai-saunders-saundezy-signature-element-5x192-chrome-blue-trick-scooter-pro-5.jpg",
+      "/products/drone-kai-saunders-saundezy-signature-element-5x192-chrome-blue-trick-scooter-pro-6.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/VIDEOID",
+    "category": [
+      "Täistõukerattad",
+      "Pro tase",
+      "Signature"
+    ],
+    "brand": "DRONE SCOOTER",
+    "tags": [
+      "signature",
+      "kai-saunders",
+      "saundezy",
+      "street",
+      "110mm",
+      "alumiinium",
+      "element",
+      "park",
+      "freestyle",
+      "scs",
+      "sinakroom"
+    ]
+  },
+  {
+    "id": "fuzion-complete-z350-pinnacle",
+    "name": "Fuzion Complete Z350 - Pinnacle",
+    "description": [
+      "Fuzion Z350 freestyle täistõukeratas on kahtlemata üks parimaid kõrgetasemelisi täistõukerattaid turul. Varustatud legendaarse Entropy dekiga, alumiiniumist juhtrauaga, IHC kahvliga ja 110mm hollowcore ratastega on Fuzion Z350 täistõukeratas kindel valik!",
+      "See professionaalne trikitõukeratas on loodud pakkuma maksimaalset jõudlust ja vastupidavust. Kaaludes vaid 3,1 kg, on Z350 piisavalt kerge trikkide sooritamiseks, kuid samas piisavalt tugev, et taluda igapäevast kasutamist.",
+      "Pinnacle värvilahendusega Z350 on silmapaistev sinise ja musta kombinatsiooniga, mis lisab tõukerattale kaasaegse ja sportliku välimuse. 6061 T6 alumiiniumist deck, terasest juhtraud ja 110mm Hollowcore rattad tagavad suurepärase sõidukogemuse igas park-stiilis sõidusituatsioonis."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "Fuzion Complete Z350 Pinnacle on kõrgetasemeline freestyle trikitõukeratas, mis on loodud nõudlikele sõitjatele. See on varustatud kvaliteetsete komponentidega, mis tagavad maksimaalse jõudluse ja vastupidavuse. Sinine-must värvikombinatsioon annab tõukerattale silmapaistva välimuse, mis eristub teistest. Tänu oma kergele kaalule (3,1 kg) ja tugevale konstruktsioonile on see ideaalne valik park-sõiduks ja trikkide sooritamiseks."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Kaal",
+              "value": "3,1 kg (7,18 lbs)"
+            },
+            {
+              "label": "Deki laius",
+              "value": "5\" (127 mm)"
+            },
+            {
+              "label": "Deki pikkus",
+              "value": "19,5\" (495 mm)"
+            },
+            {
+              "label": "Deki kaal",
+              "value": "0,9 kg (2,9 lbs)"
+            },
+            {
+              "label": "Deki materjal",
+              "value": "Alumiinium 6061 T6"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "83°"
+            },
+            {
+              "label": "Deki nõgusus",
+              "value": "5°"
+            },
+            {
+              "label": "Kahvli materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Kompressioonisüsteem",
+              "value": "IHC"
+            },
+            {
+              "label": "Juhtraua vorm",
+              "value": "Dip Bar tugedega"
+            },
+            {
+              "label": "Juhtraua materjal",
+              "value": "Teras (Chromoly)"
+            },
+            {
+              "label": "Juhtraua kõrgus",
+              "value": "24,5\" (622 mm)"
+            },
+            {
+              "label": "Juhtraua laius",
+              "value": "23\" (584 mm)"
+            },
+            {
+              "label": "Juhtraua välisläbimõõt",
+              "value": "34,9 mm (ülisuur)"
+            },
+            {
+              "label": "Juhtraua siseläbimõõt",
+              "value": "Standard"
+            },
+            {
+              "label": "Rataste suurus",
+              "value": "110mm Hollowcore"
+            },
+            {
+              "label": "Ratta laius",
+              "value": "24 mm"
+            },
+            {
+              "label": "Sobivad ratta suurused",
+              "value": "Kuni 120 mm"
+            },
+            {
+              "label": "PU kõvadus",
+              "value": "88a"
+            },
+            {
+              "label": "Laagrid",
+              "value": "Fuzion ABEC-9"
+            },
+            {
+              "label": "Pidur",
+              "value": "Nailon/teras"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "85 cm"
+            },
+            {
+              "label": "Värv",
+              "value": "Sinine, Must"
+            },
+            {
+              "label": "Vorm",
+              "value": "Box-cut"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "32,34 mm"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermestamata"
+            },
+            {
+              "label": "Kasutus",
+              "value": "Park"
+            },
+            {
+              "label": "Garantii",
+              "value": "2 aastat"
+            },
+            {
+              "label": "Mudel",
+              "value": "Z350 Pinnacle"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 209.90,
+    "price": 209.90,
+    "discounted_price": null,
+    "stock": 0,
+    "images": [
+      "/products/fuzion-complete-z350-pinnacle-trick-scooter-blue-black-1.png",
+      "/products/fuzion-complete-z350-pinnacle-trick-scooter-blue-black-2.png",
+      "/products/fuzion-complete-z350-pinnacle-trick-scooter-blue-black-3.png",
+      "/products/fuzion-complete-z350-pinnacle-trick-scooter-blue-black-4.png",
+      "/products/fuzion-complete-z350-pinnacle-trick-scooter-blue-black-5.png",
+      "/products/fuzion-complete-z350-pinnacle-trick-scooter-blue-black-6.png",
+      "/products/fuzion-complete-z350-pinnacle-trick-scooter-blue-black-7.png",
+      "/products/fuzion-complete-z350-pinnacle-trick-scooter-blue-black-8.png",
+      "/products/fuzion-complete-z350-pinnacle-trick-scooter-blue-black-9.png"
+    ],
+    "video": "https://www.youtube.com/embed/VIDEOID",
+    "category": [
+      "Täistõukerattad",
+      "Pro tase",
+      "Park"
+    ],
+    "brand": "FUZION",
+    "tags": [
+      "z350",
+      "pinnacle",
+      "park",
+      "110mm",
+      "alumiinium",
+      "ihc",
+      "hollowcore",
+      "entropy"
+    ]
+  },
+  {
+    "id": "fuzion-complete-z350-prophecy",
+    "name": "Fuzion Complete Z350 - Prophecy",
+    "description": [
+      "Fuzion Z350 freestyle täistõukeratas on kahtlemata üks parimaid kõrgetasemelisi täistõukerattaid turul. Varustatud legendaarse Entropy dekiga, alumiiniumist juhtrauaga, IHC kahvliga ja 110mm hollowcore ratastega on Fuzion Z350 täistõukeratas kindel valik!",
+      "See professionaalne trikitõukeratas on loodud pakkuma maksimaalset jõudlust ja vastupidavust. Kaaludes vaid 3,1 kg, on Z350 piisavalt kerge trikkide sooritamiseks, kuid samas piisavalt tugev, et taluda igapäevast kasutamist.",
+      "Prophecy värvilahendusega Z350 paistab silma elegantse musta ja kuldse kombinatsiooniga, mis lisab tõukerattale luksuslikuma välimuse. 6061 T6 alumiiniumist deck, terasest juhtraud ja 110mm Hollowcore rattad tagavad suurepärase sõidukogemuse igas park-stiilis sõidusituatsioonis."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "Fuzion Complete Z350 Prophecy on kõrgetasemeline freestyle trikitõukeratas, mis on loodud nõudlikele sõitjatele. See on varustatud kvaliteetsete komponentidega, mis tagavad maksimaalse jõudluse ja vastupidavuse. Must-kuldne värvikombinatsioon annab tõukerattale luksusliku ja elegantse välimuse, mis eristub teistest. Tänu oma kergele kaalule (3,1 kg) ja tugevale konstruktsioonile on see ideaalne valik park-sõiduks ja trikkide sooritamiseks."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Kaal",
+              "value": "3,1 kg (7,18 lbs)"
+            },
+            {
+              "label": "Deki laius",
+              "value": "5\" (127 mm)"
+            },
+            {
+              "label": "Deki pikkus",
+              "value": "19,5\" (495 mm)"
+            },
+            {
+              "label": "Deki kaal",
+              "value": "0,9 kg (2,9 lbs)"
+            },
+            {
+              "label": "Deki materjal",
+              "value": "Alumiinium 6061 T6"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "83°"
+            },
+            {
+              "label": "Deki nõgusus",
+              "value": "5°"
+            },
+            {
+              "label": "Kahvli materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Kompressioonisüsteem",
+              "value": "IHC"
+            },
+            {
+              "label": "Juhtraua vorm",
+              "value": "Dip Bar tugedega"
+            },
+            {
+              "label": "Juhtraua materjal",
+              "value": "Teras (Chromoly)"
+            },
+            {
+              "label": "Juhtraua kõrgus",
+              "value": "24,5\" (622 mm)"
+            },
+            {
+              "label": "Juhtraua laius",
+              "value": "23\" (584 mm)"
+            },
+            {
+              "label": "Juhtraua välisläbimõõt",
+              "value": "34,9 mm (ülisuur)"
+            },
+            {
+              "label": "Juhtraua siseläbimõõt",
+              "value": "Standard"
+            },
+            {
+              "label": "Rataste suurus",
+              "value": "110mm Hollowcore"
+            },
+            {
+              "label": "Ratta laius",
+              "value": "24 mm"
+            },
+            {
+              "label": "Sobivad ratta suurused",
+              "value": "Kuni 120 mm"
+            },
+            {
+              "label": "PU kõvadus",
+              "value": "88a"
+            },
+            {
+              "label": "Laagrid",
+              "value": "Fuzion ABEC-9"
+            },
+            {
+              "label": "Pidur",
+              "value": "Nailon/teras"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "85 cm"
+            },
+            {
+              "label": "Värv",
+              "value": "Must, Kuld"
+            },
+            {
+              "label": "Vorm",
+              "value": "Box-cut"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "32,34 mm"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermestamata"
+            },
+            {
+              "label": "Kasutus",
+              "value": "Park"
+            },
+            {
+              "label": "Garantii",
+              "value": "2 aastat"
+            },
+            {
+              "label": "Mudel",
+              "value": "Z350 Prophecy"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 209.90,
+    "price": 209.90,
+    "discounted_price": null,
+    "stock": 0,
+    "images": [
+      "/products/fuzion-complete-z350-prophecy-trick-scooter-black-gold-1.png",
+      "/products/fuzion-complete-z350-prophecy-trick-scooter-black-gold-2.png",
+      "/products/fuzion-complete-z350-prophecy-trick-scooter-black-gold-3.png",
+      "/products/fuzion-complete-z350-prophecy-trick-scooter-black-gold-4.png",
+      "/products/fuzion-complete-z350-prophecy-trick-scooter-black-gold-5.png",
+      "/products/fuzion-complete-z350-prophecy-trick-scooter-black-gold-6.png",
+      "/products/fuzion-complete-z350-prophecy-trick-scooter-black-gold-7.png",
+      "/products/fuzion-complete-z350-prophecy-trick-scooter-black-gold-8.png",
+      "/products/fuzion-complete-z350-prophecy-trick-scooter-black-gold-9.png"
+    ],
+    "video": "https://www.youtube.com/embed/VIDEOID",
+    "category": [
+      "Täistõukerattad",
+      "Pro tase",
+      "Park"
+    ],
+    "brand": "FUZION",
+    "tags": [
+      "z350",
+      "prophecy",
+      "park",
+      "110mm",
+      "alumiinium",
+      "ihc",
+      "hollowcore",
+      "entropy",
+      "kuld"
+    ]
+  },
+  {
+    "id": "fuzion-complete-z350-serpent",
+    "name": "Fuzion Complete Z350 - Serpent",
+    "description": [
+      "Fuzion Z350 freestyle täistõukeratas on kahtlemata üks parimaid kõrgetasemelisi täistõukerattaid turul. Varustatud legendaarse Entropy dekiga, alumiiniumist juhtrauaga, IHC kahvliga ja 110mm hollowcore ratastega on Fuzion Z350 täistõukeratas kindel valik!",
+      "See professionaalne trikitõukeratas on loodud pakkuma maksimaalset jõudlust ja vastupidavust. Kaaludes vaid 3,1 kg, on Z350 piisavalt kerge trikkide sooritamiseks, kuid samas piisavalt tugev, et taluda igapäevast kasutamist.",
+      "Serpent värvilahendusega Z350 paistab silma elegantse halli ja musta kombinatsiooniga, mis lisab tõukerattale kaasaegse ja madalprofiilse välimuse. 6061 T6 alumiiniumist deck, terasest juhtraud ja 110mm Hollowcore rattad tagavad suurepärase sõidukogemuse igas park-stiilis sõidusituatsioonis."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "Fuzion Complete Z350 Serpent on kõrgetasemeline freestyle trikitõukeratas, mis on loodud nõudlikele sõitjatele. See on varustatud kvaliteetsete komponentidega, mis tagavad maksimaalse jõudluse ja vastupidavuse. Hall-must värvikombinatsioon annab tõukerattale elegantse ja madalprofiilse välimuse, mis eristub teistest. Tänu oma kergele kaalule (3,1 kg) ja tugevale konstruktsioonile on see ideaalne valik park-sõiduks ja trikkide sooritamiseks."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Kaal",
+              "value": "3,1 kg (7,18 lbs)"
+            },
+            {
+              "label": "Deki laius",
+              "value": "5\" (127 mm)"
+            },
+            {
+              "label": "Deki pikkus",
+              "value": "19,5\" (495 mm)"
+            },
+            {
+              "label": "Deki kaal",
+              "value": "0,9 kg (2,9 lbs)"
+            },
+            {
+              "label": "Deki materjal",
+              "value": "Alumiinium 6061 T6"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "83°"
+            },
+            {
+              "label": "Deki nõgusus",
+              "value": "5°"
+            },
+            {
+              "label": "Kahvli materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Kompressioonisüsteem",
+              "value": "IHC"
+            },
+            {
+              "label": "Juhtraua vorm",
+              "value": "Dip Bar tugedega"
+            },
+            {
+              "label": "Juhtraua materjal",
+              "value": "Teras (Chromoly)"
+            },
+            {
+              "label": "Juhtraua kõrgus",
+              "value": "24,5\" (622 mm)"
+            },
+            {
+              "label": "Juhtraua laius",
+              "value": "23\" (584 mm)"
+            },
+            {
+              "label": "Juhtraua välisläbimõõt",
+              "value": "34,9 mm (ülisuur)"
+            },
+            {
+              "label": "Juhtraua siseläbimõõt",
+              "value": "Standard"
+            },
+            {
+              "label": "Rataste suurus",
+              "value": "110mm Hollowcore"
+            },
+            {
+              "label": "Ratta laius",
+              "value": "24 mm"
+            },
+            {
+              "label": "Sobivad ratta suurused",
+              "value": "Kuni 120 mm"
+            },
+            {
+              "label": "PU kõvadus",
+              "value": "88a"
+            },
+            {
+              "label": "Laagrid",
+              "value": "Fuzion ABEC-9"
+            },
+            {
+              "label": "Pidur",
+              "value": "Nailon/teras"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "85 cm"
+            },
+            {
+              "label": "Värv",
+              "value": "Hall, Must"
+            },
+            {
+              "label": "Vorm",
+              "value": "Box-cut"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "32,34 mm"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermestamata"
+            },
+            {
+              "label": "Kasutus",
+              "value": "Park"
+            },
+            {
+              "label": "Garantii",
+              "value": "2 aastat"
+            },
+            {
+              "label": "Mudel",
+              "value": "Z350 Serpent"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 209.90,
+    "price": 209.90,
+    "discounted_price": null,
+    "stock": 0,
+    "images": [
+      "/products/fuzion-complete-z350-serpent-trick-scooter-grey-black-1.png",
+      "/products/fuzion-complete-z350-serpent-trick-scooter-grey-black-2.png",
+      "/products/fuzion-complete-z350-serpent-trick-scooter-grey-black-3.png",
+      "/products/fuzion-complete-z350-serpent-trick-scooter-grey-black-4.png",
+      "/products/fuzion-complete-z350-serpent-trick-scooter-grey-black-5.png",
+      "/products/fuzion-complete-z350-serpent-trick-scooter-grey-black-6.png",
+      "/products/fuzion-complete-z350-serpent-trick-scooter-grey-black-7.png",
+      "/products/fuzion-complete-z350-serpent-trick-scooter-grey-black-8.png",
+      "/products/fuzion-complete-z350-serpent-trick-scooter-grey-black-9.png"
+    ],
+    "video": "https://www.youtube.com/embed/VIDEOID",
+    "category": [
+      "Täistõukerattad",
+      "Pro tase",
+      "Park"
+    ],
+    "brand": "FUZION",
+    "tags": [
+      "z350",
+      "serpent",
+      "park",
+      "110mm",
+      "alumiinium",
+      "ihc",
+      "hollowcore",
+      "entropy",
+      "hall"
+    ]
+  },
+  {
+    "id": "north-orbit-matte-black",
+    "name": "North Orbit Matte Black",
+    "description": [
+      "North Orbit Pro tõukeratas on suurim täistõukeratas, mis kunagi turule toodud. Ehitatud North'i kvaliteetsete komponentidega, on see tõukeratas ideaalne kesktaseme ja edasijõudnud sõitjatele, kes otsivad vastupidavat ja jõudlust pakkuvat sõiduvahendit.",
+      "Orbit on varustatud 6,5\" laiuse x 22,5\" pikkuse 6061-T6 alumiiniumist dekiga, pakkudes kindlat ja stabiilset platvormi teie jalgadele. 24\" laiused x 27\" kõrged T-kujulised juhtrauad on valmistatud 4130 chromoly terasest, pakkudes suurepärast tugevust ja vastupidavust kõikide trikkide jaoks.",
+      "30 mm Nova kahvel on ühilduv 120 mm ratastega ja 6 mm poltidega SCS klamber hoiab kõike kindlalt paigas. Signal rattad on 115 mm läbimõõdu ja 30 mm laiusega, 88a PU tagab hea tasakaalu haarduvuse ja kiiruse vahel. Kõrgkvaliteetsed ABEC-9 laagrid tagavad sujuva sõidu, samas kui integreeritud suletud headset pakub mugavat kogemust olenemata sõitmise intensiivsusest."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "North Orbit Matte Black on tipptasemel freestyle trikitõukeratas, mis on loodud professionaalsetele sõitjatele. See on üks suurimaid täistõukerattaid turul, pakkudes maksimaalset stabiilsust ja kontrolli trikkide sooritamisel. Matt must viimistlus annab tõukerattale elegantse ja professionaalse välimuse. Varustatud kvaliteetsete North'i komponentidega, on Orbit ideaalne valik sõitjatele, kes otsivad parimat jõudlust ja vastupidavust."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Deck",
+              "value": "North Orbit deck 6,5\" lai x 22,5\" pikk (6061-T6 alumiinium)"
+            },
+            {
+              "label": "Juhtraud",
+              "value": "North T-kujuline juhtraud 26\" kõrge x 24\" lai (4130 chromoly)"
+            },
+            {
+              "label": "Kahvel",
+              "value": "Nova kahvel 30mm - ühildub 120mm ratastega"
+            },
+            {
+              "label": "Klamber",
+              "value": "Stock SCS - 6mm poldid"
+            },
+            {
+              "label": "Rattad",
+              "value": "Signal 115 x 30mm - 88A"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "98 cm"
+            },
+            {
+              "label": "Värv",
+              "value": "Matt must"
+            },
+            {
+              "label": "Vorm",
+              "value": "Box-cut"
+            },
+            {
+              "label": "Materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Ratta läbimõõt",
+              "value": "115 mm"
+            },
+            {
+              "label": "Kasutus",
+              "value": "Freestyle"
+            },
+            {
+              "label": "Juhtraua vorm",
+              "value": "T-kujuline"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "32,34 mm"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermestatud"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "83°"
+            },
+            {
+              "label": "Garantii",
+              "value": "6 kuud"
+            },
+            {
+              "label": "Juhtraua materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Juhtraua kõrgus",
+              "value": "66 cm"
+            },
+            {
+              "label": "Juhtraua välisläbimõõt",
+              "value": "32 mm"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Kokkupanek",
+              "value": "Osaline"
+            },
+            {
+              "label": "Kompressioonisüsteem",
+              "value": "SCS"
+            },
+            {
+              "label": "Mudel",
+              "value": "Orbit Matte Black"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 349.90,
+    "price": 349.90,
+    "discounted_price": null,
+    "stock": 2,
+    "images": [
+      "/products/north-orbit-matte-black-trick-scooter-pro-1.png",
+      "/products/north-orbit-matte-black-trick-scooter-pro-2.png",
+      "/products/north-orbit-matte-black-trick-scooter-pro-3.png",
+      "/products/north-orbit-matte-black-trick-scooter-pro-4.png",
+      "/products/north-orbit-matte-black-trick-scooter-pro-5.png",
+      "/products/north-orbit-matte-black-trick-scooter-pro-6.png"
+    ],
+    "video": "https://www.youtube.com/embed/VIDEOID",
+    "category": [
+      "Täistõukerattad",
+      "Pro tase",
+      "Freestyle"
+    ],
+    "brand": "NORTH",
+    "tags": [
+      "orbit",
+      "pro",
+      "freestyle",
+      "115mm",
+      "alumiinium",
+      "scs",
+      "matt-must",
+      "t-kujuline"
+    ]
+  },
+  {
+    "id": "north-orbit-silver",
+    "name": "North Orbit Silver",
+    "description": [
+      "North Orbit Pro tõukeratas on suurim täistõukeratas, mis kunagi turule toodud. Ehitatud North'i kvaliteetsete komponentidega, on see tõukeratas ideaalne kesktaseme ja edasijõudnud sõitjatele, kes otsivad vastupidavat ja jõudlust pakkuvat sõiduvahendit.",
+      "Orbit on varustatud 6,5\" laiuse x 22,5\" pikkuse 6061-T6 alumiiniumist dekiga, pakkudes kindlat ja stabiilset platvormi teie jalgadele. 24\" laiused x 27\" kõrged T-kujulised juhtrauad on valmistatud 4130 chromoly terasest, pakkudes suurepärast tugevust ja vastupidavust kõikide trikkide jaoks.",
+      "30 mm Nova kahvel on ühilduv 120 mm ratastega ja 6 mm poltidega SCS klamber hoiab kõike kindlalt paigas. Signal rattad on 115 mm läbimõõdu ja 30 mm laiusega, 88a PU tagab hea tasakaalu haarduvuse ja kiiruse vahel. Kõrgkvaliteetsed ABEC-9 laagrid tagavad sujuva sõidu, samas kui integreeritud suletud headset pakub mugavat kogemust olenemata sõitmise intensiivsusest."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "North Orbit Silver on tipptasemel freestyle trikitõukeratas, mis on loodud professionaalsetele sõitjatele. See on üks suurimaid täistõukerattaid turul, pakkudes maksimaalset stabiilsust ja kontrolli trikkide sooritamisel. Hõbedane viimistlus annab tõukerattale kaasaegse ja elegantse välimuse. Varustatud kvaliteetsete North'i komponentidega, on Orbit ideaalne valik sõitjatele, kes otsivad parimat jõudlust ja vastupidavust retrostiilis disainiga."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Deck",
+              "value": "North Orbit deck 6,5\" lai x 22,5\" pikk (6061-T6 alumiinium)"
+            },
+            {
+              "label": "Juhtraud",
+              "value": "North T-kujuline juhtraud 26\" kõrge x 24\" lai (4130 chromoly)"
+            },
+            {
+              "label": "Kahvel",
+              "value": "Nova kahvel 30mm - ühildub 120mm ratastega"
+            },
+            {
+              "label": "Klamber",
+              "value": "Stock SCS - 6mm poldid"
+            },
+            {
+              "label": "Rattad",
+              "value": "Signal 115 x 30mm - 88A"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "98 cm"
+            },
+            {
+              "label": "Värv",
+              "value": "Hõbe"
+            },
+            {
+              "label": "Vorm",
+              "value": "Box-cut"
+            },
+            {
+              "label": "Materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Ratta läbimõõt",
+              "value": "115 mm"
+            },
+            {
+              "label": "Kasutus",
+              "value": "Freestyle"
+            },
+            {
+              "label": "Juhtraua vorm",
+              "value": "T-kujuline"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "32,34 mm"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermestatud"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "83°"
+            },
+            {
+              "label": "Garantii",
+              "value": "6 kuud"
+            },
+            {
+              "label": "Juhtraua materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Juhtraua kõrgus",
+              "value": "66 cm"
+            },
+            {
+              "label": "Juhtraua välisläbimõõt",
+              "value": "32 mm"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Kokkupanek",
+              "value": "Osaline"
+            },
+            {
+              "label": "Kompressioonisüsteem",
+              "value": "SCS"
+            },
+            {
+              "label": "Mudel",
+              "value": "Orbit Silver"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 349.90,
+    "price": 349.90,
+    "discounted_price": null,
+    "stock": 3,
+    "images": [
+      "/products/north-orbit-silver-trick-scooter-pro-1.png",
+      "/products/north-orbit-silver-trick-scooter-pro-2.png",
+      "/products/north-orbit-silver-trick-scooter-pro-3.png",
+      "/products/north-orbit-silver-trick-scooter-pro-4.png",
+      "/products/north-orbit-silver-trick-scooter-pro-5.png",
+      "/products/north-orbit-silver-trick-scooter-pro-6.png"
+    ],
+    "video": "https://www.youtube.com/embed/VIDEOID",
+    "category": [
+      "Täistõukerattad",
+      "Pro tase",
+      "Freestyle"
+    ],
+    "brand": "NORTH",
+    "tags": [
+      "orbit",
+      "pro",
+      "freestyle",
+      "115mm",
+      "alumiinium",
+      "scs",
+      "hõbe",
+      "t-kujuline"
+    ]
+  },
+  {
+    "id": "prey-justice-m-black-deck-raw",
+    "name": "PREY Justice M - Must Deck / Raw",
+    "description": [
+      "Tutvustame PREY kaubamärgi esimest täistõukeratast: Justice. See on kõrgetasemeline täistõukeratas, mis on ideaalne street-stiilis sõitmiseks.",
+      "Justice M on varustatud Today 5,5 x 21,5 dekiga, Justice SCS kahvliga ja 63 cm Justice juhtrauaga, mis pakuvad suurepärast kontrolli ja jõudlust trikkide sooritamisel. 110 mm Justice rattad tagavad sujuva ja kiire sõidu, samas kui Justice klamber ja headset lisavad täpsust ja stabiilsust.",
+      "Must deck / raw värvikombinatsioon annab tõukerattale elegantse ja professionaalse välimuse. Komplekti kuuluvad ka Friend fender ja 175 mm Prey käepidemed, mis tagavad mugava haarde ja kontrolli. See täistõukeratas on loodud pakkuma parimat jõudlust nõudlikele sõitjatele."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "PREY Justice M - Must Deck / Raw on kõrgetasemeline täistõukeratas, mis on loodud spetsiaalselt street-stiilis sõitmiseks. Kõrgekvaliteetsetest materjalidest valmistatud komponendid tagavad maksimaalse jõudluse ja vastupidavuse. Must deck koos töötlemata (raw) metallist detailidega loob silmapaistva ja professionaalse välimuse. See on ideaalne valik nõudlikele sõitjatele, kes otsivad kvaliteetset ja usaldusväärset trikitõukeratast."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Deck",
+              "value": "Today 5,5 x 21,5"
+            },
+            {
+              "label": "Kahvel",
+              "value": "SCS Justice"
+            },
+            {
+              "label": "Juhtraud",
+              "value": "Justice 63 cm"
+            },
+            {
+              "label": "Rattad",
+              "value": "110 mm Justice"
+            },
+            {
+              "label": "Klamber ja headset",
+              "value": "Justice"
+            },
+            {
+              "label": "Pidur",
+              "value": "Friend fender"
+            },
+            {
+              "label": "Käepidemed",
+              "value": "Prey grips 175 mm"
+            },
+            {
+              "label": "Värv",
+              "value": "Must deck / Raw (hall)"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "91,5 cm"
+            },
+            {
+              "label": "Vorm",
+              "value": "Box-cut"
+            },
+            {
+              "label": "Materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Ratta läbimõõt",
+              "value": "110 mm"
+            },
+            {
+              "label": "Kasutus",
+              "value": "Park"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "32,34 mm"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermestamata"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "83°"
+            },
+            {
+              "label": "Garantii",
+              "value": "2 aastat"
+            },
+            {
+              "label": "Juhtraua materjal",
+              "value": "Chromoly teras"
+            },
+            {
+              "label": "Juhtraua kõrgus",
+              "value": "630 mm"
+            },
+            {
+              "label": "Juhtraua välisläbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Brakeless"
+            },
+            {
+              "label": "Kokkupanek",
+              "value": "Osaline"
+            },
+            {
+              "label": "Kompressioonisüsteem",
+              "value": "SCS"
+            },
+            {
+              "label": "Mudel",
+              "value": "Justice M"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 299.90,
+    "price": 299.90,
+    "discounted_price": null,
+    "stock": 1,
+    "images": [
+      "/products/prey-justice-m-black-deck-raw-trick-scooter-pro-1.jpg",
+      "/products/prey-justice-m-black-deck-raw-trick-scooter-pro-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/VIDEOID",
+    "category": [
+      "Täistõukerattad",
+      "Pro tase",
+      "Street"
+    ],
+    "brand": "PREY",
+    "tags": [
+      "justice",
+      "street",
+      "110mm",
+      "alumiinium",
+      "scs",
+      "must-deck",
+      "raw",
+      "park"
+    ]
+  },
+  {
+    "id": "prey-justice-m-raw-deck-black",
+    "name": "PREY Justice M - Raw Deck / Must",
+    "description": [
+      "Tutvustame PREY kaubamärgi esimest täistõukeratast: Justice. See on kõrgetasemeline täistõukeratas, mis on ideaalne street-stiilis sõitmiseks.",
+      "Justice M on varustatud Today 5,5 x 21,5 dekiga, Justice SCS kahvliga ja 63 cm Justice juhtrauaga, mis pakuvad suurepärast kontrolli ja jõudlust trikkide sooritamisel. 110 mm Justice rattad tagavad sujuva ja kiire sõidu, samas kui Justice klamber ja headset lisavad täpsust ja stabiilsust.",
+      "Raw deck / must värvikombinatsioon annab tõukerattale kaasaegse ja industriaalse välimuse. Komplekti kuuluvad ka Friend fender ja 175 mm Prey käepidemed, mis tagavad mugava haarde ja kontrolli. See täistõukeratas on loodud pakkuma parimat jõudlust nõudlikele sõitjatele."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "PREY Justice M - Raw Deck / Must on kõrgetasemeline täistõukeratas, mis on loodud spetsiaalselt street-stiilis sõitmiseks. Kõrgekvaliteetsetest materjalidest valmistatud komponendid tagavad maksimaalse jõudluse ja vastupidavuse. Töötlemata (raw) metallist deck koos mustade detailidega loob silmapaistva ja industriaalse välimuse. See on ideaalne valik nõudlikele sõitjatele, kes otsivad kvaliteetset ja usaldusväärset trikitõukeratast."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Deck",
+              "value": "Today 5,5 x 21,5"
+            },
+            {
+              "label": "Kahvel",
+              "value": "SCS Justice"
+            },
+            {
+              "label": "Juhtraud",
+              "value": "Justice 63 cm"
+            },
+            {
+              "label": "Rattad",
+              "value": "110 mm Justice"
+            },
+            {
+              "label": "Klamber ja headset",
+              "value": "Justice"
+            },
+            {
+              "label": "Pidur",
+              "value": "Friend fender"
+            },
+            {
+              "label": "Käepidemed",
+              "value": "Prey grips 175 mm"
+            },
+            {
+              "label": "Värv",
+              "value": "Raw (hall) deck / Must"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "91,5 cm"
+            },
+            {
+              "label": "Vorm",
+              "value": "Box-cut"
+            },
+            {
+              "label": "Materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Ratta läbimõõt",
+              "value": "110 mm"
+            },
+            {
+              "label": "Kasutus",
+              "value": "Park"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "32,34 mm"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermestamata"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "83°"
+            },
+            {
+              "label": "Garantii",
+              "value": "2 aastat"
+            },
+            {
+              "label": "Juhtraua materjal",
+              "value": "Chromoly teras"
+            },
+            {
+              "label": "Juhtraua kõrgus",
+              "value": "630 mm"
+            },
+            {
+              "label": "Juhtraua välisläbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Brakeless"
+            },
+            {
+              "label": "Kokkupanek",
+              "value": "Osaline"
+            },
+            {
+              "label": "Kompressioonisüsteem",
+              "value": "SCS"
+            },
+            {
+              "label": "Mudel",
+              "value": "Justice M"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 299.90,
+    "price": 299.90,
+    "discounted_price": null,
+    "stock": 0,
+    "images": [
+      "/products/prey-justice-m-raw-deck-black-trick-scooter-pro-1.jpg",
+      "/products/prey-justice-m-raw-deck-black-trick-scooter-pro-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/VIDEOID",
+    "category": [
+      "Täistõukerattad",
+      "Pro tase",
+      "Street"
+    ],
+    "brand": "PREY",
+    "tags": [
+      "justice",
+      "street",
+      "110mm",
+      "alumiinium",
+      "scs",
+      "raw-deck",
+      "must",
+      "park"
+    ]
+  },
+  {
+    "id": "prey-justice-l-black-deck-raw",
+    "name": "PREY Justice L - Must Deck / Raw",
+    "description": [
+      "Tutvustame PREY kaubamärgi esimest täistõukeratast: Justice. See on kõrgetasemeline täistõukeratas, mis on ideaalne street-stiilis sõitmiseks.",
+      "Justice L on varustatud Today 5,9 x 22 dekiga, Justice SCS kahvliga ja 68 cm Justice juhtrauaga, mis pakuvad suurepärast kontrolli ja jõudlust trikkide sooritamisel. 110 mm Justice rattad tagavad sujuva ja kiire sõidu, samas kui Justice klamber ja headset lisavad täpsust ja stabiilsust.",
+      "Must deck / raw värvikombinatsioon annab tõukerattale elegantse ja professionaalse välimuse. Komplekti kuuluvad ka Friend fender ja 175 mm Prey käepidemed, mis tagavad mugava haarde ja kontrolli. See täistõukeratas on loodud pakkuma parimat jõudlust nõudlikele sõitjatele."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "PREY Justice L - Must Deck / Raw on kõrgetasemeline täistõukeratas, mis on loodud spetsiaalselt street-stiilis sõitmiseks. L-suurus on mõeldud pikematele ja edasijõudnud sõitjatele. Kõrgekvaliteetsetest materjalidest valmistatud komponendid tagavad maksimaalse jõudluse ja vastupidavuse. Must deck koos töötlemata (raw) metallist detailidega loob silmapaistva ja professionaalse välimuse. See on ideaalne valik nõudlikele sõitjatele, kes otsivad kvaliteetset ja usaldusväärset trikitõukeratast."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Deck",
+              "value": "Today 5,9 x 22"
+            },
+            {
+              "label": "Kahvel",
+              "value": "SCS Justice"
+            },
+            {
+              "label": "Juhtraud",
+              "value": "Justice 68 cm"
+            },
+            {
+              "label": "Rattad",
+              "value": "110 mm Justice"
+            },
+            {
+              "label": "Klamber ja headset",
+              "value": "Justice"
+            },
+            {
+              "label": "Pidur",
+              "value": "Friend fender"
+            },
+            {
+              "label": "Käepidemed",
+              "value": "Prey grips 175 mm"
+            },
+            {
+              "label": "Värv",
+              "value": "Must deck / Raw (hall)"
+            },
+            {
+              "label": "Kogukõrgus",
+              "value": "96,5 cm"
+            },
+            {
+              "label": "Vorm",
+              "value": "Box-cut"
+            },
+            {
+              "label": "Materjal",
+              "value": "Alumiinium"
+            },
+            {
+              "label": "Ratta läbimõõt",
+              "value": "110 mm"
+            },
+            {
+              "label": "Kasutus",
+              "value": "Park"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "32,34 mm"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermestamata"
+            },
+            {
+              "label": "Headtube nurk",
+              "value": "83°"
+            },
+            {
+              "label": "Garantii",
+              "value": "2 aastat"
+            },
+            {
+              "label": "Juhtraua materjal",
+              "value": "Chromoly teras"
+            },
+            {
+              "label": "Juhtraua kõrgus",
+              "value": "680 mm"
+            },
+            {
+              "label": "Juhtraua välisläbimõõt",
+              "value": "34,9 mm"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Brakeless"
+            },
+            {
+              "label": "Kokkupanek",
+              "value": "Osaline"
+            },
+            {
+              "label": "Kompressioonisüsteem",
+              "value": "SCS"
+            },
+            {
+              "label": "Mudel",
+              "value": "Justice L"
+            },
+            {
+              "label": "Soovitatav vanus",
+              "value": "15+ aastat"
+            }
+          ]
+        }
+      }
+    ],
+    "source_price": 299.90,
+    "price": 299.90,
+    "discounted_price": null,
+    "stock": 13,
+    "images": [
+      "/products/prey-justice-l-black-deck-raw-trick-scooter-pro-1.jpg",
+      "/products/prey-justice-l-black-deck-raw-trick-scooter-pro-2.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/VIDEOID",
+    "category": [
+      "Täistõukerattad",
+      "Pro tase",
+      "Street"
+    ],
+    "brand": "PREY",
+    "tags": [
+      "justice",
+      "street",
+      "110mm",
+      "alumiinium",
+      "scs",
+      "must-deck",
+      "raw",
+      "park",
+      "l-suurus"
     ]
   }
 ]
