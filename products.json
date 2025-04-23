@@ -2,30 +2,39 @@
   {
     "id": "blunt-prodigy-x",
     "class": "complete-scooters",
-    "name": "Blunt Prodigy X",
-    "description": [
-      "Blunt Prodigy X trikitõuks on..."
-    ],
-    "specifications": [
-      {
-        "title": "TOOTEKIRJELDUS",
-        "description": "Prodigy X 2024..."
-      },
-      {
-        "title": "TEHNILISED ANDMED",
-        "table": {
-          "main": [
-            {
-              "label": "Kaal",
-              "value": "3,265 kg"
-            }
-          ]
-        }
-      }
-    ],
+    "category": ["Tõuksid", "Pro tase", "Park"],
+    "brand": "Blunt",
+    "tags": ["Complete", "IHC", "Kerge"],
+    "video": "https://www.youtube.com/embed/XZS76UFoCzM",
     "variants": [
       {
         "id": "blunt-prodigy-x-must-oil-slick",
+        "name": "Blunt Prodigy X Must/Oil Slick",
+        "description": [
+          "Blunt Prodigy X Must/Oil Slick trikitõuks on mõeldud edasijõudnud sõitjatele, kes otsivad kvaliteetset ja vastupidavat tõuksi.",
+          "Unikaalne Must/Oil Slick värvilahendus annab tõuksile silmapaistva välimuse."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Must/Oil Slick Prodigy X 2024 on täiustatud versioon klassikalisest Prodigy seeriast..."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3.265 kg"
+                },
+                {
+                  "label": "Lenksu kõrgus",
+                  "value": "600mm"
+                }
+              ]
+            }
+          }
+        ],
         "color": "Must/Oil Slick",
         "color_code": "#000000",
         "price": 239,
@@ -38,6 +47,32 @@
       },
       {
         "id": "blunt-prodigy-x-oil-slick",
+        "name": "Blunt Prodigy X Oil Slick",
+        "description": [
+          "Blunt Prodigy X Oil Slick trikitõuks on täiuslik valik professionaalsetele sõitjatele.",
+          "Oil Slick viimistlus annab igale tõuksile unikaalse värvimängu."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Oil Slick Prodigy X 2024 on meie lipulaev, mis ühendab endas..."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3.265 kg"
+                },
+                {
+                  "label": "Lenksu kõrgus",
+                  "value": "600mm"
+                }
+              ]
+            }
+          }
+        ],
         "color": "Oil Slick",
         "color_code": "#7F00FF",
         "price": 239,
@@ -48,10 +83,6 @@
           "/products/blunt-complete-prodigy-x-oil-slick-trikitoukeratas-2.jpg"
         ]
       }
-    ],
-    "video": "https://www.youtube.com/embed/XZS76UFoCzM",
-    "category": ["Tõuksid", "Pro tase", "Park"],
-    "brand": "Blunt",
-    "tags": ["tire", "durable", "12inch"]
+    ]
   }
 ]
