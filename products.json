@@ -7506,5 +7506,59 @@
       "park",
       "l-suurus"
     ]
+  },
+  {
+    "id": "blunt-prodigy-x",
+    "name": "Blunt Prodigy X",
+    "description": [
+      "Blunt Prodigy X trikitõuks on..."
+    ],
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "Prodigy X 2024..."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Kaal",
+              "value": "3,265 kg"
+            }
+          ]
+        }
+      }
+    ],
+    "variants": [
+      {
+        "id": "blunt-prodigy-x-must-oil-slick",
+        "color": "Must/Oil Slick",
+        "color_code": "#000000",
+        "price": 239,
+        "discounted_price": 229,
+        "stock": 99,
+        "images": [
+          "/products/blunt-prodigy-x-black-oil-slick-toukeratas-1.jpg",
+          "/products/blunt-prodigy-x-black-oil-slick-toukeratas-2.jpg"
+        ]
+      },
+      {
+        "id": "blunt-prodigy-x-oil-slick",
+        "color": "Oil Slick",
+        "color_code": "#7F00FF",
+        "price": 239,
+        "discounted_price": 229,
+        "stock": 99,
+        "images": [
+          "/products/blunt-complete-prodigy-x-oil-slick-trikitoukeratas-1.jpg",
+          "/products/blunt-complete-prodigy-x-oil-slick-trikitoukeratas-2.jpg"
+        ]
+      }
+    ],
+    "video": "https://www.youtube.com/embed/XZS76UFoCzM",
+    "category": ["Tõuksid", "Pro tase", "Park"],
+    "brand": "Blunt",
+    "tags": ["tire", "durable", "12inch"]
   }
 ]
