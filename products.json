@@ -9,15 +9,16 @@
     "variants": [
       {
         "id": "blunt-prodigy-x-must-oil-slick",
-        "name": "Blunt Prodigy X Must/Oil Slick",
+        "name": "Blunt Prodigy X - Must/Oil Slick",
         "description": [
-          "Blunt Prodigy X Must/Oil Slick trikitõuks on mõeldud edasijõudnud sõitjatele, kes otsivad kvaliteetset ja vastupidavat tõuksi.",
-          "Unikaalne Must/Oil Slick värvilahendus annab tõuksile silmapaistva välimuse."
+          "Blunt Prodigy X tõukeratas on kümnes põlvkond legendaarsest Prodigy sarjast, mis on tuntud oma professionaalse kvaliteedi ja stiili poolest. Sellel mudelil on uus, aerodünaamiline deck koos täiustatud Extech extrusiooniga, mis muudab selle kergemaks ja vastupidavamaks kui kunagi varem.",
+          "Tänu 120 mm Sector ratastele, madala profiiliga lenksule, tugevdatud Z-klambrile ja täiustatud kompressioonisüsteemile sobib see tõukeratas ideaalselt nii pargi kui ka tänava jaoks. IHC süsteem koos Low Stack juhtpesaga tagab sujuva ja täpse juhtimise igas olukorras.",
+          "Prodigy X sobib suurepäraselt kesktaseme ja edasijõudnud sõitjatele, kes soovivad viia oma trikid järgmisele tasemele – see on professionaalne valik, mis ei vea alt."
         ],
         "specifications": [
           {
             "title": "TOOTEKIRJELDUS",
-            "description": "Must/Oil Slick Prodigy X 2024 on täiustatud versioon klassikalisest Prodigy seeriast..."
+            "description": "Prodigy X 2023 on Blunt Scootersi uusim tippmudel, mis tähistab kümnendat generatsiooni freestyle trikitõukerataste seas. Sellel mudelil on täiustatud EXTECH deck-ekstruusioon, uus Z-klamber, Low Stack headset ja SECTOR 120x26mm rattad, mis tagavad sujuva ja vastupidava sõidukogemuse. Kerge Reaper V2 lenks, tugev Diamond IHC kahvel ja TPR gripid ühenduvad, et pakkuda professionaalset kvaliteeti nii edasijõudnud kui ka kesktasemel sõitjale. Uus deck on laiem ja kergem kui eelkäijad, suurendades kontrolli ja vähendades kaalu, samal ajal säilitades tugevuse."
           },
           {
             "title": "TEHNILISED ANDMED",
@@ -25,11 +26,83 @@
               "main": [
                 {
                   "label": "Kaal",
-                  "value": "3.265 kg"
+                  "value": "3,265 kg"
                 },
                 {
-                  "label": "Lenksu kõrgus",
-                  "value": "600mm"
+                  "label": "Deck",
+                  "value": "EXTECH ekstrusioon, 127 mm lai ja 495 mm pikk"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "Sector 120 mm x 26 mm, PU 86A"
+                },
+                {
+                  "label": "Disain",
+                  "value": "Peg-cut vorm, teemantlõikega ja aerodünaamiline peaosa"
+                },
+                {
+                  "label": "Fourche (kahvel)",
+                  "value": "Diamond IHC, keermeta"
+                },
+                {
+                  "label": "Lenks",
+                  "value": "Reaper V2 alumiinium, 620 mm kõrge ja 560 mm lai (koos otsikutega)"
+                },
+                {
+                  "label": "Lenksu kogukõrgus",
+                  "value": "865 mm"
+                },
+                {
+                  "label": "Lenksu materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Lenksu väline läbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Gripid",
+                  "value": "TPR 160 mm"
+                },
+                {
+                  "label": "Pedaalinurk (headtube)",
+                  "value": "83,5°"
+                },
+                {
+                  "label": "Kokkusurumissüsteem",
+                  "value": "IHC (Internal Hidden Compression)"
+                },
+                {
+                  "label": "Headset",
+                  "value": "Low Stack Compression Cap"
+                },
+                {
+                  "label": "Klamber",
+                  "value": "Z Clamp, Oversized, 2 poldiga (6 mm)"
+                },
+                {
+                  "label": "Pidur",
+                  "value": "Flex fender, V2 nailonsüsteem"
+                },
+                {
+                  "label": "Sõidustiil",
+                  "value": "Park, freestyle"
+                },
+                {
+                  "label": "Soovitatav vanus",
+                  "value": "13–15 a"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "2 aastat"
+                },
+                {
+                  "label": "Värvivalikud",
+                  "value": "Multicolor, Must"
+                },
+                {
+                  "label": "Kokkupanek",
+                  "value": "Osaliselt kokkupandud"
                 }
               ]
             }
@@ -37,25 +110,33 @@
         ],
         "color": "Must/Oil Slick",
         "color_code": "#000000",
+        "source_price": 110.0,
         "price": 239,
         "discounted_price": 229,
         "stock": 99,
         "images": [
           "/products/blunt-prodigy-x-black-oil-slick-toukeratas-1.jpg",
-          "/products/blunt-prodigy-x-black-oil-slick-toukeratas-2.jpg"
+          "/products/blunt-prodigy-x-black-oil-slick-toukeratas-2.jpg",
+          "/products/blunt-prodigy-x-black-oil-slick-toukeratas-3.jpg",
+          "/products/blunt-prodigy-x-black-oil-slick-toukeratas-4.jpg",
+          "/products/blunt-prodigy-x-black-oil-slick-toukeratas-5.jpg",
+          "/products/blunt-prodigy-x-black-oil-slick-toukeratas-6.jpg",
+          "/products/blunt-prodigy-x-black-oil-slick-toukeratas-7.jpg",
+          "/products/blunt-prodigy-x-black-oil-slick-toukeratas-8.jpg"
         ]
       },
       {
         "id": "blunt-prodigy-x-oil-slick",
-        "name": "Blunt Prodigy X Oil Slick",
+        "name": "Blunt Prodigy X - Oil Slick (Õlilaik)",
         "description": [
-          "Blunt Prodigy X Oil Slick trikitõuks on täiuslik valik professionaalsetele sõitjatele.",
-          "Oil Slick viimistlus annab igale tõuksile unikaalse värvimängu."
+          "Blunt Prodigy X Oil Slick (Õlilaik) on tõeline revolutsioon trikitõukerataste maailmas! 2023. aasta uusim mudel toob endaga kaasa märkimisväärsed uuendused, mis teevad sellest ideaalse valiku keskmise ja edasijõudnud tasemega sõitjatele. Silmapaistev Oil Slick vikerkaarevärvides viimistlus annab tõukerattale pilkupüüdva välimuse, mis kindlasti ei jää märkamatuks ei pargis ega tänaval.",
+          "Revolutsiooniline Extech ekstrusioonitehnoloogia pakub madalama profiiliga, laiemate siseseintega ja reageeriva nõgususega deki, mis on korraga kerge ja vastupidav. Võrreldes eelmiste mudelitega on deck nüüd laiem (5 tolli x 19,5 tolli), pakkudes rohkem ruumi trikkide sooritamiseks. Uuendatud komponendid nagu kõrgema haarduvusega griptape, uus Z-klamber, Low Stack juhtsüsteem ja laiemad SECTOR rattad (120 mm x 26 mm) tagavad sujuvama sõidukogemuse ja parema kontrolli.",
+          "Kaaludes vaid 3,265 kg on see tõukeratas piisavalt kerge, et sooritada keerulisi trikke, kuid samas piisavalt tugev, et taluda igapäevast intensiivset kasutust. Kvaliteetsed TPR käepidemed ja Diamond IHC kahvel lisavad vastupidavust, samas kui alumiiniumist Reaper V2 lenks hoiab kaalu madalal. Blunt Prodigy X on loodud tõstma sinu trikisõidu uuele tasemele – see on täiuslik valik ambitsioonikatele sõitjatele!"
         ],
         "specifications": [
           {
             "title": "TOOTEKIRJELDUS",
-            "description": "Oil Slick Prodigy X 2024 on meie lipulaev, mis ühendab endas..."
+            "description": "Blunt Prodigy X 2023 on kõige uuenduslikum mudel Prodigy seeriast, mis on loodud keskmisel ja edasijõudnud tasemel sõitjatele. See on kümnes põlvkond Prodigy seerias, mis põhineb 12 aastasel professionaalsel kogemusel. Uus Extech ekstrusioonitehnoloogia tagab madalama profiili, laiemad siseseinad ja reageeriva nõgususe, pakkudes samas kergemat kaalu ja suuremat vastupidavust."
           },
           {
             "title": "TEHNILISED ANDMED",
@@ -66,8 +147,76 @@
                   "value": "3.265 kg"
                 },
                 {
+                  "label": "Jalaruumi laius",
+                  "value": "345 mm"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "865 mm"
+                },
+                {
+                  "label": "Kogupikkus",
+                  "value": "690 mm"
+                },
+                {
                   "label": "Lenksu kõrgus",
-                  "value": "600mm"
+                  "value": "620 mm"
+                },
+                {
+                  "label": "Lenksu laius",
+                  "value": "560 mm (otsikutega)"
+                },
+                {
+                  "label": "Deki pikkus",
+                  "value": "19,5 tolli (495 mm)"
+                },
+                {
+                  "label": "Deki laius",
+                  "value": "5 tolli (127 mm)"
+                },
+                {
+                  "label": "Klamber",
+                  "value": "Z Clamp Oversized 2 polti 6 mm"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "Diamond IHC"
+                },
+                {
+                  "label": "Kokkusurumissüsteem",
+                  "value": "IHC (Internal Hidden Compression)"
+                },
+                {
+                  "label": "Headset",
+                  "value": "Low Stack Compression Cap"
+                },
+                {
+                  "label": "Gripid",
+                  "value": "TPR 160 mm"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83,5°"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "SECTOR 120 mm x 26 mm, PU 86A"
+                },
+                {
+                  "label": "Lenks",
+                  "value": "Reaper V2 alumiinium"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Oil Slick (õlilaigud)"
+                },
+                {
+                  "label": "Sõidustiil",
+                  "value": "Freestyle, park, street"
+                },
+                {
+                  "label": "Tase",
+                  "value": "Keskmine kuni edasijõudnud"
                 }
               ]
             }
@@ -75,12 +224,453 @@
         ],
         "color": "Oil Slick",
         "color_code": "#7F00FF",
+        "source_price": 110.0,
         "price": 239,
         "discounted_price": 229,
         "stock": 99,
         "images": [
           "/products/blunt-complete-prodigy-x-oil-slick-trikitoukeratas-1.jpg",
-          "/products/blunt-complete-prodigy-x-oil-slick-trikitoukeratas-2.jpg"
+          "/products/blunt-complete-prodigy-x-oil-slick-trikitoukeratas-2.jpg",
+          "/products/blunt-complete-prodigy-x-oil-slick-trikitoukeratas-3.jpg",
+          "/products/blunt-complete-prodigy-x-oil-slick-trikitoukeratas-4.jpg",
+          "/products/blunt-complete-prodigy-x-oil-slick-trikitoukeratas-5.jpg",
+          "/products/blunt-complete-prodigy-x-oil-slick-trikitoukeratas-6.jpg",
+          "/products/blunt-complete-prodigy-x-oil-slick-trikitoukeratas-7.jpg",
+          "/products/blunt-complete-prodigy-x-oil-slick-trikitoukeratas-8.jpg"
+        ]
+      },
+      {
+        "id": "blunt-prodigy-x-burnt-pipe",
+        "name": "Blunt Prodigy X - Burnt Pipe",
+        "description": [
+          "Blunt Prodigy X Burnt Pipe (põlenud toru efekt) on 2023. aasta tippmudel, mis esindab kümnendat põlvkonda legendaarsest Prodigy seeriast. See silmapaistev trikitõukeratas paistab silma oma unikaalse 'põlenud toru' värviefektiga, mis annab talle eristuva ja pilkupüüdva välimuse. Ideaalne valik keskmisel ja edasijõudnud tasemel sõitjatele, kes soovivad oma oskusi viia järgmisele tasemele.",
+          "Uuenduslik Extech ekstrusioonitehnoloogiaga deck pakub madalama profiili, laiemate siseseintega ja reageeriva nõgususega sõidupinda, mis on korraga kerge ja vastupidav. Võrreldes varasemate mudelitega on deck nüüd laiem (5 × 19,5 tolli), pakkudes rohkem ruumi trikkide sooritamiseks. Täiustatud komponendid nagu kõrgema haarduvusega griptape, uus Z-klamber, Low Stack juhtsüsteem ja laiemad SECTOR rattad (120 mm × 26 mm) tagavad sujuvama sõidukogemuse ja parema kontrolli.",
+          "Kaaludes vaid 3,265 kg on see tõukeratas piisavalt kerge keerukateks trikkideks, kuid samas vastupidav igapäevaseks intensiivseks kasutamiseks. Kvaliteetsed TPR käepidemed, Diamond IHC kahvel ja alumiiniumist Reaper V2 lenks täiendavad seda pargimasinat ideaalselt. Peg-cut disain ja 83,5° headtube nurk pakuvad ideaalset tasakaalu manööverdamisvõime ja stabiilsuse vahel. Burnt Pipe värvitoon on loodud neile, kes soovivad silma paista ja nautida professionaalse kvaliteediga trikitõukeratast."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Blunt Prodigy X 2023 on kõige uuenduslikum mudel Prodigy seeriast, mis on mõeldud keskmisel ja edasijõudnud tasemel sõitjatele. See on kümnes põlvkond Prodigy seerias, mis põhineb 12 aastasel professionaalsel kogemusel. Uus Extech ekstrusioonitehnoloogia tagab madalama profiili, laiemad siseseinad ja reageeriva nõgususe, pakkudes samas kergemat kaalu ja suuremat vastupidavust."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3.265 kg"
+                },
+                {
+                  "label": "Jalaruumi laius",
+                  "value": "345 mm"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "865 mm"
+                },
+                {
+                  "label": "Kogupikkus",
+                  "value": "690 mm"
+                },
+                {
+                  "label": "Lenksu kõrgus",
+                  "value": "620 mm"
+                },
+                {
+                  "label": "Lenksu laius",
+                  "value": "560 mm (otsikutega)"
+                },
+                {
+                  "label": "Deki pikkus",
+                  "value": "19.5 tolli (495 mm)"
+                },
+                {
+                  "label": "Deki laius",
+                  "value": "5 tolli (127 mm)"
+                },
+                {
+                  "label": "Klamber",
+                  "value": "Z Clamp Oversized 2 polti 6 mm"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "Diamond IHC"
+                },
+                {
+                  "label": "Kokkusurumissüsteem",
+                  "value": "IHC (Internal Hidden Compression)"
+                },
+                {
+                  "label": "Headset",
+                  "value": "Low Stack Compression Cap"
+                },
+                {
+                  "label": "Gripid",
+                  "value": "TPR 160 mm"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83,5°"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "SECTOR 120 mm x 26 mm, PU 86A"
+                },
+                {
+                  "label": "Lenks",
+                  "value": "Reaper V2 alumiinium"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Burnt Pipe (põlenud toru efekt)"
+                },
+                {
+                  "label": "Sõidustiil",
+                  "value": "Park"
+                },
+                {
+                  "label": "Tase",
+                  "value": "Keskmine kuni edasijõudnud"
+                },
+                {
+                  "label": "Tase",
+                  "value": "Keskmine kuni edasijõudnud"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "32,34 mm"
+                },
+                {
+                  "label": "Lenksu väline läbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Soovitatav vanus",
+                  "value": "13-15+"
+                },
+                {
+                  "label": "Deki vorm",
+                  "value": "Peg-cut"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "2 aastat"
+                },
+                {
+                  "label": "Kokkupanek",
+                  "value": "Osaliselt kokkupandud"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Burnt Pipe",
+        "color_code": "#7F00FF",
+        "source_price": 110.0,
+        "price": 239,
+        "discounted_price": 229,
+        "stock": 99,
+        "images": [
+          "/products/blunt-complete-prodigy-x-burnt-pipe-trikitoukeratas-1.jpg",
+          "/products/blunt-complete-prodigy-x-burnt-pipe-trikitoukeratas-2.jpg",
+          "/products/blunt-complete-prodigy-x-burnt-pipe-trikitoukeratas-3.jpg",
+          "/products/blunt-complete-prodigy-x-burnt-pipe-trikitoukeratas-4.jpg",
+          "/products/blunt-complete-prodigy-x-burnt-pipe-trikitoukeratas-5.jpg",
+          "/products/blunt-complete-prodigy-x-burnt-pipe-trikitoukeratas-6.jpg",
+          "/products/blunt-complete-prodigy-x-burnt-pipe-trikitoukeratas-7.jpg",
+          "/products/blunt-complete-prodigy-x-burnt-pipe-trikitoukeratas-8.jpg"
+        ]
+      },
+      {
+        "id": "blunt-prodigy-x-kuldne",
+        "name": "Blunt Prodigy X - Kuldne",
+        "description": [
+          "Blunt Prodigy X Gold (kuldne) on luksuslik trikitõukeratas, mis ühendab silmapaistva kuldse viimistluse ja 2023. aasta tipptasemel tehnoloogia. See elegantne mudel on kümnes põlvkond kuulsast Prodigy seeriast, pakkudes ainulaadset kombinatsiooni stiili ja jõudlust. Kuldne ja must värvikombinatsioon loob prestiižse välimuse, mis tõmbab tähelepanu igas skeidipargis.",
+          "Täiustatud Extech ekstrusioonitehnoloogia annab dekile madalama profiili ja laiemad siseseinad, muutes selle kergemaks, kuid siiski ülimalt vastupidavaks. Laiem deck (5 × 19,5 tolli) pakub rohkem stabiilsust ja kontrolli trikkide sooritamisel. Kõrgema haarduvusega griptape, uudne Z-klamber ja täiustatud Low Stack juhtsüsteem töötavad koos, et anda sõitjale täpsem kontroll ja parem tagasiside.",
+          "Kuldne Prodigy X on varustatud SECTOR 120 mm × 26 mm ratastega (86A kõvadus), mis pakuvad sujuvamat sõitu ja paremat põrutuskindlust. Legendaarne Reaper V2 alumiiniumist lenks, vastupidavad TPR käepidemed ja tugev Diamond IHC kahvel on säilitatud eelmistest mudelitest, tagades usaldusväärse ja tuttava tunde. 83,5° headtube nurk ja Peg-cut disain annavad ideaalse tasakaalu manööverdamisvõime ja stabiilsuse vahel – täiuslik valik ambitsioonikale trikisõitjale, kes hindab nii jõudlust kui ka stiili."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Blunt Prodigy X 2023 kuldne väljaanne on uhke lisandus Prodigy seeriasse, mis on mõeldud keskmisel ja edasijõudnud tasemel sõitjatele. Kümnes põlvkond legendaarsest seeriast särab elegantse kuldse viimistlusega, mis on loodud tähelepanu püüdmiseks. Innovaatiline Extech ekstrusioonitehnoloogia ja täiustatud komponendid teevad sellest ideaalse valiku ambitsioonikatele trikisõitjatele."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3.265 kg"
+                },
+                {
+                  "label": "Jalaruumi laius",
+                  "value": "345 mm"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "865 mm"
+                },
+                {
+                  "label": "Kogupikkus",
+                  "value": "690 mm"
+                },
+                {
+                  "label": "Lenksu kõrgus",
+                  "value": "620 mm"
+                },
+                {
+                  "label": "Lenksu laius",
+                  "value": "560 mm (otsikutega)"
+                },
+                {
+                  "label": "Deki pikkus",
+                  "value": "19.5 tolli (495 mm)"
+                },
+                {
+                  "label": "Deki laius",
+                  "value": "5 tolli (127 mm)"
+                },
+                {
+                  "label": "Klamber",
+                  "value": "Z Clamp Oversized 2 polti 6 mm"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "Diamond IHC"
+                },
+                {
+                  "label": "Kokkusurumissüsteem",
+                  "value": "IHC (Internal Hidden Compression)"
+                },
+                {
+                  "label": "Headset",
+                  "value": "Low Stack Compression Cap"
+                },
+                {
+                  "label": "Gripid",
+                  "value": "TPR 160 mm"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83,5°"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "SECTOR 120 mm x 26 mm, PU 86A"
+                },
+                {
+                  "label": "Lenks",
+                  "value": "Reaper V2 alumiinium"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Kuld ja must"
+                },
+                {
+                  "label": "Sõidustiil",
+                  "value": "Park"
+                },
+                {
+                  "label": "Tase",
+                  "value": "Keskmine kuni edasijõudnud"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "32,34 mm"
+                },
+                {
+                  "label": "Lenksu väline läbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Soovitatav vanus",
+                  "value": "13-15+"
+                },
+                {
+                  "label": "Deki vorm",
+                  "value": "Peg-cut"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "2 aastat"
+                },
+                {
+                  "label": "Kokkupanek",
+                  "value": "Osaliselt kokkupandud"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Golden",
+        "color_code": "#FFD700",
+        "source_price": 110.0,
+        "price": 239,
+        "discounted_price": 229,
+        "stock": 99,
+        "images": [
+          "/products/blunt-complete-prodigy-x-kuldne-trikitoukeratas-1.jpg",
+          "/products/blunt-complete-prodigy-x-kuldne-trikitoukeratas-2.jpg",
+          "/products/blunt-complete-prodigy-x-kuldne-trikitoukeratas-3.jpg",
+          "/products/blunt-complete-prodigy-x-kuldne-trikitoukeratas-4.jpg",
+          "/products/blunt-complete-prodigy-x-kuldne-trikitoukeratas-5.jpg",
+          "/products/blunt-complete-prodigy-x-kuldne-trikitoukeratas-6.jpg",
+          "/products/blunt-complete-prodigy-x-kuldne-trikitoukeratas-7.jpg",
+          "/products/blunt-complete-prodigy-x-kuldne-trikitoukeratas-8.jpg"
+        ]
+      },
+      {
+        "id": "blunt-prodigy-x-sinine",
+        "name": "Blunt Prodigy X - Sinine",
+        "description": [
+          "Blunt Prodigy X Teal on värske ja silmapaistev trikitõukeratas, mis paelub tähelepanu oma erksa türkiissinise värvikombinatsiooniga. 2023. aasta mudel esindab kümnendat põlvkonda Prodigy seeriast, mis on arendatud 12 aasta jooksul koostöös professionaalsete sõitjatega. See värskendav türkiissinine toon lisab energiat ja isikupära, muutes tõukeratta silmapaistvaks nii pargis kui tänaval.",
+          "Uuenduslik Extech ekstrusioonitehnoloogia on andnud dekile madalama profiili, laiemad siseseinad ja reageeriva nõgususe, mis tagab optimaalse tasakaalu kaalu ja vastupidavuse vahel. Võrreldes varasemate mudelitega on deck laiem (5 × 19,5 tolli), pakkudes rohkem stabiilsust ja kontrolli. Täiustatud komponendid nagu kõrgema haarduvusega griptape, uus Z-klamber ja täiustatud Low Stack juhtsüsteem tagavad täpsema kontrolli ja parema tagasiside igal hüppel.",
+          "Türkiissinine Prodigy X säilitab legendaarse Reaper V2 alumiiniumist lenksu, mugavad TPR käepidemed ja usaldusväärse Diamond IHC kahvli, lisades neile SECTOR 120 mm × 26 mm rattad (86A kõvadus), mis pakuvad sujuvamat sõitu ja paremat põrutuskindlust. Kaaludes vaid 3,265 kg on see tõukeratas ideaalne tasakaal jõudluse ja käsitsetavuse vahel. 83,5° headtube nurk ja Peg-cut disain tagavad optimaalse manööverdamisvõime parkisõidul. Värskendav türkiissinine toon sobib ideaalselt neile, kes soovivad väljendada oma isikupära ja stiilitunnetust."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Blunt Prodigy X 2023 türkiissinine (Teal) mudel on värskendav lisandus Prodigy seeriasse, mis on loodud keskmisel ja edasijõudnud tasemel sõitjatele. See kümnes põlvkond Prodigy tõukeratastest ühendab kaasaegse disaini ja professionaalse jõudluse. Uus Extech ekstrusioonitehnoloogia ja värskendatud komponendid tagavad kerge, kuid vastupidava tõukeratta, mis sobib ideaalselt parkisõiduks."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3.265 kg"
+                },
+                {
+                  "label": "Jalaruumi laius",
+                  "value": "345 mm"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "865 mm"
+                },
+                {
+                  "label": "Kogupikkus",
+                  "value": "690 mm"
+                },
+                {
+                  "label": "Lenksu kõrgus",
+                  "value": "620 mm"
+                },
+                {
+                  "label": "Lenksu laius",
+                  "value": "560 mm (otsikutega)"
+                },
+                {
+                  "label": "Deki pikkus",
+                  "value": "19.5 tolli (495 mm)"
+                },
+                {
+                  "label": "Deki laius",
+                  "value": "5 tolli (127 mm)"
+                },
+                {
+                  "label": "Klamber",
+                  "value": "Z Clamp Oversized 2 polti 6 mm"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "Diamond IHC"
+                },
+                {
+                  "label": "Kokkusurumissüsteem",
+                  "value": "IHC (Internal Hidden Compression)"
+                },
+                {
+                  "label": "Headset",
+                  "value": "Low Stack Compression Cap"
+                },
+                {
+                  "label": "Gripid",
+                  "value": "TPR 160 mm"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83,5°"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "SECTOR 120 mm x 26 mm, PU 86A"
+                },
+                {
+                  "label": "Lenks",
+                  "value": "Reaper V2 alumiinium"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Burnt Pipe (põlenud toru efekt)"
+                },
+                {
+                  "label": "Sõidustiil",
+                  "value": "Park"
+                },
+                {
+                  "label": "Tase",
+                  "value": "Keskmine kuni edasijõudnud"
+                },
+                {
+                  "label": "Tase",
+                  "value": "Keskmine kuni edasijõudnud"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "32,34 mm"
+                },
+                {
+                  "label": "Lenksu väline läbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Soovitatav vanus",
+                  "value": "13-15+"
+                },
+                {
+                  "label": "Deki vorm",
+                  "value": "Peg-cut"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "2 aastat"
+                },
+                {
+                  "label": "Kokkupanek",
+                  "value": "Osaliselt kokkupandud"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Blue",
+        "color_code": "#0000FF",
+        "source_price": 110.0,
+        "price": 239,
+        "discounted_price": 229,
+        "stock": 99,
+        "images": [
+          "/products/blunt-complete-prodigy-x-teal-trikitoukeratas-1.jpg",
+          "/products/blunt-complete-prodigy-x-teal-trikitoukeratas-2.jpg",
+          "/products/blunt-complete-prodigy-x-teal-trikitoukeratas-3.jpg",
+          "/products/blunt-complete-prodigy-x-teal-trikitoukeratas-4.jpg",
+          "/products/blunt-complete-prodigy-x-teal-trikitoukeratas-5.jpg",
+          "/products/blunt-complete-prodigy-x-teal-trikitoukeratas-6.jpg",
+          "/products/blunt-complete-prodigy-x-teal-trikitoukeratas-7.jpg",
+          "/products/blunt-complete-prodigy-x-teal-trikitoukeratas-8.jpg"
         ]
       }
     ]
