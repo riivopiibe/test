@@ -2229,7 +2229,7 @@
     "video": "",
     "variants": [
       {
-        "id": "antics-deck-gallery-5-x-19-5-orange",
+        "id": "antics-deck-gallery-5-x-19-5-oranž",
         "name": "ANTICS Deck Gallery 5x19.5 - Oranž",
         "description": [
           "Gallery deck on Antics'i lipulaev toode.",
@@ -2887,6 +2887,653 @@
           "/products/antics-deck-gallery-5-x-20-5-must-pikk-trikitoukeratta-alumiinium-deck-1.png",
           "/products/antics-deck-gallery-5-x-20-5-must-pikk-trikitoukeratta-alumiinium-deck-2.png",
           "/products/antics-deck-gallery-5-x-20-5-must-pikk-trikitoukeratta-alumiinium-deck-3.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "aztek-corsa",
+    "class": "complete-scooters",
+    "category": ["Komplektsed", "Pro tase", "Tõukerattad"],
+    "brand": "AZTEK",
+    "tags": ["kerge", "110mm", "park", "SCS", "professionaalne"],
+    "video": "",
+    "variants": [
+      {
+        "id": "aztek-corsa-black",
+        "name": "AZTEK Corsa - Black",
+        "description": [
+          "See on AZTEK Corsa täiskomplektse tõukeratta uusim versioon.",
+          "See mudel on varustatud uute Architect 2 ratastega. Kerge kaal 2,8 kg võimaldab laia liikumisulatust ja suurepärast stabiilsust.",
+          "AZTEK Corsa on ideaalne valik sõitjatele, kes otsivad kvaliteetset, kuid kergekaalulist tõukeratast pargi sõidustiili jaoks."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "AZTEK Corsa Black on professionaalne täiskomplektne trikitõukeratas, mis on loodud pakkuma maksimaalset jõudlust kõige nõudlikumatele sõitjatele. Selle ülimalt kerge konstruktsioon kaaluga vaid 2,8 kg muudab selle ideaalseks keerukamate trikkide sooritamiseks, pakkudes samal ajal erakordset vastupidavust igapäevaseks kasutamiseks."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Decki mõõdud",
+                  "value": "4,8" x 19,5" (122 mm x 495 mm)"
+                },
+                {
+                  "label": "Juhtraud",
+                  "value": "Odyssey alumiiniumist 24" x 22" (600 mm x 560 mm)"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "SCS"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "Circa 2"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "Architect 2 110 mm"
+                },
+                {
+                  "label": "Käepidemed",
+                  "value": "Aztek Lite"
+                },
+                {
+                  "label": "Kaal",
+                  "value": "2,8 kg"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "85 cm"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Must"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Peg-cut"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Kasutusala",
+                  "value": "Park"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "32,34 mm"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Soovitatav vanus",
+                  "value": "13-15 aastat"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83°"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "2 aastat"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Chromoly teras"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "600 mm"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Must",
+        "color_code": "#000000",
+        "source_price": 120.0,
+        "price": 279.9,
+        "discounted_price": 249.9,
+        "stock": 51,
+        "images": [
+          "/products/aztek-corsa-black-trikitoukeratas-110mm-kerge-park-1.png",
+          "/products/aztek-corsa-black-trikitoukeratas-110mm-kerge-park-2.png",
+          "/products/aztek-corsa-black-trikitoukeratas-110mm-kerge-park-3.png",
+          "/products/aztek-corsa-black-trikitoukeratas-110mm-kerge-park-4.png",
+          "/products/aztek-corsa-black-trikitoukeratas-110mm-kerge-park-5.png"
+        ]
+      },
+      {
+        "id": "aztek-corsa-blue",
+        "name": "AZTEK Corsa - Blue",
+        "description": [
+          "Tutvustame AZTEK Corsa täiskomplektse trikitõukeratta uusimat versiooni.",
+          "See sinine mudel on varustatud innovaatiliste Architect 2 ratastega. Ülimalt kerge konstruktsioon kaaluga vaid 2,8 kg tagab suurepärase manööverdamisvõime ja stabiilsuse.",
+          "AZTEK Corsa sinine mudel on suurepärane valik kogenud sõitjatele, kes hindavad kõrget kvaliteeti ja dünaamilist sõiduelamust pargi stiilis sõitmisel."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "AZTEK Corsa Blue on tipptasemel täiskomplektne trikitõukeratas, mis on disainitud pakkumaks maksimaalset jõudlust ja vastupidavust. Silmatorkav sinine värv lisab tõukerattale kaasaegset ja dünaamilist ilmet. Selle ülimalt kerge konstruktsioon muudab trikitõukeratta ideaalseks valikuks nii algajatele kui ka kogenud sõitjatele, kes soovivad oma oskusi arendada."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Decki mõõdud",
+                  "value": "4,8" x 19,5" (122 mm x 495 mm)"
+                },
+                {
+                  "label": "Juhtraud",
+                  "value": "Odyssey alumiiniumist 24" x 22" (600 mm x 560 mm)"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "SCS"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "Circa 2"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "Architect 2 110 mm"
+                },
+                {
+                  "label": "Käepidemed",
+                  "value": "Aztek Lite"
+                },
+                {
+                  "label": "Kaal",
+                  "value": "2,8 kg"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "85 cm"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Sinine"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Peg-cut"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Kasutusala",
+                  "value": "Park"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "32,34 mm"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Soovitatav vanus",
+                  "value": "13-15 aastat"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83°"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "2 aastat"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Chromoly teras"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "600 mm"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Sinine",
+        "color_code": "#0000FF",
+        "source_price": 120.0,
+        "price": 279.9,
+        "discounted_price": 249.9,
+        "stock": 24,
+        "images": [
+          "/products/aztek-corsa-blue-trikitoukeratas-110mm-sinine-kerge-1.png",
+          "/products/aztek-corsa-blue-trikitoukeratas-110mm-sinine-kerge-2.png",
+          "/products/aztek-corsa-blue-trikitoukeratas-110mm-sinine-kerge-3.png",
+          "/products/aztek-corsa-blue-trikitoukeratas-110mm-sinine-kerge-4.png",
+          "/products/aztek-corsa-blue-trikitoukeratas-110mm-sinine-kerge-5.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "aztek-siren-black",
+    "class": "complete-scooters",
+    "category": ["Komplektsed", "Pro tase", "Tõukerattad"],
+    "brand": "AZTEK",
+    "tags": ["115mm", "park", "SCS", "box-cut", "professionaalne"],
+    "video": "",
+    "variants": [
+      {
+        "id": "aztek-siren-black",
+        "name": "AZTEK Siren - Black",
+        "description": [
+          "Tutvustame AZTEK Siren täiskomplektse trikitõukeratta uusimat versiooni.",
+          "See on varustatud uute Architect 2 XL (115 x 30 mm) ratastega, Siren 6" x 22" (150 x 558 mm) deckega, 27" x 24" chromoly juhtrauaga ja sepistatud keermestamata kahvliga.",
+          "AZTEK Siren must mudel on ideaalne valik edasijõudnud sõitjatele, kes otsivad kvaliteetset, vastupidavat ja suurepärase juhitavusega tõukeratast pargi sõidustiili jaoks."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "AZTEK Siren Black on professionaalne täiskomplektne trikitõukeratas, mis on loodud pakkuma maksimaalset jõudlust ja kontrolli. Selle laiem deck ja kõrgem juhtraud muudavad selle ideaalseks valikuks kogenud sõitjatele, kes soovivad oma oskusi viia järgmisele tasemele. Klassikaline must disain annab tõukerattale ajatu ja stiilse välimuse."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Decki mõõdud",
+                  "value": "6,0" x 22" (150 mm x 558 mm)"
+                },
+                {
+                  "label": "Juhtraud",
+                  "value": "Chromoly 27" x 24" (680 mm x 610 mm)"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "SCS"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "Sepistatud kerge alumiiniumkahvel"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "Architect 2 XL 115 x 30 mm"
+                },
+                {
+                  "label": "Käepidemed",
+                  "value": "Aztek Lite"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "94 cm"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Must"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "115 mm"
+                },
+                {
+                  "label": "Kasutusala",
+                  "value": "Park"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "32,34 mm"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Soovitatav vanus",
+                  "value": "15 aastat ja vanemad"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83°"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "2 aastat"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Chromoly teras"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "680 mm"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Must",
+        "color_code": "#000000",
+        "source_price": 120.0,
+        "price": 269.9,
+        "discounted_price": 249.9,
+        "stock": 85,
+        "images": [
+          "/products/aztek-siren-black-trikitoukeratas-115mm-professionaalne-1.png",
+          "/products/aztek-siren-black-trikitoukeratas-115mm-professionaalne-2.png",
+          "/products/aztek-siren-black-trikitoukeratas-115mm-professionaalne-3.png",
+          "/products/aztek-siren-black-trikitoukeratas-115mm-professionaalne-4.png",
+          "/products/aztek-siren-black-trikitoukeratas-115mm-professionaalne-5.png"
+        ]
+      },
+      {
+        "id": "aztek-siren-gray",
+        "name": "AZTEK Siren - Gray",
+        "description": [
+          "Tutvustame AZTEK Siren täiskomplektse trikitõukeratta uusimat versiooni halliks värvitud disainiga.",
+          "See on varustatud eriliste Architect 2 XL (115 x 30 mm) ratastega, ruumika Siren 6" x 22" (150 x 558 mm) deckega, vastupidava 27" x 24" chromoly juhtrauaga ja kvaliteetse sepistatud keermestamata kahvliga.",
+          "AZTEK Siren hall mudel on suurepärane valik tõsistele trikisõitjatele, kes hindavad tipptasemel komponente, avaramat sõiduplatvormi ja elegantset halli värvitooni."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "AZTEK Siren Gray on kõrgekvaliteediline täiskomplektne trikitõukeratas, mis on disainitud pakkuma parimat sõidukogemust. Selle laiem deck annab rohkem ruumi jalgadele ning kõrgem juhtraud võimaldab paremat kontrolli trikkide sooritamisel. Modernne hall värvitoon lisab tõukerattale kaasaegset ja peent välimust, mis eristub teistest mudelitest."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Decki mõõdud",
+                  "value": "6,0" x 22" (150 mm x 558 mm)"
+                },
+                {
+                  "label": "Juhtraud",
+                  "value": "Chromoly 27" x 24" (680 mm x 610 mm)"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "SCS"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "Sepistatud kerge alumiiniumkahvel"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "Architect 2 XL 115 x 30 mm"
+                },
+                {
+                  "label": "Käepidemed",
+                  "value": "Aztek Lite"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "94 cm"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Hall"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "115 mm"
+                },
+                {
+                  "label": "Kasutusala",
+                  "value": "Park"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "32,34 mm"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Soovitatav vanus",
+                  "value": "15 aastat ja vanemad"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83°"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "2 aastat"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Chromoly teras"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "680 mm"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Hall",
+        "color_code": "#808080",
+        "source_price": 120.0,
+        "price": 269.9,
+        "discounted_price": 249.9,
+        "stock": 27,
+        "images": [
+          "/products/aztek-siren-gray-trikitoukeratas-115mm-hall-kvaliteetne-1.png",
+          "/products/aztek-siren-gray-trikitoukeratas-115mm-hall-kvaliteetne-2.png",
+          "/products/aztek-siren-gray-trikitoukeratas-115mm-hall-kvaliteetne-3.png",
+          "/products/aztek-siren-gray-trikitoukeratas-115mm-hall-kvaliteetne-4.png",
+          "/products/aztek-siren-gray-trikitoukeratas-115mm-hall-kvaliteetne-5.png"
+        ]
+      },
+      {
+        "id": "aztek-siren-zircon-sand",
+        "name": "AZTEK Siren - Zircon Sand",
+        "description": [
+          "Tutvustame AZTEK Siren täiskomplektset trikitõukeratast eksklusiivselt Zircon Sand värvitooniga.",
+          "See on varustatud laiade Architect 2 XL (115 x 30 mm) ratastega, avarama 6" x 22" (15,2 cm x 55,8 cm) Siren deckega, kõrge 27" x 24" 4130 Chromoly juhtrauaga ja kvaliteetse sepistatud alumiiniumkahvliga.",
+          "AZTEK Siren Zircon Sand on mõeldud nõudlikule sõitjale, kes hindab nii välimust kui ka funktsionaalsust. GFR nailonist peg-sisendid lisavad vastupidavust pikemaks kasutusajaks."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "AZTEK Siren Zircon Sand on kõrgekvaliteediline täiskomplektne trikitõukeratas, mis paistab silma unikaalse liivakollase värvitooniga. See on loodud pakkuma parimat sõidukogemust igale vanusegrupile, alates algajatest kuni professionaalsete sõitjateni. Avarama decki ja kõrgema juhtrauaga disain tagab parema tasakaalu ja kontrolli trikkide sooritamisel."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Decki mõõdud",
+                  "value": "6,0" x 22" (15,2 cm x 55,8 cm)"
+                },
+                {
+                  "label": "Peg-sisendid",
+                  "value": "GFR nailonist"
+                },
+                {
+                  "label": "Juhtraud",
+                  "value": "27" x 24" 4130 Chromoly (68 cm x 61 cm, koos SCS kõrgusega)"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "SCS"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "Sepistatud kerge alumiiniumkahvel"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "115 x 30 mm Architect 2 XL"
+                },
+                {
+                  "label": "Käepidemed",
+                  "value": "Aztek Lite"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "94 cm"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Zircon Sand (kollane)"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "115 mm"
+                },
+                {
+                  "label": "Kasutusala",
+                  "value": "Park"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "32,34 mm"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Soovitatav vanus",
+                  "value": "7-15+ aastat"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83°"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "24 kuud"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Chromoly teras"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "68 cm"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Zircon Sand (kollane)",
+        "color_code": "#F4CA16",
+        "source_price": 120.0,
+        "price": 269.9,
+        "discounted_price": 249.9,
+        "stock": 83,
+        "images": [
+          "/products/aztek-siren-zircon-sand-trikitoukeratas-115mm-kollane-1.jpg",
+          "/products/aztek-siren-zircon-sand-trikitoukeratas-115mm-kollane-2.jpg",
+          "/products/aztek-siren-zircon-sand-trikitoukeratas-115mm-kollane-3.jpg",
+          "/products/aztek-siren-zircon-sand-trikitoukeratas-115mm-kollane-4.jpg",
+          "/products/aztek-siren-zircon-sand-trikitoukeratas-115mm-kollane-5.jpg"
         ]
       }
     ]
