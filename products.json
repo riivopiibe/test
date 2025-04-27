@@ -1112,7 +1112,6 @@
           "/products/complete-prodigy-s9-oil-slick-trikitoukeratas-3.png",
           "/products/complete-prodigy-s9-oil-slick-trikitoukeratas-4.png",
           "/products/complete-prodigy-s9-oil-slick-trikitoukeratas-5.png",
-          "/products/complete-prodigy-s9-oil-slick-trikitoukeratas-6.jpg",
           "/products/complete-prodigy-s9-oil-slick-trikitoukeratas-7.png"
         ]
       }
@@ -1248,7 +1247,7 @@
           }
         ],
         "color": "Sinine ja must",
-        "color_code": "#0000FF",
+        "color_code": "#7080BB",
         "source_price": 145.0,
         "price": 400,
         "discounted_price": 390,
@@ -1419,7 +1418,7 @@
           "/products/blunt-complete-kos-s7-charge-trikitoukeratas-3.png",
           "/products/blunt-complete-kos-s7-charge-trikitoukeratas-4.png",
           "/products/blunt-complete-kos-s7-charge-trikitoukeratas-5.png",
-          "/products/blunt-complete-kos-s7-charge-trikitoukeratas-6.jpg",
+          "/products/blunt-complete-kos-s7-charge-trikitoukeratas-8.jpg",
           "/products/blunt-complete-kos-s7-charge-trikitoukeratas-7.png"
         ]
       }
@@ -1563,7 +1562,7 @@
           }
         ],
         "color": "Sinine",
-        "color_code": "#0000FF",
+        "color_code": "#2FCACE",
         "source_price": 72.0,
         "price": 200,
         "discounted_price": 190,
@@ -1572,6 +1571,7 @@
           "/products/blunt-complete-colt-s5-blue-trikitoukeratas-1.png",
           "/products/blunt-complete-colt-s5-blue-trikitoukeratas-2.png",
           "/products/blunt-complete-colt-s5-blue-trikitoukeratas-3.png",
+          "/products/blunt-complete-colt-s5-blue-trikitoukeratas-6.png",
           "/products/blunt-complete-colt-s5-blue-trikitoukeratas-4.png",
           "/products/blunt-complete-colt-s5-blue-trikitoukeratas-5.png"
         ]
@@ -1706,7 +1706,7 @@
           }
         ],
         "color": "Roheline",
-        "color_code": "#00FF00",
+        "color_code": "#85EC73",
         "source_price": 81.0,
         "price": 200,
         "discounted_price": 190,
@@ -1994,6 +1994,899 @@
           "/products/blunt-deck-aos-v6-squad-grey-5.jpg",
           "/products/blunt-deck-aos-v6-squad-grey-6.jpg",
           "/products/blunt-deck-aos-v6-squad-grey-7.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "blunt-deck-aos-v5-squad",
+    "class": "decks",
+    "category": ["Tõuksid", "Tekiid", "Pro tase"],
+    "brand": "Blunt",
+    "tags": ["Deck", "Box-cut", "Alumiinium", "Pro"],
+    "video": "",
+    "variants": [
+      {
+        "id": "blunt-deck-aos-v5-signature-matis-neyroud-2022",
+        "name": "Blunt Deck Aos V5 Signature Matis Neyroud 2022",
+        "description": [
+          "Blunt AOS V5 Signature Deck – Matis Neyroud erimudel.",
+          "Kerge, vastupidav alumiiniumist box-cut kuju, ideaalne park- ja street-trikkideks.",
+          "Sobib ratastele läbimõõduga 100mm kuni 120mm, telje diameeter 8mm."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Blunt AOS V5 Signature Deck Matis Neyroudi jaoks ühendab tugevuse, kerguse ja ideaalse disaini tänava- ning pargisõiduks."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3,265 kg"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Pikkus",
+                  "value": "22''"
+                },
+                {
+                  "label": "Laius",
+                  "value": "5.1'' (130 mm)"
+                },
+                {
+                  "label": "Formaat",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Peatoru nurk",
+                  "value": "84°"
+                },
+                {
+                  "label": "Juhtraua süsteem",
+                  "value": "Integreeritud"
+                },
+                {
+                  "label": "Telje diameeter",
+                  "value": "8 mm"
+                },
+                {
+                  "label": "Ratta diameeter sobivus",
+                  "value": "100 mm, 110 mm, 115 mm, 120 mm"
+                },
+                {
+                  "label": "Ratta laius sobivus",
+                  "value": "24 mm"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Punane",
+        "color_code": "#93443F",
+        "source_price": 110.0,
+        "price": 199,
+        "discounted_price": 189,
+        "stock": 0,
+        "images": [
+          "/products/blunt-deck-aos-v5-signature-matis-neyroud-2022-1.jpg",
+          "/products/blunt-deck-aos-v5-signature-matis-neyroud-2022-2.jpg",
+          "/products/blunt-deck-aos-v5-signature-matis-neyroud-2022-3.jpg",
+          "/products/blunt-deck-aos-v5-signature-matis-neyroud-2022-4.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "antics-eclipse-sand-black",
+    "class": "complete-scooters",
+    "category": ["Komplektsed", "Algaja tase", "Tõukerattad"],
+    "brand": "Antics",
+    "tags": ["trikitõukeratas", "120mm", "alumiinium", "SCS", "park"],
+    "video": "",
+    "variants": [
+      {
+        "id": "antics-eclipse-sand-black",
+        "name": "Antics Eclipse - Sand/Black",
+        "description": [
+          "Eclipse sari pakub mitmeid komponente, mis teevad sellest ideaalse algajatele mõeldud täiskomplektse tõukeratta.",
+          "Kõige ülemises osas pakub Eclipse täiskomplekt 24-tollist (580 mm) kõrguse ja 23-tollist (520 mm) laiusega Antics alumiiniumist juhtrauda koos Antics Swirl käepidemete ja nailonist juhtraua otsadega.",
+          "Alumises osas sisaldab komplekt uut Antics Eclipse decki. 5-tollise (127 mm) laiuse ja 20,5-tollise (500 mm) pikkusega alumiiniumist deck pakub ideaalset tasakaalu kerguse ja mugavuse vahel."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Antics Eclipse Sand/Black on täiskomplektne trikitõukeratas, mis on ideaalne algajatele ja edasijõudnutele. See pakub kerget konstruktsiooni, suurepärast juhitavust ning kvaliteetseid komponente, mis teevad selle täiuslikuks valikuks pargi sõidustiili jaoks. Liiva/musta värvikombinatsioon annab tõukerattale silmapaistva ja stiilse välimuse."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3400 g"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "500 mm (20,5 tolli)"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "127 mm (5 tolli)"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "580 mm (24 tolli)"
+                },
+                {
+                  "label": "Juhtraua laius",
+                  "value": "520 mm (23 tolli)"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "SCS"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "120 mm"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Alumiinium 6061"
+                },
+                {
+                  "label": "Rataste kõvadus",
+                  "value": "88A"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "Antics alumiiniumkahvel - ühilduv 120 mm ratastega"
+                },
+                {
+                  "label": "Klamber",
+                  "value": "Antics 4-poldiga klamber - 6 mm poldid"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "89,5 cm"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Liiv, Must"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Peg-cut"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "32,34 mm"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Soovitatav vanus",
+                  "value": "13-15 aastat"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83°"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "2 aastat"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Liiv",
+        "color_code": "#DE943A",
+        "source_price": 90.0,
+        "price": 229.9,
+        "discounted_price": 190,
+        "stock": 99,
+        "images": [
+          "/products/antics-eclipse-sand-black-trikitoukeratas-alumiinium-120mm-1.png",
+          "/products/antics-eclipse-sand-black-trikitoukeratas-alumiinium-120mm-2.png",
+          "/products/antics-eclipse-sand-black-trikitoukeratas-alumiinium-120mm-3.png",
+          "/products/antics-eclipse-sand-black-trikitoukeratas-alumiinium-120mm-4.png",
+          "/products/antics-eclipse-sand-black-trikitoukeratas-alumiinium-120mm-5.png",
+          "/products/antics-eclipse-sand-black-trikitoukeratas-alumiinium-120mm-6.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "antics-deck-gallery",
+    "class": "scooter-parts",
+    "category": ["Osad", "Dekid", "Tõukerattad"],
+    "brand": "Antics",
+    "tags": ["trikitõukeratas", "deck", "alumiinium", "83°", "park"],
+    "video": "",
+    "variants": [
+      {
+        "id": "antics-deck-gallery-5-x-19-5-orange",
+        "name": "ANTICS Deck Gallery 5x19.5 - Oranž",
+        "description": [
+          "Gallery deck on Antics'i lipulaev toode.",
+          "See innovaatiline 5-tolline (127 mm) laiune ja 19,5-tolline (495 mm) pikkusega deck on toodetud ühest terviklikust ekstrusioonist, kus juhtraua torust kuni deki plaadini ulatuvad rööpad loovad ideaalse jõu jaotuse.",
+          "Kerge kaaluga konstruktsioon (1,5 kg) sobib ideaalselt parkisõiduks, pakkudes piisavalt ruumi trikkide sooritamiseks nii kogenud sõitjatele kui ka järgmisele tasemele püüdlevatele noortele."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Antics Gallery deck on revolutsiooniline trikitõukeratta deck, mis on loodud parkisõiduks. Selle ainulaadne ühest tervikust ekstrusioon tagab optimaalse jõu jaotuse ilma lisamaterjalita, hoides deki kergena. 5-tolline laius pakub sõitjatele piisavalt ruumi trikkide sooritamiseks, tehes sellest ideaalse valiku nii kogenud sõitjatele kui ka ambitsioonikatele noortele."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "1,5 kg"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "495 mm (19,5 tolli)"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "127 mm (5 tolli)"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83°"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Konkaavsus",
+                  "value": "3"
+                },
+                {
+                  "label": "Sobivad rattad",
+                  "value": "100mm, 110mm, 125mm"
+                },
+                {
+                  "label": "Ratta südamiku laius",
+                  "value": "24mm, 30mm"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "6061-T6 Alumiinium"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Oranž"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Juhtraua tüüp",
+                  "value": "Integreeritud"
+                },
+                {
+                  "label": "Telje läbimõõt",
+                  "value": "8 mm"
+                },
+                {
+                  "label": "Maksimaalne ratta laius",
+                  "value": "30mm"
+                },
+                {
+                  "label": "Ühilduvad rattad",
+                  "value": "100, 110, 115, 120, 125 mm"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Oranž",
+        "color_code": "#FF6700",
+        "source_price": 80.0,
+        "price": 199.9,
+        "discounted_price": 170,
+        "stock": 17,
+        "images": [
+          "/products/antics-deck-gallery-5-x-19-5-orange-trikitoukeratta-alumiinium-deck-1.png",
+          "/products/antics-deck-gallery-5-x-19-5-orange-trikitoukeratta-alumiinium-deck-2.png",
+          "/products/antics-deck-gallery-5-x-19-5-orange-trikitoukeratta-alumiinium-deck-3.png"
+        ]
+      },
+      {
+        "id": "antics-deck-gallery-5-x-19-5-punane",
+        "name": "ANTICS Deck Gallery 5 X 19.5 - Punane",
+        "description": [
+          "Gallery deck on Antics'i lipulaev toode.",
+          "See innovaatiline 5-tolline (127 mm) laiune ja 19,5-tolline (495 mm) pikkusega deck on toodetud ühest terviklikust ekstrusioonist, kus juhtraua torust kuni deki plaadini ulatuvad rööpad loovad ideaalse jõu jaotuse.",
+          "Kerge kaaluga konstruktsioon (1,5 kg) sobib ideaalselt parkisõiduks, pakkudes piisavalt ruumi trikkide sooritamiseks nii kogenud sõitjatele kui ka järgmisele tasemele püüdlevatele noortele."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Antics Gallery punane deck on revolutsiooniline trikitõukeratta deck, mis on loodud parkisõiduks. Selle ainulaadne ühest tervikust ekstrusioon tagab optimaalse jõu jaotuse ilma lisamaterjalita, hoides deki kergena. 5-tolline laius pakub sõitjatele piisavalt ruumi trikkide sooritamiseks, tehes sellest ideaalse valiku nii kogenud sõitjatele kui ka ambitsioonikatele noortele."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "1,5 kg"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "495 mm (19,5 tolli)"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "127 mm (5 tolli)"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83°"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Konkaavsus",
+                  "value": "3"
+                },
+                {
+                  "label": "Sobivad rattad",
+                  "value": "100mm, 110mm, 125mm"
+                },
+                {
+                  "label": "Ratta südamiku laius",
+                  "value": "24mm, 30mm"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "6061-T6 Alumiinium"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Punane"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Juhtraua tüüp",
+                  "value": "Integreeritud"
+                },
+                {
+                  "label": "Telje läbimõõt",
+                  "value": "8 mm"
+                },
+                {
+                  "label": "Maksimaalne ratta laius",
+                  "value": "30mm"
+                },
+                {
+                  "label": "Ühilduvad rattad",
+                  "value": "100, 110, 115, 120, 125 mm"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Punane",
+        "color_code": "#FF0000",
+        "source_price": 80.0,
+        "price": 199.9,
+        "discounted_price": 170,
+        "stock": 12,
+        "images": [
+          "/products/antics-deck-gallery-5-x-19-5-punane-trikitoukeratta-alumiinium-deck-1.png",
+          "/products/antics-deck-gallery-5-x-19-5-punane-trikitoukeratta-alumiinium-deck-2.png",
+          "/products/antics-deck-gallery-5-x-19-5-punane-trikitoukeratta-alumiinium-deck-3.png"
+        ]
+      },
+      {
+        "id": "antics-deck-gallery-5-x-19-5-rohesinine",
+        "name": "ANTICS Deck Gallery 5 X 19.5 - Rohesinine",
+        "description": [
+          "Gallery deck on Antics'i lipulaev toode.",
+          "See innovaatiline 5-tolline (127 mm) laiune ja 19,5-tolline (495 mm) pikkusega deck on toodetud ühest terviklikust ekstrusioonist, kus juhtraua torust kuni deki plaadini ulatuvad rööpad loovad ideaalse jõu jaotuse.",
+          "Kerge kaaluga konstruktsioon (1,5 kg) sobib ideaalselt parkisõiduks, pakkudes piisavalt ruumi trikkide sooritamiseks nii kogenud sõitjatele kui ka järgmisele tasemele püüdlevatele noortele."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Antics Gallery rohesinine deck on revolutsiooniline trikitõukeratta deck, mis on loodud parkisõiduks. Selle ainulaadne ühest tervikust ekstrusioon tagab optimaalse jõu jaotuse ilma lisamaterjalita, hoides deki kergena. 5-tolline laius pakub sõitjatele piisavalt ruumi trikkide sooritamiseks, tehes sellest ideaalse valiku nii kogenud sõitjatele kui ka ambitsioonikatele noortele."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "1,5 kg"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "495 mm (19,5 tolli)"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "127 mm (5 tolli)"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83°"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Konkaavsus",
+                  "value": "3"
+                },
+                {
+                  "label": "Sobivad rattad",
+                  "value": "100mm, 110mm, 125mm"
+                },
+                {
+                  "label": "Ratta südamiku laius",
+                  "value": "24mm, 30mm"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "6061-T6 Alumiinium"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Rohesinine"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Juhtraua tüüp",
+                  "value": "Integreeritud"
+                },
+                {
+                  "label": "Telje läbimõõt",
+                  "value": "8 mm"
+                },
+                {
+                  "label": "Maksimaalne ratta laius",
+                  "value": "30mm"
+                },
+                {
+                  "label": "Ühilduvad rattad",
+                  "value": "100, 110, 115, 120, 125 mm"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Rohesinine",
+        "color_code": "#008080",
+        "source_price": 80.0,
+        "price": 199.9,
+        "discounted_price": 170,
+        "stock": 17,
+        "images": [
+          "/products/antics-deck-gallery-5-x-19-5-rohesinine-trikitoukeratta-alumiinium-deck-1.png",
+          "/products/antics-deck-gallery-5-x-19-5-rohesinine-trikitoukeratta-alumiinium-deck-2.png",
+          "/products/antics-deck-gallery-5-x-19-5-rohesinine-trikitoukeratta-alumiinium-deck-3.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "antics-deck-gallery-5-x-20-5-oranž",
+    "class": "scooter-parts",
+    "category": ["Osad", "Dekid", "Tõukerattad"],
+    "brand": "Antics",
+    "tags": ["trikitõukeratas", "deck", "alumiinium", "83°", "park", "pikk"],
+    "video": "",
+    "variants": [
+      {
+        "id": "antics-deck-gallery-5-x-20-5-oranž",
+        "name": "ANTICS Deck Gallery 5 X 20.5 - Oranž",
+        "description": [
+          "Gallery deck on Antics'i lipulaev toode pikematele sõitjatele.",
+          "See innovaatiline 5-tolline (127 mm) laiune ja 20,5-tolline (520 mm) pikkusega deck on valmistatud ühest terviklikust ekstrusioonist, tagades optimaalse jõu jaotuse juhtraua torust kuni deki plaadini.",
+          "Pikendatud disain pakub suuremat stabiilsust, säilitades samas kerge kaalu (1,5 kg), mis teeb selle ideaalseks nii kogenud parkisõitjatele kui ka ambitsioonikatele noortele, kes soovivad oma oskusi arendada."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Antics Gallery oranž deck pikendatud 20,5-tollise disainiga on mõeldud sõitjatele, kes vajavad suuremat stabiilsust. Revolutsiooniline ühest tervikust ekstrusioon tagab optimaalse jõu jaotuse ilma lisakaaluta. 5-tolline laius annab piisavalt ruumi trikkide sooritamiseks, pakkudes suurepärast tasakaalu manööverdatavuse ja stabiilsuse vahel."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "1,5 kg"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "520 mm (20,5 tolli)"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "127 mm (5 tolli)"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83°"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Konkaavsus",
+                  "value": "3"
+                },
+                {
+                  "label": "Sobivad rattad",
+                  "value": "100mm, 110mm, 125mm"
+                },
+                {
+                  "label": "Ratta südamiku laius",
+                  "value": "24mm, 30mm"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "6061-T6 Alumiinium"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Oranž"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Juhtraua tüüp",
+                  "value": "Integreeritud"
+                },
+                {
+                  "label": "Telje läbimõõt",
+                  "value": "8 mm"
+                },
+                {
+                  "label": "Maksimaalne ratta laius",
+                  "value": "30mm"
+                },
+                {
+                  "label": "Ühilduvad rattad",
+                  "value": "100, 110, 115, 120, 125 mm"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Oranž",
+        "color_code": "#FF6700",
+        "source_price": 80.0,
+        "price": 199.9,
+        "discounted_price": 170,
+        "stock": 18,
+        "images": [
+          "/products/antics-deck-gallery-5-x-20-5-oranž-pikk-trikitoukeratta-alumiinium-deck-1.png",
+          "/products/antics-deck-gallery-5-x-20-5-oranž-pikk-trikitoukeratta-alumiinium-deck-2.png",
+          "/products/antics-deck-gallery-5-x-20-5-oranž-pikk-trikitoukeratta-alumiinium-deck-3.png"
+        ]
+      },
+      {
+        "id": "antics-deck-gallery-5-x-20-5-punane",
+        "name": "ANTICS Deck Gallery 5 X 20.5 - Punane",
+        "description": [
+          "Gallery deck on Antics'i lipulaev toode pikematele sõitjatele.",
+          "Selle 5-tollise (127 mm) laiuse ja 20,5-tollise (520 mm) pikkusega deki unikaalne disain põhineb ühest tervikust ekstrusioonil, mis loob sujuva ülemineku juhtraua torust deki plaadini.",
+          "Pikendatud pikkus annab lisastabiilsust, samal ajal kui kerge kaal (1,5 kg) muudab selle ideaalseks nii kogenud parkisõitjatele kui ka edasijõudnutele, kes soovivad oma trikioskusi täiustada."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Antics Gallery punane deck pikendatud 20,5-tollise disainiga on loodud pakkuma suuremat stabiilsust ja kontrollitavust. Revolutsiooniline ühest tervikust ekstrusioon tagab maksimaalse tugevuse minimaalne kaaluga. 5-tolline laius ja pikendatud pikkus loovad ideaalse platvormi keerukamate trikkide sooritamiseks, sobides hästi nii kogenud sõitjatele kui ka ambitsioonikatele noortele."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "1,5 kg"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "520 mm (20,5 tolli)"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "127 mm (5 tolli)"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83°"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Konkaavsus",
+                  "value": "3"
+                },
+                {
+                  "label": "Sobivad rattad",
+                  "value": "100mm, 110mm, 125mm"
+                },
+                {
+                  "label": "Ratta südamiku laius",
+                  "value": "24mm, 30mm"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "6061-T6 Alumiinium"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Punane"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Juhtraua tüüp",
+                  "value": "Integreeritud"
+                },
+                {
+                  "label": "Telje läbimõõt",
+                  "value": "8 mm"
+                },
+                {
+                  "label": "Maksimaalne ratta laius",
+                  "value": "30mm"
+                },
+                {
+                  "label": "Ühilduvad rattad",
+                  "value": "100, 110, 115, 120, 125 mm"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Punane",
+        "color_code": "#FF0000",
+        "source_price": 80.0,
+        "price": 199.9,
+        "discounted_price": 170,
+        "stock": 19,
+        "images": [
+          "/products/antics-deck-gallery-5-x-20-5-punane-pikk-trikitoukeratta-alumiinium-deck-1.png",
+          "/products/antics-deck-gallery-5-x-20-5-punane-pikk-trikitoukeratta-alumiinium-deck-2.png",
+          "/products/antics-deck-gallery-5-x-20-5-punane-pikk-trikitoukeratta-alumiinium-deck-3.png"
+        ]
+      },
+      {
+        "id": "antics-deck-gallery-5-x-20-5-rohesinine",
+        "name": "ANTICS Deck Gallery 5 X 20.5 - Rohesinine",
+        "description": [
+          "Gallery deck rohesinine versioon on Antics'i lipulaev toode pikematele sõitjatele.",
+          "Selle 5-tolline (127 mm) laius ja 20,5-tolline (520 mm) pikkus kombineerituna unikaalse ühest tervikust ekstrusiooniga tagab suurepärase jõu jaotuse ja vastupidavuse.",
+          "Pikem disain võimaldab paremat stabiilsust kiirematel manöövritel, säilitades samas kerge kaalu (1,5 kg), mis teeb sellest ideaalse valiku nii parkisõitjatele kui ka tänavatel trikitajatele."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Antics Gallery rohesinine pikendatud deck on mõeldud sõitjatele, kes hindavad nii manööverdatavust kui stabiilsust. 20,5-tolline pikkus pakub suuremat toetuspinda, samas kui 5-tolline laius tagab hea kontrolli. Revolutsiooniline ühest tervikust ekstrusioon loob sujuva ülemineku juhtraua torult dekile, pakkudes maksimaalset tugevust ilma lisaraskuseta. See on ideaalne valik nii kogenud sõitjatele kui ka neile, kes soovivad oma oskusi arendada."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "1,5 kg"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "520 mm (20,5 tolli)"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "127 mm (5 tolli)"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83°"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Konkaavsus",
+                  "value": "3"
+                },
+                {
+                  "label": "Sobivad rattad",
+                  "value": "100mm, 110mm, 125mm"
+                },
+                {
+                  "label": "Ratta südamiku laius",
+                  "value": "24mm, 30mm"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "6061-T6 Alumiinium"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Rohesinine"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Juhtraua tüüp",
+                  "value": "Integreeritud"
+                },
+                {
+                  "label": "Telje läbimõõt",
+                  "value": "8 mm"
+                },
+                {
+                  "label": "Maksimaalne ratta laius",
+                  "value": "30mm"
+                },
+                {
+                  "label": "Ühilduvad rattad",
+                  "value": "100, 110, 115, 120, 125 mm"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Rohesinine",
+        "color_code": "#008080",
+        "source_price": 80.0,
+        "price": 199.9,
+        "discounted_price": 170,
+        "stock": 18,
+        "images": [
+          "/products/antics-deck-gallery-5-x-20-5-rohesinine-pikk-trikitoukeratta-alumiinium-deck-1.png",
+          "/products/antics-deck-gallery-5-x-20-5-rohesinine-pikk-trikitoukeratta-alumiinium-deck-2.png",
+          "/products/antics-deck-gallery-5-x-20-5-rohesinine-pikk-trikitoukeratta-alumiinium-deck-3.png"
+        ]
+      },
+      {
+        "id": "antics-deck-gallery-5-x-20-5-must",
+        "name": "ANTICS Deck Gallery 5 X 20.5 - Must",
+        "description": [
+          "Gallery deck must versioon on Antics'i lipulaev toode pikematele sõitjatele.",
+          "See elegantne 5-tolline (127 mm) laiune ja 20,5-tolline (520 mm) pikkusega deck on ehitatud innovaatilise ühest tervikust ekstrusiooniga, mis loob sujuva ülemineku juhtraua torust deki plaadini.",
+          "Klassikaline must värv koos pikendatud disainiga pakub nii stiili kui funktsionaalsust, säilitades kerge kaalu (1,5 kg) ja pakkudes stabiilsust keerulisemate trikkide sooritamisel."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Antics Gallery must deck pikendatud 20,5-tollise disainiga on loodud sõitjatele, kes hindavad nii klassikalist välimust kui ka tehnilist täiuslikkust. Unikaalne ühest tervikust ekstrusioon tagab optimaalse jõu jaotuse ja vastupidavuse. Pikem disain pakub paremat stabiilsust, samas kui 5-tolline laius võimaldab head kontrolli trikkide sooritamisel. See on ideaalne valik nii park-sõidu entusiastidele kui ka tänavasõitjatele."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "1,5 kg"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "520 mm (20,5 tolli)"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "127 mm (5 tolli)"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83°"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Konkaavsus",
+                  "value": "3"
+                },
+                {
+                  "label": "Sobivad rattad",
+                  "value": "100mm, 110mm, 125mm"
+                },
+                {
+                  "label": "Ratta südamiku laius",
+                  "value": "24mm, 30mm"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "6061-T6 Alumiinium"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Must"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Juhtraua tüüp",
+                  "value": "Integreeritud"
+                },
+                {
+                  "label": "Telje läbimõõt",
+                  "value": "8 mm"
+                },
+                {
+                  "label": "Maksimaalne ratta laius",
+                  "value": "30mm"
+                },
+                {
+                  "label": "Ühilduvad rattad",
+                  "value": "100, 110, 115, 120, 125 mm"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Must",
+        "color_code": "#000000",
+        "source_price": 80.0,
+        "price": 199.9,
+        "discounted_price": 170,
+        "stock": 4,
+        "images": [
+          "/products/antics-deck-gallery-5-x-20-5-must-pikk-trikitoukeratta-alumiinium-deck-1.png",
+          "/products/antics-deck-gallery-5-x-20-5-must-pikk-trikitoukeratta-alumiinium-deck-2.png",
+          "/products/antics-deck-gallery-5-x-20-5-must-pikk-trikitoukeratta-alumiinium-deck-3.png"
         ]
       }
     ]
