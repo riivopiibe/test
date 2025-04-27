@@ -1117,5 +1117,609 @@
         ]
       }
     ]
+  },
+  {
+    "id": "blunt-kos-s6-heist",
+    "class": "complete-scooters",
+    "category": ["Tõuksid", "Pro tase", "Park"],
+    "brand": "Blunt",
+    "tags": ["Complete", "IHC", "Kerge"],
+    "video": "",
+    "variants": [
+      {
+        "id": "blunt-kos-s6-heist",
+        "name": "Blunt KOS S6 - Heist",
+        "description": [
+          "Blunt KOS S6 Heist on kuuenda põlvkonna professionaalne trikitõukeratas, mis on loodud edasijõudnud sõitjatele, kes otsivad kõrgetasemelist varustust. Silmapaistev sini-must värvikombinatsioon annab sellele mudelile unikaalse ja kaasaegse välimuse. KOS seeria on tuntud oma erakordse vastupidavuse ja jõudluse poolest, mis teeb sellest ideaalse valiku ambitsioonikatele trikisõitjatele.",
+          "KOS S6 Heist eristub oma pikema ja laiema dekiga (510 mm × 125 mm), mis on valmistatud tugevast 6061-T6 alumiiniumist ja Box-cut disainiga, pakkudes rohkem stabiilsust ja ruumi trikkide sooritamiseks. Kõrge REAPER ALU lenks (650 mm kõrge, 580 mm lai) annab sõitjale parema kontrolli õhus sooritatavate trikkide ajal ja sobib ideaalselt pikematele sõitjatele. Õõnsa südamikuga 120 mm × 26 mm alumiiniumrattad (86A kõvadusega PU) tagavad suurepärase kiiruse ja põrutuskindluse.",
+          "Üheosaline sepistatud 2-poldiga klamber ja DECLARE V2 IHC kahvel loovad tugeva ja jäiga konstruktsiooni, mis kannatab ka kõige nõudlikumaid trikke. 160 mm pikad TPR käepidemed pakuvad mugavat haaret ja maksimaalset kontrolli. KOS S6 Heist on mõeldud 15+ vanuses sõitjatele, kes soovivad viia oma parkisõidu oskused uuele tasemele. Box-cut disain ja 83° headtube nurk tagavad optimaalse tasakaalu manööverdamisvõime ja stabiilsuse vahel. Kaaludes vaid 3,85 kg, on see tõukeratas piisavalt kerge keerukamate trikkide sooritamiseks, kuid samas piisavalt tugev, et taluda igapäevast intensiivset kasutust."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Blunt KOS S6 Heist on kuuenda põlvkonna professionaalne trikitõukeratas, mis on mõeldud edasijõudnud sõitjatele. Heist mudel paistab silma oma sini-musta värvikombinatsiooniga ja Box-cut disainiga, mis pakub rohkem stabiilsust ja vastupidavust keeruliste trikkide sooritamisel. Pikema deki ja kõrgema lenksuga on see ideaalne valik pikematele ja kogenenumatele sõitjatele, kes otsivad kõrgetasemelist tõukeratast parkisõiduks."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3,85 kg (neto)"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "900 mm"
+                },
+                {
+                  "label": "Deki materjal",
+                  "value": "6061-T6 alumiinium"
+                },
+                {
+                  "label": "Deki pikkus",
+                  "value": "20 tolli (510 mm)"
+                },
+                {
+                  "label": "Deki laius",
+                  "value": "4,9 tolli (125 mm)"
+                },
+                {
+                  "label": "Deki vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Lenksu tüüp",
+                  "value": "REAPER ALU"
+                },
+                {
+                  "label": "Lenksu kõrgus",
+                  "value": "650 mm"
+                },
+                {
+                  "label": "Lenksu laius",
+                  "value": "580 mm"
+                },
+                {
+                  "label": "Lenksu väline läbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Gripid",
+                  "value": "160 mm pikad TPR käepidemed nailonist lenksu otsikutega"
+                },
+                {
+                  "label": "Klamber",
+                  "value": "2 poldiga - üheosaline sepistatud klamber - 6 mm poldid"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "32,34 mm"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "DECLARE V2 IHC, sobib kuni 30 mm × 125 mm ratastega"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermeta (non-threaded)"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "120 mm × 26 mm, 6063 alumiiniumist õõnsa südamikuga, 86A PU"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83°"
+                },
+                {
+                  "label": "Pidur",
+                  "value": "Nailonist pealekruvitav, 5 mm poldiga"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Kokkusurumissüsteem",
+                  "value": "IHC (Internal Hidden Compression)"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Sinine ja must"
+                },
+                {
+                  "label": "Sõidustiil",
+                  "value": "Park"
+                },
+                {
+                  "label": "Soovitatav vanus",
+                  "value": "15+"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "2 aastat"
+                },
+                {
+                  "label": "Kokkupanek",
+                  "value": "Osaliselt kokkupandud"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Sinine ja must",
+        "color_code": "#0000FF",
+        "source_price": 145.0,
+        "price": 400,
+        "discounted_price": 390,
+        "stock": 3,
+        "images": [
+          "/products/blunt-complete-kos-s6-heist-trikitoukeratas-1.jpg",
+          "/products/blunt-complete-kos-s6-heist-trikitoukeratas-2.jpg",
+          "/products/blunt-complete-kos-s6-heist-trikitoukeratas-3.jpg",
+          "/products/blunt-complete-kos-s6-heist-trikitoukeratas-4.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "blunt-kos-s7-charge",
+    "class": "complete-scooters",
+    "category": ["Tõuksid", "Pro tase", "Park"],
+    "brand": "Blunt",
+    "tags": ["Complete", "IHC", "Kerge"],
+    "video": "",
+    "variants": [
+      {
+        "id": "blunt-kos-s7-charge",
+        "name": "Blunt KOS S7 - Charge",
+        "description": [
+          "Blunt KOS S7 Charge on 2022. aasta absoluutne tippmudel Blunt Scootersi kõrgeimast KOS seeriast. See seitsmenda põlvkonna professionaalne trikitõukeratas on mõeldud tõsistele entusiastidele ja edasijõudnud sõitjatele, kes ei tee kompromisse kvaliteedi ja jõudluse osas. Silmapaistev multicolor ja must disain peegeldab selle mudeli kaasaegset tehnoloogiat ja premium klassi kuulumist.",
+          "KOS S7 Charge eristub oma erakordselt pika ja laia dekiga (533 mm × 130 mm), mis on valmistatud tugevast 6061-T6 alumiiniumist ja Box-cut disainiga, pakkudes rohkem stabiilsust ja ruumi trikkide sooritamiseks. Täiustatud AOSv4 x KOS dek koos nailonist otsikutega tagab maksimaalse vastupidavuse ka kõige intensiivsema kasutuse korral. Kõrge tihedusega alumiiniumist BULL lenks (650 mm kõrge, 580 mm lai) annab sõitjale täieliku kontrolli õhus sooritatavate trikkide ajal.",
+          "Charge mudel on varustatud Tri bearing wheel süsteemiga, mis hõlmab 120 mm × 30 mm rattaid (86A kõvadusega PU) ja ABEC 9 laagreid, mis tagavad maksimaalse kiiruse ja sujuva sõidu. Eksklusiivsed 170 mm pikad Will Scott signature käepidemed HALO lenksu otsikutega pakuvad erakordset mugavust ja haaret. DECLARE V2 alumiinium IHC kahvel ja 2-poldiga sepistatud klamber loovad tugeva ja jäiga konstruktsiooni. Tõukerattal on erakordselt lai jalaruum (385 mm), mis sobib ideaalselt pikematele sõitjatele ja keerukamate trikkide sooritamiseks. 82,5° headtube nurk tagab ideaalse tasakaalu manööverdamisvõime ja stabiilsuse vahel. KOS S7 Charge on mõeldud neile, kes otsivad parimat võimalikku trikitõukeratast ilma kompromissideta."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Blunt KOS S7 Charge on 2022. aasta tippmudel Blunt Scootersi premium seeriast. See seitsmenda põlvkonna trikitõukeratas on mõeldud keskmise ja edasijõudnud tasemega sõitjatele, kes soovivad kogeda parimat kvaliteeti ja jõudlust. Charge mudel on osa KOS seeriast, mis on Blunti kõrgeim tootesari, pakkudes uusimaid täiustusi ja kõrgkvaliteetseid komponente. Multicolor ja musta värvikombinatsiooniga tõukeratas on loodud parkisõiduks ja keeruliste trikkide sooritamiseks."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "4 kg"
+                },
+                {
+                  "label": "Jalaruumi laius",
+                  "value": "385 mm"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "930 mm"
+                },
+                {
+                  "label": "Kogupikkus",
+                  "value": "730 mm"
+                },
+                {
+                  "label": "Deki materjal",
+                  "value": "6061-T6 alumiinium"
+                },
+                {
+                  "label": "Deki mudel",
+                  "value": "AOSv4 x KOS"
+                },
+                {
+                  "label": "Deki pikkus",
+                  "value": "21 tolli (533 mm)"
+                },
+                {
+                  "label": "Deki laius",
+                  "value": "5,1 tolli (130 mm)"
+                },
+                {
+                  "label": "Deki vorm",
+                  "value": "Box-cut nailonist otsikutega"
+                },
+                {
+                  "label": "Lenksu tüüp",
+                  "value": "Kõrge tihedusega alumiinium BULL"
+                },
+                {
+                  "label": "Lenksu kõrgus",
+                  "value": "650 mm"
+                },
+                {
+                  "label": "Lenksu laius",
+                  "value": "580 mm"
+                },
+                {
+                  "label": "Lenksu väline läbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Gripid",
+                  "value": "170 mm pikad Will Scott signature käepidemed HALO lenksu otsikutega"
+                },
+                {
+                  "label": "Klamber",
+                  "value": "2 poldiga 6061 sepistatud alumiiniumklamber, 6 mm poldid"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "32,34 mm"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "DECLARE V2 alumiinium IHC, sobib kuni 125 mm ratastega"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermeta (non-threaded)"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "Tri bearing wheel, 120 mm × 30 mm, 86A PU, ABEC 9 laagrid"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "82,5°"
+                },
+                {
+                  "label": "Pidur",
+                  "value": "Nailonist pealekruvitav, 5 mm poldiga"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Griptape",
+                  "value": "Kõrgkvaliteetne 2-osaline"
+                },
+                {
+                  "label": "Kokkusurumissüsteem",
+                  "value": "IHC (Internal Hidden Compression)"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Multicolor ja must"
+                },
+                {
+                  "label": "Sõidustiil",
+                  "value": "Park"
+                },
+                {
+                  "label": "Soovitatav vanus",
+                  "value": "15+"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "2 aastat"
+                },
+                {
+                  "label": "Kokkupanek",
+                  "value": "Osaliselt kokkupandud"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Multicolor ja must",
+        "color_code": "#000000",
+        "source_price": 155.0,
+        "price": 420,
+        "discounted_price": 410,
+        "stock": 10,
+        "images": [
+          "/products/blunt-complete-kos-s7-charge-trikitoukeratas-1.png",
+          "/products/blunt-complete-kos-s7-charge-trikitoukeratas-2.png",
+          "/products/blunt-complete-kos-s7-charge-trikitoukeratas-3.png",
+          "/products/blunt-complete-kos-s7-charge-trikitoukeratas-4.png",
+          "/products/blunt-complete-kos-s7-charge-trikitoukeratas-5.png",
+          "/products/blunt-complete-kos-s7-charge-trikitoukeratas-6.jpg",
+          "/products/blunt-complete-kos-s7-charge-trikitoukeratas-7.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "blunt-colt-s5",
+    "class": "complete-scooters",
+    "category": ["Tõuksid", "Kesktase", "Park"],
+    "brand": "Blunt",
+    "tags": ["Complete", "IHC", "Kerge"],
+    "video": "https://www.youtube.com/embed/u5W1_OJEhLQ?si=FO1gCvFqq9qcxZ9l",
+    "variants": [
+      {
+        "id": "blunt-colt-s5-sinine",
+        "name": "Blunt Colt S5 - Sinine",
+        "description": [
+          "Blunt Colt S5 Blue on silmapaistev sinine trikitõukeratas, mis on loodud spetsiaalselt algajatele ja kesktasemel sõitjatele. See on osa uuest COLT S5 seeriast, mis ühendab Prodigy seeria kvaliteetsed komponendid taskukohasema hinnaga. Erksinise värviga tõukeratas on ideaalne valik noortele entusiastidele, kes soovivad arendada oma oskusi skeidipargis ja teha esimesi tõsisemaid trikke.",
+          "Colt S5 on varustatud vastupidava 495 mm × 120 mm dekiga, millel on Peg-cut disain ja nailonist detailid ees ning taga, tagades pikema kasutusea. 4130 Cromoly terasest Prodigy lenks (580 mm kõrge, 520 mm lai) pakub suuremat vastupidavust võrreldes tavaliste alumiiniumlenksdega, olles samas piisavalt kerge mugavaks käsitsemiseks. 110 mm Diamond rattad (86A kõvadus) on ideaalsed algajatele, pakkudes head haarduvust ja kontrolli.",
+          "Tõukeratta kogukõrgus 840 mm ja 82,5° headtube nurk on optimeeritud noortele sõitjatele, tagades parema manööverdamisvõime ja kontrolli. P2 Chromoly IHC kahvel ja standardne 2-poldiga alumiiniumklamber loovad tugeva konstruktsiooni, mis peab vastu ka intensiivsele kasutusele. 160 mm pikad TPR käepidemed pakuvad mugavat haaret ja kõrgkvaliteetne 2-osaline griptape tagab hea haarduvuse. Kaaludes 3,74 kg on see tõukeratas piisavalt kerge, et noored sõitjad saaksid seda hõlpsalt käsitseda ja arendada oma trikisõidu oskusi. Blunt Colt S5 Blue on suurepärane esimene tõsine trikitõukeratas või täiendus algajale, kes soovib liikuda järgmisele tasemele."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Blunt Colt S5 sinine mudel on osa uuest COLT S5 tõukerataste seeriast, mis on disainitud kasutades kvaliteetseid Prodigy seeria komponente, kuid soodsamal hinnatasemel. See trikitõukeratas on ideaalne algajatele ja kesktasemel sõitjatele, kes soovivad arendada oma oskusi skeidipargis. Erksinine värv annab tõukerattale silmapaistva ja energilise välimuse."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3,74 kg"
+                },
+                {
+                  "label": "Jalaruumi laius",
+                  "value": "350 mm"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "840 mm"
+                },
+                {
+                  "label": "Kogupikkus",
+                  "value": "680 mm"
+                },
+                {
+                  "label": "Deki pikkus",
+                  "value": "19,5 tolli (495 mm)"
+                },
+                {
+                  "label": "Deki laius",
+                  "value": "4,7 tolli (120 mm)"
+                },
+                {
+                  "label": "Deki vorm",
+                  "value": "Peg-cut, ees ja taga nailonist detailid"
+                },
+                {
+                  "label": "Lenksu materjal",
+                  "value": "4130 Cromoly teras (Prodigy seeria)"
+                },
+                {
+                  "label": "Lenksu kõrgus",
+                  "value": "580 mm"
+                },
+                {
+                  "label": "Lenksu laius",
+                  "value": "520 mm"
+                },
+                {
+                  "label": "Lenksu väline läbimõõt",
+                  "value": "31,8 mm"
+                },
+                {
+                  "label": "Gripid",
+                  "value": "160 mm pikad TPR käepidemed nailonist lenksu otsikutega"
+                },
+                {
+                  "label": "Klamber",
+                  "value": "2 poldiga 6061 standardne alumiiniumklamber, 6 mm poldid"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "32,34 mm"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "P2 Chromoly IHC, sobib kuni 30 mm × 125 mm ratastega"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermeta (non-threaded)"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "110 mm Diamond, 24 mm laiad, 86A PU"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "82,5°"
+                },
+                {
+                  "label": "Pidur",
+                  "value": "Nailonist pealekruvitav, 5 mm poldiga"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Griptape",
+                  "value": "Kõrgkvaliteetne 2-osaline"
+                },
+                {
+                  "label": "Kokkusurumissüsteem",
+                  "value": "IHC (Internal Hidden Compression)"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Sinine"
+                },
+                {
+                  "label": "Sõidustiil",
+                  "value": "Park"
+                },
+                {
+                  "label": "Soovitatav vanus",
+                  "value": "11-13+"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "2 aastat"
+                },
+                {
+                  "label": "Kokkupanek",
+                  "value": "Osaliselt kokkupandud"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Sinine",
+        "color_code": "#0000FF",
+        "source_price": 72.0,
+        "price": 200,
+        "discounted_price": 190,
+        "stock": 99,
+        "images": [
+          "/products/blunt-complete-colt-s5-blue-trikitoukeratas-1.png",
+          "/products/blunt-complete-colt-s5-blue-trikitoukeratas-2.png",
+          "/products/blunt-complete-colt-s5-blue-trikitoukeratas-3.png",
+          "/products/blunt-complete-colt-s5-blue-trikitoukeratas-4.png",
+          "/products/blunt-complete-colt-s5-blue-trikitoukeratas-5.png"
+        ]
+      },
+      {
+        "id": "blunt-colt-s5-roheline",
+        "name": "Blunt Colt S5 - Roheline",
+        "description": [
+          "Blunt Colt S5 Green on erkroheline trikitõukeratas, mis on loodud algajatele ja kesktasemel sõitjatele. See kuulub COLT S5 seeriasse, mis kombineerib Prodigy seeria kvaliteetsed komponendid taskukohasema hinnaga, tehes sellest ideaalse valiku noortele entusiastidele.",
+          "Tõukeratas on varustatud Peg-cut disainiga dekiga, vastupidava Cromoly terasest lenksuga ja 110 mm Diamond ratastega, mis tagavad hea kontrolli ja stabiilsuse parkisõidul. Silmapaistev roheline värv lisab isikupära ja energilist välimust.",
+          "Soovitatav 11-13+ vanuses sõitjatele, pakub Colt S5 piisavalt vastupidavust ja stabiilsust, et arendada oskusi ja õppida uusi trikke. Kaaludes vaid 3,74 kg on see tõukeratas kergesti käsitsetav ka nooremate sõitjate poolt, tehes sellest suurepärase esimese tõsise trikitõukeratta."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Blunt Colt S5 roheline mudel on osa uuest COLT S5 tõukerataste seeriast, mis on disainitud kasutades kvaliteetseid Prodigy seeria komponente, kuid soodsamal hinnatasemel. See trikitõukeratas on ideaalne algajatele ja kesktasemel sõitjatele, kes soovivad arendada oma oskusi skeidipargis. Erkroheline värv annab tõukerattale silmapaistva ja energilise välimuse."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3,74 kg"
+                },
+                {
+                  "label": "Jalaruumi laius",
+                  "value": "350 mm"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "840 mm"
+                },
+                {
+                  "label": "Kogupikkus",
+                  "value": "680 mm"
+                },
+                {
+                  "label": "Deki pikkus",
+                  "value": "19,5 tolli (495 mm)"
+                },
+                {
+                  "label": "Deki laius",
+                  "value": "4,7 tolli (120 mm)"
+                },
+                {
+                  "label": "Deki vorm",
+                  "value": "Peg-cut, ees ja taga nailonist detailid"
+                },
+                {
+                  "label": "Lenksu materjal",
+                  "value": "4130 Cromoly teras (Prodigy seeria)"
+                },
+                {
+                  "label": "Lenksu kõrgus",
+                  "value": "580 mm"
+                },
+                {
+                  "label": "Lenksu laius",
+                  "value": "520 mm"
+                },
+                {
+                  "label": "Lenksu väline läbimõõt",
+                  "value": "31,8 mm"
+                },
+                {
+                  "label": "Gripid",
+                  "value": "160 mm pikad TPR käepidemed nailonist lenksu otsikutega"
+                },
+                {
+                  "label": "Klamber",
+                  "value": "2 poldiga 6061 standardne alumiiniumklamber, 6 mm poldid"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "32,34 mm"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "P2 Chromoly IHC, sobib kuni 30 mm × 125 mm ratastega"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermeta (non-threaded)"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "110 mm Diamond, 24 mm laiad, 86A PU"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "82,5°"
+                },
+                {
+                  "label": "Pidur",
+                  "value": "Nailonist pealekruvitav, 5 mm poldiga"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Griptape",
+                  "value": "Kõrgkvaliteetne 2-osaline"
+                },
+                {
+                  "label": "Kokkusurumissüsteem",
+                  "value": "IHC (Internal Hidden Compression)"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Roheline"
+                },
+                {
+                  "label": "Sõidustiil",
+                  "value": "Park"
+                },
+                {
+                  "label": "Soovitatav vanus",
+                  "value": "11-13+"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "2 aastat"
+                },
+                {
+                  "label": "Kokkupanek",
+                  "value": "Osaliselt kokkupandud"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Roheline",
+        "color_code": "#00FF00",
+        "source_price": 81.0,
+        "price": 200,
+        "discounted_price": 190,
+        "stock": 99,
+        "images": [
+          "/products/blunt-complete-colt-s5-green-trikitoukeratas-1.png",
+          "/products/blunt-complete-colt-s5-green-trikitoukeratas-2.png",
+          "/products/blunt-complete-colt-s5-green-trikitoukeratas-3.png",
+          "/products/blunt-complete-colt-s5-green-trikitoukeratas-4.png",
+          "/products/blunt-complete-colt-s5-green-trikitoukeratas-5.png",
+          "/products/blunt-complete-colt-s5-green-trikitoukeratas-6.png"
+        ]
+      }
+    ]
   }
 ]
