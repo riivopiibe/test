@@ -2922,7 +2922,7 @@
                 },
                 {
                   "label": "Juhtraud",
-                  "value": "Odyssey alumiiniumist 24" x 22" (600 mm x 560 mm)"
+                  "value": "Odyssey alumiiniumist 24' x 22' (600 mm x 560 mm)"
                 },
                 {
                   "label": "Kompressioonisüsteem",
@@ -3045,11 +3045,11 @@
               "main": [
                 {
                   "label": "Decki mõõdud",
-                  "value": "4,8" x 19,5" (122 mm x 495 mm)"
+                  "value": "4,8' x 19,5' (122 mm x 495 mm)"
                 },
                 {
                   "label": "Juhtraud",
-                  "value": "Odyssey alumiiniumist 24" x 22" (600 mm x 560 mm)"
+                  "value": "Odyssey alumiiniumist 24' x 22' (600 mm x 560 mm)"
                 },
                 {
                   "label": "Kompressioonisüsteem",
@@ -3168,7 +3168,7 @@
         "name": "AZTEK Siren - Black",
         "description": [
           "Tutvustame AZTEK Siren täiskomplektse trikitõukeratta uusimat versiooni.",
-          "See on varustatud uute Architect 2 XL (115 x 30 mm) ratastega, Siren 6" x 22" (150 x 558 mm) deckega, 27" x 24" chromoly juhtrauaga ja sepistatud keermestamata kahvliga.",
+          "See on varustatud uute Architect 2 XL (115 x 30 mm) ratastega, Siren 6' x 22' (150 x 558 mm) deckega, 27' x 24' chromoly juhtrauaga ja sepistatud keermestamata kahvliga.",
           "AZTEK Siren must mudel on ideaalne valik edasijõudnud sõitjatele, kes otsivad kvaliteetset, vastupidavat ja suurepärase juhitavusega tõukeratast pargi sõidustiili jaoks."
         ],
         "specifications": [
@@ -3182,11 +3182,11 @@
               "main": [
                 {
                   "label": "Decki mõõdud",
-                  "value": "6,0" x 22" (150 mm x 558 mm)"
+                  "value": "6,0' x 22' (150 mm x 558 mm)"
                 },
                 {
                   "label": "Juhtraud",
-                  "value": "Chromoly 27" x 24" (680 mm x 610 mm)"
+                  "value": "Chromoly 27' x 24' (680 mm x 610 mm)"
                 },
                 {
                   "label": "Kompressioonisüsteem",
@@ -3291,7 +3291,7 @@
         "name": "AZTEK Siren - Gray",
         "description": [
           "Tutvustame AZTEK Siren täiskomplektse trikitõukeratta uusimat versiooni halliks värvitud disainiga.",
-          "See on varustatud eriliste Architect 2 XL (115 x 30 mm) ratastega, ruumika Siren 6" x 22" (150 x 558 mm) deckega, vastupidava 27" x 24" chromoly juhtrauaga ja kvaliteetse sepistatud keermestamata kahvliga.",
+          "See on varustatud eriliste Architect 2 XL (115 x 30 mm) ratastega, ruumika Siren 6' x 22' (150 x 558 mm) deckega, vastupidava 27' x 24' chromoly juhtrauaga ja kvaliteetse sepistatud keermestamata kahvliga.",
           "AZTEK Siren hall mudel on suurepärane valik tõsistele trikisõitjatele, kes hindavad tipptasemel komponente, avaramat sõiduplatvormi ja elegantset halli värvitooni."
         ],
         "specifications": [
@@ -3305,11 +3305,11 @@
               "main": [
                 {
                   "label": "Decki mõõdud",
-                  "value": "6,0" x 22" (150 mm x 558 mm)"
+                  "value": "6,0' x 22' (150 mm x 558 mm)"
                 },
                 {
                   "label": "Juhtraud",
-                  "value": "Chromoly 27" x 24" (680 mm x 610 mm)"
+                  "value": "Chromoly 27' x 24' (680 mm x 610 mm)"
                 },
                 {
                   "label": "Kompressioonisüsteem",
@@ -3414,7 +3414,7 @@
         "name": "AZTEK Siren - Zircon Sand",
         "description": [
           "Tutvustame AZTEK Siren täiskomplektset trikitõukeratast eksklusiivselt Zircon Sand värvitooniga.",
-          "See on varustatud laiade Architect 2 XL (115 x 30 mm) ratastega, avarama 6" x 22" (15,2 cm x 55,8 cm) Siren deckega, kõrge 27" x 24" 4130 Chromoly juhtrauaga ja kvaliteetse sepistatud alumiiniumkahvliga.",
+          "See on varustatud laiade Architect 2 XL (115 x 30 mm) ratastega, avarama 6' x 22' (15,2 cm x 55,8 cm) Siren deckega, kõrge 27' x 24' 4130 Chromoly juhtrauaga ja kvaliteetse sepistatud alumiiniumkahvliga.",
           "AZTEK Siren Zircon Sand on mõeldud nõudlikule sõitjale, kes hindab nii välimust kui ka funktsionaalsust. GFR nailonist peg-sisendid lisavad vastupidavust pikemaks kasutusajaks."
         ],
         "specifications": [
@@ -3428,7 +3428,7 @@
               "main": [
                 {
                   "label": "Decki mõõdud",
-                  "value": "6,0" x 22" (15,2 cm x 55,8 cm)"
+                  "value": "6,0' x 22' (15,2 cm x 55,8 cm)"
                 },
                 {
                   "label": "Peg-sisendid",
@@ -3436,7 +3436,7 @@
                 },
                 {
                   "label": "Juhtraud",
-                  "value": "27" x 24" 4130 Chromoly (68 cm x 61 cm, koos SCS kõrgusega)"
+                  "value": "27' x 24' 4130 Chromoly (68 cm x 61 cm, koos SCS kõrgusega)"
                 },
                 {
                   "label": "Kompressioonisüsteem",
