@@ -674,5 +674,153 @@
         ]
       }
     ]
+  },
+  {
+    "id": "blunt-prodigy-x",
+    "class": "complete-scooters",
+    "category": ["Tõuksid", "Pro tase", "Street"],
+    "brand": "Blunt",
+    "tags": ["tire", "durable", "12inch"],
+    "video": "https://www.youtube.com/embed/4Jeq18Nkbp8?si=CDXPUsfgF_cgjZyE",
+    "variants": [
+      {
+        "id": "blunt-prodigy-x-street-must",
+        "name": "Blunt Prodigy X Street - Must",
+        "description": [
+          "Blunt Prodigy X Street Black on spetsiaalselt tänavasõiduks disainitud trikitõukeratas, mis eristub tavalisest Prodigy X seeriast mitmete oluliste täiustuste poolest. See 2023. aasta mudel on loodud pakkuma maksimaalset jõudlust ja vastupidavust karmides linnatingimustes. Elegantne matt-must viimistlus annab tõukerattale professionaalse ja ajatu välimuse, mis sobib igasugusesse linnamaastikku.",
+          "Erinevalt standardsest Prodigy mudelist on Street versioon varustatud tugevama Cromoly terasest lenksuga ja Box-cut disainiga dekiga, mis pakuvad suuremat tugevust ja kontrolli käsipuude, treppide ja muude linnaobjektide ületamisel. Täiustatud SCS kompressioonisüsteem (Standard Compression System) tagab parema stabiilsuse ja tugevuse võrreldes tavapärase IHC süsteemiga, mis on eriti oluline tänavasõidu karmides tingimustes.",
+          "Prodigy X Street säilitab siiski mitmeid Prodigy seeria tugevusi, nagu innovaatiline Extech ekstrusioonitehnoloogia, mis tagab dekile madalama profiili ja laiemad siseseinad. SECTOR 120 mm × 26 mm rattad (86A kõvadus) on ideaalsed tänavasõiduks, pakkudes head haarduvust erinevatel pindadel. 83° headtube nurk ja 900 mm kogukõrgus on optimeeritud tänavasõiduks, pakkudes paremat manööverdamisvõimet kitsastes kohtades. See must tänavasõidu tõukeratas on mõeldud 15+ vanuses sõitjatele, kes soovivad oma oskusi linnakeskkonnas viia uuele tasemele."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Blunt Prodigy X Street 2023 on spetsiaalselt tänavasõiduks loodud must trikitõukeratas, mis erineb standardsest Prodigy X mudelist oma Box-cut deki disaini ja täiendatud omaduste poolest. Kümnes põlvkond Prodigy seeriast on täiustatud tänavasõidu jaoks optimeeritud komponentidega, pakkudes suuremat vastupidavust ja kontrolli linnamaastikul. Cromoly terasest lenks ja SCS kompressioonisüsteem tagavad maksimaalse tugevuse ja stabiilsuse keerulistes oludes."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3,265 kg"
+                },
+                {
+                  "label": "Deck",
+                  "value": "EXTECH ekstrusioon, 127 mm lai ja 495 mm pikk"
+                },
+                {
+                  "label": "Jalaruumi laius",
+                  "value": "345 mm"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "900 mm"
+                },
+                {
+                  "label": "Kogupikkus",
+                  "value": "690 mm"
+                },
+                {
+                  "label": "Lenksu kõrgus",
+                  "value": "620 mm"
+                },
+                {
+                  "label": "Lenksu laius",
+                  "value": "560 mm (otsikutega)"
+                },
+                {
+                  "label": "Klamber",
+                  "value": "Z Clamp Oversized 2 polti 6 mm"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "Diamond IHC"
+                },
+                {
+                  "label": "Kokkusurumissüsteem",
+                  "value": "SCS (Standard Compression System)"
+                },
+                {
+                  "label": "Headset",
+                  "value": "Low Stack Compression Cap"
+                },
+                {
+                  "label": "Gripid",
+                  "value": "TPR 160 mm"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83°"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "SECTOR 120 mm x 26 mm, PU 86A"
+                },
+                {
+                  "label": "Lenks",
+                  "value": "Cromoly teras"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Must"
+                },
+                {
+                  "label": "Sõidustiil",
+                  "value": "Street (tänav)"
+                },
+                {
+                  "label": "Tase",
+                  "value": "Keskmine kuni edasijõudnud"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "32,34 mm"
+                },
+                {
+                  "label": "Lenksu väline läbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Soovitatav vanus",
+                  "value": "15+"
+                },
+                {
+                  "label": "Deki vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "2 aastat"
+                },
+                {
+                  "label": "Kokkupanek",
+                  "value": "Osaliselt kokkupandud"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Must",
+        "color_code": "#000000",
+        "source_price": 120.0,
+        "price": 249,
+        "discounted_price": 239,
+        "stock": 0,
+        "images": [
+          "/products/blunt-complete-prodigy-x-street-black-trikitoukeratas-1.jpg",
+          "/products/blunt-complete-prodigy-x-street-black-trikitoukeratas-2.jpg",
+          "/products/blunt-complete-prodigy-x-street-black-trikitoukeratas-3.jpg",
+          "/products/blunt-complete-prodigy-x-street-black-trikitoukeratas-4.jpg",
+          "/products/blunt-complete-prodigy-x-street-black-trikitoukeratas-5.jpg",
+          "/products/blunt-complete-prodigy-x-street-black-trikitoukeratas-6.jpg",
+          "/products/blunt-complete-prodigy-x-street-black-trikitoukeratas-7.jpg",
+          "/products/blunt-complete-prodigy-x-street-black-trikitoukeratas-8.jpg"
+        ]
+      }
+    ]
   }
 ]
