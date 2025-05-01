@@ -6100,6 +6100,10 @@
         ],
         "color": "Kroomsininine",
         "color_code": "#4F7CAC",
+        "source_price": 110.0,
+        "price": 239,
+        "discounted_price": 229,
+        "stock": 99,
         "images": [
           "/products/drone-kai-saunders-saundezy-signature-element-trikitoukeratas-alumiinium-110mm-kroomsininine-1.jpg",
           "/products/drone-kai-saunders-saundezy-signature-element-trikitoukeratas-alumiinium-110mm-kroomsininine-2.jpg",
@@ -6225,6 +6229,10 @@
         ],
         "color": "Kroom",
         "color_code": "#000000",
+        "source_price": 110.0,
+        "price": 239,
+        "discounted_price": 229,
+        "stock": 99,
         "images": [
           "/products/drone-kai-saunders-saundezy-signature-element-trikitoukeratas-alumiinium-110mm-kroom-1.png",
           "/products/drone-kai-saunders-saundezy-signature-element-trikitoukeratas-alumiinium-110mm-kroom-2.jpg",
@@ -6346,6 +6354,10 @@
         ],
         "color": "Must",
         "color_code": "#000000",
+        "source_price": 110.0,
+        "price": 239,
+        "discounted_price": 229,
+        "stock": 99,
         "images": [
           "/products/drone-kai-saunders-saundezy-signature-element-trikitoukeratas-alumiinium-110mm-must-1.png",
           "/products/drone-kai-saunders-saundezy-signature-element-trikitoukeratas-alumiinium-110mm-must-2.jpg",
@@ -6485,6 +6497,10 @@
         ],
         "color": "Must",
         "color_code": "#000000",
+        "source_price": 110.0,
+        "price": 239,
+        "discounted_price": 229,
+        "stock": 99,
         "images": [
           "/products/drone-kai-saunders-saundezy-signature-nexus-trikitoukeratas-chromoly-110mm-must-1.jpg",
           "/products/drone-kai-saunders-saundezy-signature-nexus-trikitoukeratas-chromoly-110mm-must-2.jpg",
