@@ -10015,5 +10015,305 @@
         ]
       }
     ]
+  },
+  {
+    "id": "grit-elite-5-trikitoukeratas",
+    "class": "complete-scooters",
+    "category": ["Komplektsed", "Algaja tase", "Kesktase", "Tõukerattad"],
+    "brand": "Grit",
+    "tags": ["trikitõukeratas", "110mm", "alumiinium", "HIC", "park", "algaja", "5-tolline"],
+    "video": "",
+    "variants": [
+      {
+        "id": "grit-elite-5-trikitoukeratas-kollane-must",
+        "name": "Grit Elite 5 - Kollane & Must",
+        "description": [
+          "Grit Elite 5 Pro trikitõukeratas on ideaalne valik kesktaseme ja algajatele sõitjatele, kes soovivad arendada oma oskusi. See on varustatud 5-tollise (12,7 cm) laiuse dekiga, mis sobib mitmesuguste sõidustiilide jaoks.",
+          "Tõukeratas on valmistatud kergetest ja vastupidavatest materjalidest, mis muudab selle juhtimise ja kontrollimise lihtsaks. Teised omadused hõlmavad 110mm rattaid ABEC-9 laagritega, nailonpidurit ja kvaliteetseid 160mm pikkuseid käepidemeid.",
+          "Kollase ja musta värvi kombinatsioon annab tõukerattale silmapaistva ja energilise välimuse, mis kindlasti tõmbab tähelepanu igas skatepargis."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Grit Elite 5 Kollane & Must on täiskomplektne trikitõukeratas, mis on mõeldud algajatele ja kesktaseme sõitjatele. Selle 5-tolline (12,7 cm) lai dekk on ideaalne mitmesuguste sõidustiilide jaoks, pakkudes suurepärast stabiilsust ja kontrolli. Kergekaaluline ja vastupidav konstruktsioon koos 110mm rataste ja ABEC-9 laagritega tagab sujuva sõidukogemuse. Kollase ja musta värvi kombinatsioon annab tõukerattale silmapaistva ja energilise välimuse."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "4000 g"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "49,5 cm (19.5')"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "12,7 cm (5')"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "620 mm (24.4')"
+                },
+                {
+                  "label": "Juhtraua laius",
+                  "value": "560 mm (22')"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "35 mm (Oversized)"
+                },
+                {
+                  "label": "Juhtraua siseläbimõõt",
+                  "value": "32 mm"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "HIC"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Kroommolübdeenteras 4130"
+                },
+                {
+                  "label": "Rataste kõvadus",
+                  "value": "88A"
+                },
+                {
+                  "label": "Rataste rummu laius",
+                  "value": "24 mm"
+                },
+                {
+                  "label": "Südamiku materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Keskosa mudel",
+                  "value": "Kodaratega"
+                },
+                {
+                  "label": "Võlli läbimõõt",
+                  "value": "8 mm"
+                },
+                {
+                  "label": "Laagri klassifikatsioon",
+                  "value": "ABEC-9"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "87,5 cm (34.4')"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Kollane & Must"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Decki vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Decki mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Kahvli mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Juhtraua kuju",
+                  "value": "Y-kujuline"
+                },
+                {
+                  "label": "Headset tüüp",
+                  "value": "Integreeritud 1 1/8""
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Oskustase",
+                  "value": "Algaja, Kesktase"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex Fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Kollane & Must",
+        "color_code": "#FFFF00",
+        "source_price": 299.90,
+        "price": 299.90,
+        "discounted_price": null,
+        "stock": 13,
+        "images": [
+          "/products/grit-elite-5-trikitoukeratas-kollane-must-110mm-alumiinium-hic-1.png",
+          "/products/grit-elite-5-trikitoukeratas-kollane-must-110mm-alumiinium-hic-2.png",
+          "/products/grit-elite-5-trikitoukeratas-kollane-must-110mm-alumiinium-hic-3.png"
+        ]
+      },
+      {
+        "id": "grit-elite-5-trikitoukeratas-must",
+        "name": "Grit Elite 5 - Must",
+        "description": [
+          "Grit Elite 5 Pro trikitõukeratas on ideaalne valik kesktaseme ja algajatele sõitjatele, kes soovivad arendada oma oskusi. See on varustatud 5-tollise (12,7 cm) laiuse dekiga, mis sobib mitmesuguste sõidustiilide jaoks.",
+          "Tõukeratas on valmistatud kergetest ja vastupidavatest materjalidest, mis muudab selle juhtimise ja kontrollimise lihtsaks. Teised omadused hõlmavad 110mm rattaid ABEC-9 laagritega, nailonpidurit ja kvaliteetseid 160mm pikkuseid käepidemeid.",
+          "Elegantne must värv annab tõukerattale klassikalise ja ajatu välimuse, mis sobib igasuguse sõidustiiliga ning säilitab oma esteetilise väärtuse pika aja jooksul."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Grit Elite 5 Must on täiskomplektne trikitõukeratas, mis on mõeldud algajatele ja kesktaseme sõitjatele. Selle 5-tolline (12,7 cm) lai dekk on ideaalne mitmesuguste sõidustiilide jaoks, pakkudes suurepärast stabiilsust ja kontrolli. Kergekaaluline ja vastupidav konstruktsioon koos 110mm rataste ja ABEC-9 laagritega tagab sujuva sõidukogemuse. Klassikaline must värv annab tõukerattale elegantse ja ajatu välimuse."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "4000 g"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "49,5 cm (19.5')"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "12,7 cm (5')"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "620 mm (24.4')"
+                },
+                {
+                  "label": "Juhtraua laius",
+                  "value": "560 mm (22')"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "35 mm (Oversized)"
+                },
+                {
+                  "label": "Juhtraua siseläbimõõt",
+                  "value": "32 mm"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "HIC"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Kroommolübdeenteras 4130"
+                },
+                {
+                  "label": "Rataste kõvadus",
+                  "value": "88A"
+                },
+                {
+                  "label": "Rataste rummu laius",
+                  "value": "24 mm"
+                },
+                {
+                  "label": "Südamiku materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Keskosa mudel",
+                  "value": "Kodaratega"
+                },
+                {
+                  "label": "Võlli läbimõõt",
+                  "value": "8 mm"
+                },
+                {
+                  "label": "Laagri klassifikatsioon",
+                  "value": "ABEC-9"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "87,5 cm (34.4')"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Must"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Decki vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Decki mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Kahvli mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Juhtraua kuju",
+                  "value": "Y-kujuline"
+                },
+                {
+                  "label": "Headset tüüp",
+                  "value": "Integreeritud 1 1/8""
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Oskustase",
+                  "value": "Algaja, Kesktase"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex Fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Must",
+        "color_code": "#000000",
+        "source_price": 299.90,
+        "price": 299.90,
+        "discounted_price": null,
+        "stock": 13,
+        "images": [
+          "/products/grit-elite-5-trikitoukeratas-must-110mm-alumiinium-hic-1.png",
+          "/products/grit-elite-5-trikitoukeratas-must-110mm-alumiinium-hic-2.png",
+          "/products/grit-elite-5-trikitoukeratas-must-110mm-alumiinium-hic-3.png"
+        ]
+      }
+    ]
   }
 ]
