@@ -9214,5 +9214,806 @@
         ]
       }
     ]
+  },
+  {
+    "id": "longway-metro-trikitoukeratas",
+    "class": "complete-scooters",
+    "category": ["Komplektsed", "Kesktase", "Tõukerattad"],
+    "brand": "Longway",
+    "tags": ["trikitõukeratas", "110mm", "alumiinium", "IHC", "park", "tänav"],
+    "video": "",
+    "variants": [
+      {
+        "id": "longway-metro-trikitoukeratas-must",
+        "name": "Longway Metro - Must",
+        "description": [
+          "Metro mudel on tugev versioon trikitõukerattast, mis on mõeldud nii tänava- kui ka skatepargi trikkideks. Pikema õhus viibimise aja saavutamiseks on juhtraud valmistatud kergekaalulisest alumiiniumist.",
+          "IHC kompressioonisüsteem on lihtsasti hooldatav ja tagab sujuva pöörlemise. Alumiiniumist kodaratega südamikuga rattad pakuvad head vastupidavust ja kiirust.",
+          "Box-cut disainiga deki väljalõiked annavad tõukerattale modernse välimuse ja suurendavad vastupidavust, samal ajal kui kerge kaal (vaid 3384 g) võimaldab sooritada keerukaid trikke."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Longway Metro Must on kesktaseme trikitõukeratas, mis on loodud spetsiaalselt nii tänava- kui ka skatepargi sõidustiili jaoks. Selle 6000 seeria alumiiniumist konstruktsioon tagab vastupidavuse ja kerge kaalu (vaid 3384 g), mis võimaldab sooritada keerukaid trikke. Y-kujuline juhtraud ja box-cut disainiga dekk annavad tõukerattale kaasaegse välimuse ja suurendavad jõudlust."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3384 g"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "50 cm (19.7')"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "11 cm (4.3')"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "550 mm (21.7')"
+                },
+                {
+                  "label": "Juhtraua laius",
+                  "value": "550 mm (21.7')"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "35 mm (Oversized)"
+                },
+                {
+                  "label": "Juhtraua siseläbimõõt",
+                  "value": "28 mm"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "IHC"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Alumiinium 6061"
+                },
+                {
+                  "label": "Rataste kõvadus",
+                  "value": "88A"
+                },
+                {
+                  "label": "Rataste profiil",
+                  "value": "Ümar"
+                },
+                {
+                  "label": "Rataste rummu laius",
+                  "value": "24 mm"
+                },
+                {
+                  "label": "Südamiku materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Keskosa mudel",
+                  "value": "Kodaratega"
+                },
+                {
+                  "label": "Võlli läbimõõt",
+                  "value": "8 mm"
+                },
+                {
+                  "label": "Laagri klassifikatsioon",
+                  "value": "ABEC-9"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "79 cm (31.1')"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Must"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "6000 seeria alumiinium"
+                },
+                {
+                  "label": "Decki vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Decki mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Kahvli mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Juhtraua kuju",
+                  "value": "Y-kujuline"
+                },
+                {
+                  "label": "Headset tüüp",
+                  "value": "Integreeritud 1 1/8""
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Oskustase",
+                  "value": "Kesktase"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "82,5°"
+                },
+                {
+                  "label": "Tagasikaare",
+                  "value": "Ei"
+                },
+                {
+                  "label": "Maksimaalne sõitja kaal",
+                  "value": "100 kg"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex Fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Must",
+        "color_code": "#000000",
+        "source_price": 299.90,
+        "price": 299.90,
+        "discounted_price": null,
+        "stock": 13,
+        "images": [
+          "/products/longway-metro-trikitoukeratas-must-110mm-alumiinium-ihc-1.png",
+          "/products/longway-metro-trikitoukeratas-must-110mm-alumiinium-ihc-2.png",
+          "/products/longway-metro-trikitoukeratas-must-110mm-alumiinium-ihc-3.png"
+        ]
+      },
+      {
+        "id": "longway-metro-trikitoukeratas-kuld",
+        "name": "Longway Metro - Kuld",
+        "description": [
+          "Metro mudel on tugev versioon trikitõukerattast, mis on mõeldud nii tänava- kui ka skatepargi trikkideks. Pikema õhus viibimise aja saavutamiseks on juhtraud valmistatud kergekaalulisest alumiiniumist.",
+          "IHC kompressioonisüsteem on lihtsasti hooldatav ja tagab sujuva pöörlemise. Alumiiniumist kodaratega südamikuga rattad pakuvad head vastupidavust ja kiirust.",
+          "Luksuslik kuldne viimistlus lisab tõukerattale preemium välimuse ja silmapaistvust, mis kindlasti tõmbab tähelepanu igas skatepargis ning väljendab sõitja individuaalset stiili."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Longway Metro Kuld on kesktaseme trikitõukeratas, mis on loodud spetsiaalselt nii tänava- kui ka skatepargi sõidustiili jaoks. Selle 6000 seeria alumiiniumist konstruktsioon tagab vastupidavuse ja kerge kaalu (vaid 3384 g), mis võimaldab sooritada keerukaid trikke. Y-kujuline juhtraud ja box-cut disainiga dekk annavad tõukerattale kaasaegse välimuse, samas kui luksuslik kuldne viimistlus lisab preemium ilmet."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3384 g"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "50 cm (19.7')"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "11 cm (4.3')"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "550 mm (21.7')"
+                },
+                {
+                  "label": "Juhtraua laius",
+                  "value": "550 mm (21.7')"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "35 mm (Oversized)"
+                },
+                {
+                  "label": "Juhtraua siseläbimõõt",
+                  "value": "28 mm"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "IHC"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Alumiinium 6061"
+                },
+                {
+                  "label": "Rataste kõvadus",
+                  "value": "88A"
+                },
+                {
+                  "label": "Rataste profiil",
+                  "value": "Ümar"
+                },
+                {
+                  "label": "Rataste rummu laius",
+                  "value": "24 mm"
+                },
+                {
+                  "label": "Südamiku materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Keskosa mudel",
+                  "value": "Kodaratega"
+                },
+                {
+                  "label": "Võlli läbimõõt",
+                  "value": "8 mm"
+                },
+                {
+                  "label": "Laagri klassifikatsioon",
+                  "value": "ABEC-9"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "79 cm (31.1')"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Kuld"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "6000 seeria alumiinium"
+                },
+                {
+                  "label": "Decki vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Decki mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Kahvli mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Juhtraua kuju",
+                  "value": "Y-kujuline"
+                },
+                {
+                  "label": "Headset tüüp",
+                  "value": "Integreeritud 1 1/8""
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Oskustase",
+                  "value": "Kesktase"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "82,5°"
+                },
+                {
+                  "label": "Tagasikaare",
+                  "value": "Ei"
+                },
+                {
+                  "label": "Maksimaalne sõitja kaal",
+                  "value": "100 kg"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex Fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Kuld",
+        "color_code": "#D4AF37",
+        "source_price": 299.90,
+        "price": 299.90,
+        "discounted_price": null,
+        "stock": 13,
+        "images": [
+          "/products/longway-metro-trikitoukeratas-kuld-110mm-alumiinium-ihc-1.png",
+          "/products/longway-metro-trikitoukeratas-kuld-110mm-alumiinium-ihc-2.png",
+          "/products/longway-metro-trikitoukeratas-kuld-110mm-alumiinium-ihc-3.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "crisp-inception-trikitoukeratas",
+    "class": "complete-scooters",
+    "category": ["Komplektsed", "Kesktase", "Tõukerattad"],
+    "brand": "Crisp",
+    "tags": ["trikitõukeratas", "110mm", "kroommolübdeen", "IHC", "park"],
+    "video": "",
+    "variants": [
+      {
+        "id": "crisp-inception-trikitoukeratas-kuld-pragunemine",
+        "name": "Crisp Inception - Kuld Pragunemine",
+        "description": [
+          "Inception mudel on tugevam versioon skatepargi jaoks loodud tõukerattast. Vastupidav kroommolübdeenterasest 4130 raam on suurepärane valik neile, kes soovivad sooritada suuremaid trikke.",
+          "IHC kompressioonisüsteem on lihtsasti hooldatav ja tagab sujuva pöörlemise. Alumiiniumist kodaratega südamikuga rattad pakuvad head vastupidavust ja kiirust.",
+          "Kitsas ja pargisõiduks orienteeritud deck koos peg-cut disainiga pakub head manööverdamisvõimet ja võimaldab sooritada mitmesuguseid trikke, samas kui unikaalne kuldne pragunemise disain annab tõukerattale silmapaistva välimuse."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Crisp Inception Kuld Pragunemine on kesktaseme trikitõukeratas, mis on loodud spetsiaalselt skatepargi sõidustiili jaoks. Selle kroommolübdeenterasest 4130 konstruktsioon tagab vastupidavuse, pakkudes suurepärast jõudlust ja kontrolli. Unikaalne kuldse pragunemise disain annab tõukerattale silmapaistva välimuse, mis kindlasti tõmbab tähelepanu igas skatepargis."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "4000 g"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "49,5 cm (19.5')"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "12,2 cm (4.8')"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "560 mm (22')"
+                },
+                {
+                  "label": "Juhtraua laius",
+                  "value": "510 mm (20.1')"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "32 mm (Standard)"
+                },
+                {
+                  "label": "Juhtraua siseläbimõõt",
+                  "value": "28 mm"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "IHC"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Kroommolübdeenteras 4130"
+                },
+                {
+                  "label": "Rataste profiil",
+                  "value": "Ümar"
+                },
+                {
+                  "label": "Rataste rummu laius",
+                  "value": "24 mm"
+                },
+                {
+                  "label": "Südamiku materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Keskosa mudel",
+                  "value": "Kodaratega"
+                },
+                {
+                  "label": "Võlli läbimõõt",
+                  "value": "8 mm"
+                },
+                {
+                  "label": "Laagri klassifikatsioon",
+                  "value": "ABEC-9"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "81 cm (31.9')"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Kuld Pragunemine"
+                },
+                {
+                  "label": "Decki vorm",
+                  "value": "Peg-cut"
+                },
+                {
+                  "label": "Decki mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Kahvli mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Juhtraua kuju",
+                  "value": "T-kujuline"
+                },
+                {
+                  "label": "Headset tüüp",
+                  "value": "Integreeritud 1 1/8""
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Oskustase",
+                  "value": "Kesktase"
+                },
+                {
+                  "label": "Nõgusus",
+                  "value": "Jah"
+                },
+                {
+                  "label": "Tagasikaare",
+                  "value": "Ei"
+                },
+                {
+                  "label": "Headtube pikkus",
+                  "value": "95 mm"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex Fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Kuld Pragunemine",
+        "color_code": "#D4AF37",
+        "source_price": 299.90,
+        "price": 299.90,
+        "discounted_price": null,
+        "stock": 13,
+        "images": [
+          "/products/crisp-inception-trikitoukeratas-kuld-pragunemine-110mm-kroommolubdeen-ihc-1.png",
+          "/products/crisp-inception-trikitoukeratas-kuld-pragunemine-110mm-kroommolubdeen-ihc-2.png",
+          "/products/crisp-inception-trikitoukeratas-kuld-pragunemine-110mm-kroommolubdeen-ihc-3.png"
+        ]
+      },
+      {
+        "id": "crisp-inception-trikitoukeratas-punane-pragunemine",
+        "name": "Crisp Inception - Punane Pragunemine",
+        "description": [
+          "Inception mudel on tugevam versioon skatepargi jaoks loodud tõukerattast. Vastupidav kroommolübdeenterasest 4130 raam on suurepärane valik neile, kes soovivad sooritada suuremaid trikke.",
+          "IHC kompressioonisüsteem on lihtsasti hooldatav ja tagab sujuva pöörlemise. Alumiiniumist kodaratega südamikuga rattad pakuvad head vastupidavust ja kiirust.",
+          "Kitsas ja pargisõiduks orienteeritud deck koos peg-cut disainiga pakub head manööverdamisvõimet ja võimaldab sooritada mitmesuguseid trikke, samas kui silmapaistev punane pragunemise disain annab tõukerattale dünaamilise ja energilise välimuse."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Crisp Inception Punane Pragunemine on kesktaseme trikitõukeratas, mis on loodud spetsiaalselt skatepargi sõidustiili jaoks. Selle kroommolübdeenterasest 4130 konstruktsioon tagab vastupidavuse, pakkudes suurepärast jõudlust ja kontrolli. Silmapaistev punase pragunemise disain annab tõukerattale dünaamilise ja energilise välimuse, mis kindlasti tõmbab tähelepanu igas skatepargis."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "4000 g"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "49,5 cm (19.5')"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "12,2 cm (4.8')"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "560 mm (22')"
+                },
+                {
+                  "label": "Juhtraua laius",
+                  "value": "510 mm (20.1')"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "32 mm (Standard)"
+                },
+                {
+                  "label": "Juhtraua siseläbimõõt",
+                  "value": "28 mm"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "IHC"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Kroommolübdeenteras 4130"
+                },
+                {
+                  "label": "Rataste profiil",
+                  "value": "Ümar"
+                },
+                {
+                  "label": "Rataste rummu laius",
+                  "value": "24 mm"
+                },
+                {
+                  "label": "Südamiku materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Keskosa mudel",
+                  "value": "Kodaratega"
+                },
+                {
+                  "label": "Võlli läbimõõt",
+                  "value": "8 mm"
+                },
+                {
+                  "label": "Laagri klassifikatsioon",
+                  "value": "ABEC-9"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "81 cm (31.9')"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Punane Pragunemine"
+                },
+                {
+                  "label": "Decki vorm",
+                  "value": "Peg-cut"
+                },
+                {
+                  "label": "Decki mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Kahvli mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Juhtraua kuju",
+                  "value": "T-kujuline"
+                },
+                {
+                  "label": "Headset tüüp",
+                  "value": "Integreeritud 1 1/8""
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Oskustase",
+                  "value": "Kesktase"
+                },
+                {
+                  "label": "Nõgusus",
+                  "value": "Jah"
+                },
+                {
+                  "label": "Tagasikaare",
+                  "value": "Ei"
+                },
+                {
+                  "label": "Headtube pikkus",
+                  "value": "95 mm"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex Fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Punane Pragunemine",
+        "color_code": "#FF0000",
+        "source_price": 299.90,
+        "price": 299.90,
+        "discounted_price": null,
+        "stock": 13,
+        "images": [
+          "/products/crisp-inception-trikitoukeratas-punane-pragunemine-110mm-kroommolubdeen-ihc-1.png",
+          "/products/crisp-inception-trikitoukeratas-punane-pragunemine-110mm-kroommolubdeen-ihc-2.png",
+          "/products/crisp-inception-trikitoukeratas-punane-pragunemine-110mm-kroommolubdeen-ihc-3.png"
+        ]
+      },
+      {
+        "id": "crisp-inception-trikitoukeratas-kuld-roosa-laava",
+        "name": "Crisp Inception - Kuld/Roosa Laava",
+        "description": [
+          "Inception mudel on tugevam versioon skatepargi jaoks loodud tõukerattast. Vastupidav kroommolübdeenterasest 4130 raam on suurepärane valik neile, kes soovivad sooritada suuremaid trikke.",
+          "IHC kompressioonisüsteem on lihtsasti hooldatav ja tagab sujuva pöörlemise. Alumiiniumist kodaratega südamikuga rattad pakuvad head vastupidavust ja kiirust.",
+          "Kitsas ja pargisõiduks orienteeritud deck koos peg-cut disainiga pakub head manööverdamisvõimet ja võimaldab sooritada mitmesuguseid trikke, samas kui ainulaadne kulla ja roosa laava värvikombinatsioon loob tõeliselt silmapaistva välimuse."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Crisp Inception Kuld/Roosa Laava on kesktaseme trikitõukeratas, mis on loodud spetsiaalselt skatepargi sõidustiili jaoks. Selle kroommolübdeenterasest 4130 konstruktsioon tagab vastupidavuse, pakkudes suurepärast jõudlust ja kontrolli. Ainulaadne kulla ja roosa laava värvikombinatsioon loob tõeliselt silmapaistva välimuse, mis kindlasti eristub teistest tõukeratastest igas skatepargis."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "4000 g"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "49,5 cm (19.5')"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "12,2 cm (4.8')"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "560 mm (22')"
+                },
+                {
+                  "label": "Juhtraua laius",
+                  "value": "510 mm (20.1')"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "32 mm (Standard)"
+                },
+                {
+                  "label": "Juhtraua siseläbimõõt",
+                  "value": "28 mm"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "IHC"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Kroommolübdeenteras 4130"
+                },
+                {
+                  "label": "Rataste profiil",
+                  "value": "Ümar"
+                },
+                {
+                  "label": "Rataste rummu laius",
+                  "value": "24 mm"
+                },
+                {
+                  "label": "Südamiku materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Keskosa mudel",
+                  "value": "Kodaratega"
+                },
+                {
+                  "label": "Võlli läbimõõt",
+                  "value": "8 mm"
+                },
+                {
+                  "label": "Laagri klassifikatsioon",
+                  "value": "ABEC-9"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "81 cm (31.9')"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Kuld/Roosa Laava"
+                },
+                {
+                  "label": "Decki vorm",
+                  "value": "Peg-cut"
+                },
+                {
+                  "label": "Decki mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Kahvli mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Juhtraua kuju",
+                  "value": "T-kujuline"
+                },
+                {
+                  "label": "Headset tüüp",
+                  "value": "Integreeritud 1 1/8""
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Oskustase",
+                  "value": "Kesktase"
+                },
+                {
+                  "label": "Nõgusus",
+                  "value": "Jah"
+                },
+                {
+                  "label": "Tagasikaare",
+                  "value": "Ei"
+                },
+                {
+                  "label": "Headtube pikkus",
+                  "value": "95 mm"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex Fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Kuld/Roosa Laava",
+        "color_code": "#FFD700",
+        "source_price": 299.90,
+        "price": 299.90,
+        "discounted_price": null,
+        "stock": 13,
+        "images": [
+          "/products/crisp-inception-trikitoukeratas-kuld-roosa-laava-110mm-kroommolubdeen-ihc-1.png",
+          "/products/crisp-inception-trikitoukeratas-kuld-roosa-laava-110mm-kroommolubdeen-ihc-2.png",
+          "/products/crisp-inception-trikitoukeratas-kuld-roosa-laava-110mm-kroommolubdeen-ihc-3.png"
+        ]
+      }
+    ]
   }
 ]
