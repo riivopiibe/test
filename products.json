@@ -8652,7 +8652,7 @@
                 },
                 {
                   "label": "Headset tüüp",
-                  "value": "Integreeritud 1 1/8""
+                  "value": "Integreeritud 1 1/8'"
                 },
                 {
                   "label": "Oskustase",
@@ -8753,7 +8753,7 @@
                 },
                 {
                   "label": "Headset tüüp",
-                  "value": "Integreeritud 1 1/8""
+                  "value": "Integreeritud 1 1/8'"
                 },
                 {
                   "label": "Oskustase",
@@ -8854,7 +8854,7 @@
                 },
                 {
                   "label": "Headset tüüp",
-                  "value": "Integreeritud 1 1/8""
+                  "value": "Integreeritud 1 1/8'"
                 },
                 {
                   "label": "Oskustase",
@@ -8955,7 +8955,7 @@
                 },
                 {
                   "label": "Headset tüüp",
-                  "value": "Integreeritud 1 1/8""
+                  "value": "Integreeritud 1 1/8'"
                 },
                 {
                   "label": "Oskustase",
@@ -8983,6 +8983,234 @@
           "/products/crisp-surge-pro-trikitoukeratas-voimsus-roosa-110mm-alumiinium-hic-1.png",
           "/products/crisp-surge-pro-trikitoukeratas-voimsus-roosa-110mm-alumiinium-hic-2.png",
           "/products/crisp-surge-pro-trikitoukeratas-voimsus-roosa-110mm-alumiinium-hic-3.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grit-elite-xm-trikitoukeratas",
+    "class": "complete-scooters",
+    "category": ["Komplektsed", "Algaja tase", "Kesktase", "Tõukerattad"],
+    "brand": "Grit",
+    "tags": ["trikitõukeratas", "110mm", "alumiinium", "HIC", "park", "algaja"],
+    "video": "",
+    "variants": [
+      {
+        "id": "grit-elite-xm-trikitoukeratas-metallik-must",
+        "name": "Grit Elite XM - Metallik Must",
+        "description": [
+          "Grit Elite XM Pro trikitõukeratas on välja töötatud koostöös maailma parimate noorte sõitjatega. Nüüd täiustatud alumiiniumist kahvliga varustatud Elite XM pakub erakordset sõidukogemust kohe karbist välja võttes. Tänu ideaalselt tasakaalustatud konstruktsioonile on see tõukeratas valmis domineerima nii tänavatel kui ka skateparkides.",
+          "Elite XM-il on vastupidav ja kerge konstruktsioon, mis teeb sellest lemmiku nii algajate kui ka kesktaseme sõitjate seas. Koge paremat kontrolli ja stabiilsust suurte 110mm rataste ja pehmete ABEC-9 laagritega, mis tagavad mugava sõidu igal ajal.",
+          "Metallik musta värvi elegantne viimistlus annab tõukerattale professionaalse välimuse, mis on tõeline pilgupüüdja igas skatepargis."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Grit Elite XM Metallik Must on täiskomplektne trikitõukeratas, mis on loodud koostöös maailma parimate noorte sõitjatega. See on ideaalne valik algajatele ja kesktaseme sõitjatele, pakkudes suurepäraseid omadusi professionaalsel tasemel. Uue mudeli täiustused hõlmavad alumiiniumist kahvlit, kerget klambrit ja uuendatud dual multi-spoke rattaid. Lisaks lisab avatud headtube stiili ja funktsionaalsust."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3500 g"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "49,5 cm (19.5')"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "12,2 cm (4.8')"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "514 mm (20.25')"
+                },
+                {
+                  "label": "Juhtraua laius",
+                  "value": "530 mm (20.9')"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "HIC"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Hi-Ten teras"
+                },
+                {
+                  "label": "Rataste kõvadus",
+                  "value": "88A"
+                },
+                {
+                  "label": "Rataste rummu laius",
+                  "value": "24 mm"
+                },
+                {
+                  "label": "Südamiku materjal",
+                  "value": "Sulam"
+                },
+                {
+                  "label": "Laagri klassifikatsioon",
+                  "value": "ABEC-9"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "77 cm (30.3')"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Metallik Must"
+                },
+                {
+                  "label": "Decki vorm",
+                  "value": "Peg-cut"
+                },
+                {
+                  "label": "Headset tüüp",
+                  "value": "Integreeritud 1 1/8'"
+                },
+                {
+                  "label": "Oskustase",
+                  "value": "Algaja, Kesktase"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex Fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Metallik Must",
+        "color_code": "#2C3539",
+        "source_price": 299.90,
+        "price": 299.90,
+        "discounted_price": null,
+        "stock": 13,
+        "images": [
+          "/products/grit-elite-xm-trikitoukeratas-metallik-must-110mm-alumiinium-hic-1.png",
+          "/products/grit-elite-xm-trikitoukeratas-metallik-must-110mm-alumiinium-hic-2.png",
+          "/products/grit-elite-xm-trikitoukeratas-metallik-must-110mm-alumiinium-hic-3.png"
+        ]
+      },
+      {
+        "id": "grit-elite-xm-trikitoukeratas-neokroom",
+        "name": "Grit Elite XM - Neokroom",
+        "description": [
+          "Grit Elite XM Pro trikitõukeratas on välja töötatud koostöös maailma parimate noorte sõitjatega. Nüüd täiustatud alumiiniumist kahvliga varustatud Elite XM pakub erakordset sõidukogemust kohe karbist välja võttes. Tänu ideaalselt tasakaalustatud konstruktsioonile on see tõukeratas valmis domineerima nii tänavatel kui ka skateparkides.",
+          "Elite XM-il on vastupidav ja kerge konstruktsioon, mis teeb sellest lemmiku nii algajate kui ka kesktaseme sõitjate seas. Koge paremat kontrolli ja stabiilsust suurte 110mm rataste ja pehmete ABEC-9 laagritega, mis tagavad mugava sõidu igal ajal.",
+          "Neokroomi viimistlus loob tõukerattale ainulaadse vikerkaarevärvilise efekti, mis muutub sõltuvalt valgusest ja vaatenurgast, pakkudes tõeliselt silmapaistvat välimust."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Grit Elite XM Neokroom on täiskomplektne trikitõukeratas, mis on loodud koostöös maailma parimate noorte sõitjatega. See on ideaalne valik algajatele ja kesktaseme sõitjatele, pakkudes suurepäraseid omadusi professionaalsel tasemel. Uue mudeli täiustused hõlmavad alumiiniumist kahvlit, kerget klambrit ja uuendatud dual multi-spoke rattaid. Neokroomi viimistlus loob tõukerattale ainulaadse vikerkaarevärvilise efekti, mis kindlasti tõmbab tähelepanu."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3500 g"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "49,5 cm (19.5')"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "12,2 cm (4.8')"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "514 mm (20.25')"
+                },
+                {
+                  "label": "Juhtraua laius",
+                  "value": "530 mm (20.9')"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "HIC"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Hi-Ten teras"
+                },
+                {
+                  "label": "Rataste kõvadus",
+                  "value": "88A"
+                },
+                {
+                  "label": "Rataste rummu laius",
+                  "value": "24 mm"
+                },
+                {
+                  "label": "Südamiku materjal",
+                  "value": "Sulam"
+                },
+                {
+                  "label": "Laagri klassifikatsioon",
+                  "value": "ABEC-9"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "77 cm (30.3')"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Neokroom"
+                },
+                {
+                  "label": "Decki vorm",
+                  "value": "Peg-cut"
+                },
+                {
+                  "label": "Headset tüüp",
+                  "value": "Integreeritud 1 1/8'"
+                },
+                {
+                  "label": "Oskustase",
+                  "value": "Algaja, Kesktase"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex Fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Neokroom",
+        "color_code": "#9966CC",
+        "source_price": 299.90,
+        "price": 299.90,
+        "discounted_price": null,
+        "stock": 13,
+        "images": [
+          "/products/grit-elite-xm-trikitoukeratas-neokroom-110mm-alumiinium-hic-1.png",
+          "/products/grit-elite-xm-trikitoukeratas-neokroom-110mm-alumiinium-hic-2.png",
+          "/products/grit-elite-xm-trikitoukeratas-neokroom-110mm-alumiinium-hic-3.png"
         ]
       }
     ]
