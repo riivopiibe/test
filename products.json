@@ -7692,5 +7692,861 @@
         ]
       }
     ]
+  },
+  {
+    "id": "revolution-supply-storm-trikitoukeratas",
+    "class": "complete-scooters",
+    "category": ["Komplektsed", "Kesktase", "Tõukerattad"],
+    "brand": "Revolution Supply",
+    "tags": ["trikitõukeratas", "110mm", "kroommolübdeen", "IHC", "park", "kerge"],
+    "video": "",
+    "variants": [
+      {
+        "id": "revolution-supply-storm-trikitoukeratas-must",
+        "name": "Revolution Supply Storm - Must",
+        "description": [
+          "Storm seeria on tugevam versioon skatepargi jaoks loodud tõukerattast. Vastupidav kroommolübdeenterasest 4130 raam on suurepärane valik neile, kes soovivad sooritada suuremaid trikke.",
+          "IHC kompressioonisüsteem on lihtsasti hooldatav ja tagab sujuva pöörlemise. Alumiiniumist õõnsa südamikuga rattad muudavad sõidu kiiremaks ja sujuvamaks.",
+          "Kitsas ja pargisõiduks orienteeritud deck koos peg-cut disainiga pakub head manööverdamisvõimet ja võimaldab sooritada mitmesuguseid trikke."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Revolution Supply Storm Must on kesktaseme trikitõukeratas, mis on loodud spetsiaalselt skatepargi sõidustiili jaoks. Selle kroommolübdeenterasest konstruktsioon tagab vastupidavuse, samas kui kerge kaal (vaid 3200 g) võimaldab sooritada keerukaid trikke. Musta värvi elegantne välimus sobib igale sõitjale."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3200 g"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "49,5 cm (19,5 tolli)"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "12 cm (4,72 tolli)"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "580 mm (22,8 tolli)"
+                },
+                {
+                  "label": "Juhtraua laius",
+                  "value": "550 mm (21,7 tolli)"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "32 mm (Standard)"
+                },
+                {
+                  "label": "Juhtraua siseläbimõõt",
+                  "value": "28 mm"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "IHC"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Kroommolübdeenteras 4130"
+                },
+                {
+                  "label": "Rataste kõvadus",
+                  "value": "88A"
+                },
+                {
+                  "label": "Rataste profiil",
+                  "value": "Ümar"
+                },
+                {
+                  "label": "Rataste rummu laius",
+                  "value": "24 mm"
+                },
+                {
+                  "label": "Südamiku materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Keskosa mudel",
+                  "value": "Õõnes"
+                },
+                {
+                  "label": "Võlli läbimõõt",
+                  "value": "8 mm"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "82 cm (32,3 tolli)"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Must"
+                },
+                {
+                  "label": "Decki vorm",
+                  "value": "Peg-cut"
+                },
+                {
+                  "label": "Decki mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Kahvli mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Juhtraua kuju",
+                  "value": "T-kujuline"
+                },
+                {
+                  "label": "Headset tüüp",
+                  "value": "Integreeritud 1 1/8""
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Oskustase",
+                  "value": "Kesktase"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "82,5°"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex Fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Must",
+        "color_code": "#000000",
+        "images": [
+          "/products/revolution-supply-storm-trikitoukeratas-must-110mm-kroommolubdeen-ihc-1.png",
+          "/products/revolution-supply-storm-trikitoukeratas-must-110mm-kroommolubdeen-ihc-2.png",
+          "/products/revolution-supply-storm-trikitoukeratas-must-110mm-kroommolubdeen-ihc-3.png"
+        ]
+      },
+      {
+        "id": "revolution-supply-storm-trikitoukeratas-sinine-kroom",
+        "name": "Revolution Supply Storm - Sinine Kroom",
+        "description": [
+          "Storm seeria on tugevam versioon skatepargi jaoks loodud tõukerattast. Vastupidav kroommolübdeenterasest 4130 raam on suurepärane valik neile, kes soovivad sooritada suuremaid trikke.",
+          "IHC kompressioonisüsteem on lihtsasti hooldatav ja tagab sujuva pöörlemise. Alumiiniumist õõnsa südamikuga rattad muudavad sõidu kiiremaks ja sujuvamaks.",
+          "Sinise kroomi värvitoonis tõukeratas paistab silma oma unikaalse välimuse poolest, pakkudes stiilset alternatiivi tavapärastele värvidele."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Revolution Supply Storm Sinine Kroom on kesktaseme trikitõukeratas, mis on loodud spetsiaalselt skatepargi sõidustiili jaoks. Selle kroommolübdeenterasest konstruktsioon tagab vastupidavuse, samas kui kerge kaal (vaid 3200 g) võimaldab sooritada keerukaid trikke. Silmatorkav sinise kroomi viimistlus annab tõukerattale unikaalse ja pilkupüüdva välimuse."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3200 g"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "49,5 cm (19,5 tolli)"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "12 cm (4,72 tolli)"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "580 mm (22,8 tolli)"
+                },
+                {
+                  "label": "Juhtraua laius",
+                  "value": "550 mm (21,7 tolli)"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "32 mm (Standard)"
+                },
+                {
+                  "label": "Juhtraua siseläbimõõt",
+                  "value": "28 mm"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "IHC"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Kroommolübdeenteras 4130"
+                },
+                {
+                  "label": "Rataste kõvadus",
+                  "value": "88A"
+                },
+                {
+                  "label": "Rataste profiil",
+                  "value": "Ümar"
+                },
+                {
+                  "label": "Rataste rummu laius",
+                  "value": "24 mm"
+                },
+                {
+                  "label": "Südamiku materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Keskosa mudel",
+                  "value": "Õõnes"
+                },
+                {
+                  "label": "Võlli läbimõõt",
+                  "value": "8 mm"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "82 cm (32,3 tolli)"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Sinine Kroom"
+                },
+                {
+                  "label": "Decki vorm",
+                  "value": "Peg-cut"
+                },
+                {
+                  "label": "Decki mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Kahvli mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Juhtraua kuju",
+                  "value": "T-kujuline"
+                },
+                {
+                  "label": "Headset tüüp",
+                  "value": "Integreeritud 1 1/8""
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Oskustase",
+                  "value": "Kesktase"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "82,5°"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex Fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Sinine Kroom",
+        "color_code": "#4169E1",
+        "images": [
+          "/products/revolution-supply-storm-trikitoukeratas-sinine-kroom-110mm-kroommolubdeen-ihc-1.png",
+          "/products/revolution-supply-storm-trikitoukeratas-sinine-kroom-110mm-kroommolubdeen-ihc-2.png",
+          "/products/revolution-supply-storm-trikitoukeratas-sinine-kroom-110mm-kroommolubdeen-ihc-3.png"
+        ]
+      },
+      {
+        "id": "revolution-supply-storm-trikitoukeratas-kuldne-kroom",
+        "name": "Revolution Supply Storm - Kuldne Kroom",
+        "description": [
+          "Storm seeria on tugevam versioon skatepargi jaoks loodud tõukerattast. Vastupidav kroommolübdeenterasest 4130 raam on suurepärane valik neile, kes soovivad sooritada suuremaid trikke.",
+          "IHC kompressioonisüsteem on lihtsasti hooldatav ja tagab sujuva pöörlemise. Alumiiniumist õõnsa südamikuga rattad muudavad sõidu kiiremaks ja sujuvamaks.",
+          "Luksuslik kuldse kroomi viimistlus annab tõukerattale preemium välimuse, mis kindlasti tõmbab tähelepanu skatepargis."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Revolution Supply Storm Kuldne Kroom on kesktaseme trikitõukeratas, mis on loodud spetsiaalselt skatepargi sõidustiili jaoks. Selle kroommolübdeenterasest konstruktsioon tagab vastupidavuse, samas kui kerge kaal (vaid 3200 g) võimaldab sooritada keerukaid trikke. Luksuslik kuldse kroomi viimistlus annab tõukerattale preemium välimuse, mis kindlasti tõmbab tähelepanu skatepargis."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3200 g"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "49,5 cm (19,5 tolli)"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "12 cm (4,72 tolli)"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "580 mm (22,8 tolli)"
+                },
+                {
+                  "label": "Juhtraua laius",
+                  "value": "550 mm (21,7 tolli)"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "32 mm (Standard)"
+                },
+                {
+                  "label": "Juhtraua siseläbimõõt",
+                  "value": "28 mm"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "IHC"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Kroommolübdeenteras 4130"
+                },
+                {
+                  "label": "Rataste kõvadus",
+                  "value": "88A"
+                },
+                {
+                  "label": "Rataste profiil",
+                  "value": "Ümar"
+                },
+                {
+                  "label": "Rataste rummu laius",
+                  "value": "24 mm"
+                },
+                {
+                  "label": "Südamiku materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Keskosa mudel",
+                  "value": "Õõnes"
+                },
+                {
+                  "label": "Võlli läbimõõt",
+                  "value": "8 mm"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "82 cm (32,3 tolli)"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Kuldne Kroom"
+                },
+                {
+                  "label": "Decki vorm",
+                  "value": "Peg-cut"
+                },
+                {
+                  "label": "Decki mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Kahvli mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Juhtraua kuju",
+                  "value": "T-kujuline"
+                },
+                {
+                  "label": "Headset tüüp",
+                  "value": "Integreeritud 1 1/8""
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Oskustase",
+                  "value": "Kesktase"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "82,5°"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex Fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Kuldne Kroom",
+        "color_code": "#D4AF37",
+        "images": [
+          "/products/revolution-supply-storm-trikitoukeratas-kuldne-kroom-110mm-kroommolubdeen-ihc-1.png",
+          "/products/revolution-supply-storm-trikitoukeratas-kuldne-kroom-110mm-kroommolubdeen-ihc-2.png",
+          "/products/revolution-supply-storm-trikitoukeratas-kuldne-kroom-110mm-kroommolubdeen-ihc-3.png"
+        ]
+      },
+      {
+        "id": "revolution-supply-storm-trikitoukeratas-neokroom",
+        "name": "Revolution Supply Storm - Neokroom",
+        "description": [
+          "Storm seeria on tugevam versioon skatepargi jaoks loodud tõukerattast. Vastupidav kroommolübdeenterasest 4130 raam on suurepärane valik neile, kes soovivad sooritada suuremaid trikke.",
+          "IHC kompressioonisüsteem on lihtsasti hooldatav ja tagab sujuva pöörlemise. Alumiiniumist õõnsa südamikuga rattad muudavad sõidu kiiremaks ja sujuvamaks.",
+          "Neokroomi viimistlus loob tõukerattale ainulaadse vikerkaarevärvilise efekti, mis muutub sõltuvalt valgusest ja vaatenurgast, pakkudes tõeliselt silmapaistvat välimust."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Revolution Supply Storm Neokroom on kesktaseme trikitõukeratas, mis on loodud spetsiaalselt skatepargi sõidustiili jaoks. Selle kroommolübdeenterasest konstruktsioon tagab vastupidavuse, samas kui kerge kaal (vaid 3200 g) võimaldab sooritada keerukaid trikke. Neokroomi viimistlus loob tõukerattale ainulaadse vikerkaarevärvilise efekti, mis muutub sõltuvalt valgusest ja vaatenurgast."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3200 g"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "49,5 cm (19,5 tolli)"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "12 cm (4,72 tolli)"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "580 mm (22,8 tolli)"
+                },
+                {
+                  "label": "Juhtraua laius",
+                  "value": "550 mm (21,7 tolli)"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "32 mm (Standard)"
+                },
+                {
+                  "label": "Juhtraua siseläbimõõt",
+                  "value": "28 mm"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "IHC"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Kroommolübdeenteras 4130"
+                },
+                {
+                  "label": "Rataste kõvadus",
+                  "value": "88A"
+                },
+                {
+                  "label": "Rataste profiil",
+                  "value": "Ümar"
+                },
+                {
+                  "label": "Rataste rummu laius",
+                  "value": "24 mm"
+                },
+                {
+                  "label": "Südamiku materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Keskosa mudel",
+                  "value": "Õõnes"
+                },
+                {
+                  "label": "Võlli läbimõõt",
+                  "value": "8 mm"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "82 cm (32,3 tolli)"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Neokroom"
+                },
+                {
+                  "label": "Decki vorm",
+                  "value": "Peg-cut"
+                },
+                {
+                  "label": "Decki mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Kahvli mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Juhtraua kuju",
+                  "value": "T-kujuline"
+                },
+                {
+                  "label": "Headset tüüp",
+                  "value": "Integreeritud 1 1/8""
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Oskustase",
+                  "value": "Kesktase"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "82,5°"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex Fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Neokroom",
+        "color_code": "#9966CC",
+        "images": [
+          "/products/revolution-supply-storm-trikitoukeratas-neokroom-110mm-kroommolubdeen-ihc-1.png",
+          "/products/revolution-supply-storm-trikitoukeratas-neokroom-110mm-kroommolubdeen-ihc-2.png",
+          "/products/revolution-supply-storm-trikitoukeratas-neokroom-110mm-kroommolubdeen-ihc-3.png"
+        ]
+      },
+      {
+        "id": "revolution-supply-storm-trikitoukeratas-neokroom-must",
+        "name": "Revolution Supply Storm - Neokroom/Must",
+        "description": [
+          "Storm seeria on tugevam versioon skatepargi jaoks loodud tõukerattast. Vastupidav kroommolübdeenterasest 4130 raam on suurepärane valik neile, kes soovivad sooritada suuremaid trikke.",
+          "IHC kompressioonisüsteem on lihtsasti hooldatav ja tagab sujuva pöörlemise. Alumiiniumist õõnsa südamikuga rattad muudavad sõidu kiiremaks ja sujuvamaks.",
+          "Neokroomi ja musta kombinatsioon loob dünaamilise kontrasti, mis pakub modernset ja silmapaistvat välimust, säilitades samas sportliku ja professionaalse ilme."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Revolution Supply Storm Neokroom/Must on kesktaseme trikitõukeratas, mis on loodud spetsiaalselt skatepargi sõidustiili jaoks. Selle kroommolübdeenterasest konstruktsioon tagab vastupidavuse, samas kui kerge kaal (vaid 3200 g) võimaldab sooritada keerukaid trikke. Neokroomi ja musta kombinatsioon loob dünaamilise kontrasti, mis pakub modernset ja silmapaistvat välimust."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3200 g"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "49,5 cm (19,5 tolli)"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "12 cm (4,72 tolli)"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "580 mm (22,8 tolli)"
+                },
+                {
+                  "label": "Juhtraua laius",
+                  "value": "550 mm (21,7 tolli)"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "32 mm (Standard)"
+                },
+                {
+                  "label": "Juhtraua siseläbimõõt",
+                  "value": "28 mm"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "IHC"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Kroommolübdeenteras 4130"
+                },
+                {
+                  "label": "Rataste kõvadus",
+                  "value": "88A"
+                },
+                {
+                  "label": "Rataste profiil",
+                  "value": "Ümar"
+                },
+                {
+                  "label": "Rataste rummu laius",
+                  "value": "24 mm"
+                },
+                {
+                  "label": "Südamiku materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Keskosa mudel",
+                  "value": "Õõnes"
+                },
+                {
+                  "label": "Võlli läbimõõt",
+                  "value": "8 mm"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "82 cm (32,3 tolli)"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Neokroom/Must"
+                },
+                {
+                  "label": "Decki vorm",
+                  "value": "Peg-cut"
+                },
+                {
+                  "label": "Decki mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Kahvli mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Juhtraua kuju",
+                  "value": "T-kujuline"
+                },
+                {
+                  "label": "Headset tüüp",
+                  "value": "Integreeritud 1 1/8""
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Oskustase",
+                  "value": "Kesktase"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "82,5°"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex Fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Neokroom/Must",
+        "color_code": "#7D3C98",
+        "images": [
+          "/products/revolution-supply-storm-trikitoukeratas-neokroom-must-110mm-kroommolubdeen-ihc-1.png",
+          "/products/revolution-supply-storm-trikitoukeratas-neokroom-must-110mm-kroommolubdeen-ihc-2.png",
+          "/products/revolution-supply-storm-trikitoukeratas-neokroom-must-110mm-kroommolubdeen-ihc-3.png"
+        ]
+      },
+      {
+        "id": "revolution-supply-storm-trikitoukeratas-hobe",
+        "name": "Revolution Supply Storm - Hõbe",
+        "description": [
+          "Storm seeria on tugevam versioon skatepargi jaoks loodud tõukerattast. Vastupidav kroommolübdeenterasest 4130 raam on suurepärane valik neile, kes soovivad sooritada suuremaid trikke.",
+          "IHC kompressioonisüsteem on lihtsasti hooldatav ja tagab sujuva pöörlemise. Alumiiniumist õõnsa südamikuga rattad muudavad sõidu kiiremaks ja sujuvamaks.",
+          "Klassikaline hõbedane viimistlus annab tõukerattale ajatu ja universaalse välimuse, mis sobib igasuguse sõidustiiliga ning kestab visuaalselt kaua."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Revolution Supply Storm Hõbe on kesktaseme trikitõukeratas, mis on loodud spetsiaalselt skatepargi sõidustiili jaoks. Selle kroommolübdeenterasest konstruktsioon tagab vastupidavuse, samas kui kerge kaal (vaid 3200 g) võimaldab sooritada keerukaid trikke. Klassikaline hõbedane viimistlus annab tõukerattale ajatu ja universaalse välimuse."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3200 g"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "49,5 cm (19,5 tolli)"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "12 cm (4,72 tolli)"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "580 mm (22,8 tolli)"
+                },
+                {
+                  "label": "Juhtraua laius",
+                  "value": "550 mm (21,7 tolli)"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "32 mm (Standard)"
+                },
+                {
+                  "label": "Juhtraua siseläbimõõt",
+                  "value": "28 mm"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "IHC"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Kroommolübdeenteras 4130"
+                },
+                {
+                  "label": "Rataste kõvadus",
+                  "value": "88A"
+                },
+                {
+                  "label": "Rataste profiil",
+                  "value": "Ümar"
+                },
+                {
+                  "label": "Rataste rummu laius",
+                  "value": "24 mm"
+                },
+                {
+                  "label": "Südamiku materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Keskosa mudel",
+                  "value": "Õõnes"
+                },
+                {
+                  "label": "Võlli läbimõõt",
+                  "value": "8 mm"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "82 cm (32,3 tolli)"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Hõbe"
+                },
+                {
+                  "label": "Decki vorm",
+                  "value": "Peg-cut"
+                },
+                {
+                  "label": "Decki mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Kahvli mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Juhtraua kuju",
+                  "value": "T-kujuline"
+                },
+                {
+                  "label": "Headset tüüp",
+                  "value": "Integreeritud 1 1/8""
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Oskustase",
+                  "value": "Kesktase"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "82,5°"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex Fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Hõbe",
+        "color_code": "#C0C0C0",
+        "images": [
+          "/products/revolution-supply-storm-trikitoukeratas-hobe-110mm-kroommolubdeen-ihc-1.png",
+          "/products/revolution-supply-storm-trikitoukeratas-hobe-110mm-kroommolubdeen-ihc-2.png",
+          "/products/revolution-supply-storm-trikitoukeratas-hobe-110mm-kroommolubdeen-ihc-3.png"
+        ]
+      }
+    ]
   }
 ]
