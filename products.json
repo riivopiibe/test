@@ -4462,5 +4462,543 @@
         ]
       }
     ]
+  },
+  {
+    "id": "aztek-deck-coates-europa-2-7-x-23",
+    "class": "scooter-decks",
+    "category": [
+      "Jupid",
+      "Pro tase",
+      "Tald"
+    ],
+    "brand": "AZTEK",
+    "tags": [
+      "Deck",
+      "Box-cut",
+      "Pro"
+    ],
+    "video": "",
+    "variants": [
+      {
+        "id": "aztek-deck-coates-europa-2-7-x-23-black-ltd",
+        "name": "AZTEK Deck Coates Europa 2-7 x 23 - Black LTD",
+        "description": [
+          "AZTEK Coates Europa 2 on professionaalne trikitõukeratta deck, mis on loodud koostöös legendaarse sõitja Coates'iga.",
+          "See 7 x 23 (17,78 cm x 58,42 cm) mõõtmetega deck on valmistatud kvaliteetsest Chromoly terasest, pakkudes optimaalset tasakaalu tugevuse ja kaalu vahel.",
+          "Kerged alumiiniumist sisemised vahepuksid ja täielikult keevitatud CNC-töödeldud alumiiniumist jalad tagavad maksimaalse vastupidavuse ja jõudluse kõige nõudlikumates tingimustes."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "AZTEK Deck Coates Europa 2-7 x 23 Black LTD on piiratud koguses valmistatud kõrgekvaliteediline trikitõukeratta deck, mis on mõeldud edasijõudnud sõitjatele. Selle laiem konstruktsioon pakub rohkem ruumi jalgadele, võimaldades sooritada keerukamaid trikke. 84° headtube nurk tagab suurepärase manööverdamisvõime ja kontrolli pargi sõidustiilis."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Mõõdud",
+                  "value": "7 x 23 (17,78 cm x 58,42 cm)"
+                },
+                {
+                  "label": "Sisemised vahepuksid",
+                  "value": "Kerged alumiiniumist"
+                },
+                {
+                  "label": "Jalad",
+                  "value": "Täielikult keevitatud CNC-töödeldud alumiiniumist"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "84°"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Must"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Chromoly teras"
+                },
+                {
+                  "label": "Pikkus",
+                  "value": "58,4 cm"
+                },
+                {
+                  "label": "Laius",
+                  "value": "17,7 cm"
+                },
+                {
+                  "label": "Maksimaalne ratta laius",
+                  "value": "30 mm"
+                },
+                {
+                  "label": "Sobivad ratta läbimõõdud",
+                  "value": "100, 110, 115, 120, 125 mm"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Must",
+        "color_code": "#000000",
+        "source_price": 100.0,
+        "price": 219.9,
+        "discounted_price": 199.9,
+        "stock": 0,
+        "images": [
+          "/products/aztek-deck-coates-europa-2-7-x-23-black-ltd-trikitoukeratta-tald-1.jpg",
+          "/products/aztek-deck-coates-europa-2-7-x-23-black-ltd-trikitoukeratta-tald-2.jpg",
+          "/products/aztek-deck-coates-europa-2-7-x-23-black-ltd-trikitoukeratta-tald-3.jpg",
+          "/products/aztek-deck-coates-europa-2-7-x-23-black-ltd-trikitoukeratta-tald-4.jpg",
+          "/products/aztek-deck-coates-europa-2-7-x-23-black-ltd-trikitoukeratta-tald-5.jpg"
+        ]
+      },
+      {
+        "id": "aztek-coates-europa-2-7-x-23-hall",
+        "name": "AZTEK Coates Europa 2-7 X 23 - Hall",
+        "description": [
+          "Tutvustame Austin Coates'i professionaalse trikitõukeratta decki Europa täiustatud ja kergendatud versiooni.",
+          "Decki tagaosa on märkimisväärselt täiustatud, laiendades tasapinnalist pinda ning lisades sujuvad kontuurid, mis tagavad parema kontrolli grind'ide sooritamisel.",
+          "See 7' x 23' mõõtmetega deck on varustatud kergete alumiiniumist sisemiste vahepukside ja täielikult keevitatud CNC-töödeldud alumiiniumist jalgadega, pakkudes optimaalset tasakaalu vastupidavuse ja kaalu vahel."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "AZTEK Coates Europa 2-7 X 23 Hall on professionaalne trikitõukeratta deck, mis on loodud koostöös tippsõitja Austin Coates'iga. Selle kroomi värvitoonis viimistlus annab deckile kaasaegse ja elegantse välimuse. Täiustatud tagaosa disain pakub paremat kontrolli trikkide sooritamisel, muutes selle ideaalseks valikuks edasijõudnud sõitjatele, kes otsivad kõrge jõudlusega komponenti."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Mõõdud",
+                  "value": "7' x 23'"
+                },
+                {
+                  "label": "Sisemised vahepuksid",
+                  "value": "Kerged alumiiniumist"
+                },
+                {
+                  "label": "Jalad",
+                  "value": "Täielikult keevitatud CNC-töödeldud alumiiniumist"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "84°"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Kroom (hall)"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Pikkus",
+                  "value": "23'"
+                },
+                {
+                  "label": "Laius",
+                  "value": "7'"
+                },
+                {
+                  "label": "Juhtkomplekti tüüp",
+                  "value": "Integreeritud"
+                },
+                {
+                  "label": "Telje läbimõõt",
+                  "value": "8 mm"
+                },
+                {
+                  "label": "Maksimaalne ratta laius",
+                  "value": "30 mm"
+                },
+                {
+                  "label": "Sobivad ratta läbimõõdud",
+                  "value": "100, 110, 115, 120, 125 mm"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Hall",
+        "color_code": "#A9A9A9",
+        "source_price": 90.0,
+        "price": 199.9,
+        "discounted_price": 179.9,
+        "stock": 0,
+        "images": [
+          "/products/aztek-coates-europa-2-7-x-23-hall-trikitoukeratta-tald-kroom-1.png",
+          "/products/aztek-coates-europa-2-7-x-23-hall-trikitoukeratta-tald-kroom-2.png",
+          "/products/aztek-coates-europa-2-7-x-23-hall-trikitoukeratta-tald-kroom-3.png",
+          "/products/aztek-coates-europa-2-7-x-23-hall-trikitoukeratta-tald-kroom-4.png",
+          "/products/aztek-coates-europa-2-7-x-23-hall-trikitoukeratta-tald-kroom-5.png",
+          "/products/aztek-coates-europa-2-7-x-23-hall-trikitoukeratta-tald-kroom-6.png"
+        ]
+      },
+      {
+        "id": "aztek-deck-europa-2-23-black-magic",
+        "name": "AZTEK Deck Europa 2 - 23' Black Magic",
+        "description": [
+          "Vahepuksid on nüüd valmistatud CNC-töödeldud kergest alumiiniumist, mis tagab veelgi väiksema kaalu.",
+          "See on Azteki suurim deck, laiusega 7 tolli, nüüd saadaval elegantses Black Magic värvitoonis.",
+          "Täiustatud dünaamilise lihvimispinnaga, kergete alumiiniumist sisemiste vahepukside ja täielikult keevitatud CNC-töödeldud alumiiniumist jalgadega on see deck ideaalne valik professionaalsele sõitjale."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "AZTEK Deck Europa 2 - 23' Black Magic on kõrgekvaliteediline trikitõukeratta deck, mis paistab silma oma laiade mõõtmete ja silmapaistva musta viimistlusega. See on loodud pakkuma maksimaalset ruumi jalgadele ja optimaalset kontrolli trikkide sooritamisel. 84° headtube nurk tagab suurepärase manööverdamisvõime, muutes selle ideaalseks valikuks edasijõudnud sõitjatele, kes hindavad täpsust ja vastupidavust."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Mõõdud",
+                  "value": "7' x 23' (177 mm x 584 mm)"
+                },
+                {
+                  "label": "Lihvimispind",
+                  "value": "Täiustatud dünaamiline"
+                },
+                {
+                  "label": "Sisemised vahepuksid",
+                  "value": "Kerged alumiiniumist"
+                },
+                {
+                  "label": "Jalad",
+                  "value": "Täielikult keevitatud CNC-töödeldud alumiiniumist"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "84°"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Black Magic (must)"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Pikkus",
+                  "value": "58,4 cm"
+                },
+                {
+                  "label": "Laius",
+                  "value": "17,7 cm"
+                },
+                {
+                  "label": "Maksimaalne ratta laius",
+                  "value": "30 mm"
+                },
+                {
+                  "label": "Sobivad ratta läbimõõdud",
+                  "value": "100, 110, 115, 120, 125 mm"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Must",
+        "color_code": "#000000",
+        "source_price": 90.0,
+        "price": 199.9,
+        "discounted_price": 179.9,
+        "stock": 99,
+        "images": [
+          "/products/aztek-deck-europa-2-23-black-magic-trikitoukeratta-tald-must-1.jpg",
+          "/products/aztek-deck-europa-2-23-black-magic-trikitoukeratta-tald-must-2.jpg",
+          "/products/aztek-deck-europa-2-23-black-magic-trikitoukeratta-tald-must-3.jpg",
+          "/products/aztek-deck-europa-2-23-black-magic-trikitoukeratta-tald-must-4.jpg",
+          "/products/aztek-deck-europa-2-23-black-magic-trikitoukeratta-tald-must-5.jpg",
+          "/products/aztek-deck-europa-2-23-black-magic-trikitoukeratta-tald-must-6.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "aztek-deck-coates-europa-2-7-x-24",
+    "class": "scooter-decks",
+    "category": [
+      "Jupid",
+      "Pro tase",
+      "Tald"
+    ],
+    "brand": "AZTEK",
+    "tags": [
+      "Deck",
+      "Box-cut",
+      "Pro"
+    ],
+    "video": "",
+    "variants": [
+      {
+        "id": "aztek-deck-coates-europa-2-7-x-24-black-ltd",
+        "name": "AZTEK Deck Coates Europa 2-7 x 24 - Black LTD",
+        "description": [
+          "AZTEK Coates Europa 2 on professionaalne trikitõukeratta deck, mis on loodud koostöös tippsõitja Coates'iga, pakkudes pikemat 24-tollist disaini.",
+          "See 7 x 24 (178 mm x 609 mm) mõõtmetega deck on valmistatud kvaliteetsest Chromoly terasest, pakkudes suurepärast vastupidavust ja jõudlust.",
+          "Kergete alumiiniumist sisemiste vahepukside ja täielikult keevitatud CNC-töödeldud alumiiniumist jalgadega on see deck loodud kestma ka kõige intensiivsema kasutuse korral."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "AZTEK Deck Coates Europa 2-7 x 24 Black LTD on piiratud koguses valmistatud eriliselt pikk trikitõukeratta deck, mis on mõeldud professionaalsetele sõitjatele. Selle laiem ja pikem konstruktsioon pakub maksimaalset stabiilsust ja ruumi jalgadele, võimaldades sooritada kõige keerukamaid trikke. 84° headtube nurk tagab optimaalse tasakaalu kiiruse ja kontrolli vahel pargi sõidustiilis."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Mõõdud",
+                  "value": "7 x 24 (178 mm x 609 mm)"
+                },
+                {
+                  "label": "Sisemised vahepuksid",
+                  "value": "Kerged alumiiniumist"
+                },
+                {
+                  "label": "Jalad",
+                  "value": "Täielikult keevitatud CNC-töödeldud alumiiniumist"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "84°"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Must"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Chromoly teras"
+                },
+                {
+                  "label": "Pikkus",
+                  "value": "60,9 cm"
+                },
+                {
+                  "label": "Laius",
+                  "value": "17,7 cm"
+                },
+                {
+                  "label": "Maksimaalne ratta laius",
+                  "value": "30 mm"
+                },
+                {
+                  "label": "Sobivad ratta läbimõõdud",
+                  "value": "100, 110, 115, 120, 125 mm"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Must",
+        "color_code": "#000000",
+        "source_price": 100.0,
+        "price": 219.9,
+        "discounted_price": 199.9,
+        "stock": 8,
+        "images": [
+          "/products/aztek-deck-coates-europa-2-7-x-24-black-ltd-trikitoukeratta-tald-1.jpg",
+          "/products/aztek-deck-coates-europa-2-7-x-24-black-ltd-trikitoukeratta-tald-2.jpg",
+          "/products/aztek-deck-coates-europa-2-7-x-24-black-ltd-trikitoukeratta-tald-3.jpg",
+          "/products/aztek-deck-coates-europa-2-7-x-24-black-ltd-trikitoukeratta-tald-4.jpg",
+          "/products/aztek-deck-coates-europa-2-7-x-24-black-ltd-trikitoukeratta-tald-5.jpg"
+        ]
+      },
+      {
+        "id": "aztek-coates-europa-2-7-x-24-hall",
+        "name": "AZTEK Coates Europa 2-7 X 24 - Hall",
+        "description": [
+          "Tutvustame Austin Coates'i professionaalse trikitõukeratta decki Europa täiustatud ja kergendatud versiooni pikemas 24-tollises formaadis.",
+          "Decki tagaosa on märkimisväärselt täiustatud, laiendades tasapinnalist pinda ning lisades sujuvad kontuurid, mis tagavad parema kontrolli grind'ide sooritamisel.",
+          "See 7' x 24' mõõtmetega deck on varustatud kergete alumiiniumist sisemiste vahepukside ja täielikult keevitatud CNC-töödeldud alumiiniumist jalgadega, pakkudes optimaalset jõudlust ja vastupidavust."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "AZTEK Coates Europa 2-7 X 24 Hall on pikendatud professionaalne trikitõukeratta deck, mis on loodud koostöös tippsõitja Austin Coates'iga. Selle kroomi värvitoonis viimistlus annab deckile kaasaegse ja elegantse välimuse. Pikem disain pakub rohkem ruumi jalgadele ja paremat stabiilsust, muutes selle ideaalseks valikuks edasijõudnud sõitjatele, kes eelistavad avaramat sõiduplatvormi."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Mõõdud",
+                  "value": "7' x 24'"
+                },
+                {
+                  "label": "Sisemised vahepuksid",
+                  "value": "Kerged alumiiniumist"
+                },
+                {
+                  "label": "Jalad",
+                  "value": "Täielikult keevitatud CNC-töödeldud alumiiniumist"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "84°"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Kroom (hall)"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Pikkus",
+                  "value": "24'"
+                },
+                {
+                  "label": "Laius",
+                  "value": "7'"
+                },
+                {
+                  "label": "Juhtkomplekti tüüp",
+                  "value": "Integreeritud"
+                },
+                {
+                  "label": "Telje läbimõõt",
+                  "value": "8 mm"
+                },
+                {
+                  "label": "Maksimaalne ratta laius",
+                  "value": "30 mm"
+                },
+                {
+                  "label": "Sobivad ratta läbimõõdud",
+                  "value": "100, 110, 115, 120, 125 mm"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Hall",
+        "color_code": "#A9A9A9",
+        "source_price": 90.0,
+        "price": 199.9,
+        "discounted_price": 179.9,
+        "stock": 0,
+        "images": [
+          "/products/aztek-coates-europa-2-7-x-24-hall-trikitoukeratta-tald-kroom-1.png",
+          "/products/aztek-coates-europa-2-7-x-24-hall-trikitoukeratta-tald-kroom-2.png",
+          "/products/aztek-coates-europa-2-7-x-24-hall-trikitoukeratta-tald-kroom-3.png",
+          "/products/aztek-coates-europa-2-7-x-24-hall-trikitoukeratta-tald-kroom-4.png",
+          "/products/aztek-coates-europa-2-7-x-24-hall-trikitoukeratta-tald-kroom-5.png",
+          "/products/aztek-coates-europa-2-7-x-24-hall-trikitoukeratta-tald-kroom-6.png"
+        ]
+      },
+      {
+        "id": "aztek-deck-europa-2-24-black-magic",
+        "name": "AZTEK Deck Europa 2 - 24' Black Magic",
+        "description": [
+          "Vahepuksid on nüüd valmistatud CNC-töödeldud kergest alumiiniumist, mis tagab veelgi väiksema kaalu ja parema jõudluse.",
+          "See on Azteki suurim deck, laiusega 7 tolli ja ekstrapika 24-tollise disainiga, nüüd saadaval elegantses Black Magic värvitoonis.",
+          "Täiustatud dünaamilise lihvimispinna, kergete alumiiniumist sisemiste vahepukside ja täielikult keevitatud CNC-töödeldud alumiiniumist jalgadega on see deck loodud vastama kõige nõudlikumate professionaalsete sõitjate vajadustele."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "AZTEK Deck Europa 2 - 24' Black Magic on erakordselt pikk ja lai trikitõukeratta deck, mis on mõeldud edasijõudnud sõitjatele, kes otsivad maksimaalset ruumi ja stabiilsust. Selle silmapaistev must viimistlus annab deckile elegantse ja professionaalse välimuse. 84° headtube nurk tagab optimaalse tasakaalu kiiruse ja kontrolli vahel, võimaldades sooritada kõige keerukamaid trikke."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Mõõdud",
+                  "value": "7' x 24' (177 mm x 609 mm)"
+                },
+                {
+                  "label": "Lihvimispind",
+                  "value": "Täiustatud dünaamiline"
+                },
+                {
+                  "label": "Sisemised vahepuksid",
+                  "value": "Kerged alumiiniumist"
+                },
+                {
+                  "label": "Jalad",
+                  "value": "Täielikult keevitatud CNC-töödeldud alumiiniumist"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "84°"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Black Magic (must)"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Pikkus",
+                  "value": "60,9 cm"
+                },
+                {
+                  "label": "Laius",
+                  "value": "17,7 cm"
+                },
+                {
+                  "label": "Maksimaalne ratta laius",
+                  "value": "30 mm"
+                },
+                {
+                  "label": "Sobivad ratta läbimõõdud",
+                  "value": "100, 110, 115, 120, 125 mm"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Must",
+        "color_code": "#000000",
+        "source_price": 90.0,
+        "price": 199.9,
+        "discounted_price": 179.9,
+        "stock": 0,
+        "images": [
+          "/products/aztek-deck-europa-2-24-black-magic-trikitoukeratta-tald-must-pikk-1.jpg",
+          "/products/aztek-deck-europa-2-24-black-magic-trikitoukeratta-tald-must-pikk-2.jpg",
+          "/products/aztek-deck-europa-2-24-black-magic-trikitoukeratta-tald-must-pikk-3.jpg",
+          "/products/aztek-deck-europa-2-24-black-magic-trikitoukeratta-tald-must-pikk-4.jpg",
+          "/products/aztek-deck-europa-2-24-black-magic-trikitoukeratta-tald-must-pikk-5.jpg",
+          "/products/aztek-deck-europa-2-24-black-magic-trikitoukeratta-tald-must-pikk-6.jpg"
+        ]
+      }
+    ]
   }
 ]
