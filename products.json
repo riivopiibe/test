@@ -10315,5 +10315,1504 @@
         ]
       }
     ]
+  },
+  {
+    "id": "root-type-r-mini-trikitoukeratas",
+    "class": "complete-scooters",
+    "category": ["Komplektsed", "Kesktase", "Tõukerattad", "Mini"],
+    "brand": "Root",
+    "tags": ["trikitõukeratas", "110mm", "kroommolübdeen", "IHC", "park", "mini"],
+    "video": "",
+    "variants": [
+      {
+        "id": "root-type-r-mini-trikitoukeratas-must",
+        "name": "Root Type R Mini - Must",
+        "description": [
+          "Type R Mini mudel on tugev versioon skatepargi jaoks loodud tõukerattast. Vastupidav kroommolübdeenterasest 4130 raam on suurepärane valik neile, kes soovivad sooritada suuremaid trikke.",
+          "IHC kompressioonisüsteem on lihtsasti hooldatav ja tagab sujuva pöörlemise. Alumiiniumist kodaratega südamikuga rattad pakuvad head vastupidavust, samas kui lame rataste profiil tagab parema stabiilsuse.",
+          "Kitsas ja pargisõiduks orienteeritud deck koos peg-cut disainiga pakub head manööverdamisvõimet ja võimaldab sooritada mitmesuguseid trikke. Kerge kaal (vaid 3400 g) teeb sellest ideaalse tõukeratta noorematele või väiksematele sõitjatele."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Root Type R Mini Must on kesktaseme mini trikitõukeratas, mis on loodud spetsiaalselt skatepargi sõidustiili jaoks. Selle kroommolübdeenterasest 4130 konstruktsioon tagab vastupidavuse, samas kui kerge kaal (vaid 3400 g) ja kompaktsed mõõtmed teevad sellest ideaalse valiku noorematele või väiksematele sõitjatele. Klassikaline must värv annab tõukerattale elegantse ja ajatu välimuse."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3400 g"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "43 cm (17')"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "12,2 cm (4.8')"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "430 mm (17')"
+                },
+                {
+                  "label": "Juhtraua laius",
+                  "value": "500 mm (19.7')"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "32 mm (Standard)"
+                },
+                {
+                  "label": "Juhtraua siseläbimõõt",
+                  "value": "28 mm"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "IHC"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Kroommolübdeenteras 4130"
+                },
+                {
+                  "label": "Rataste profiil",
+                  "value": "Lai"
+                },
+                {
+                  "label": "Rataste rummu laius",
+                  "value": "24 mm"
+                },
+                {
+                  "label": "Südamiku materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Keskosa mudel",
+                  "value": "Kodaratega"
+                },
+                {
+                  "label": "Võlli läbimõõt",
+                  "value": "8 mm"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "69 cm (27.2')"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Must"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "6000 seeria alumiinium"
+                },
+                {
+                  "label": "Decki vorm",
+                  "value": "Peg-cut"
+                },
+                {
+                  "label": "Decki mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Kahvli mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Juhtraua kuju",
+                  "value": "Y-kujuline"
+                },
+                {
+                  "label": "Headset tüüp",
+                  "value": "Integreeritud 1 1/8""
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Oskustase",
+                  "value": "Kesktase"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "82,5°"
+                },
+                {
+                  "label": "Nõgusus",
+                  "value": "Jah"
+                },
+                {
+                  "label": "Maksimaalne sõitja kaal",
+                  "value": "100 kg"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex Fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Must",
+        "color_code": "#000000",
+        "source_price": 299.90,
+        "price": 299.90,
+        "discounted_price": null,
+        "stock": 13,
+        "images": [
+          "/products/root-type-r-mini-trikitoukeratas-must-110mm-kroommolubdeen-ihc-1.png",
+          "/products/root-type-r-mini-trikitoukeratas-must-110mm-kroommolubdeen-ihc-2.png",
+          "/products/root-type-r-mini-trikitoukeratas-must-110mm-kroommolubdeen-ihc-3.png"
+        ]
+      },
+      {
+        "id": "root-type-r-mini-trikitoukeratas-neokroom",
+        "name": "Root Type R Mini - Neokroom",
+        "description": [
+          "Type R Mini mudel on tugev versioon skatepargi jaoks loodud tõukerattast. Vastupidav kroommolübdeenterasest 4130 raam on suurepärane valik neile, kes soovivad sooritada suuremaid trikke.",
+          "IHC kompressioonisüsteem on lihtsasti hooldatav ja tagab sujuva pöörlemise. Alumiiniumist kodaratega südamikuga rattad pakuvad head vastupidavust, samas kui lame rataste profiil tagab parema stabiilsuse.",
+          "Kitsas ja pargisõiduks orienteeritud deck koos peg-cut disainiga pakub head manööverdamisvõimet ja võimaldab sooritada mitmesuguseid trikke. Neokroomi värv lisab tõukerattale unikaalset stiili ja silmapaistvust, mis on eriti populaarne nooremate sõitjate seas."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Root Type R Mini Neokroom on kesktaseme mini trikitõukeratas, mis on loodud spetsiaalselt skatepargi sõidustiili jaoks. Selle kroommolübdeenterasest 4130 konstruktsioon tagab vastupidavuse, samas kui kerge kaal (vaid 3400 g) ja kompaktsed mõõtmed teevad sellest ideaalse valiku noorematele või väiksematele sõitjatele. Silmapaistev neokroomi viimistlus loob tõukerattale ainulaadse vikerkaarevärvilise efekti, mis muutub sõltuvalt valgusest ja vaatenurgast."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3400 g"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "43 cm (17')"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "12,2 cm (4.8')"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "430 mm (17')"
+                },
+                {
+                  "label": "Juhtraua laius",
+                  "value": "500 mm (19.7')"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "32 mm (Standard)"
+                },
+                {
+                  "label": "Juhtraua siseläbimõõt",
+                  "value": "28 mm"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "IHC"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Kroommolübdeenteras 4130"
+                },
+                {
+                  "label": "Rataste profiil",
+                  "value": "Lai"
+                },
+                {
+                  "label": "Rataste rummu laius",
+                  "value": "24 mm"
+                },
+                {
+                  "label": "Südamiku materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Keskosa mudel",
+                  "value": "Kodaratega"
+                },
+                {
+                  "label": "Võlli läbimõõt",
+                  "value": "8 mm"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "69 cm (27.2')"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Neokroom"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "6000 seeria alumiinium"
+                },
+                {
+                  "label": "Decki vorm",
+                  "value": "Peg-cut"
+                },
+                {
+                  "label": "Decki mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Kahvli mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Juhtraua kuju",
+                  "value": "Y-kujuline"
+                },
+                {
+                  "label": "Headset tüüp",
+                  "value": "Integreeritud 1 1/8""
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Oskustase",
+                  "value": "Kesktase"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "82,5°"
+                },
+                {
+                  "label": "Nõgusus",
+                  "value": "Jah"
+                },
+                {
+                  "label": "Maksimaalne sõitja kaal",
+                  "value": "100 kg"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex Fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Neokroom",
+        "color_code": "#9966CC",
+        "source_price": 299.90,
+        "price": 299.90,
+        "discounted_price": null,
+        "stock": 13,
+        "images": [
+          "/products/root-type-r-mini-trikitoukeratas-neokroom-110mm-kroommolubdeen-ihc-1.png",
+          "/products/root-type-r-mini-trikitoukeratas-neokroom-110mm-kroommolubdeen-ihc-2.png",
+          "/products/root-type-r-mini-trikitoukeratas-neokroom-110mm-kroommolubdeen-ihc-3.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "root-type-r-trikitoukeratas",
+    "class": "complete-scooters",
+    "category": ["Komplektsed", "Kesktase", "Tõukerattad"],
+    "brand": "Root",
+    "tags": ["trikitõukeratas", "110mm", "kroommolübdeen", "IHC", "park"],
+    "video": "",
+    "variants": [
+      {
+        "id": "root-type-r-trikitoukeratas-punane-ambevork",
+        "name": "Root Type R - Punane Ämbevõrk",
+        "description": [
+          "Type R mudel on tugev versioon skatepargi jaoks loodud tõukerattast. Vastupidav kroommolübdeenterasest 4130 raam on suurepärane valik neile, kes soovivad sooritada suuremaid trikke.",
+          "IHC kompressioonisüsteem on lihtsasti hooldatav ja tagab sujuva pöörlemise. Alumiiniumist kodaratega südamikuga rattad pakuvad head vastupidavust, samas kui lame rataste profiil tagab parema stabiilsuse.",
+          "Kitsas ja pargisõiduks orienteeritud deck koos peg-cut disainiga pakub head manööverdamisvõimet ja võimaldab sooritada mitmesuguseid trikke. Punane ämbevõrgu disain annab tõukerattale unikaalse ja silmapaistva välimuse."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Root Type R Punane Ämbevõrk on kesktaseme trikitõukeratas, mis on loodud spetsiaalselt skatepargi sõidustiili jaoks. Selle kroommolübdeenterasest 4130 konstruktsioon tagab vastupidavuse, samas kui kerge kaal (vaid 3600 g) võimaldab sooritada keerukaid trikke. Unikaalne punane ämbevõrgu disain annab tõukerattale silmapaistva välimuse, mis kindlasti tõmbab tähelepanu igas skatepargis."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3600 g"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "50 cm (19.7')"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "12,2 cm (4.8')"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "580 mm (22.8')"
+                },
+                {
+                  "label": "Juhtraua laius",
+                  "value": "550 mm (21.7')"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "32 mm (Standard)"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "IHC"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Kroommolübdeenteras 4130"
+                },
+                {
+                  "label": "Rataste profiil",
+                  "value": "Lai"
+                },
+                {
+                  "label": "Rataste rummu laius",
+                  "value": "24 mm"
+                },
+                {
+                  "label": "Südamiku materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Keskosa mudel",
+                  "value": "Kodaratega"
+                },
+                {
+                  "label": "Võlli läbimõõt",
+                  "value": "8 mm"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "82,5 cm (32.5')"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Punane Ämbevõrk"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "6000 seeria alumiinium"
+                },
+                {
+                  "label": "Decki vorm",
+                  "value": "Peg-cut"
+                },
+                {
+                  "label": "Decki mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Kahvli mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Juhtraua kuju",
+                  "value": "Y-kujuline"
+                },
+                {
+                  "label": "Headset tüüp",
+                  "value": "Integreeritud 1 1/8""
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Oskustase",
+                  "value": "Kesktase"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "82,5°"
+                },
+                {
+                  "label": "Nõgusus",
+                  "value": "Jah"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex Fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Punane Ämbevõrk",
+        "color_code": "#FF0000",
+        "source_price": 299.90,
+        "price": 299.90,
+        "discounted_price": null,
+        "stock": 13,
+        "images": [
+          "/products/root-type-r-trikitoukeratas-punane-ambevork-110mm-kroommolubdeen-ihc-1.png",
+          "/products/root-type-r-trikitoukeratas-punane-ambevork-110mm-kroommolubdeen-ihc-2.png",
+          "/products/root-type-r-trikitoukeratas-punane-ambevork-110mm-kroommolubdeen-ihc-3.png"
+        ]
+      },
+      {
+        "id": "root-type-r-trikitoukeratas-kuld",
+        "name": "Root Type R - Kuld",
+        "description": [
+          "Type R mudel on tugev versioon skatepargi jaoks loodud tõukerattast. Vastupidav kroommolübdeenterasest 4130 raam on suurepärane valik neile, kes soovivad sooritada suuremaid trikke.",
+          "IHC kompressioonisüsteem on lihtsasti hooldatav ja tagab sujuva pöörlemise. Alumiiniumist kodaratega südamikuga rattad pakuvad head vastupidavust, samas kui lame rataste profiil tagab parema stabiilsuse.",
+          "Kitsas ja pargisõiduks orienteeritud deck koos peg-cut disainiga pakub head manööverdamisvõimet ja võimaldab sooritada mitmesuguseid trikke. Luksuslik kuldne viimistlus lisab tõukerattale preemium välimuse, mis kindlasti tõmbab tähelepanu igas skatepargis."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Root Type R Kuld on kesktaseme trikitõukeratas, mis on loodud spetsiaalselt skatepargi sõidustiili jaoks. Selle kroommolübdeenterasest 4130 konstruktsioon tagab vastupidavuse, samas kui kerge kaal (vaid 3600 g) võimaldab sooritada keerukaid trikke. Luksuslik kuldne viimistlus lisab tõukerattale preemium välimuse, mis kindlasti tõmbab tähelepanu igas skatepargis."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3600 g"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "50 cm (19.7')"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "12,2 cm (4.8')"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "580 mm (22.8')"
+                },
+                {
+                  "label": "Juhtraua laius",
+                  "value": "550 mm (21.7')"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "32 mm (Standard)"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "IHC"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Kroommolübdeenteras 4130"
+                },
+                {
+                  "label": "Rataste profiil",
+                  "value": "Lai"
+                },
+                {
+                  "label": "Rataste rummu laius",
+                  "value": "24 mm"
+                },
+                {
+                  "label": "Südamiku materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Keskosa mudel",
+                  "value": "Kodaratega"
+                },
+                {
+                  "label": "Võlli läbimõõt",
+                  "value": "8 mm"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "82,5 cm (32.5')"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Kuld"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "6000 seeria alumiinium"
+                },
+                {
+                  "label": "Decki vorm",
+                  "value": "Peg-cut"
+                },
+                {
+                  "label": "Decki mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Kahvli mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Juhtraua kuju",
+                  "value": "Y-kujuline"
+                },
+                {
+                  "label": "Headset tüüp",
+                  "value": "Integreeritud 1 1/8""
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Oskustase",
+                  "value": "Kesktase"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "82,5°"
+                },
+                {
+                  "label": "Nõgusus",
+                  "value": "Jah"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex Fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Kuld",
+        "color_code": "#D4AF37",
+        "source_price": 299.90,
+        "price": 299.90,
+        "discounted_price": null,
+        "stock": 13,
+        "images": [
+          "/products/root-type-r-trikitoukeratas-kuld-110mm-kroommolubdeen-ihc-1.png",
+          "/products/root-type-r-trikitoukeratas-kuld-110mm-kroommolubdeen-ihc-2.png",
+          "/products/root-type-r-trikitoukeratas-kuld-110mm-kroommolubdeen-ihc-3.png"
+        ]
+      },
+      {
+        "id": "root-type-r-trikitoukeratas-neokroom",
+        "name": "Root Type R - Neokroom",
+        "description": [
+          "Type R mudel on tugev versioon skatepargi jaoks loodud tõukerattast. Vastupidav kroommolübdeenterasest 4130 raam on suurepärane valik neile, kes soovivad sooritada suuremaid trikke.",
+          "IHC kompressioonisüsteem on lihtsasti hooldatav ja tagab sujuva pöörlemise. Alumiiniumist kodaratega südamikuga rattad pakuvad head vastupidavust, samas kui lame rataste profiil tagab parema stabiilsuse.",
+          "Kitsas ja pargisõiduks orienteeritud deck koos peg-cut disainiga pakub head manööverdamisvõimet ja võimaldab sooritada mitmesuguseid trikke. Neokroomi viimistlus loob tõukerattale ainulaadse vikerkaarevärvilise efekti, mis muutub sõltuvalt valgusest ja vaatenurgast."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Root Type R Neokroom on kesktaseme trikitõukeratas, mis on loodud spetsiaalselt skatepargi sõidustiili jaoks. Selle kroommolübdeenterasest 4130 konstruktsioon tagab vastupidavuse, samas kui kerge kaal (vaid 3600 g) võimaldab sooritada keerukaid trikke. Neokroomi viimistlus loob tõukerattale ainulaadse vikerkaarevärvilise efekti, mis muutub sõltuvalt valgusest ja vaatenurgast, pakkudes tõeliselt silmapaistvat välimust."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3600 g"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "50 cm (19.7')"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "12,2 cm (4.8')"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "580 mm (22.8')"
+                },
+                {
+                  "label": "Juhtraua laius",
+                  "value": "550 mm (21.7')"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "32 mm (Standard)"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "IHC"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Kroommolübdeenteras 4130"
+                },
+                {
+                  "label": "Rataste profiil",
+                  "value": "Lai"
+                },
+                {
+                  "label": "Rataste rummu laius",
+                  "value": "24 mm"
+                },
+                {
+                  "label": "Südamiku materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Keskosa mudel",
+                  "value": "Kodaratega"
+                },
+                {
+                  "label": "Võlli läbimõõt",
+                  "value": "8 mm"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "82,5 cm (32.5')"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Neokroom"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "6000 seeria alumiinium"
+                },
+                {
+                  "label": "Decki vorm",
+                  "value": "Peg-cut"
+                },
+                {
+                  "label": "Decki mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Kahvli mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Juhtraua kuju",
+                  "value": "Y-kujuline"
+                },
+                {
+                  "label": "Headset tüüp",
+                  "value": "Integreeritud 1 1/8""
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Oskustase",
+                  "value": "Kesktase"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "82,5°"
+                },
+                {
+                  "label": "Nõgusus",
+                  "value": "Jah"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex Fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Neokroom",
+        "color_code": "#9966CC",
+        "source_price": 299.90,
+        "price": 299.90,
+        "discounted_price": null,
+        "stock": 13,
+        "images": [
+          "/products/root-type-r-trikitoukeratas-neokroom-110mm-kroommolubdeen-ihc-1.png",
+          "/products/root-type-r-trikitoukeratas-neokroom-110mm-kroommolubdeen-ihc-2.png",
+          "/products/root-type-r-trikitoukeratas-neokroom-110mm-kroommolubdeen-ihc-3.png"
+        ]
+      },
+      {
+        "id": "root-type-r-trikitoukeratas-must",
+        "name": "Root Type R - Must",
+        "description": [
+          "Type R mudel on tugev versioon skatepargi jaoks loodud tõukerattast. Vastupidav kroommolübdeenterasest 4130 raam on suurepärane valik neile, kes soovivad sooritada suuremaid trikke.",
+          "IHC kompressioonisüsteem on lihtsasti hooldatav ja tagab sujuva pöörlemise. Alumiiniumist kodaratega südamikuga rattad pakuvad head vastupidavust, samas kui lame rataste profiil tagab parema stabiilsuse.",
+          "Kitsas ja pargisõiduks orienteeritud deck koos peg-cut disainiga pakub head manööverdamisvõimet ja võimaldab sooritada mitmesuguseid trikke. Elegantne must värv annab tõukerattale klassikalise ja ajatu välimuse, mis sobib igasuguse sõidustiiliga."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Root Type R Must on kesktaseme trikitõukeratas, mis on loodud spetsiaalselt skatepargi sõidustiili jaoks. Selle kroommolübdeenterasest 4130 konstruktsioon tagab vastupidavuse, samas kui kerge kaal (vaid 3600 g) võimaldab sooritada keerukaid trikke. Klassikaline must värv annab tõukerattale elegantse ja ajatu välimuse, mis sobib igasuguse sõidustiiliga."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3600 g"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "50 cm (19.7')"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "12,2 cm (4.8')"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "580 mm (22.8')"
+                },
+                {
+                  "label": "Juhtraua laius",
+                  "value": "550 mm (21.7')"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "32 mm (Standard)"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "IHC"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Kroommolübdeenteras 4130"
+                },
+                {
+                  "label": "Rataste profiil",
+                  "value": "Lai"
+                },
+                {
+                  "label": "Rataste rummu laius",
+                  "value": "24 mm"
+                },
+                {
+                  "label": "Südamiku materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Keskosa mudel",
+                  "value": "Kodaratega"
+                },
+                {
+                  "label": "Võlli läbimõõt",
+                  "value": "8 mm"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "82,5 cm (32.5')"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Must"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "6000 seeria alumiinium"
+                },
+                {
+                  "label": "Decki vorm",
+                  "value": "Peg-cut"
+                },
+                {
+                  "label": "Decki mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Kahvli mudel",
+                  "value": "Ühes tükis"
+                },
+                {
+                  "label": "Juhtraua kuju",
+                  "value": "Y-kujuline"
+                },
+                {
+                  "label": "Headset tüüp",
+                  "value": "Integreeritud 1 1/8""
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Oskustase",
+                  "value": "Kesktase"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "82,5°"
+                },
+                {
+                  "label": "Nõgusus",
+                  "value": "Jah"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex Fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Must",
+        "color_code": "#000000",
+        "source_price": 299.90,
+        "price": 299.90,
+        "discounted_price": null,
+        "stock": 13,
+        "images": [
+          "/products/root-type-r-trikitoukeratas-must-110mm-kroommolubdeen-ihc-1.png",
+          "/products/root-type-r-trikitoukeratas-must-110mm-kroommolubdeen-ihc-2.png",
+          "/products/root-type-r-trikitoukeratas-must-110mm-kroommolubdeen-ihc-3.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "core-cl1-mini-trikitoukeratas",
+    "class": "complete-scooters",
+    "category": ["Komplektsed", "Algaja tase", "Kesktase", "Tõukerattad", "Mini"],
+    "brand": "CORE",
+    "tags": ["trikitõukeratas", "110mm", "alumiinium", "IHC", "park", "mini", "lastele"],
+    "video": "",
+    "variants": [
+      {
+        "id": "core-cl1-mini-trikitoukeratas-kroom-roheline",
+        "name": "CORE CL1 Mini - Kroom Roheline",
+        "description": [
+          "CORE CL1 Mini on ideaalne noortele sõitjatele, kes soovivad oma tõukerattasõidu oskusi järgmisele tasemele viia. See on disainitud professionaalse taseme jõudlust silmas pidades, pakkudes CL1 originaalmudeliga samu kvaliteetseid omadusi, kuid väiksemas formaadis.",
+          "Tõukeratas on 90% eelkoostatud, nii et see on valmis sõitmiseks kohe karbist välja võttes. Lihtsalt paigaldage juhtraud, pingutage see ja olete valmis sõitma! Kerge 5-tollise (12,7 cm) x 17,5-tollise (44,5 cm) dekiga ja 700 mm kogukõrgusega on CL1 Mini ideaalse suurusega noorematele sõitjatele.",
+          "Kroom-rohelise värvikombinatsioon annab tõukerattale modernse ja silmapaistva välimuse, mis kindlasti tõmbab tähelepanu igas skatepargis."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "CORE CL1 Mini Kroom Roheline on mini trikitõukeratas, mis on mõeldud noortele sõitjatele. See on varustatud kvaliteetsete komponentidega, sealhulgas CORE'i kõrgekvaliteetsete käepidemete, klambri ja dekiga. Vahetatavad nailonist väljalõiked võimaldavad kohandamist, andes noortele sõitjatele paindlikkuse oma sõidustiili muutmiseks. Dekis ja klambris olevad kaalu vähendavad lõiked teevad CL1 Mini üheks kergeimaks mini tõukerattaks turul, muutes noortel sõitjatel trikkide õppimise lihtsamaks."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3000 g"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "44,5 cm (17.5')"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "12,7 cm (5')"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "470 mm (18.5')"
+                },
+                {
+                  "label": "Juhtraua laius",
+                  "value": "520 mm (20.5')"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "IHC"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Alumiinium 6061"
+                },
+                {
+                  "label": "Rataste kõvadus",
+                  "value": "88A"
+                },
+                {
+                  "label": "Rataste rummu laius",
+                  "value": "24 mm"
+                },
+                {
+                  "label": "Südamiku materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Keskosa mudel",
+                  "value": "Õõnes"
+                },
+                {
+                  "label": "Laagri klassifikatsioon",
+                  "value": "ABEC-9"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "74 cm (29.1')"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Kroom Roheline"
+                },
+                {
+                  "label": "Decki vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Headset tüüp",
+                  "value": "Integreeritud 1 1/8""
+                },
+                {
+                  "label": "Oskustase",
+                  "value": "Algaja, Kesktase"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83°"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex Fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Kroom Roheline",
+        "color_code": "#008080",
+        "source_price": 299.90,
+        "price": 299.90,
+        "discounted_price": null,
+        "stock": 13,
+        "images": [
+          "/products/core-cl1-mini-trikitoukeratas-kroom-roheline-110mm-alumiinium-ihc-1.png",
+          "/products/core-cl1-mini-trikitoukeratas-kroom-roheline-110mm-alumiinium-ihc-2.png",
+          "/products/core-cl1-mini-trikitoukeratas-kroom-roheline-110mm-alumiinium-ihc-3.png"
+        ]
+      },
+      {
+        "id": "core-cl1-mini-trikitoukeratas-must",
+        "name": "CORE CL1 Mini - Must",
+        "description": [
+          "CORE CL1 Mini on ideaalne noortele sõitjatele, kes soovivad oma tõukerattasõidu oskusi järgmisele tasemele viia. See on disainitud professionaalse taseme jõudlust silmas pidades, pakkudes CL1 originaalmudeliga samu kvaliteetseid omadusi, kuid väiksemas formaadis.",
+          "Tõukeratas on 90% eelkoostatud, nii et see on valmis sõitmiseks kohe karbist välja võttes. Lihtsalt paigaldage juhtraud, pingutage see ja olete valmis sõitma! Kerge 5-tollise (12,7 cm) x 17,5-tollise (44,5 cm) dekiga ja 700 mm kogukõrgusega on CL1 Mini ideaalse suurusega noorematele sõitjatele.",
+          "Klassikaline must värv annab tõukerattale elegantse ja ajatu välimuse, mis sobib igasuguse sõidustiiliga ning säilitab oma esteetilise väärtuse pika aja jooksul."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "CORE CL1 Mini Must on mini trikitõukeratas, mis on mõeldud noortele sõitjatele. See on varustatud kvaliteetsete komponentidega, sealhulgas CORE'i kõrgekvaliteetsete käepidemete, klambri ja dekiga. Vahetatavad nailonist väljalõiked võimaldavad kohandamist, andes noortele sõitjatele paindlikkuse oma sõidustiili muutmiseks. Dekis ja klambris olevad kaalu vähendavad lõiked teevad CL1 Mini üheks kergeimaks mini tõukerattaks turul, muutes noortel sõitjatel trikkide õppimise lihtsamaks."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3000 g"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "44,5 cm (17.5')"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "12,7 cm (5')"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "470 mm (18.5')"
+                },
+                {
+                  "label": "Juhtraua laius",
+                  "value": "520 mm (20.5')"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "IHC"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Alumiinium 6061"
+                },
+                {
+                  "label": "Rataste kõvadus",
+                  "value": "88A"
+                },
+                {
+                  "label": "Rataste rummu laius",
+                  "value": "24 mm"
+                },
+                {
+                  "label": "Südamiku materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Keskosa mudel",
+                  "value": "Õõnes"
+                },
+                {
+                  "label": "Laagri klassifikatsioon",
+                  "value": "ABEC-9"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "74 cm (29.1')"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Must"
+                },
+                {
+                  "label": "Decki vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Headset tüüp",
+                  "value": "Integreeritud 1 1/8""
+                },
+                {
+                  "label": "Oskustase",
+                  "value": "Algaja, Kesktase"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83°"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex Fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Must",
+        "color_code": "#000000",
+        "source_price": 299.90,
+        "price": 299.90,
+        "discounted_price": null,
+        "stock": 13,
+        "images": [
+          "/products/core-cl1-mini-trikitoukeratas-must-110mm-alumiinium-ihc-1.png",
+          "/products/core-cl1-mini-trikitoukeratas-must-110mm-alumiinium-ihc-2.png",
+          "/products/core-cl1-mini-trikitoukeratas-must-110mm-alumiinium-ihc-3.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "root-type-r-gt-trikitoukeratas",
+    "class": "complete-scooters",
+    "category": ["Komplektsed", "Kesktase", "Edasijõudnud", "Tõukerattad"],
+    "brand": "Root",
+    "tags": ["trikitõukeratas", "110mm", "alumiinium", "HIC", "park", "professionaalne", "kerge"],
+    "video": "",
+    "variants": [
+      {
+        "id": "root-type-r-gt-trikitoukeratas-neoon-sinine",
+        "name": "Root Type R GT - Neoon Sinine",
+        "description": [
+          "Root Industries Type R GT professionaalne trikitõukeratas on täiuslik kõrgtaseme park-tõukeratas. Kaaludes vaid 3,1 kg, on see tõukeratas oma suuruse kohta äärmiselt kerge, muutes selle juhtimise ja kontrollimise lihtsaks.",
+          "Type R GT on varustatud laia 5-tollise (12,7 cm) dekiga ja kõrgete 650 mm juhtraudadega, pakkudes rohkelt ruumi trikkide sooritamiseks. Tõukeratas on täis innovaatilisi omadusi, sealhulgas HMA alumiiniumist juhtrauad, Lotus rattad, GT kinnitus, Fractal käepidemed, Air headset ots ja külmvormitud üheosaline kahvel.",
+          "Silmapaistev neoon-sinine värv annab tõukerattale energilise ja kaasaegse välimuse, mis kindlasti tõmbab tähelepanu igas skatepargis."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Root Type R GT Neoon Sinine on professionaalne trikitõukeratas, mis on loodud kesktaseme ja edasijõudnud sõitjatele. Type R GT deck pakub rohkelt jalaruumi, vähendades väljalendamise riski. Deck on valmistatud unikaalsest magneesiumirikast 6061 lennukiklassi alumiiniumsulamist ning on uskumatult kerge, kuid tugev tänu kolme kanaliga õõnsale disainile. HMA juhtrauad on valmistatud Hi-Modulus sulamist, mis säilitab tavalise alumiiniumi kerguse, kuid on 25% tugevam."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3100 g"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "49,5 cm (19.5')"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "12,7 cm (5')"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "650 mm (25.5')"
+                },
+                {
+                  "label": "Juhtraua laius",
+                  "value": "600 mm (23.6')"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "HIC"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "High Modulus sulam"
+                },
+                {
+                  "label": "Rataste kõvadus",
+                  "value": "88A"
+                },
+                {
+                  "label": "Rataste rummu laius",
+                  "value": "24 mm"
+                },
+                {
+                  "label": "Südamiku materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Võlli läbimõõt",
+                  "value": "8 mm"
+                },
+                {
+                  "label": "Laagri klassifikatsioon",
+                  "value": "ABEC-11"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "85 cm (33.5')"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Neoon Sinine"
+                },
+                {
+                  "label": "Decki vorm",
+                  "value": "Peg-cut"
+                },
+                {
+                  "label": "Headset tüüp",
+                  "value": "Integreeritud 1 1/8""
+                },
+                {
+                  "label": "Oskustase",
+                  "value": "Kesktase, Edasijõudnud"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex Fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Neoon Sinine",
+        "color_code": "#1E90FF",
+        "source_price": 299.90,
+        "price": 299.90,
+        "discounted_price": null,
+        "stock": 13,
+        "images": [
+          "/products/root-type-r-gt-trikitoukeratas-neoon-sinine-110mm-alumiinium-hic-1.png",
+          "/products/root-type-r-gt-trikitoukeratas-neoon-sinine-110mm-alumiinium-hic-2.png",
+          "/products/root-type-r-gt-trikitoukeratas-neoon-sinine-110mm-alumiinium-hic-3.png"
+        ]
+      },
+      {
+        "id": "root-type-r-gt-trikitoukeratas-kuld",
+        "name": "Root Type R GT - Kuld",
+        "description": [
+          "Root Industries Type R GT professionaalne trikitõukeratas on täiuslik kõrgtaseme park-tõukeratas. Kaaludes vaid 3,1 kg, on see tõukeratas oma suuruse kohta äärmiselt kerge, muutes selle juhtimise ja kontrollimise lihtsaks.",
+          "Type R GT on varustatud laia 5-tollise (12,7 cm) dekiga ja kõrgete 650 mm juhtraudadega, pakkudes rohkelt ruumi trikkide sooritamiseks. Tõukeratas on täis innovaatilisi omadusi, sealhulgas HMA alumiiniumist juhtrauad, Lotus rattad, GT kinnitus, Fractal käepidemed, Air headset ots ja külmvormitud üheosaline kahvel.",
+          "Luksuslik kuldne viimistlus lisab tõukerattale preemium välimuse, mis kindlasti tõmbab tähelepanu igas skatepargis ja väljendab sõitja individuaalset stiili."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Root Type R GT Kuld on professionaalne trikitõukeratas, mis on loodud kesktaseme ja edasijõudnud sõitjatele. Type R GT deck pakub rohkelt jalaruumi, vähendades väljalendamise riski. Deck on valmistatud unikaalsest magneesiumirikast 6061 lennukiklassi alumiiniumsulamist ning on uskumatult kerge, kuid tugev tänu kolme kanaliga õõnsale disainile. Luksuslik kuldne viimistlus lisab tõukerattale preemium välimuse, mis kindlasti tõmbab tähelepanu igas skatepargis."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3100 g"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "49,5 cm (19.5')"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "12,7 cm (5')"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "650 mm (25.5')"
+                },
+                {
+                  "label": "Juhtraua laius",
+                  "value": "600 mm (23.6')"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "HIC"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "High Modulus sulam"
+                },
+                {
+                  "label": "Rataste kõvadus",
+                  "value": "88A"
+                },
+                {
+                  "label": "Rataste rummu laius",
+                  "value": "24 mm"
+                },
+                {
+                  "label": "Südamiku materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Võlli läbimõõt",
+                  "value": "8 mm"
+                },
+                {
+                  "label": "Laagri klassifikatsioon",
+                  "value": "ABEC-11"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "85 cm (33.5')"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Kuld"
+                },
+                {
+                  "label": "Decki vorm",
+                  "value": "Peg-cut"
+                },
+                {
+                  "label": "Headset tüüp",
+                  "value": "Integreeritud 1 1/8""
+                },
+                {
+                  "label": "Oskustase",
+                  "value": "Kesktase, Edasijõudnud"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex Fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Kuld",
+        "color_code": "#D4AF37",
+        "source_price": 299.90,
+        "price": 299.90,
+        "discounted_price": null,
+        "stock": 13,
+        "images": [
+          "/products/root-type-r-gt-trikitoukeratas-kuld-110mm-alumiinium-hic-1.png",
+          "/products/root-type-r-gt-trikitoukeratas-kuld-110mm-alumiinium-hic-2.png",
+          "/products/root-type-r-gt-trikitoukeratas-kuld-110mm-alumiinium-hic-3.png"
+        ]
+      },
+      {
+        "id": "root-type-r-gt-trikitoukeratas-must",
+        "name": "Root Type R GT - Must",
+        "description": [
+          "Root Industries Type R GT professionaalne trikitõukeratas on täiuslik kõrgtaseme park-tõukeratas. Kaaludes vaid 3,1 kg, on see tõukeratas oma suuruse kohta äärmiselt kerge, muutes selle juhtimise ja kontrollimise lihtsaks.",
+          "Type R GT on varustatud laia 5-tollise (12,7 cm) dekiga ja kõrgete 650 mm juhtraudadega, pakkudes rohkelt ruumi trikkide sooritamiseks. Tõukeratas on täis innovaatilisi omadusi, sealhulgas HMA alumiiniumist juhtrauad, Lotus rattad, GT kinnitus, Fractal käepidemed, Air headset ots ja külmvormitud üheosaline kahvel.",
+          "Elegantne must värv annab tõukerattale klassikalise ja ajatu välimuse, mis sobib igasuguse sõidustiiliga ning säilitab oma esteetilise väärtuse pika aja jooksul."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Root Type R GT Must on professionaalne trikitõukeratas, mis on loodud kesktaseme ja edasijõudnud sõitjatele. Type R GT deck pakub rohkelt jalaruumi, vähendades väljalendamise riski. Deck on valmistatud unikaalsest magneesiumirikast 6061 lennukiklassi alumiiniumsulamist ning on uskumatult kerge, kuid tugev tänu kolme kanaliga õõnsale disainile. Klassikaline must värv annab tõukerattale elegantse ja ajatu välimuse, mis sobib igasuguse sõidustiiliga."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3100 g"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "49,5 cm (19.5')"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "12,7 cm (5')"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "650 mm (25.5')"
+                },
+                {
+                  "label": "Juhtraua laius",
+                  "value": "600 mm (23.6')"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "HIC"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "High Modulus sulam"
+                },
+                {
+                  "label": "Rataste kõvadus",
+                  "value": "88A"
+                },
+                {
+                  "label": "Rataste rummu laius",
+                  "value": "24 mm"
+                },
+                {
+                  "label": "Südamiku materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Võlli läbimõõt",
+                  "value": "8 mm"
+                },
+                {
+                  "label": "Laagri klassifikatsioon",
+                  "value": "ABEC-11"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "85 cm (33.5')"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Must"
+                },
+                {
+                  "label": "Decki vorm",
+                  "value": "Peg-cut"
+                },
+                {
+                  "label": "Headset tüüp",
+                  "value": "Integreeritud 1 1/8""
+                },
+                {
+                  "label": "Oskustase",
+                  "value": "Kesktase, Edasijõudnud"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex Fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Must",
+        "color_code": "#000000",
+        "source_price": 299.90,
+        "price": 299.90,
+        "discounted_price": null,
+        "stock": 13,
+        "images": [
+          "/products/root-type-r-gt-trikitoukeratas-must-110mm-alumiinium-hic-1.png",
+          "/products/root-type-r-gt-trikitoukeratas-must-110mm-alumiinium-hic-2.png",
+          "/products/root-type-r-gt-trikitoukeratas-must-110mm-alumiinium-hic-3.png"
+        ]
+      }
+    ]
   }
 ]
