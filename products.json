@@ -3537,5 +3537,277 @@
         ]
       }
     ]
+  },
+  {
+    "id": "aztek-fountain",
+    "class": "complete-scooters",
+    "category": [
+      "Komplektsed",
+      "Kesktase",
+      "Tõukerattad"
+    ],
+    "brand": "AZTEK",
+    "tags": [
+      "Complete",
+      "SCS",
+      "Park"
+    ],
+    "video": "",
+    "variants": [
+      {
+        "id": "aztek-fountain-black",
+        "name": "AZTEK Fountain - Black",
+        "description": [
+          "Tutvustame AZTEK Fountain täiskomplektse trikitõukeratta uusimat versiooni.",
+          "Fountain komplektne tõukeratas on AZTEK-i kõige uuem mudel. See on varustatud 5,5" x 21" (127 mm x 533 mm) deckega, millel on täielikult ekstrudeeritud juhttoru ja massiivalumiiniumist jalad. Täiendatud 3D sepistatud alumiiniumkahvli, Apollo sulamist juhtraua ja SCS kompressiooniga sobib see tõukeratas igale vanusele.",
+          "AZTEK Fountain must mudel on ideaalne valik sõitjatele, kes otsivad universaalset ja vastupidavat trikitõukeratast pargi sõidustiili jaoks."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "AZTEK Fountain Black on mitmekülgne täiskomplektne trikitõukeratas, mis on loodud pakkuma suurepärast tasakaalu jõudluse ja vastupidavuse vahel. Selle keskmise suurusega deck ja optimaalse kõrgusega juhtraud teevad sellest ideaalse valiku nii algajatele kui ka edasijõudnud sõitjatele. Elegantne must disain annab tõukerattale klassikalise ja ajatu välimuse."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Decki mõõdud",
+                  "value": "5,5" x 21" (127 mm x 533 mm)"
+                },
+                {
+                  "label": "Jalad",
+                  "value": "Alumiiniumist sisendid"
+                },
+                {
+                  "label": "Juhtraud",
+                  "value": "Apollo sulamist 26" x 22" (660 mm x 560 mm)"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "SCS"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "3D sepistatud alumiiniumkahvel"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "Architect 2 110 mm"
+                },
+                {
+                  "label": "Käepidemed",
+                  "value": "Aztek Lite"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "89 cm"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Must"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Kasutusala",
+                  "value": "Park"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "32,34 mm"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Soovitatav vanus",
+                  "value": "13-15 aastat"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83°"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "2 aastat"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Chromoly teras"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "660 mm"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Must",
+        "color_code": "#000000",
+        "source_price": 100.0,
+        "price": 229.9,
+        "discounted_price": 209.9,
+        "stock": 26,
+        "images": [
+          "/products/aztek-fountain-black-trikitoukeratas-110mm-alumiinium-1.jpg",
+          "/products/aztek-fountain-black-trikitoukeratas-110mm-alumiinium-2.jpg",
+          "/products/aztek-fountain-black-trikitoukeratas-110mm-alumiinium-3.jpg",
+          "/products/aztek-fountain-black-trikitoukeratas-110mm-alumiinium-4.jpg",
+          "/products/aztek-fountain-black-trikitoukeratas-110mm-alumiinium-5.jpg"
+        ]
+      },
+      {
+        "id": "aztek-fountain-gray",
+        "name": "AZTEK Fountain - Gray",
+        "description": [
+          "Tutvustame AZTEK Fountain täiskomplektse trikitõukeratta uusimat versiooni halli värvitooniga.",
+          "Fountain komplektne tõukeratas on AZTEK-i kaasaegne mudel. See on varustatud 5,5" x 21" (127 mm x 533 mm) deckega, millel on täielikult ekstrudeeritud juhttoru ja vastupidavast alumiiniumist jalad. Kombineerituna 3D sepistatud alumiiniumkahvli, Apollo sulamist juhtraua ja SCS kompressioonisüsteemiga pakub see tõukeratas suurepärast jõudlust igale vanusegrupile.",
+          "AZTEK Fountain hall mudel on stiilne ja mitmekülgne valik, mis sobib suurepäraselt pargi sõidustiili harrastajatele, kes hindavad kaasaegset disaini ja kvaliteetseid komponente."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "AZTEK Fountain Gray on kõrgekvaliteediline täiskomplektne trikitõukeratas, mis paistab silma elegantse halli värvitooniga. See on loodud pakkuma ideaalset tasakaalu manööverdamisvõime ja stabiilsuse vahel. Tänu oma optimaalsetele mõõtmetele ja kaalule sobib see tõukeratas suurepäraselt nii algajatele kui ka edasijõudnud sõitjatele, võimaldades sooritada erinevaid trikke pargi keskkonnas."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Decki mõõdud",
+                  "value": "5,5" x 21" (127 mm x 533 mm)"
+                },
+                {
+                  "label": "Jalad",
+                  "value": "Alumiiniumist sisendid"
+                },
+                {
+                  "label": "Juhtraud",
+                  "value": "Apollo sulamist 26" x 22" (660 mm x 560 mm)"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "SCS"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "3D sepistatud alumiiniumkahvel"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "Architect 2 110 mm"
+                },
+                {
+                  "label": "Käepidemed",
+                  "value": "Aztek Lite"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "89 cm"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Hall"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Kasutusala",
+                  "value": "Park"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "32,34 mm"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Soovitatav vanus",
+                  "value": "13-15 aastat"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83°"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "2 aastat"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Chromoly teras"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "660 mm"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Hall",
+        "color_code": "#808080",
+        "source_price": 100.0,
+        "price": 229.9,
+        "discounted_price": 209.9,
+        "stock": 33,
+        "images": [
+          "/products/aztek-fountain-gray-trikitoukeratas-110mm-hall-kvaliteetne-1.jpg",
+          "/products/aztek-fountain-gray-trikitoukeratas-110mm-hall-kvaliteetne-2.jpg",
+          "/products/aztek-fountain-gray-trikitoukeratas-110mm-hall-kvaliteetne-3.jpg",
+          "/products/aztek-fountain-gray-trikitoukeratas-110mm-hall-kvaliteetne-4.jpg",
+          "/products/aztek-fountain-gray-trikitoukeratas-110mm-hall-kvaliteetne-5.jpg"
+        ]
+      }
+    ]
   }
 ]
