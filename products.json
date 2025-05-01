@@ -5976,5 +5976,1186 @@
         ]
       }
     ]
+  },
+  {
+    "id": "fuzion-complete-z350",
+    "class": "complete-scooters",
+    "category": [
+      "Täistõukerattad",
+      "Pro tase",
+      "Park"
+    ],
+    "brand": "FUZION",
+    "tags": [
+      "Complete",
+      "IHC",
+      "Park"
+    ],
+    "video": "https://www.youtube.com/embed/VIDEOID",
+    "variants": [
+      {
+        "id": "fuzion-complete-z350-pinnacle",
+        "name": "Fuzion Complete Z350 - Pinnacle",
+        "description": [
+          "Fuzion Z350 freestyle täistõukeratas on kahtlemata üks parimaid kõrgetasemelisi täistõukerattaid turul. Varustatud legendaarse Entropy dekiga, alumiiniumist juhtrauaga, IHC kahvliga ja 110mm hollowcore ratastega on Fuzion Z350 täistõukeratas kindel valik!",
+          "See professionaalne trikitõukeratas on loodud pakkuma maksimaalset jõudlust ja vastupidavust. Kaaludes vaid 3,1 kg, on Z350 piisavalt kerge trikkide sooritamiseks, kuid samas piisavalt tugev, et taluda igapäevast kasutamist.",
+          "Pinnacle värvilahendusega Z350 on silmapaistev sinise ja musta kombinatsiooniga, mis lisab tõukerattale kaasaegse ja sportliku välimuse. 6061 T6 alumiiniumist deck, terasest juhtraud ja 110mm Hollowcore rattad tagavad suurepärase sõidukogemuse igas park-stiilis sõidusituatsioonis."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Fuzion Complete Z350 Pinnacle on kõrgetasemeline freestyle trikitõukeratas, mis on loodud nõudlikele sõitjatele. See on varustatud kvaliteetsete komponentidega, mis tagavad maksimaalse jõudluse ja vastupidavuse. Sinine-must värvikombinatsioon annab tõukerattale silmapaistva välimuse, mis eristub teistest. Tänu oma kergele kaalule (3,1 kg) ja tugevale konstruktsioonile on see ideaalne valik park-sõiduks ja trikkide sooritamiseks."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3,1 kg (7,18 lbs)"
+                },
+                {
+                  "label": "Deki laius",
+                  "value": "5' (127 mm)"
+                },
+                {
+                  "label": "Deki pikkus",
+                  "value": "19,5' (495 mm)"
+                },
+                {
+                  "label": "Deki kaal",
+                  "value": "0,9 kg (2,9 lbs)"
+                },
+                {
+                  "label": "Deki materjal",
+                  "value": "Alumiinium 6061 T6"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83°"
+                },
+                {
+                  "label": "Deki nõgusus",
+                  "value": "5°"
+                },
+                {
+                  "label": "Kahvli materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "IHC"
+                },
+                {
+                  "label": "Juhtraua vorm",
+                  "value": "Dip Bar tugedega"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Teras (Chromoly)"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "24,5' (622 mm)"
+                },
+                {
+                  "label": "Juhtraua laius",
+                  "value": "23' (584 mm)"
+                },
+                {
+                  "label": "Juhtraua välisläbimõõt",
+                  "value": "34,9 mm (ülisuur)"
+                },
+                {
+                  "label": "Juhtraua siseläbimõõt",
+                  "value": "Standard"
+                },
+                {
+                  "label": "Rataste suurus",
+                  "value": "110mm Hollowcore"
+                },
+                {
+                  "label": "Ratta laius",
+                  "value": "24 mm"
+                },
+                {
+                  "label": "Sobivad ratta suurused",
+                  "value": "Kuni 120 mm"
+                },
+                {
+                  "label": "PU kõvadus",
+                  "value": "88a"
+                },
+                {
+                  "label": "Laagrid",
+                  "value": "Fuzion ABEC-9"
+                },
+                {
+                  "label": "Pidur",
+                  "value": "Nailon/teras"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "85 cm"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Sinine, Must"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "32,34 mm"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Kasutus",
+                  "value": "Park"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "2 aastat"
+                },
+                {
+                  "label": "Mudel",
+                  "value": "Z350 Pinnacle"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Pinnacle (Sinine/Must)",
+        "color_code": "#0000FF",
+        "source_price": 209.90,
+        "price": 209.90,
+        "discounted_price": null,
+        "stock": 0,
+        "images": [
+          "/products/fuzion-complete-z350-pinnacle-trick-scooter-blue-black-1.png",
+          "/products/fuzion-complete-z350-pinnacle-trick-scooter-blue-black-2.png",
+          "/products/fuzion-complete-z350-pinnacle-trick-scooter-blue-black-3.png",
+          "/products/fuzion-complete-z350-pinnacle-trick-scooter-blue-black-4.png",
+          "/products/fuzion-complete-z350-pinnacle-trick-scooter-blue-black-5.png",
+          "/products/fuzion-complete-z350-pinnacle-trick-scooter-blue-black-6.png",
+          "/products/fuzion-complete-z350-pinnacle-trick-scooter-blue-black-7.png",
+          "/products/fuzion-complete-z350-pinnacle-trick-scooter-blue-black-8.png",
+          "/products/fuzion-complete-z350-pinnacle-trick-scooter-blue-black-9.png"
+        ]
+      },
+      {
+        "id": "fuzion-complete-z350-prophecy",
+        "name": "Fuzion Complete Z350 - Prophecy",
+        "description": [
+          "Fuzion Z350 freestyle täistõukeratas on kahtlemata üks parimaid kõrgetasemelisi täistõukerattaid turul. Varustatud legendaarse Entropy dekiga, alumiiniumist juhtrauaga, IHC kahvliga ja 110mm hollowcore ratastega on Fuzion Z350 täistõukeratas kindel valik!",
+          "See professionaalne trikitõukeratas on loodud pakkuma maksimaalset jõudlust ja vastupidavust. Kaaludes vaid 3,1 kg, on Z350 piisavalt kerge trikkide sooritamiseks, kuid samas piisavalt tugev, et taluda igapäevast kasutamist.",
+          "Prophecy värvilahendusega Z350 paistab silma elegantse musta ja kuldse kombinatsiooniga, mis lisab tõukerattale luksuslikuma välimuse. 6061 T6 alumiiniumist deck, terasest juhtraud ja 110mm Hollowcore rattad tagavad suurepärase sõidukogemuse igas park-stiilis sõidusituatsioonis."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Fuzion Complete Z350 Prophecy on kõrgetasemeline freestyle trikitõukeratas, mis on loodud nõudlikele sõitjatele. See on varustatud kvaliteetsete komponentidega, mis tagavad maksimaalse jõudluse ja vastupidavuse. Must-kuldne värvikombinatsioon annab tõukerattale luksusliku ja elegantse välimuse, mis eristub teistest. Tänu oma kergele kaalule (3,1 kg) ja tugevale konstruktsioonile on see ideaalne valik park-sõiduks ja trikkide sooritamiseks."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3,1 kg (7,18 lbs)"
+                },
+                {
+                  "label": "Deki laius",
+                  "value": "5' (127 mm)"
+                },
+                {
+                  "label": "Deki pikkus",
+                  "value": "19,5' (495 mm)"
+                },
+                {
+                  "label": "Deki kaal",
+                  "value": "0,9 kg (2,9 lbs)"
+                },
+                {
+                  "label": "Deki materjal",
+                  "value": "Alumiinium 6061 T6"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83°"
+                },
+                {
+                  "label": "Deki nõgusus",
+                  "value": "5°"
+                },
+                {
+                  "label": "Kahvli materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "IHC"
+                },
+                {
+                  "label": "Juhtraua vorm",
+                  "value": "Dip Bar tugedega"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Teras (Chromoly)"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "24,5' (622 mm)"
+                },
+                {
+                  "label": "Juhtraua laius",
+                  "value": "23' (584 mm)"
+                },
+                {
+                  "label": "Juhtraua välisläbimõõt",
+                  "value": "34,9 mm (ülisuur)"
+                },
+                {
+                  "label": "Juhtraua siseläbimõõt",
+                  "value": "Standard"
+                },
+                {
+                  "label": "Rataste suurus",
+                  "value": "110mm Hollowcore"
+                },
+                {
+                  "label": "Ratta laius",
+                  "value": "24 mm"
+                },
+                {
+                  "label": "Sobivad ratta suurused",
+                  "value": "Kuni 120 mm"
+                },
+                {
+                  "label": "PU kõvadus",
+                  "value": "88a"
+                },
+                {
+                  "label": "Laagrid",
+                  "value": "Fuzion ABEC-9"
+                },
+                {
+                  "label": "Pidur",
+                  "value": "Nailon/teras"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "85 cm"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Must, Kuld"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "32,34 mm"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Kasutus",
+                  "value": "Park"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "2 aastat"
+                },
+                {
+                  "label": "Mudel",
+                  "value": "Z350 Prophecy"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Prophecy (Must/Kuld)",
+        "color_code": "#FFD700",
+        "source_price": 209.90,
+        "price": 209.90,
+        "discounted_price": null,
+        "stock": 0,
+        "images": [
+          "/products/fuzion-complete-z350-prophecy-trick-scooter-black-gold-1.png",
+          "/products/fuzion-complete-z350-prophecy-trick-scooter-black-gold-2.png",
+          "/products/fuzion-complete-z350-prophecy-trick-scooter-black-gold-3.png",
+          "/products/fuzion-complete-z350-prophecy-trick-scooter-black-gold-4.png",
+          "/products/fuzion-complete-z350-prophecy-trick-scooter-black-gold-5.png",
+          "/products/fuzion-complete-z350-prophecy-trick-scooter-black-gold-6.png",
+          "/products/fuzion-complete-z350-prophecy-trick-scooter-black-gold-7.png",
+          "/products/fuzion-complete-z350-prophecy-trick-scooter-black-gold-8.png",
+          "/products/fuzion-complete-z350-prophecy-trick-scooter-black-gold-9.png"
+        ]
+      },
+      {
+        "id": "fuzion-complete-z350-serpent",
+        "name": "Fuzion Complete Z350 - Serpent",
+        "description": [
+          "Fuzion Z350 freestyle täistõukeratas on kahtlemata üks parimaid kõrgetasemelisi täistõukerattaid turul. Varustatud legendaarse Entropy dekiga, alumiiniumist juhtrauaga, IHC kahvliga ja 110mm hollowcore ratastega on Fuzion Z350 täistõukeratas kindel valik!",
+          "See professionaalne trikitõukeratas on loodud pakkuma maksimaalset jõudlust ja vastupidavust. Kaaludes vaid 3,1 kg, on Z350 piisavalt kerge trikkide sooritamiseks, kuid samas piisavalt tugev, et taluda igapäevast kasutamist.",
+          "Serpent värvilahendusega Z350 paistab silma elegantse halli ja musta kombinatsiooniga, mis lisab tõukerattale kaasaegse ja madalprofiilse välimuse. 6061 T6 alumiiniumist deck, terasest juhtraud ja 110mm Hollowcore rattad tagavad suurepärase sõidukogemuse igas park-stiilis sõidusituatsioonis."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Fuzion Complete Z350 Serpent on kõrgetasemeline freestyle trikitõukeratas, mis on loodud nõudlikele sõitjatele. See on varustatud kvaliteetsete komponentidega, mis tagavad maksimaalse jõudluse ja vastupidavuse. Hall-must värvikombinatsioon annab tõukerattale elegantse ja madalprofiilse välimuse, mis eristub teistest. Tänu oma kergele kaalule (3,1 kg) ja tugevale konstruktsioonile on see ideaalne valik park-sõiduks ja trikkide sooritamiseks."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3,1 kg (7,18 lbs)"
+                },
+                {
+                  "label": "Deki laius",
+                  "value": "5' (127 mm)"
+                },
+                {
+                  "label": "Deki pikkus",
+                  "value": "19,5' (495 mm)"
+                },
+                {
+                  "label": "Deki kaal",
+                  "value": "0,9 kg (2,9 lbs)"
+                },
+                {
+                  "label": "Deki materjal",
+                  "value": "Alumiinium 6061 T6"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83°"
+                },
+                {
+                  "label": "Deki nõgusus",
+                  "value": "5°"
+                },
+                {
+                  "label": "Kahvli materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "IHC"
+                },
+                {
+                  "label": "Juhtraua vorm",
+                  "value": "Dip Bar tugedega"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Teras (Chromoly)"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "24,5' (622 mm)"
+                },
+                {
+                  "label": "Juhtraua laius",
+                  "value": "23' (584 mm)"
+                },
+                {
+                  "label": "Juhtraua välisläbimõõt",
+                  "value": "34,9 mm (ülisuur)"
+                },
+                {
+                  "label": "Juhtraua siseläbimõõt",
+                  "value": "Standard"
+                },
+                {
+                  "label": "Rataste suurus",
+                  "value": "110mm Hollowcore"
+                },
+                {
+                  "label": "Ratta laius",
+                  "value": "24 mm"
+                },
+                {
+                  "label": "Sobivad ratta suurused",
+                  "value": "Kuni 120 mm"
+                },
+                {
+                  "label": "PU kõvadus",
+                  "value": "88a"
+                },
+                {
+                  "label": "Laagrid",
+                  "value": "Fuzion ABEC-9"
+                },
+                {
+                  "label": "Pidur",
+                  "value": "Nailon/teras"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "85 cm"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Hall, Must"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "32,34 mm"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Kasutus",
+                  "value": "Park"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "2 aastat"
+                },
+                {
+                  "label": "Mudel",
+                  "value": "Z350 Serpent"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Serpent (Hall/Must)",
+        "color_code": "#808080",
+        "source_price": 209.90,
+        "price": 209.90,
+        "discounted_price": null,
+        "stock": 0,
+        "images": [
+          "/products/fuzion-complete-z350-serpent-trick-scooter-grey-black-1.png",
+          "/products/fuzion-complete-z350-serpent-trick-scooter-grey-black-2.png",
+          "/products/fuzion-complete-z350-serpent-trick-scooter-grey-black-3.png",
+          "/products/fuzion-complete-z350-serpent-trick-scooter-grey-black-4.png",
+          "/products/fuzion-complete-z350-serpent-trick-scooter-grey-black-5.png",
+          "/products/fuzion-complete-z350-serpent-trick-scooter-grey-black-6.png",
+          "/products/fuzion-complete-z350-serpent-trick-scooter-grey-black-7.png",
+          "/products/fuzion-complete-z350-serpent-trick-scooter-grey-black-8.png",
+          "/products/fuzion-complete-z350-serpent-trick-scooter-grey-black-9.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "north-orbit",
+    "class": "complete-scooters",
+    "category": [
+      "Täistõukerattad",
+      "Pro tase",
+      "Freestyle"
+    ],
+    "brand": "NORTH",
+    "tags": [
+      "Complete",
+      "SCS",
+      "Pro"
+    ],
+    "video": "https://www.youtube.com/embed/VIDEOID",
+    "variants": [
+      {
+        "id": "north-orbit-matte-black",
+        "name": "North Orbit Matte Black",
+        "description": [
+          "North Orbit Pro tõukeratas on suurim täistõukeratas, mis kunagi turule toodud. Ehitatud North'i kvaliteetsete komponentidega, on see tõukeratas ideaalne kesktaseme ja edasijõudnud sõitjatele, kes otsivad vastupidavat ja jõudlust pakkuvat sõiduvahendit.",
+          "Orbit on varustatud 6,5' laiuse x 22,5' pikkuse 6061-T6 alumiiniumist dekiga, pakkudes kindlat ja stabiilset platvormi teie jalgadele. 24' laiused x 27' kõrged T-kujulised juhtrauad on valmistatud 4130 chromoly terasest, pakkudes suurepärast tugevust ja vastupidavust kõikide trikkide jaoks.",
+          "30 mm Nova kahvel on ühilduv 120 mm ratastega ja 6 mm poltidega SCS klamber hoiab kõike kindlalt paigas. Signal rattad on 115 mm läbimõõdu ja 30 mm laiusega, 88a PU tagab hea tasakaalu haarduvuse ja kiiruse vahel. Kõrgkvaliteetsed ABEC-9 laagrid tagavad sujuva sõidu, samas kui integreeritud suletud headset pakub mugavat kogemust olenemata sõitmise intensiivsusest."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "North Orbit Matte Black on tipptasemel freestyle trikitõukeratas, mis on loodud professionaalsetele sõitjatele. See on üks suurimaid täistõukerattaid turul, pakkudes maksimaalset stabiilsust ja kontrolli trikkide sooritamisel. Matt must viimistlus annab tõukerattale elegantse ja professionaalse välimuse. Varustatud kvaliteetsete North'i komponentidega, on Orbit ideaalne valik sõitjatele, kes otsivad parimat jõudlust ja vastupidavust."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Deck",
+                  "value": "North Orbit deck 6,5' lai x 22,5' pikk (6061-T6 alumiinium)"
+                },
+                {
+                  "label": "Juhtraud",
+                  "value": "North T-kujuline juhtraud 26' kõrge x 24' lai (4130 chromoly)"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "Nova kahvel 30mm - ühildub 120mm ratastega"
+                },
+                {
+                  "label": "Klamber",
+                  "value": "Stock SCS - 6mm poldid"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "Signal 115 x 30mm - 88A"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "98 cm"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Matt must"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Ratta läbimõõt",
+                  "value": "115 mm"
+                },
+                {
+                  "label": "Kasutus",
+                  "value": "Freestyle"
+                },
+                {
+                  "label": "Juhtraua vorm",
+                  "value": "T-kujuline"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "32,34 mm"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestatud"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83°"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "6 kuud"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "66 cm"
+                },
+                {
+                  "label": "Juhtraua välisläbimõõt",
+                  "value": "32 mm"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Kokkupanek",
+                  "value": "Osaline"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "SCS"
+                },
+                {
+                  "label": "Mudel",
+                  "value": "Orbit Matte Black"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Matt must",
+        "color_code": "#000000",
+        "source_price": 349.90,
+        "price": 349.90,
+        "discounted_price": null,
+        "stock": 2,
+        "images": [
+          "/products/north-orbit-matte-black-trick-scooter-pro-1.png",
+          "/products/north-orbit-matte-black-trick-scooter-pro-2.png",
+          "/products/north-orbit-matte-black-trick-scooter-pro-3.png",
+          "/products/north-orbit-matte-black-trick-scooter-pro-4.png",
+          "/products/north-orbit-matte-black-trick-scooter-pro-5.png",
+          "/products/north-orbit-matte-black-trick-scooter-pro-6.png"
+        ]
+      },
+      {
+        "id": "north-orbit-silver",
+        "name": "North Orbit Silver",
+        "description": [
+          "North Orbit Pro tõukeratas on suurim täistõukeratas, mis kunagi turule toodud. Ehitatud North'i kvaliteetsete komponentidega, on see tõukeratas ideaalne kesktaseme ja edasijõudnud sõitjatele, kes otsivad vastupidavat ja jõudlust pakkuvat sõiduvahendit.",
+          "Orbit on varustatud 6,5' laiuse x 22,5' pikkuse 6061-T6 alumiiniumist dekiga, pakkudes kindlat ja stabiilset platvormi teie jalgadele. 24' laiused x 27' kõrged T-kujulised juhtrauad on valmistatud 4130 chromoly terasest, pakkudes suurepärast tugevust ja vastupidavust kõikide trikkide jaoks.",
+          "30 mm Nova kahvel on ühilduv 120 mm ratastega ja 6 mm poltidega SCS klamber hoiab kõike kindlalt paigas. Signal rattad on 115 mm läbimõõdu ja 30 mm laiusega, 88a PU tagab hea tasakaalu haarduvuse ja kiiruse vahel. Kõrgkvaliteetsed ABEC-9 laagrid tagavad sujuva sõidu, samas kui integreeritud suletud headset pakub mugavat kogemust olenemata sõitmise intensiivsusest."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "North Orbit Silver on tipptasemel freestyle trikitõukeratas, mis on loodud professionaalsetele sõitjatele. See on üks suurimaid täistõukerattaid turul, pakkudes maksimaalset stabiilsust ja kontrolli trikkide sooritamisel. Hõbedane viimistlus annab tõukerattale kaasaegse ja elegantse välimuse. Varustatud kvaliteetsete North'i komponentidega, on Orbit ideaalne valik sõitjatele, kes otsivad parimat jõudlust ja vastupidavust retrostiilis disainiga."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Deck",
+                  "value": "North Orbit deck 6,5' lai x 22,5' pikk (6061-T6 alumiinium)"
+                },
+                {
+                  "label": "Juhtraud",
+                  "value": "North T-kujuline juhtraud 26' kõrge x 24' lai (4130 chromoly)"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "Nova kahvel 30mm - ühildub 120mm ratastega"
+                },
+                {
+                  "label": "Klamber",
+                  "value": "Stock SCS - 6mm poldid"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "Signal 115 x 30mm - 88A"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "98 cm"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Hõbe"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Ratta läbimõõt",
+                  "value": "115 mm"
+                },
+                {
+                  "label": "Kasutus",
+                  "value": "Freestyle"
+                },
+                {
+                  "label": "Juhtraua vorm",
+                  "value": "T-kujuline"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "32,34 mm"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestatud"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83°"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "6 kuud"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "66 cm"
+                },
+                {
+                  "label": "Juhtraua välisläbimõõt",
+                  "value": "32 mm"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Kokkupanek",
+                  "value": "Osaline"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "SCS"
+                },
+                {
+                  "label": "Mudel",
+                  "value": "Orbit Silver"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Hõbe",
+        "color_code": "#C0C0C0",
+        "source_price": 349.90,
+        "price": 349.90,
+        "discounted_price": null,
+        "stock": 3,
+        "images": [
+          "/products/north-orbit-silver-trick-scooter-pro-1.png",
+          "/products/north-orbit-silver-trick-scooter-pro-2.png",
+          "/products/north-orbit-silver-trick-scooter-pro-3.png",
+          "/products/north-orbit-silver-trick-scooter-pro-4.png",
+          "/products/north-orbit-silver-trick-scooter-pro-5.png",
+          "/products/north-orbit-silver-trick-scooter-pro-6.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prey-justice-m",
+    "class": "complete-scooters",
+    "category": [
+      "Täistõukerattad",
+      "Pro tase",
+      "Street"
+    ],
+    "brand": "PREY",
+    "tags": [
+      "Complete",
+      "SCS",
+      "Street"
+    ],
+    "video": "https://www.youtube.com/embed/VIDEOID",
+    "variants": [
+      {
+        "id": "prey-justice-m-black-raw",
+        "name": "PREY Justice M - Must / Raw",
+        "description": [
+          "Tutvustame PREY kaubamärgi esimest täistõukeratast: Justice. See on kõrgetasemeline täistõukeratas, mis on ideaalne street-stiilis sõitmiseks.",
+          "Justice M on varustatud Today 5,5 x 21,5 dekiga, Justice SCS kahvliga ja 63 cm Justice juhtrauaga, mis pakuvad suurepärast kontrolli ja jõudlust trikkide sooritamisel. 110 mm Justice rattad tagavad sujuva ja kiire sõidu, samas kui Justice klamber ja headset lisavad täpsust ja stabiilsust.",
+          "Must deck / raw värvikombinatsioon annab tõukerattale elegantse ja professionaalse välimuse. Komplekti kuuluvad ka Friend fender ja 175 mm Prey käepidemed, mis tagavad mugava haarde ja kontrolli. See täistõukeratas on loodud pakkuma parimat jõudlust nõudlikele sõitjatele."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "PREY Justice M - Must Deck / Raw on kõrgetasemeline täistõukeratas, mis on loodud spetsiaalselt street-stiilis sõitmiseks. Kõrgekvaliteetsetest materjalidest valmistatud komponendid tagavad maksimaalse jõudluse ja vastupidavuse. Must deck koos töötlemata (raw) metallist detailidega loob silmapaistva ja professionaalse välimuse. See on ideaalne valik nõudlikele sõitjatele, kes otsivad kvaliteetset ja usaldusväärset trikitõukeratast."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Deck",
+                  "value": "Today 5,5 x 21,5"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "SCS Justice"
+                },
+                {
+                  "label": "Juhtraud",
+                  "value": "Justice 63 cm"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "110 mm Justice"
+                },
+                {
+                  "label": "Klamber ja headset",
+                  "value": "Justice"
+                },
+                {
+                  "label": "Pidur",
+                  "value": "Friend fender"
+                },
+                {
+                  "label": "Käepidemed",
+                  "value": "Prey grips 175 mm"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Must deck / Raw (hall)"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "91,5 cm"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Ratta läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Kasutus",
+                  "value": "Park"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "32,34 mm"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83°"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "2 aastat"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Chromoly teras"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "630 mm"
+                },
+                {
+                  "label": "Juhtraua välisläbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Brakeless"
+                },
+                {
+                  "label": "Kokkupanek",
+                  "value": "Osaline"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "SCS"
+                },
+                {
+                  "label": "Mudel",
+                  "value": "Justice M"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Must/Raw",
+        "color_code": "#000000",
+        "source_price": 299.90,
+        "price": 299.90,
+        "discounted_price": null,
+        "stock": 1,
+        "images": [
+          "/products/prey-justice-m-black-deck-raw-trick-scooter-pro-1.jpg",
+          "/products/prey-justice-m-black-deck-raw-trick-scooter-pro-2.jpg"
+        ]
+      },
+      {
+        "id": "prey-justice-m-raw-black",
+        "name": "PREY Justice M - Raw / Must",
+        "description": [
+          "Tutvustame PREY kaubamärgi esimest täistõukeratast: Justice. See on kõrgetasemeline täistõukeratas, mis on ideaalne street-stiilis sõitmiseks.",
+          "Justice M on varustatud Today 5,5 x 21,5 dekiga, Justice SCS kahvliga ja 63 cm Justice juhtrauaga, mis pakuvad suurepärast kontrolli ja jõudlust trikkide sooritamisel. 110 mm Justice rattad tagavad sujuva ja kiire sõidu, samas kui Justice klamber ja headset lisavad täpsust ja stabiilsust.",
+          "Raw deck / must värvikombinatsioon annab tõukerattale kaasaegse ja industriaalse välimuse. Komplekti kuuluvad ka Friend fender ja 175 mm Prey käepidemed, mis tagavad mugava haarde ja kontrolli. See täistõukeratas on loodud pakkuma parimat jõudlust nõudlikele sõitjatele."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "PREY Justice M - Raw Deck / Must on kõrgetasemeline täistõukeratas, mis on loodud spetsiaalselt street-stiilis sõitmiseks. Kõrgekvaliteetsetest materjalidest valmistatud komponendid tagavad maksimaalse jõudluse ja vastupidavuse. Töötlemata (raw) metallist deck koos mustade detailidega loob silmapaistva ja industriaalse välimuse. See on ideaalne valik nõudlikele sõitjatele, kes otsivad kvaliteetset ja usaldusväärset trikitõukeratast."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Deck",
+                  "value": "Today 5,5 x 21,5"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "SCS Justice"
+                },
+                {
+                  "label": "Juhtraud",
+                  "value": "Justice 63 cm"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "110 mm Justice"
+                },
+                {
+                  "label": "Klamber ja headset",
+                  "value": "Justice"
+                },
+                {
+                  "label": "Pidur",
+                  "value": "Friend fender"
+                },
+                {
+                  "label": "Käepidemed",
+                  "value": "Prey grips 175 mm"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Raw (hall) deck / Must"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "91,5 cm"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Ratta läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Kasutus",
+                  "value": "Park"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "32,34 mm"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83°"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "2 aastat"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Chromoly teras"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "630 mm"
+                },
+                {
+                  "label": "Juhtraua välisläbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Brakeless"
+                },
+                {
+                  "label": "Kokkupanek",
+                  "value": "Osaline"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "SCS"
+                },
+                {
+                  "label": "Mudel",
+                  "value": "Justice M"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Raw/Must",
+        "color_code": "#C0C0C0",
+        "source_price": 299.90,
+        "price": 299.90,
+        "discounted_price": null,
+        "stock": 0,
+        "images": [
+          "/products/prey-justice-m-raw-deck-black-trick-scooter-pro-1.jpg",
+          "/products/prey-justice-m-raw-deck-black-trick-scooter-pro-2.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prey-justice-l",
+    "class": "complete-scooters",
+    "category": [
+      "Täistõukerattad",
+      "Pro tase",
+      "Street"
+    ],
+    "brand": "PREY",
+    "tags": [
+      "Complete",
+      "SCS",
+      "Street"
+    ],
+    "video": "https://www.youtube.com/embed/VIDEOID",
+    "variants": [
+      {
+        "id": "prey-justice-l-black-raw",
+        "name": "PREY Justice L - Must / Raw",
+        "description": [
+          "Tutvustame PREY kaubamärgi esimest täistõukeratast: Justice. See on kõrgetasemeline täistõukeratas, mis on ideaalne street-stiilis sõitmiseks.",
+          "Justice L on varustatud Today 5,9 x 22 dekiga, Justice SCS kahvliga ja 68 cm Justice juhtrauaga, mis pakuvad suurepärast kontrolli ja jõudlust trikkide sooritamisel. 110 mm Justice rattad tagavad sujuva ja kiire sõidu, samas kui Justice klamber ja headset lisavad täpsust ja stabiilsust.",
+          "Must deck / raw värvikombinatsioon annab tõukerattale elegantse ja professionaalse välimuse. Komplekti kuuluvad ka Friend fender ja 175 mm Prey käepidemed, mis tagavad mugava haarde ja kontrolli. See täistõukeratas on loodud pakkuma parimat jõudlust nõudlikele sõitjatele."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "PREY Justice L - Must Deck / Raw on kõrgetasemeline täistõukeratas, mis on loodud spetsiaalselt street-stiilis sõitmiseks. L-suurus on mõeldud pikematele ja edasijõudnud sõitjatele. Kõrgekvaliteetsetest materjalidest valmistatud komponendid tagavad maksimaalse jõudluse ja vastupidavuse. Must deck koos töötlemata (raw) metallist detailidega loob silmapaistva ja professionaalse välimuse. See on ideaalne valik nõudlikele sõitjatele, kes otsivad kvaliteetset ja usaldusväärset trikitõukeratast."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Deck",
+                  "value": "Today 5,9 x 22"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "SCS Justice"
+                },
+                {
+                  "label": "Juhtraud",
+                  "value": "Justice 68 cm"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "110 mm Justice"
+                },
+                {
+                  "label": "Klamber ja headset",
+                  "value": "Justice"
+                },
+                {
+                  "label": "Pidur",
+                  "value": "Friend fender"
+                },
+                {
+                  "label": "Käepidemed",
+                  "value": "Prey grips 175 mm"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Must deck / Raw (hall)"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "96,5 cm"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Ratta läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Kasutus",
+                  "value": "Park"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "32,34 mm"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83°"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "2 aastat"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Chromoly teras"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "680 mm"
+                },
+                {
+                  "label": "Juhtraua välisläbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Brakeless"
+                },
+                {
+                  "label": "Kokkupanek",
+                  "value": "Osaline"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "SCS"
+                },
+                {
+                  "label": "Mudel",
+                  "value": "Justice L"
+                },
+                {
+                  "label": "Soovitatav vanus",
+                  "value": "15+ aastat"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Must/Raw",
+        "color_code": "#000000",
+        "source_price": 299.90,
+        "price": 299.90,
+        "discounted_price": null,
+        "stock": 13,
+        "images": [
+          "/products/prey-justice-l-black-deck-raw-trick-scooter-pro-1.jpg",
+          "/products/prey-justice-l-black-deck-raw-trick-scooter-pro-2.jpg"
+        ]
+      }
+    ]
   }
 ]
