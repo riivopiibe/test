@@ -5000,5 +5000,981 @@
         ]
       }
     ]
+  },
+  {
+    "id": "drone-shadow-3-feather-light",
+    "class": "complete-scooters",
+    "category": [
+      "Täistõukerattad",
+      "Pro tase",
+      "Kergekaalulised"
+    ],
+    "brand": "DRONE SCOOTER",
+    "tags": [
+      "Complete",
+      "Lightweight",
+      "IHC"
+    ],
+    "video": "https://www.youtube.com/embed/VIDEOID",
+    "variants": [
+      {
+        "id": "drone-shadow-3-feather-light-smoked-chrome",
+        "name": "Drone Shadow 3 Feather-Light - Suitsukroom",
+        "description": [
+          "Uus ajastu Drone'i disainis on saabunud! Shadow 3 Feather-Light täistõukeratas on üks kergemaid saadaolevaid mudeleid, mis võtab üle Shadow seeria parimad elemendid, pakkudes üht kõige edasijõudnumat täistõukeratast turul.",
+          "Shadow 3 Feather-Light on kergekaaluline, reaktiivne ja vastutustundlik tõukeratas, mis on loodud pakkuma suurepärast jõudlust. Selle unikaalne disain sisaldab dekis kaaluvähendavaid väljalõikeid, mis muudavad sõitmiskogemuse veelgi dünaamilisemaks.",
+          "Tõukeratas on varustatud Helios Hollow Spoked 110 mm ratastega ja kvaliteetsete Ultra-Sonix Abec 9 laagritega, tagades sujuva ja kiire sõidu. Shadow ALU juhtraud koos Acolyte silikoonist käepidemete ja Chromoly Feather-Light piduriga täiendavad seda tipptasemel trikitõukeratast."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Drone Shadow 3 Feather-Light Suitsukroom täistõukeratas on revolutsiooniline mudel, mis ühendab ülima kerguse ja vastupidavuse. Kaaludes vaid 3,15 kg, on see üks kergemaid professionaalseid trikitõukerattaid turul. Suitsukroomi viimistlus annab tõukerattale elegantse ja kaasaegse välimuse, mis eristub teistest."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3,15 kg (6,9 lb)"
+                },
+                {
+                  "label": "Deck",
+                  "value": "Shadow 3 Feather-Light 4,9' (124,4 mm) x 19,2' (488 mm) kaaluvähendavate väljalõigetega"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "Helios Hollow Spoked 110 mm 88A PU"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "Feather-Light 6061 Alumiinium IHC"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "82,5 kraadi"
+                },
+                {
+                  "label": "Laagrid",
+                  "value": "Ultra-Sonix Abec 9"
+                },
+                {
+                  "label": "Juhtraud",
+                  "value": "Shadow ALU 630 mm kõrge x 580 mm lai (570 mm ilma otsikuteta)"
+                },
+                {
+                  "label": "Käepidemed",
+                  "value": "Acolyte 180 mm silikoonist koos juhtraua otsikutega"
+                },
+                {
+                  "label": "Pidur",
+                  "value": "Chromoly 120 mm Feather-Light"
+                },
+                {
+                  "label": "Headset",
+                  "value": "Synergy 2"
+                },
+                {
+                  "label": "Klamber",
+                  "value": "Solar 6061-T6 Alumiinium topeltklamber"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Suitsukroom"
+                },
+                {
+                  "label": "Extrusioon",
+                  "value": "PARK TAPERED"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "86 cm"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "63 cm"
+                },
+                {
+                  "label": "Juhtraua välisläbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "IHC"
+                },
+                {
+                  "label": "Kasutus",
+                  "value": "Freestyle"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "12 kuud"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Boxed"
+                },
+                {
+                  "label": "Mudel",
+                  "value": "Shadow 3 Feather-Light"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Suitsukroom",
+        "color_code": "#8C8C8C",
+        "source_price": 339.90,
+        "price": 339.90,
+        "discounted_price": null,
+        "stock": 3,
+        "images": [
+          "/products/drone-shadow-3-feather-light-smoked-chrome-trick-scooter-lightweight-1.jpg",
+          "/products/drone-shadow-3-feather-light-smoked-chrome-trick-scooter-lightweight-2.jpg",
+          "/products/drone-shadow-3-feather-light-smoked-chrome-trick-scooter-lightweight-3.jpg",
+          "/products/drone-shadow-3-feather-light-smoked-chrome-trick-scooter-lightweight-4.jpg"
+        ]
+      },
+      {
+        "id": "drone-shadow-3-feather-light-must",
+        "name": "Drone Shadow 3 Feather-Light - Must",
+        "description": [
+          "Drone Shadow 3 Feather-Light täistõukeratas on üks kergemaid trikitõukerattaid turul, mis põhineb populaarsel Shadow seerial ning sisaldab ülimalt kergeid komponente, mis on välja töötatud uue Shadow 3 deki ümber.",
+          "Deck kaalub vaid 1,2 kg, mis teeb kogu tõukeratta kaaluks vaid 3,15 kg. Shadow 3 on tõeline jõudlustoode, mis on varustatud uute Helios Hollow-Spoked ratastega. Nendel ratastel on optimeeritud tuum ja PU suhe, mis vähendab kaalu, suurendab jäikust ja maksimeerib jõuülekannet maksimaalse kiiruse saavutamiseks.",
+          "Rattad pöörlevad meie uute Ultra-Sonix laagrite ümber, mis pakuvad võrreldamatut kiirust. Kahvlid on hoolikalt viimistletud, vähendades üleliigset kaalu, et luua minimalistlik ja kerge disain, mis parandab tõukeratta kontrolli ja üldist jõudlust."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Drone Shadow 3 Feather-Light Must on revolutsiooniline täistõukeratas, mis ühendab ülima kerguse ja jõudluse. Kaaludes vaid 3,15 kg, on see üks kergemaid professionaalseid trikitõukerattaid turul. Musta viimistlusega tõukeratas on loodud edasijõudnud sõitjatele, kes otsivad maksimaalset kontrolli ja kiirust. Unikaalne disain sisaldab kaaluvähendavaid väljalõikeid ja tipptasemel komponente."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3,15 kg (6,9 lb)"
+                },
+                {
+                  "label": "Deck",
+                  "value": "Shadow 3 Feather-Light 4,9' (124,4 mm) x 19,2' (488 mm)"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "Helios Hollow Spoked 110 mm 88A PU"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "Feather-Light 6061 Alumiinium IHC"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "82,5 kraadi"
+                },
+                {
+                  "label": "Laagrid",
+                  "value": "Ultra-Sonix Abec 9"
+                },
+                {
+                  "label": "Juhtraud",
+                  "value": "Shadow ALU 630 mm kõrge x 580 mm lai (570 mm ilma otsikuteta)"
+                },
+                {
+                  "label": "Käepidemed",
+                  "value": "Acolyte 180 mm silikoonist koos juhtraua otsikutega"
+                },
+                {
+                  "label": "Pidur",
+                  "value": "Chromoly 120 mm Feather-Light"
+                },
+                {
+                  "label": "Headset",
+                  "value": "Synergy 2"
+                },
+                {
+                  "label": "Klamber",
+                  "value": "Solar 6061-T6 Alumiinium topeltklamber"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Must"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "86,5 cm"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "63 cm"
+                },
+                {
+                  "label": "Juhtraua välisläbimõõt",
+                  "value": "31,8 mm"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "31,8 mm"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestatud"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "IHC"
+                },
+                {
+                  "label": "Kasutus",
+                  "value": "FreeRide, Freestyle, Park"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "12 kuud"
+                },
+                {
+                  "label": "Mudel",
+                  "value": "Shadow 3 Feather-Light"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Must",
+        "color_code": "#000000",
+        "source_price": 319.90,
+        "price": 319.90,
+        "discounted_price": null,
+        "stock": 16,
+        "images": [
+          "/products/drone-shadow-3-feather-light-noir-trick-scooter-lightweight-1.jpg",
+          "/products/drone-shadow-3-feather-light-noir-trick-scooter-lightweight-2.jpg",
+          "/products/drone-shadow-3-feather-light-noir-trick-scooter-lightweight-3.jpg"
+        ]
+      },
+      {
+        "id": "drone-shadow-3-feather-light-silver-anodized",
+        "name": "Drone Shadow 3 Feather-Light - Anodeeritud Hõbe",
+        "description": [
+          "Uus ajastu Drone'i disainis on saabunud! Shadow 3 Feather-Light täistõukeratas on üks kergemaid saadaolevaid mudeleid, mis võtab üle Shadow seeria parimad elemendid, pakkudes üht kõige edasijõudnumat täistõukeratast turul.",
+          "Shadow 3 Feather-Light on kergekaaluline, reaktiivne ja vastutustundlik tõukeratas, mis on loodud pakkuma suurepärast jõudlust. Selle unikaalne disain sisaldab dekis kaaluvähendavaid väljalõikeid, mis muudavad sõitmiskogemuse veelgi dünaamilisemaks.",
+          "Anodeeritud hõbedase viimistlusega tõukeratas on varustatud Helios Hollow Spoked 110 mm ratastega ja kvaliteetsete Ultra-Sonix Abec 9 laagritega, tagades sujuva ja kiire sõidu. Shadow ALU juhtraud koos Acolyte silikoonist käepidemete ja Chromoly Feather-Light piduriga täiendavad seda tipptasemel trikitõukeratast."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Drone Shadow 3 Feather-Light Anodeeritud Hõbe täistõukeratas on revolutsiooniline mudel, mis ühendab ülima kerguse ja vastupidavuse. Kaaludes vaid 3,15 kg, on see üks kergemaid professionaalseid trikitõukerattaid turul. Anodeeritud hõbedane viimistlus annab tõukerattale elegantse ja kaasaegse välimuse, mis sobib igasuguse stiili ja sõidustiiliga."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3,15 kg (6,9 lb)"
+                },
+                {
+                  "label": "Deck",
+                  "value": "Shadow 3 Feather-Light 4,9' (124,4 mm) x 19,2' (488 mm) kaaluvähendavate väljalõigetega"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "Helios Hollow Spoked 110 mm 88A PU"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "Feather-Light 6061 Alumiinium IHC"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "82,5 kraadi"
+                },
+                {
+                  "label": "Laagrid",
+                  "value": "Ultra-Sonix Abec 9"
+                },
+                {
+                  "label": "Juhtraud",
+                  "value": "Shadow ALU 630 mm kõrge x 580 mm lai (570 mm ilma otsikuteta)"
+                },
+                {
+                  "label": "Käepidemed",
+                  "value": "Acolyte 180 mm silikoonist koos juhtraua otsikutega"
+                },
+                {
+                  "label": "Pidur",
+                  "value": "Chromoly 120 mm Feather-Light"
+                },
+                {
+                  "label": "Headset",
+                  "value": "Synergy 2"
+                },
+                {
+                  "label": "Klamber",
+                  "value": "Solar 6061-T6 Alumiinium topeltklamber"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Anodeeritud Hõbe"
+                },
+                {
+                  "label": "Extrusioon",
+                  "value": "PARK TAPERED"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "87 cm"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "63 cm"
+                },
+                {
+                  "label": "Juhtraua välisläbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "IHC"
+                },
+                {
+                  "label": "Kasutus",
+                  "value": "Freestyle, Park, Street"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "12 kuud"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Boxed"
+                },
+                {
+                  "label": "Mudel",
+                  "value": "Shadow 3 Feather-Light"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Anodeeritud Hõbe",
+        "color_code": "#C0C0C0",
+        "source_price": 319.90,
+        "price": 319.90,
+        "discounted_price": null,
+        "stock": 12,
+        "images": [
+          "/products/drone-shadow-3-feather-light-silver-anodized-trick-scooter-lightweight-1.jpg",
+          "/products/drone-shadow-3-feather-light-silver-anodized-trick-scooter-lightweight-2.jpg",
+          "/products/drone-shadow-3-feather-light-silver-anodized-trick-scooter-lightweight-3.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "drone-element-2-feather-light",
+    "class": "complete-scooters",
+    "category": [
+      "Täistõukerattad",
+      "Pro tase",
+      "Kergekaalulised"
+    ],
+    "brand": "DRONE SCOOTER",
+    "tags": [
+      "Complete",
+      "Lightweight",
+      "IHC"
+    ],
+    "video": "",
+    "variants": [
+      {
+        "id": "drone-element-2-feather-light-black",
+        "name": "Drone Element 2 Feather-Light - Must",
+        "description": [
+          "Element 2 Feather-Light täistõukeratas tähistab uut ajastut Element seeria park-tõukerataste jõudluses. See tõukeratas on varustatud kõrgetasemeliste täiustustega võrreldes originaal Element'iga, mis muudab selle kaalu ja jõudluse osas võitmatuks. Selle mudeliga oleme püüdnud täiustada iga komponenti, vähendades iga detaili kaalu.",
+          "Element 2 Feather-Light on ülimalt kerge, kaaludes vaid 2,95 kg, mis teeb sellest ideaalse valiku trikkide sooritamiseks ja manööverdamiseks. Tõukeratta disain sisaldab väljalõikeid nii üla- kui alaosas ning kitsenemisi ees ja taga, mis vähendavad kaalu, säilitades samas tugevuse ja vastupidavuse.",
+          "Must Element 2 on varustatud uute Luxe 3 Dual Core 110 mm ratastega, Drone Ultra-Sonix Abec 9 laagritega ja uue Feather-Light kahvliga, mis koos pakuvad suurepärast jõudlust ja kontrolli. Tõukeratas on täiustatud Acolyte silikoonist käepidemete ja Drone Steel Feather-Light piduriga, mis tagavad mugava ja usaldusväärse sõidukogemuse."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Drone Element 2 Feather-Light Must täistõukeratas on uuenduslik mudel, mis on loodud maksimaalseks jõudluseks parkides ja tänavatel. See on üks kergemaid professionaalseid trikitõukerattaid turul, kaaludes vaid 2,95 kg. Musta viimistlusega tõukeratas on valmistatud kvaliteetsest 6061 T6 alumiiniumist ning disainitud edasijõudnud sõitjatele, kes otsivad kerget ja vastutustundlikku trikitõukeratast."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "2,95 kg (6,5 lb)"
+                },
+                {
+                  "label": "Deck",
+                  "value": "Element Feather-Light 4,5' (114 mm) x 19' (483 mm), 6061 T6 alumiinium"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "Luxe 3 Dual Core 110 mm 88A PU"
+                },
+                {
+                  "label": "Disain",
+                  "value": "Väljalõiked üla- ja alaosas, kitsenemised ees ja taga"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "Uus Feather-Light 6061 Alumiinium IHC"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "82,5 kraadi"
+                },
+                {
+                  "label": "Laagrid",
+                  "value": "Drone Ultra-Sonix Abec 9"
+                },
+                {
+                  "label": "Juhtraud",
+                  "value": "Alumiinium 610 mm kõrge x 570 mm lai (560 mm ilma otsikuteta)"
+                },
+                {
+                  "label": "Käepidemed",
+                  "value": "Uued Acolyte silikoonist käepidemed 180 mm"
+                },
+                {
+                  "label": "Pidur",
+                  "value": "Drone Steel Feather-Light"
+                },
+                {
+                  "label": "Headset",
+                  "value": "Drone Synergy 2"
+                },
+                {
+                  "label": "Klamber",
+                  "value": "Solar 6061-T6 Alumiinium topeltklamber"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Must"
+                },
+                {
+                  "label": "Extrusioon",
+                  "value": "PARK STRAIGHT"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "84,5 cm"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "61 cm"
+                },
+                {
+                  "label": "Juhtraua välisläbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Juhtraua vorm",
+                  "value": "Y-kujuline"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "IHC"
+                },
+                {
+                  "label": "Kasutus",
+                  "value": "Freestyle, Park, Street"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "12 kuud"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Boxed"
+                },
+                {
+                  "label": "Mudel",
+                  "value": "Element 2 Feather-Light"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Must",
+        "color_code": "#000000",
+        "source_price": 259.90,
+        "price": 259.90,
+        "discounted_price": null,
+        "stock": 11,
+        "images": [
+          "/products/drone-element-2-feather-light-black-trick-scooter-lightweight-1.jpg",
+          "/products/drone-element-2-feather-light-black-trick-scooter-lightweight-2.jpg",
+          "/products/drone-element-2-feather-light-black-trick-scooter-lightweight-3.jpg"
+        ]
+      },
+      {
+        "id": "toukeratas-drone-element-2-feather-light-hobedane",
+        "name": "Drone E2 Feather-Light tõukeratas - hõbedane",
+        "description": [
+          "Drone Element 2 Feather-Light tõukeratas viib kergekaalulise freestyle-tõukeratta uuele tasemele. Selle täiustatud komponentide ja tugevdatud, samas ülikerge raamiga pakub see mudel maksimaalset kontrolli pargis ja tänaval.",
+          "Tänu 110 mm topelt-südamikuga ratastele, uuendatud Feather-Light kahvlile ja alumiiniumist lenksule sobib see tõukeratas igale trikihuvilisele - nii algajale kui ka edasijõudnule.",
+          "Kui otsid kerget, stiilset ja vastupidavat tõukeratast taskukohase hinnaga - see on just sulle."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Drone Element 2 Feather-Light tõukeratas tähistab uut taset pargisõiduks mõeldud trikitõukerataste seas. See mudel on kergem, vastupidavam ja täpsemalt viimistletud kui eelkäijad. Iga komponent on hoolikalt optimeeritud, et pakkuda maksimaalset kontrolli ja sujuvust – ideaalne valik nii algajale kui ka kogenud sõitjale. Tänu oma ülikergele raamile ja täiustatud osadele sobib see skuuter nii parki, tänavale kui ka freestyle-sõiduks. Lisaks annavad elegantsed disainid ja professionaalsed detailid sellele mudelile unikaalse välimuse ja tippkvaliteedi tunde."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "2,95 kg"
+                },
+                {
+                  "label": "Deck",
+                  "value": "Element Feather-Light, 114 mm lai ja 483 mm pikk, 6061 T6 alumiinium"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "Luxe 3 Dual Core, 110 mm, 88A PU"
+                },
+                {
+                  "label": "Disain",
+                  "value": "Ülemised ja alumised lõiked, kitsenevad otstest"
+                },
+                {
+                  "label": "Fourche (kahvel)",
+                  "value": "Feather-Light 6061 alumiinium, IHC"
+                },
+                {
+                  "label": "Lenks",
+                  "value": "Alumiinium, 610 mm kõrge, 570 mm lai (560 mm ilma otsikuteta)"
+                },
+                {
+                  "label": "Lenksu kõrgus (kokku)",
+                  "value": "85 cm"
+                },
+                {
+                  "label": "Lenksu materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Lenksu väline läbimõõt",
+                  "value": "34.9 mm"
+                },
+                {
+                  "label": "Gripid",
+                  "value": "Acolyte silikoonist gripid, 180 mm"
+                },
+                {
+                  "label": "Pedaali nurk (headtube)",
+                  "value": "83°"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermeta (non-threaded)"
+                },
+                {
+                  "label": "Kokkusurumissüsteem",
+                  "value": "IHC (Internal Hidden Compression)"
+                },
+                {
+                  "label": "Pidur",
+                  "value": "Drone Steel Feather-Light, flex fender tüüpi"
+                },
+                {
+                  "label": "Laagrid",
+                  "value": "Drone Ultra-Sonix Abec 9"
+                },
+                {
+                  "label": "Klamber",
+                  "value": "Solar 6061-T6 alumiinium, kahe poldiga"
+                },
+                {
+                  "label": "Headset",
+                  "value": "Drone Synergy 2"
+                },
+                {
+                  "label": "Sõidustiil",
+                  "value": "Freestyle, park, street"
+                },
+                {
+                  "label": "Soovitatav vanus",
+                  "value": "7+ (sobib ka 9–11, 11–13, 13–15, 15+ vanustele)"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "12 kuud"
+                },
+                {
+                  "label": "Värvivalikud",
+                  "value": "Hõbedane (anodeeritud), must, suitsukroom, neokroom"
+                },
+                {
+                  "label": "Ekstruusiooniprofiil",
+                  "value": "PARK STRAIGHT"
+                },
+                {
+                  "label": "Kokkupanek",
+                  "value": "Osaliselt kokkupandud"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Hõbedane",
+        "color_code": "#C0C0C0",
+        "source_price": 130.0,
+        "price": 279.95,
+        "discounted_price": 259.95,
+        "stock": 11,
+        "images": [
+          "/products/drone-element-2-feather-light-hobedane-toukeratas-1.jpg",
+          "/products/drone-element-2-feather-light-hobedane-toukeratas-2.jpg",
+          "/products/drone-element-2-feather-light-hobedane-toukeratas-3.jpg"
+        ]
+      },
+      {
+        "id": "drone-element-2-feather-light-smoked-chrome",
+        "name": "Drone Element 2 Feather-Light - Suitsukroom",
+        "description": [
+          "Element 2 Feather-Light täistõukeratas tähistab uut ajastut Element seeria park-tõukerataste jõudluses. See tõukeratas on varustatud kõrgetasemeliste täiustustega võrreldes originaal Element'iga, mis muudab selle kaalu ja jõudluse osas võitmatuks. Selle mudeliga oleme püüdnud täiustada iga komponenti, vähendades iga detaili kaalu.",
+          "Element 2 Feather-Light on ülimalt kerge, kaaludes vaid 2,95 kg, mis teeb sellest ideaalse valiku trikkide sooritamiseks ja manööverdamiseks. Tõukeratta disain sisaldab väljalõikeid nii üla- kui alaosas ning kitsenemisi ees ja taga, mis vähendavad kaalu, säilitades samas tugevuse ja vastupidavuse.",
+          "Suitsukroom viimistlusega Element 2 on varustatud uute Luxe 3 Dual Core 110 mm ratastega, Drone Ultra-Sonix Abec 9 laagritega ja uue Feather-Light kahvliga, mis koos pakuvad suurepärast jõudlust ja kontrolli. Tõukeratas on täiustatud Acolyte silikoonist käepidemete ja Drone Steel Feather-Light piduriga, mis tagavad mugava ja usaldusväärse sõidukogemuse."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Drone Element 2 Feather-Light Suitsukroom täistõukeratas on uuenduslik mudel, mis on loodud maksimaalseks jõudluseks parkides ja tänavatel. See on üks kergemaid professionaalseid trikitõukerattaid turul, kaaludes vaid 2,95 kg. Suitsukroomi viimistlusega tõukeratas on valmistatud kvaliteetsest 6061 T6 alumiiniumist ning disainitud edasijõudnud sõitjatele, kes otsivad kerget ja vastutustundlikku trikitõukeratast."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "2,95 kg (6,5 lb)"
+                },
+                {
+                  "label": "Deck",
+                  "value": "Element Feather-Light 4,5' (114 mm) x 19' (483 mm), 6061 T6 alumiinium"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "Luxe 3 Dual Core 110 mm 88A PU"
+                },
+                {
+                  "label": "Disain",
+                  "value": "Väljalõiked üla- ja alaosas, kitsenemised ees ja taga"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "Uus Feather-Light 6061 Alumiinium IHC"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "82,5 kraadi"
+                },
+                {
+                  "label": "Laagrid",
+                  "value": "Drone Ultra-Sonix Abec 9"
+                },
+                {
+                  "label": "Juhtraud",
+                  "value": "Alumiinium 610 mm kõrge x 570 mm lai (560 mm ilma otsikuteta)"
+                },
+                {
+                  "label": "Käepidemed",
+                  "value": "Uued Acolyte silikoonist käepidemed 180 mm"
+                },
+                {
+                  "label": "Pidur",
+                  "value": "Drone Steel Feather-Light"
+                },
+                {
+                  "label": "Headset",
+                  "value": "Drone Synergy 2"
+                },
+                {
+                  "label": "Klamber",
+                  "value": "Solar 6061-T6 Alumiinium topeltklamber"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Suitsukroom"
+                },
+                {
+                  "label": "Extrusioon",
+                  "value": "PARK STRAIGHT"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "85 cm"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "61 cm"
+                },
+                {
+                  "label": "Juhtraua välisläbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Juhtraua vorm",
+                  "value": "Y-kujuline"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "IHC"
+                },
+                {
+                  "label": "Kasutus",
+                  "value": "Freestyle, Park, Street"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "12 kuud"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Boxed"
+                },
+                {
+                  "label": "Mudel",
+                  "value": "Element 2 Feather-Light"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Suitsukroom",
+        "color_code": "#8C8C8C",
+        "source_price": 269.90,
+        "price": 269.90,
+        "discounted_price": null,
+        "stock": 6,
+        "images": [
+          "/products/drone-element-2-feather-light-smoked-chrome-trick-scooter-lightweight-1.jpg",
+          "/products/drone-element-2-feather-light-smoked-chrome-trick-scooter-lightweight-2.jpg",
+          "/products/drone-element-2-feather-light-smoked-chrome-trick-scooter-lightweight-3.jpg"
+        ]
+      },
+      {
+        "id": "drone-element-2-feather-light-neochrome",
+        "name": "Drone Element 2 Feather-Light - Neokroom",
+        "description": [
+          "Element 2 Feather-Light täistõukeratas tähistab uut ajastut Element seeria park-tõukerataste jõudluses. See tõukeratas on varustatud kõrgetasemeliste täiustustega võrreldes originaal Element'iga, mis muudab selle kaalu ja jõudluse osas võitmatuks. Selle mudeliga oleme püüdnud täiustada iga komponenti, vähendades iga detaili kaalu.",
+          "Element 2 Feather-Light on ülimalt kerge, kaaludes vaid 2,95 kg, mis teeb sellest ideaalse valiku trikkide sooritamiseks ja manööverdamiseks. Tõukeratta disain sisaldab väljalõikeid nii üla- kui alaosas ning kitsenemisi ees ja taga, mis vähendavad kaalu, säilitades samas tugevuse ja vastupidavuse.",
+          "Neokroomi viimistlusega Element 2 on varustatud uute Luxe 3 Dual Core 110 mm ratastega, Drone Ultra-Sonix Abec 9 laagritega ja uue Feather-Light kahvliga, mis koos pakuvad suurepärast jõudlust ja kontrolli. Tõukeratas on täiustatud Acolyte silikoonist käepidemete ja Drone Steel Feather-Light piduriga, mis tagavad mugava ja usaldusväärse sõidukogemuse."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Drone Element 2 Feather-Light Neokroom täistõukeratas on uuenduslik mudel, mis on loodud maksimaalseks jõudluseks parkides ja tänavatel. See on üks kergemaid professionaalseid trikitõukerattaid turul, kaaludes vaid 2,95 kg. Neokroomi viimistlus annab tõukerattale ainulaadse, värviküllase välimuse, mis muutub vastavalt valgusele ja vaatenurgale. Valmistatud kvaliteetsest 6061 T6 alumiiniumist, on see disainitud edasijõudnud sõitjatele, kes otsivad kerget ja vastutustundlikku trikitõukeratast."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "2,95 kg (6,5 lb)"
+                },
+                {
+                  "label": "Deck",
+                  "value": "Element Feather-Light 4,5' (114 mm) x 19' (483 mm), 6061 T6 alumiinium"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "Luxe 3 Dual Core 110 mm 88A PU"
+                },
+                {
+                  "label": "Disain",
+                  "value": "Väljalõiked üla- ja alaosas, kitsenemised ees ja taga"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "Uus Feather-Light 6061 Alumiinium IHC"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "82,5 kraadi"
+                },
+                {
+                  "label": "Laagrid",
+                  "value": "Drone Ultra-Sonix Abec 9"
+                },
+                {
+                  "label": "Juhtraud",
+                  "value": "Alumiinium 610 mm kõrge x 570 mm lai (560 mm ilma otsikuteta)"
+                },
+                {
+                  "label": "Käepidemed",
+                  "value": "Uued Acolyte silikoonist käepidemed 180 mm"
+                },
+                {
+                  "label": "Pidur",
+                  "value": "Drone Steel Feather-Light"
+                },
+                {
+                  "label": "Headset",
+                  "value": "Drone Synergy 2"
+                },
+                {
+                  "label": "Klamber",
+                  "value": "Solar 6061-T6 Alumiinium topeltklamber"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Neokroom (mitmevärviline)"
+                },
+                {
+                  "label": "Extrusioon",
+                  "value": "PARK STRAIGHT"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "85 cm"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "61 cm"
+                },
+                {
+                  "label": "Juhtraua välisläbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "IHC"
+                },
+                {
+                  "label": "Kasutus",
+                  "value": "Freestyle, Park, Street"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "12 kuud"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Boxed"
+                },
+                {
+                  "label": "Mudel",
+                  "value": "Element 2 Feather-Light"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Neokroom",
+        "color_code": "#A6A6FF",
+        "source_price": 269.90,
+        "price": 269.90,
+        "discounted_price": null,
+        "stock": 1,
+        "images": [
+          "/products/drone-element-2-feather-light-neochrome-trick-scooter-lightweight-1.jpg",
+          "/products/drone-element-2-feather-light-neochrome-trick-scooter-lightweight-2.jpg",
+          "/products/drone-element-2-feather-light-neochrome-trick-scooter-lightweight-3.jpg"
+        ]
+      }
+    ]
   }
 ]
