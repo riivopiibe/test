@@ -1,6 +1,6 @@
 [
   {
-    "id": "blunt-prodigy-x",
+    "id": "blunt-prodigy-x-park",
     "class": "complete-scooters",
     "category": ["Tõuksid", "Pro tase", "Park"],
     "brand": "Blunt",
@@ -676,7 +676,7 @@
     ]
   },
   {
-    "id": "blunt-prodigy-x",
+    "id": "blunt-prodigy-x-street",
     "class": "complete-scooters",
     "category": ["Tõuksid", "Pro tase", "Street"],
     "brand": "Blunt",
@@ -1118,7 +1118,7 @@
     ]
   },
   {
-    "id": "blunt-kos-s6-heist",
+    "id": "blunt-kos-s6",
     "class": "complete-scooters",
     "category": ["Tõuksid", "Pro tase", "Park"],
     "brand": "Blunt",
@@ -1262,7 +1262,7 @@
     ]
   },
   {
-    "id": "blunt-kos-s7-charge",
+    "id": "blunt-kos-s7",
     "class": "complete-scooters",
     "category": ["Tõuksid", "Pro tase", "Park"],
     "brand": "Blunt",
@@ -1723,7 +1723,7 @@
     ]
   },
   {
-    "id": "blunt-deck-aos-v5-signature-jonathan-perroni-2022",
+    "id": "blunt-deck-aos-v5",
     "class": "complete-scooters",
     "category": ["Pro tase", "Tallad"],
     "brand": "Blunt",
@@ -2083,7 +2083,7 @@
     ]
   },
   {
-    "id": "antics-eclipse-sand-black",
+    "id": "antics-eclipse",
     "class": "complete-scooters",
     "category": ["Komplektsed", "Algaja tase", "Tõukerattad"],
     "brand": "Antics",
@@ -2221,7 +2221,7 @@
     ]
   },
   {
-    "id": "antics-deck-gallery",
+    "id": "antics-deck-gallery-5-x-19-5",
     "class": "scooter-parts",
     "category": ["Osad", "Dekid", "Tõukerattad"],
     "brand": "Antics",
@@ -2510,7 +2510,7 @@
     ]
   },
   {
-    "id": "antics-deck-gallery-5-x-20-5-oranž",
+    "id": "antics-deck-gallery-5-x-20-5",
     "class": "scooter-parts",
     "category": ["Osad", "Dekid", "Tõukerattad"],
     "brand": "Antics",
@@ -3156,7 +3156,7 @@
     ]
   },
   {
-    "id": "aztek-siren-black",
+    "id": "aztek-siren",
     "class": "complete-scooters",
     "category": ["Komplektsed", "Pro tase", "Tõukerattad"],
     "brand": "AZTEK",
@@ -5573,7 +5573,7 @@
         ]
       },
       {
-        "id": "toukeratas-drone-element-2-feather-light-hobedane",
+        "id": "drone-element-2-feather-light-hobedane",
         "name": "Drone E2 Feather-Light tõukeratas - hõbedane",
         "description": [
           "Drone Element 2 Feather-Light tõukeratas viib kergekaalulise freestyle-tõukeratta uuele tasemele. Selle täiustatud komponentide ja tugevdatud, samas ülikerge raamiga pakub see mudel maksimaalset kontrolli pargis ja tänaval.",
@@ -5973,6 +5973,525 @@
           "/products/drone-element-2-feather-light-neochrome-trick-scooter-lightweight-1.jpg",
           "/products/drone-element-2-feather-light-neochrome-trick-scooter-lightweight-2.jpg",
           "/products/drone-element-2-feather-light-neochrome-trick-scooter-lightweight-3.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "drone-kai-saunders-saundezy-signature-element",
+    "class": "complete-scooters",
+    "category": ["Komplektsed", "Edasijõudnud tase", "Tõukerattad"],
+    "brand": "DRONE SCOOTER",
+    "tags": ["trikitõukeratas", "110mm", "alumiinium", "SCS", "park", "street", "freestyle"],
+    "video": "",
+    "variants": [
+      {
+        "id": "drone-kai-saunders-saundezy-signature-element-chrome-blue",
+        "name": "DRONE Kai Saunders 'Saundezy' Signature Element - Kroomsininine",
+        "description": [
+          "Kai Saunders 'Saundezy' Element 2 trikitõukeratas on innovaatiline ja mitmekülgne valik sõitjatele, kes soovivad oma piire ületada.",
+          "Tõukeratas on varustatud Element 2 deckiga mõõtudega 5 tolli x 19,2 tolli ning 82,5° pööramistoru nurgaga, mis tagab suurepärase manööverdamisvõime.",
+          "Komplekti kuulub ka Drone Contrast 3 SCS klamber, Shadow 3 alumiiniumist juhtraud ja Alcolyte 180 mm käepidemed, mis koos moodustavad professionaalse taseme trikitõukeratta."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "DRONE Kai Saunders 'Saundezy' Signature Element on professionaalse taseme trikitõukeratas, mis on loodud koostöös profiratturi Kai Saundersiga. See on ideaalne valik edasijõudnud sõitjatele, kes soovivad oma oskusi arendada nii pargis kui tänaval. Kroomsinine värv koos Kai signatuurgraafika ja perforeeritud ülemise plaadiga annab tõukerattale silmapaistva välimuse."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3,1 kg"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "19,2 tolli (488 mm)"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "5 tolli (127 mm)"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "56 cm"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "SCS"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "Shadow 3 SCS ultra-kerge kahvel"
+                },
+                {
+                  "label": "Klamber",
+                  "value": "Drone Contrast 3 SCS"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "87 cm"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Kroomsininine, Must"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Boxed"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Soovitatav vanus",
+                  "value": "11-15+ aastat"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "82,5°"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "12 kuud"
+                },
+                {
+                  "label": "Juhtraua vorm",
+                  "value": "Y-kujuline"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                },
+                {
+                  "label": "Lisad",
+                  "value": "Reguleeritav 125 mm ultra-kerge pidur, täiendav porikaitse"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Kroomsininine",
+        "color_code": "#4F7CAC",
+        "images": [
+          "/products/drone-kai-saunders-saundezy-signature-element-trikitoukeratas-alumiinium-110mm-kroomsininine-1.jpg",
+          "/products/drone-kai-saunders-saundezy-signature-element-trikitoukeratas-alumiinium-110mm-kroomsininine-2.jpg",
+          "/products/drone-kai-saunders-saundezy-signature-element-trikitoukeratas-alumiinium-110mm-kroomsininine-3.jpg",
+          "/products/drone-kai-saunders-saundezy-signature-element-trikitoukeratas-alumiinium-110mm-kroomsininine-4.jpg",
+          "/products/drone-kai-saunders-saundezy-signature-element-trikitoukeratas-alumiinium-110mm-kroomsininine-5.jpg",
+          "/products/drone-kai-saunders-saundezy-signature-element-trikitoukeratas-alumiinium-110mm-kroomsininine-6.jpg",
+          "/products/drone-kai-saunders-saundezy-signature-element-trikitoukeratas-alumiinium-110mm-kroomsininine-7.jpg"
+        ]
+      },
+      {
+        "id": "drone-kai-saunders-saundezy-signature-element-kroom",
+        "name": "DRONE Kai Saunders 'Saundezy' Signature Element - Kroom",
+        "description": [
+          "Kai Saunders 'Saundezy' Element 2 trikitõukeratas on innovaatiline ja mitmekülgne valik sõitjatele, kes soovivad oma piire ületada.",
+          "Tõukeratas on varustatud Element 2 deckiga mõõtudega 5 tolli x 19,2 tolli ning 82,5° pööramistoru nurgaga, mis tagab suurepärase manööverdamisvõime.",
+          "Komplekti kuulub ka Drone Contrast 3 SCS klamber, Shadow 3 alumiiniumist juhtraud ja Alcolyte 180 mm käepidemed, mis koos moodustavad professionaalse taseme trikitõukeratta."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "DRONE Kai Saunders 'Saundezy' Signature Element on professionaalse taseme trikitõukeratas, mis on loodud koostöös profiratturi Kai Saundersiga. See on ideaalne valik edasijõudnud sõitjatele, kes soovivad oma oskusi arendada nii pargis kui tänaval. Elegantne must värv koos Kai signatuurgraafika ja perforeeritud ülemise plaadiga annab tõukerattale silmapaistva välimuse."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3,1 kg"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "19,2 tolli (488 mm)"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "5 tolli (127 mm)"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "56 cm"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "SCS"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "Shadow 3 SCS ultra-kerge kahvel"
+                },
+                {
+                  "label": "Klamber",
+                  "value": "Drone Contrast 3 SCS"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "87 cm"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Must, Hõbe"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Boxed"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Soovitatav vanus",
+                  "value": "11-15+ aastat"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "82,5°"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "12 kuud"
+                },
+                {
+                  "label": "Juhtraua vorm",
+                  "value": "Y-kujuline"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                },
+                {
+                  "label": "Lisad",
+                  "value": "Reguleeritav 125 mm ultra-kerge pidur, täiendav porikaitse"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Kroom",
+        "color_code": "#000000",
+        "images": [
+          "/products/drone-kai-saunders-saundezy-signature-element-trikitoukeratas-alumiinium-110mm-kroom-1.png",
+          "/products/drone-kai-saunders-saundezy-signature-element-trikitoukeratas-alumiinium-110mm-kroom-2.jpg",
+          "/products/drone-kai-saunders-saundezy-signature-element-trikitoukeratas-alumiinium-110mm-kroom-3.jpg",
+          "/products/drone-kai-saunders-saundezy-signature-element-trikitoukeratas-alumiinium-110mm-kroom-4.jpg",
+          "/products/drone-kai-saunders-saundezy-signature-element-trikitoukeratas-alumiinium-110mm-kroom-5.jpg",
+          "/products/drone-kai-saunders-saundezy-signature-element-trikitoukeratas-alumiinium-110mm-kroom-6.jpg",
+          "/products/drone-kai-saunders-saundezy-signature-element-trikitoukeratas-alumiinium-110mm-kroom-7.png"
+        ]
+      },
+      {
+        "id": "drone-kai-saunders-saundezy-signature-element-black",
+        "name": "DRONE Kai Saunders 'Saundezy' Signature Element - Must",
+        "description": [
+          "Kai Saunders 'Saundezy' Element 2 trikitõukeratas on innovaatiline ja mitmekülgne valik sõitjatele, kes soovivad oma piire ületada.",
+          "Tõukeratas on varustatud Element 2 deckiga mõõtudega 5 tolli x 19,2 tolli ning 82,5° pööramistoru nurgaga, mis tagab suurepärase manööverdamisvõime.",
+          "Komplekti kuulub ka Drone Contrast 3 SCS klamber, Shadow 3 alumiiniumist juhtraud ja Alcolyte 180 mm käepidemed, mis koos moodustavad professionaalse taseme trikitõukeratta."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "DRONE Kai Saunders 'Saundezy' Signature Element on professionaalse taseme trikitõukeratas, mis on loodud koostöös profiratturi Kai Saundersiga. See on ideaalne valik edasijõudnud sõitjatele, kes soovivad oma oskusi arendada nii pargis kui tänaval. Elegantne must värv koos Kai signatuurgraafika ja perforeeritud ülemise plaadiga annab tõukerattale silmapaistva välimuse."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3,1 kg"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "19,2 tolli (488 mm)"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "5 tolli (127 mm)"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "56 cm"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "SCS"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "Shadow 3 SCS ultra-kerge kahvel"
+                },
+                {
+                  "label": "Klamber",
+                  "value": "Drone Contrast 3 SCS"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "85 cm"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Must"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Boxed"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Soovitatav vanus",
+                  "value": "9-15+ aastat"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "82,5°"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "12 kuud"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                },
+                {
+                  "label": "Lisad",
+                  "value": "Reguleeritav 125 mm ultra-kerge pidur, täiendav porikaitse"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Must",
+        "color_code": "#000000",
+        "images": [
+          "/products/drone-kai-saunders-saundezy-signature-element-trikitoukeratas-alumiinium-110mm-must-1.png",
+          "/products/drone-kai-saunders-saundezy-signature-element-trikitoukeratas-alumiinium-110mm-must-2.jpg",
+          "/products/drone-kai-saunders-saundezy-signature-element-trikitoukeratas-alumiinium-110mm-must-3.jpg",
+          "/products/drone-kai-saunders-saundezy-signature-element-trikitoukeratas-alumiinium-110mm-must-4.jpg",
+          "/products/drone-kai-saunders-saundezy-signature-element-trikitoukeratas-alumiinium-110mm-must-5.jpg",
+          "/products/drone-kai-saunders-saundezy-signature-element-trikitoukeratas-alumiinium-110mm-must-6.jpg",
+          "/products/drone-kai-saunders-saundezy-signature-element-trikitoukeratas-alumiinium-110mm-must-7.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "drone-kai-saunders-saundezy-signature-nexus",
+    "class": "complete-scooters",
+    "category": ["Komplektsed", "Eksperttase", "Tõukerattad"],
+    "brand": "DRONE SCOOTER",
+    "tags": ["trikitõukeratas", "110mm", "chromoly", "SCS", "park", "street", "freestyle"],
+    "video": "",
+    "variants": [
+      {
+        "id": "drone-kai-saunders-saundezy-signature-nexus-black",
+        "name": "DRONE Kai Saunders 'Saundezy' Signature Nexus - Must",
+        "description": [
+          "Kai Saunders 'Saundezy' Nexus trikitõukeratas on meie tippmudel street-sõiduks, mis on varustatud Kai 'Saundezy' 6.5-tollise Street deckiga.",
+          "See on loodud kogenud street-sõitjatele, kombineerides jõudlust, stiili ja vastupidavust, et pakkuda erakordset sõidukogemust.",
+          "Tõukeratas on varustatud perforeeritud ülemise plaadiga, Kai signatuurgraafika ning Drone Contrast 3 SCS klambriga, mis tagab professionaalse sõidukogemuse."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "DRONE Kai Saunders 'Saundezy' Signature Nexus on professionaalne trikitõukeratas, mis on spetsiaalselt disainitud street-sõiduks. See on loodud koostöös profiratturi Kai Saundersiga, pakkudes tipptasemel jõudlust ja vastupidavust. Must värv koos Kai signatuurgraafika ja perforeeritud ülemise plaadiga annab tõukerattale pilkupüüdva välimuse, samal ajal kui 84° pööramistoru nurk tagab täpse manööverdamisvõime."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3,7 kg"
+                },
+                {
+                  "label": "Decki pikkus",
+                  "value": "22 tolli (559 mm)"
+                },
+                {
+                  "label": "Decki laius",
+                  "value": "6,5 tolli (165 mm)"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "71 cm"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "SCS"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Chromoly teras"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "Shadow 3 Feather-Light SCS kahvel"
+                },
+                {
+                  "label": "Klamber",
+                  "value": "Drone Contrast 3 SCS"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "91 cm"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Must"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Boxed"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Chromoly teras"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Soovitatav vanus",
+                  "value": "7-15+ aastat"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "84°"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "12 kuud"
+                },
+                {
+                  "label": "Juhtraua vorm",
+                  "value": "T-kujuline"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                },
+                {
+                  "label": "Lisad",
+                  "value": "Uus 125 mm Feather-Light reguleeritav porikaitse, täiendav terasest pidur"
+                },
+                {
+                  "label": "Rataste ühilduvus",
+                  "value": "Ühilduv 120 mm ja 30 mm laiuste ratastega, 12STD valikutega"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Must",
+        "color_code": "#000000",
+        "images": [
+          "/products/drone-kai-saunders-saundezy-signature-nexus-trikitoukeratas-chromoly-110mm-must-1.jpg",
+          "/products/drone-kai-saunders-saundezy-signature-nexus-trikitoukeratas-chromoly-110mm-must-2.jpg",
+          "/products/drone-kai-saunders-saundezy-signature-nexus-trikitoukeratas-chromoly-110mm-must-3.jpg",
+          "/products/drone-kai-saunders-saundezy-signature-nexus-trikitoukeratas-chromoly-110mm-must-4.jpg",
+          "/products/drone-kai-saunders-saundezy-signature-nexus-trikitoukeratas-chromoly-110mm-must-5.jpg",
+          "/products/drone-kai-saunders-saundezy-signature-nexus-trikitoukeratas-chromoly-110mm-must-6.jpg"
         ]
       }
     ]
