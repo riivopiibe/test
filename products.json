@@ -3809,5 +3809,531 @@
         ]
       }
     ]
+  },
+  {
+    "id": "aztek-architect",
+    "class": "complete-scooters",
+    "category": [
+      "Komplektsed",
+      "Algaja tase",
+      "Tõukerattad"
+    ],
+    "brand": "AZTEK",
+    "tags": [
+      "Complete",
+      "SCS",
+      "Park"
+    ],
+    "video": "",
+    "variants": [
+      {
+        "id": "aztek-architect-black",
+        "name": "AZTEK Architect - Black",
+        "description": [
+          "Tutvustame AZTEK Architect täiskomplektse trikitõukeratta uusimat versiooni.",
+          "Architect Complete on AZTEK-i uusim sisenemistaseme trikitõukeratta mudel. See on varustatud 5,5 x 21 (127 mm x 533 mm) kerge deckega.",
+          "Chromoly juhtraud ja kahvel ning 110 mm kõrge põrkuvusega rattad taluvad kõiki koormusi. SCS kompressioonisüsteem hoiab kõik komponendid kindlalt paigas, tagades stabiilse sõidukogemuse."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "AZTEK Architect Black on suurepärane sisenemistaseme täiskomplektne trikitõukeratas, mis on ideaalne algajatele ja kesktaseme sõitjatele. See on loodud pakkuma usaldusväärset jõudlust ja vastupidavust soodsa hinnaga. Klassikaline must disain sobib igale sõitjale, pakkudes ajatut ja universaalset välimust."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Decki mõõdud",
+                  "value": "5,5 x 21 (127 mm x 533 mm)"
+                },
+                {
+                  "label": "Jalad",
+                  "value": "Vastupidavad nailonist sisendid"
+                },
+                {
+                  "label": "Juhtraud",
+                  "value": "26 x 22 (660 mm x 560 mm) Chromoly T-Bars"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "SCS"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "Valatud kroomkahvel"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "Architect 2 110 mm"
+                },
+                {
+                  "label": "Käepidemed",
+                  "value": "Aztek Lite"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "88 cm"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Must"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Kasutusala",
+                  "value": "Park"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "32,34 mm"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Soovitatav vanus",
+                  "value": "13-15 aastat"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83°"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "2 aastat"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Chromoly teras"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "660 mm"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Must",
+        "color_code": "#000000",
+        "source_price": 90.0,
+        "price": 199.9,
+        "discounted_price": 179.9,
+        "stock": 99,
+        "images": [
+          "/products/aztek-architect-black-trikitoukeratas-110mm-algaja-1.png",
+          "/products/aztek-architect-black-trikitoukeratas-110mm-algaja-2.png",
+          "/products/aztek-architect-black-trikitoukeratas-110mm-algaja-3.png",
+          "/products/aztek-architect-black-trikitoukeratas-110mm-algaja-4.png",
+          "/products/aztek-architect-black-trikitoukeratas-110mm-algaja-5.png"
+        ]
+      },
+      {
+        "id": "aztek-architect-silver",
+        "name": "AZTEK Architect - Silver",
+        "description": [
+          "Tutvustame AZTEK Architect täiskomplektse trikitõukeratta uusimat versiooni hõbedases toonis.",
+          "Architect Complete on AZTEK-i uusim sisenemistaseme trikitõukeratta mudel. See on varustatud 5,5 x 21 (127 mm x 533 mm) kerge deckega, mis on ideaalne algajatele pargi sõidustiili harrastajatele.",
+          "Vastupidav Chromoly juhtraud ja kahvel ning 110 mm kõrge põrkuvusega rattad tagavad pikaajalise kasutuskindluse. SCS kompressioonisüsteem hoiab kõik komponendid turvaliselt koos, pakkudes stabiilset ja nauditavat sõidukogemust."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "AZTEK Architect Silver on kvaliteetne sisenemistaseme täiskomplektne trikitõukeratas, mis paistab silma elegantse hõbedase ja musta värvikombinatsiooniga. See on loodud pakkuma suurepärast jõudlust ja vastupidavust soodsa hinnaga. Tänu oma optimaalsele suurusele ja kaalule sobib see ideaalselt algajatele ja kesktaseme sõitjatele, kes soovivad arendada oma oskusi pargi keskkonnas."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Decki mõõdud",
+                  "value": "5,5 x 21 (127 mm x 533 mm)"
+                },
+                {
+                  "label": "Jalad",
+                  "value": "Vastupidavad nailonist sisendid"
+                },
+                {
+                  "label": "Juhtraud",
+                  "value": "26 x 22 (660 mm x 560 mm) Chromoly T-Bars"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "SCS"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "Valatud kroomkahvel"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "Architect 2 110 mm"
+                },
+                {
+                  "label": "Käepidemed",
+                  "value": "Aztek Lite"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "88 cm"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Hõbedane, Must"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Kasutusala",
+                  "value": "Park"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "32,34 mm"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Soovitatav vanus",
+                  "value": "13-15 aastat"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83°"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "2 aastat"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Chromoly teras"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "660 mm"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Hõbedane",
+        "color_code": "#C0C0C0",
+        "source_price": 90.0,
+        "price": 199.9,
+        "discounted_price": 179.9,
+        "stock": 99,
+        "images": [
+          "/products/aztek-architect-silver-trikitoukeratas-110mm-hobedane-algaja-1.png",
+          "/products/aztek-architect-silver-trikitoukeratas-110mm-hobedane-algaja-2.png",
+          "/products/aztek-architect-silver-trikitoukeratas-110mm-hobedane-algaja-3.png",
+          "/products/aztek-architect-silver-trikitoukeratas-110mm-hobedane-algaja-4.png",
+          "/products/aztek-architect-silver-trikitoukeratas-110mm-hobedane-algaja-5.png"
+        ]
+      },
+      {
+        'id': 'aztek-architect-gray',
+        'name': 'AZTEK Architect - Gray',
+        'description': [
+          'Tutvustame AZTEK Architect täiskomplektse trikitõukeratta uusimat versiooni halliks värvitud disainiga.',
+          'Architect Complete on AZTEK-i populaarne sisenemistaseme trikitõukeratta mudel. See on varustatud kompaktse 5,5 x 21 (127 mm x 533 mm) kerge deckega, mis sobib ideaalselt algajatele ja kesktaseme sõitjatele.',
+          'Kvaliteetne Chromoly juhtraud ja kahvel ning 110 mm kõrge põrkuvusega rattad pakuvad suurepärast vastupidavust igapäevasel kasutamisel. SCS kompressioonisüsteem tagab kõikide komponentide kindla ühenduse, pakkudes turvalist ja nauditavat sõidukogemust.'
+        ],
+        'specifications': [
+          {
+            'title': 'TOOTEKIRJELDUS',
+            'description': 'AZTEK Architect Gray on kaasaegne sisenemistaseme täiskomplektne trikitõukeratas, mis on loodud pakkuma suurepärast tasakaalu jõudluse, vastupidavuse ja hinna vahel. Elegantne hall värvitoon annab tõukerattale modernse ja stiilse välimuse, mis eristub teistest mudelitest. See on ideaalne valik algajatele ja kesktaseme sõitjatele, kes soovivad arendada oma oskusi pargi keskkonnas.'
+          },
+          {
+            'title': 'TEHNILISED ANDMED',
+            'table': {
+              'main': [
+                {
+                  'label': 'Decki mõõdud',
+                  'value': '5,5" x 21" (127 mm x 533 mm)'
+                },
+                {
+                  'label': 'Jalad',
+                  'value': 'Vastupidavad nailonist sisendid'
+                },
+                {
+                  'label': 'Juhtraud',
+                  'value': '26 x 22 (660 mm x 560 mm) Chromoly T-Bars'
+                },
+                {
+                  'label': 'Kompressioonisüsteem',
+                  'value': 'SCS'
+                },
+                {
+                  'label': 'Kahvel',
+                  'value': 'Valatud kroomkahvel'
+                },
+                {
+                  'label': 'Rattad',
+                  'value': 'Architect 2 110 mm'
+                },
+                {
+                  'label': 'Käepidemed',
+                  'value': 'Aztek Lite'
+                },
+                {
+                  'label': 'Kogukõrgus',
+                  'value': '88 cm'
+                },
+                {
+                  'label': 'Värv',
+                  'value': 'Hall'
+                },
+                {
+                  'label': 'Vorm',
+                  'value': 'Box-cut'
+                },
+                {
+                  'label': 'Materjal',
+                  'value': 'Alumiinium'
+                },
+                {
+                  'label': 'Rataste läbimõõt',
+                  'value': '110 mm'
+                },
+                {
+                  'label': 'Kasutusala',
+                  'value': 'Park'
+                },
+                {
+                  'label': 'Klambri läbimõõt',
+                  'value': '32,34 mm'
+                },
+                {
+                  'label': 'Kahvli tüüp',
+                  'value': 'Keermestamata'
+                },
+                {
+                  'label': 'Soovitatav vanus',
+                  'value': '13-15 aastat'
+                },
+                {
+                  'label': 'Headtube nurk',
+                  'value': '83°'
+                },
+                {
+                  'label': 'Garantii',
+                  'value': '2 aastat'
+                },
+                {
+                  'label': 'Juhtraua materjal',
+                  'value': 'Chromoly teras'
+                },
+                {
+                  'label': 'Juhtraua kõrgus',
+                  'value': '660 mm'
+                },
+                {
+                  'label': 'Juhtraua läbimõõt',
+                  'value': '34,9 mm'
+                },
+                {
+                  'label': 'Piduri tüüp',
+                  'value': 'Flex fender'
+                },
+                {
+                  'label': 'Montaaž',
+                  'value': 'Osaline'
+                }
+              ]
+            }
+          }
+        ],
+        'color': 'Hall',
+        'color_code': '#808080',
+        'source_price': 90.0,
+        'price': 199.9,
+        'discounted_price': 179.9,
+        'stock': 99,
+        'images': [
+          '/products/aztek-architect-gray-trikitoukeratas-110mm-hall-algaja-1.png',
+          '/products/aztek-architect-gray-trikitoukeratas-110mm-hall-algaja-2.png',
+          '/products/aztek-architect-gray-trikitoukeratas-110mm-hall-algaja-3.png',
+          '/products/aztek-architect-gray-trikitoukeratas-110mm-hall-algaja-4.png',
+          '/products/aztek-architect-gray-trikitoukeratas-110mm-hall-algaja-5.png'
+        ]
+      },
+      {
+        "id": "aztek-architect-blue",
+        "name": "AZTEK Architect - Blue",
+        "description": [
+          "Tutvustame AZTEK Architect täiskomplektse trikitõukeratta uusimat versiooni silmapaistva sinise värvitooniga.",
+          "Architect Complete on AZTEK-i populaarne sisenemistaseme trikitõukeratta mudel. See on varustatud 5,5 x 21 (127 mm x 533 mm) kerge deckega, mis on ideaalne algajatele ja kesktaseme pargi sõidustiili harrastajatele.",
+          "Vastupidav Chromoly juhtraud ja kahvel ning 110 mm kõrge põrkuvusega rattad taluvad kõiki koormusi, tagades pikaajalise kasutuskindluse. SCS kompressioonisüsteem hoiab kõik komponendid kindlalt koos, pakkudes stabiilset ja nauditavat sõidukogemust."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "AZTEK Architect Blue on värvikas ja energiline sisenemistaseme täiskomplektne trikitõukeratas, mis paistab silma erksalt sinise värvitooniga. See on loodud pakkuma suurepärast jõudlust ja vastupidavust soodsa hinnaga. Tänu oma optimaalsele suurusele ja kaalule sobib see ideaalselt algajatele ja kesktaseme sõitjatele, kes soovivad arendada oma oskusi pargi keskkonnas, samal ajal silma paistes oma unikaalse välimusega."
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Decki mõõdud",
+                  "value": "5,5 x 21 (127 mm x 533 mm)"
+                },
+                {
+                  "label": "Jalad",
+                  "value": "Vastupidavad nailonist sisendid"
+                },
+                {
+                  "label": "Juhtraud",
+                  "value": "26 x 22 (660 mm x 560 mm) Chromoly T-Bars"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "SCS"
+                },
+                {
+                  "label": "Kahvel",
+                  "value": "Valatud kroomkahvel"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "Architect 2 110 mm"
+                },
+                {
+                  "label": "Käepidemed",
+                  "value": "Aztek Lite"
+                },
+                {
+                  "label": "Kogukõrgus",
+                  "value": "88 cm"
+                },
+                {
+                  "label": "Värv",
+                  "value": "Sinine"
+                },
+                {
+                  "label": "Vorm",
+                  "value": "Box-cut"
+                },
+                {
+                  "label": "Materjal",
+                  "value": "Alumiinium"
+                },
+                {
+                  "label": "Rataste läbimõõt",
+                  "value": "110 mm"
+                },
+                {
+                  "label": "Kasutusala",
+                  "value": "Park"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "32,34 mm"
+                },
+                {
+                  "label": "Kahvli tüüp",
+                  "value": "Keermestamata"
+                },
+                {
+                  "label": "Soovitatav vanus",
+                  "value": "13-15 aastat"
+                },
+                {
+                  "label": "Headtube nurk",
+                  "value": "83°"
+                },
+                {
+                  "label": "Garantii",
+                  "value": "2 aastat"
+                },
+                {
+                  "label": "Juhtraua materjal",
+                  "value": "Chromoly teras"
+                },
+                {
+                  "label": "Juhtraua kõrgus",
+                  "value": "660 mm"
+                },
+                {
+                  "label": "Juhtraua läbimõõt",
+                  "value": "34,9 mm"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Montaaž",
+                  "value": "Osaline"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Sinine",
+        "color_code": "#0000FF",
+        "source_price": 90.0,
+        "price": 199.9,
+        "discounted_price": 179.9,
+        "stock": 63,
+        "images": [
+          "/products/aztek-architect-blue-trikitoukeratas-110mm-sinine-algaja-1.png",
+          "/products/aztek-architect-blue-trikitoukeratas-110mm-sinine-algaja-2.png",
+          "/products/aztek-architect-blue-trikitoukeratas-110mm-sinine-algaja-3.png",
+          "/products/aztek-architect-blue-trikitoukeratas-110mm-sinine-algaja-4.png",
+          "/products/aztek-architect-blue-trikitoukeratas-110mm-sinine-algaja-5.png"
+        ]
+      }
+    ]
   }
 ]
