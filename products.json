@@ -222,7 +222,7 @@
             }
           }
         ],
-        "color": "Oil Slick",
+        "color": "Roosa",
         "color_code": "#FF00EE",
         "source_price": 110.0,
         "price": 239,
@@ -960,7 +960,7 @@
             }
           }
         ],
-        "color": "Must/Oil Slick",
+        "color": "Must",
         "color_code": "#000000",
         "source_price": 100.0,
         "price": 249,
@@ -1406,7 +1406,7 @@
             }
           }
         ],
-        "color": "Multicolor ja must",
+        "color": "Must",
         "color_code": "#000000",
         "source_price": 155.0,
         "price": 420,
@@ -1795,7 +1795,7 @@
             }
           }
         ],
-        "color": "Multicolor",
+        "color": "Must",
         "color_code": "#000000",
         "source_price": 100.0,
         "price": 235,
@@ -4066,7 +4066,7 @@
             }
           }
         ],
-        "color": "Hõbedane",
+        "color": "Hõbe",
         "color_code": "#C0C0C0",
         "source_price": 90.0,
         "price": 199.9,
@@ -5138,8 +5138,8 @@
             }
           }
         ],
-        "color": "Suitsukroom",
-        "color_code": "#8C8C8C",
+        "color": "Hall",
+        "color_code": "#808080",
         "source_price": 339.90,
         "price": 339.90,
         "discounted_price": null,
@@ -5401,7 +5401,7 @@
             }
           }
         ],
-        "color": "Anodeeritud Hõbe",
+        "color": "Hõbe",
         "color_code": "#C0C0C0",
         "source_price": 319.90,
         "price": 319.90,
@@ -6098,7 +6098,7 @@
             }
           }
         ],
-        "color": "Sininine",
+        "color": "Sinine",
         "color_code": "#2FCACE",
         "source_price": 110.0,
         "price": 239,
@@ -6227,8 +6227,8 @@
             }
           }
         ],
-        "color": "Kroom",
-        "color_code": "#000000",
+        "color": "Hall",
+        "color_code": "#C0C0C0",
         "source_price": 110.0,
         "price": 239,
         "discounted_price": 229,
@@ -6975,7 +6975,7 @@
             }
           }
         ],
-        "color": "Serpent (Hall/Must)",
+        "color": "Hall",
         "color_code": "#808080",
         "source_price": 209.90,
         "price": 209.90,
@@ -7124,7 +7124,7 @@
             }
           }
         ],
-        "color": "Matt must",
+        "color": "Must",
         "color_code": "#000000",
         "source_price": 349.90,
         "price": 349.90,
@@ -7680,7 +7680,7 @@
             }
           }
         ],
-        "color": "Must/Raw",
+        "color": "Must",
         "color_code": "#000000",
         "source_price": 299.90,
         "price": 299.90,
@@ -8771,7 +8771,7 @@
             }
           }
         ],
-        "color": "Kõmind (must)",
+        "color": "Must",
         "color_code": "#000000",
         "source_price": 299.90,
         "price": 299.90,
@@ -8973,8 +8973,8 @@
             }
           }
         ],
-        "color": "Võimsus (roosa)",
-        "color_code": "#FF69B4",
+        "color": "Roosa",
+        "color_code": "#FF00EE",
         "source_price": 299.90,
         "price": 299.90,
         "discounted_price": null,
@@ -9092,8 +9092,8 @@
             }
           }
         ],
-        "color": "Metallik Must",
-        "color_code": "#2C3539",
+        "color": "Must",
+        "color_code": "#000000",
         "source_price": 299.90,
         "price": 299.90,
         "discounted_price": null,
@@ -9849,7 +9849,7 @@
             }
           }
         ],
-        "color": "Punane Pragunemine",
+        "color": "Punane",
         "color_code": "#FF0000",
         "source_price": 299.90,
         "price": 299.90,
@@ -10773,7 +10773,7 @@
             }
           }
         ],
-        "color": "Punane Ämbevõrk",
+        "color": "Punane",
         "color_code": "#FF0000",
         "source_price": 299.90,
         "price": 299.90,
