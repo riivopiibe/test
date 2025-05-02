@@ -368,7 +368,7 @@
             }
           }
         ],
-        "color": "Burnt Pipe",
+        "color": "Lilla",
         "color_code": "#7F00FF",
         "source_price": 110.0,
         "price": 239,
@@ -1100,7 +1100,7 @@
             }
           }
         ],
-        "color": "Oil Slick",
+        "color": "Roosa",
         "color_code": "#FF00EE",
         "source_price": 100.0,
         "price": 239,
@@ -2203,8 +2203,8 @@
             }
           }
         ],
-        "color": "Liiv",
-        "color_code": "#DE943A",
+        "color": "Kollane",
+        "color_code": "#FFD700",
         "source_price": 90.0,
         "price": 229.9,
         "discounted_price": 190,
@@ -5685,7 +5685,7 @@
             }
           }
         ],
-        "color": "Hõbedane",
+        "color": "Hõbe",
         "color_code": "#C0C0C0",
         "source_price": 130.0,
         "price": 279.95,
@@ -5826,8 +5826,8 @@
             }
           }
         ],
-        "color": "Suitsukroom",
-        "color_code": "#8C8C8C",
+        "color": "Hall",
+        "color_code": "#808080",
         "source_price": 269.90,
         "price": 269.90,
         "discounted_price": null,
@@ -8269,8 +8269,8 @@
             }
           }
         ],
-        "color": "Neokroom",
-        "color_code": "#9966CC",
+        "color": "Lilla",
+        "color_code": "#7F00FF",
         "source_price": 299.90,
         "price": 299.90,
         "discounted_price": null,
@@ -8414,8 +8414,8 @@
             }
           }
         ],
-        "color": "Neokroom/Must",
-        "color_code": "#7D3C98",
+        "color": "Lilla",
+        "color_code": "#7F00FF",
         "source_price": 299.90,
         "price": 299.90,
         "discounted_price": null,
@@ -8670,8 +8670,8 @@
             }
           }
         ],
-        "color": "Ametüst (must & hõbe)",
-        "color_code": "#9966CC",
+        "color": "Lilla",
+        "color_code": "#7F00FF",
         "source_price": 299.90,
         "price": 299.90,
         "discounted_price": null,
@@ -10918,8 +10918,8 @@
             }
           }
         ],
-        "color": "Kuld",
-        "color_code": "#D4AF37",
+        "color": "Kollane",
+        "color_code": "#FFD700",
         "source_price": 299.90,
         "price": 299.90,
         "discounted_price": null,
@@ -11688,8 +11688,8 @@
             }
           }
         ],
-        "color": "Kuld",
-        "color_code": "#D4AF37",
+        "color": "Kollane",
+        "color_code": "#FFD700",
         "source_price": 299.90,
         "price": 299.90,
         "discounted_price": null,
