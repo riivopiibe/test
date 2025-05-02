@@ -656,8 +656,8 @@
             }
           }
         ],
-        "color": "Blue",
-        "color_code": "#0000FF",
+        "color": "Sinine",
+        "color_code": "#2FCACE",
         "source_price": 110.0,
         "price": 239,
         "discounted_price": 229,
@@ -3140,7 +3140,7 @@
           }
         ],
         "color": "Sinine",
-        "color_code": "#0000FF",
+        "color_code": "#2FCACE",
         "source_price": 120.0,
         "price": 279.9,
         "discounted_price": 249.9,
@@ -4321,7 +4321,7 @@
           }
         ],
         "color": "Sinine",
-        "color_code": "#0000FF",
+        "color_code": "#2FCACE",
         "source_price": 90.0,
         "price": 199.9,
         "discounted_price": 179.9,
@@ -5987,7 +5987,7 @@
     "variants": [
       {
         "id": "drone-kai-saunders-saundezy-signature-element-chrome-blue",
-        "name": "DRONE Kai Saunders 'Saundezy' Signature Element - Kroomsininine",
+        "name": "DRONE Saundezy Signature Element - Kroomsininine",
         "description": [
           "Kai Saunders 'Saundezy' Element 2 trikitõukeratas on innovaatiline ja mitmekülgne valik sõitjatele, kes soovivad oma piire ületada.",
           "Tõukeratas on varustatud Element 2 deckiga mõõtudega 5 tolli x 19,2 tolli ning 82,5° pööramistoru nurgaga, mis tagab suurepärase manööverdamisvõime.",
@@ -6098,8 +6098,8 @@
             }
           }
         ],
-        "color": "Kroomsininine",
-        "color_code": "#4F7CAC",
+        "color": "Sininine",
+        "color_code": "#2FCACE",
         "source_price": 110.0,
         "price": 239,
         "discounted_price": 229,
@@ -6116,7 +6116,7 @@
       },
       {
         "id": "drone-kai-saunders-saundezy-signature-element-kroom",
-        "name": "DRONE Kai Saunders 'Saundezy' Signature Element - Kroom",
+        "name": "DRONE Saundezy Signature Element - Kroom",
         "description": [
           "Kai Saunders 'Saundezy' Element 2 trikitõukeratas on innovaatiline ja mitmekülgne valik sõitjatele, kes soovivad oma piire ületada.",
           "Tõukeratas on varustatud Element 2 deckiga mõõtudega 5 tolli x 19,2 tolli ning 82,5° pööramistoru nurgaga, mis tagab suurepärase manööverdamisvõime.",
@@ -6245,7 +6245,7 @@
       },
       {
         "id": "drone-kai-saunders-saundezy-signature-element-black",
-        "name": "DRONE Kai Saunders 'Saundezy' Signature Element - Must",
+        "name": "DRONE Saundezy Signature Element - Must",
         "description": [
           "Kai Saunders 'Saundezy' Element 2 trikitõukeratas on innovaatiline ja mitmekülgne valik sõitjatele, kes soovivad oma piire ületada.",
           "Tõukeratas on varustatud Element 2 deckiga mõõtudega 5 tolli x 19,2 tolli ning 82,5° pööramistoru nurgaga, mis tagab suurepärase manööverdamisvõime.",
@@ -6380,7 +6380,7 @@
     "variants": [
       {
         "id": "drone-kai-saunders-saundezy-signature-nexus-black",
-        "name": "DRONE Kai Saunders 'Saundezy' Signature Nexus - Must",
+        "name": "DRONE Saundezy Signature Nexus - Must",
         "description": [
           "Kai Saunders 'Saundezy' Nexus trikitõukeratas on meie tippmudel street-sõiduks, mis on varustatud Kai 'Saundezy' 6.5-tollise Street deckiga.",
           "See on loodud kogenud street-sõitjatele, kombineerides jõudlust, stiili ja vastupidavust, et pakkuda erakordset sõidukogemust.",
@@ -6665,8 +6665,8 @@
             }
           }
         ],
-        "color": "Pinnacle (Sinine/Must)",
-        "color_code": "#0000FF",
+        "color": "Sinine",
+        "color_code": "#2FCACE",
         "source_price": 209.90,
         "price": 209.90,
         "discounted_price": null,
@@ -7979,8 +7979,8 @@
             }
           }
         ],
-        "color": "Sinine Kroom",
-        "color_code": "#4169E1",
+        "color": "Sinine",
+        "color_code": "#2FCACE",
         "source_price": 299.90,
         "price": 299.90,
         "discounted_price": null,
@@ -8872,8 +8872,8 @@
             }
           }
         ],
-        "color": "Neutron (must & sinine)",
-        "color_code": "#0000FF",
+        "color": "Sinine",
+        "color_code": "#2FCACE",
         "source_price": 299.90,
         "price": 299.90,
         "discounted_price": null,
@@ -11575,8 +11575,8 @@
             }
           }
         ],
-        "color": "Neoon Sinine",
-        "color_code": "#1E90FF",
+        "color": "Sinine",
+        "color_code": "#2FCACE",
         "source_price": 299.90,
         "price": 299.90,
         "discounted_price": null,
