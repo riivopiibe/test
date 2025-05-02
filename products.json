@@ -108,7 +108,7 @@
             }
           }
         ],
-        "color": "Must/Oil Slick",
+        "color": "Must",
         "color_code": "#000000",
         "source_price": 110.0,
         "price": 239,
@@ -510,7 +510,7 @@
             }
           }
         ],
-        "color": "Golden",
+        "color": "Kollane",
         "color_code": "#FFD700",
         "source_price": 110.0,
         "price": 239,
@@ -3522,8 +3522,8 @@
             }
           }
         ],
-        "color": "Zircon Sand (kollane)",
-        "color_code": "#F4CA16",
+        "color": "Kollane",
+        "color_code": "#FFD700",
         "source_price": 120.0,
         "price": 269.9,
         "discounted_price": 249.9,
@@ -4447,8 +4447,8 @@
             }
           }
         ],
-        "color": "Zircon Sand",
-        "color_code": "#E6BE8A",
+        "color": "Kollane",
+        "color_code": "#FFD700",
         "source_price": 90.0,
         "price": 199.9,
         "discounted_price": 179.9,
@@ -6820,7 +6820,7 @@
             }
           }
         ],
-        "color": "Prophecy (Must/Kuld)",
+        "color": "Kollane",
         "color_code": "#FFD700",
         "source_price": 209.90,
         "price": 209.90,
@@ -7402,7 +7402,7 @@
             }
           }
         ],
-        "color": "Must/Raw",
+        "color": "Must",
         "color_code": "#000000",
         "source_price": 299.90,
         "price": 299.90,
@@ -8124,8 +8124,8 @@
             }
           }
         ],
-        "color": "Kuldne Kroom",
-        "color_code": "#D4AF37",
+        "color": "Kollane",
+        "color_code": "#FFD700",
         "source_price": 299.90,
         "price": 299.90,
         "discounted_price": null,
@@ -9533,8 +9533,8 @@
             }
           }
         ],
-        "color": "Kuld",
-        "color_code": "#D4AF37",
+        "color": "Kollane",
+        "color_code": "#FFD700",
         "source_price": 299.90,
         "price": 299.90,
         "discounted_price": null,
@@ -9696,7 +9696,7 @@
             }
           }
         ],
-        "color": "Kuld Pragunemine",
+        "color": "Kollane",
         "color_code": "#D4AF37",
         "source_price": 299.90,
         "price": 299.90,
@@ -10002,7 +10002,7 @@
             }
           }
         ],
-        "color": "Kuld/Roosa Laava",
+        "color": "Kollane",
         "color_code": "#FFD700",
         "source_price": 299.90,
         "price": 299.90,
@@ -10157,8 +10157,8 @@
             }
           }
         ],
-        "color": "Kollane & Must",
-        "color_code": "#FFFF00",
+        "color": "Kollane",
+        "color_code": "#FFD700",
         "source_price": 299.90,
         "price": 299.90,
         "discounted_price": null,
