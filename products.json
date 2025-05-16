@@ -1,795 +1,145 @@
 [
   {
-    "id": "blunt-prodigy-x-park",
+    "id": "blunt-colt-s5",
     "class": "complete-scooters",
-    "category": ["Tõuksid", "Pro tase", "Park"],
+    "category": ["Tõuksid", "Kesktase", "Park"],
     "brand": "Blunt",
     "tags": ["Complete", "IHC"],
-    "video": "https://www.youtube.com/embed/XZS76UFoCzM",
+    "video": "https://www.youtube.com/embed/u5W1_OJEhLQ?si=FO1gCvFqq9qcxZ9l",
+    "specifications": [
+      {
+        "title": "TOOTEKIRJELDUS",
+        "description": "Blunt Colt S5 on osa uuest COLT S5 tõukerataste seeriast, mis on disainitud kasutades kvaliteetseid Prodigy seeria komponente, kuid soodsamal hinnatasemel. See trikitõukeratas on ideaalne algajatele ja kesktasemel sõitjatele, kes soovivad arendada oma oskusi skeidipargis. Saadaval erksinises ja erkrohelises värvitoonis, mis annavad tõukerattale silmapaistva ja energilise välimuse."
+      },
+      {
+        "title": "TEHNILISED ANDMED",
+        "table": {
+          "main": [
+            {
+              "label": "Kaal",
+              "value": "3.74kg"
+            },
+            {
+              "label": "Jalaruumi laius",
+              "value": "35cm"
+            },
+            {
+              "label": "Tõuksi kogukõrgus",
+              "value": "84cm"
+            },
+            {
+              "label": "Talla pikkus",
+              "value": "49.5cm"
+            },
+            {
+              "label": "Talla laius",
+              "value": "12cm"
+            },
+            {
+              "label": "Lenksu materjal",
+              "value": "4130 Cromoly teras"
+            },
+            {
+              "label": "Lenksu kõrgus",
+              "value": "58cm"
+            },
+            {
+              "label": "Lenksu laius",
+              "value": "52cm"
+            },
+            {
+              "label": "Lenksu väline läbimõõt",
+              "value": "31.8mm"
+            },
+            {
+              "label": "Gripid",
+              "value": "16cm pikad TPR käepidemed nailonist lenksu otsikutega"
+            },
+            {
+              "label": "Klamber",
+              "value": "2 poldiga 6061 standardne alumiiniumklamber, 6mm poldid"
+            },
+            {
+              "label": "Klambri läbimõõt",
+              "value": "32.34mm"
+            },
+            {
+              "label": "Kahvli tüüp",
+              "value": "Keermeta"
+            },
+            {
+              "label": "Rattad",
+              "value": "110mm"
+            },
+            {
+              "label": "Pidur",
+              "value": "Nailonist pealekruvitav, 5mm poldiga"
+            },
+            {
+              "label": "Piduri tüüp",
+              "value": "Flex fender"
+            },
+            {
+              "label": "Griptape",
+              "value": "Kõrgkvaliteetne 2-osaline"
+            },
+            {
+              "label": "Kokkusurumissüsteem",
+              "value": "IHC (Internal Hidden Compression)"
+            },
+            {
+              "label": "Sõidustiil",
+              "value": "Park"
+            },
+            {
+              "label": "Kokkupanek",
+              "value": "Osaliselt kokkupandud"
+            }
+          ]
+        }
+      }
+    ],
     "variants": [
       {
-        "id": "blunt-prodigy-x-must-oil-slick",
-        "name": "Blunt Prodigy X - Must/Oil Slick",
+        "id": "blunt-colt-s5-sinine",
+        "name": "Blunt Colt S5 - Sinine",
         "description": [
-          "Blunt Prodigy X tõukeratas on kümnes põlvkond legendaarsest Prodigy sarjast, mis on tuntud oma professionaalse kvaliteedi ja stiili poolest. Musta ja Oil Slick värvikombinatsiooniga mudel ei jää märkamata ühelgi rajal. Tänu aerodünaamilisele dekile koos täiustatud Extech extrusiooniga on see kerge ja vastupidav tõukeratas, mis sobib ideaalselt nii pargi kui ka tänava jaoks."
-        ],
-        "specifications": [
-          {
-            "title": "TOOTEKIRJELDUS",
-            "description": "Prodigy X 2023 on Blunt Scootersi uusim tippmudel, mis tähistab kümnendat generatsiooni freestyle trikitõukerataste seas. Sellel mudelil on täiustatud EXTECH deck-ekstruusioon, uus Z-klamber, Low Stack headset ja SECTOR 120x26mm rattad, mis tagavad sujuva ja vastupidava sõidukogemuse. Kerge Reaper V2 lenks, tugev Diamond IHC kahvel ja TPR gripid ühenduvad, et pakkuda professionaalset kvaliteeti nii edasijõudnud kui ka kesktasemel sõitjale. Uus deck on laiem ja kergem kui eelkäijad, suurendades kontrolli ja vähendades kaalu, samal ajal säilitades tugevuse."
-          },
-          {
-            "title": "TEHNILISED ANDMED",
-            "table": {
-              "main": [
-                {
-                  "label": "Kaal",
-                  "value": "3.265kg"
-                },
-                {
-                  "label": "Talla pikkus",
-                  "value": "49.5cm"
-                },
-                {
-                  "label": "Talla laius",
-                  "value": "12.7cm"
-                },
-                {
-                  "label": "Rattad",
-                  "value": "120mm"
-                },
-                {
-                  "label": "Kahvel",
-                  "value": "Keermeta diamond IHC"
-                },
-                {
-                  "label": "Lenks",
-                  "value": "Reaper V2 alumiinium, 62cm kõrge ja 56cm lai"
-                },
-                {
-                  "label": "Tõuksi kogukõrgus",
-                  "value": "86.5cm"
-                },
-                {
-                  "label": "Lenksu materjal",
-                  "value": "Alumiinium"
-                },
-                {
-                  "label": "Lenksu väline läbimõõt",
-                  "value": "34.9mm"
-                },
-                {
-                  "label": "Gripid",
-                  "value": "16cm"
-                },
-                {
-                  "label": "Kompressioonisüsteem",
-                  "value": "IHC"
-                },
-                {
-                  "label": "Klamber",
-                  "value": "Z Clamp, Oversized, 2 poldiga (6mm)"
-                },
-                {
-                  "label": "Pidur",
-                  "value": "Flex fender, V2 nailonsüsteem"
-                },
-                {
-                  "label": "Sõidustiil",
-                  "value": "Park, freestyle"
-                },
-                {
-                  "label": "Kokkupanek",
-                  "value": "Osaliselt kokkupandud"
-                }
-              ]
-            }
-          }
-        ],
-        "color": "Must",
-        "color_code": "#000000",
-        "source_price": 110.0,
-        "price": 239,
-        "discounted_price": 229,
-        "stock": 99,
-        "images": [
-          "/products/blunt-prodigy-x-black-oil-slick-toukeratas-1.jpg",
-          "/products/blunt-prodigy-x-black-oil-slick-toukeratas-2.jpg",
-          "/products/blunt-prodigy-x-black-oil-slick-toukeratas-3.jpg",
-          "/products/blunt-prodigy-x-black-oil-slick-toukeratas-4.jpg",
-          "/products/blunt-prodigy-x-black-oil-slick-toukeratas-5.jpg",
-          "/products/blunt-prodigy-x-black-oil-slick-toukeratas-7.jpg",
-          "/products/blunt-prodigy-x-black-oil-slick-toukeratas-6.jpg",
-          "/products/blunt-prodigy-x-black-oil-slick-toukeratas-8.jpg"
-        ]
-      },
-      {
-        "id": "blunt-prodigy-x-oil-slick",
-        "name": "Blunt Prodigy X - Oil Slick (Õlilaik)",
-        "description": [
-          "Blunt Prodigy X Oil Slick (Õlilaik) on tõeline revolutsioon trikitõukerataste maailmas! Silmapaistev Oil Slick vikerkaarevärvides viimistlus annab tõukerattale pilkupüüdva välimuse, mis ei jää märkamata ei pargis ega tänaval. Tänu revolutsioonilisele Extech ekstrusioonitehnoloogiale on see kerge ja vastupidav tõukeratas ideaalne valik keskmise ja edasijõudnud tasemega sõitjatele."
-        ],
-        "specifications": [
-          {
-            "title": "TOOTEKIRJELDUS",
-            "description": "Prodigy X 2023 on Blunt Scootersi uusim tippmudel, mis tähistab kümnendat generatsiooni freestyle trikitõukerataste seas. Sellel mudelil on täiustatud EXTECH deck-ekstruusioon, uus Z-klamber, Low Stack headset ja SECTOR 120x26mm rattad, mis tagavad sujuva ja vastupidava sõidukogemuse. Kerge Reaper V2 lenks, tugev Diamond IHC kahvel ja TPR gripid ühenduvad, et pakkuda professionaalset kvaliteeti nii edasijõudnud kui ka kesktasemel sõitjale. Uus deck on laiem ja kergem kui eelkäijad, suurendades kontrolli ja vähendades kaalu, samal ajal säilitades tugevuse."
-          },
-          {
-            "title": "TEHNILISED ANDMED",
-            "table": {
-              "main": [
-                {
-                  "label": "Kaal",
-                  "value": "3.265kg"
-                },
-                {
-                  "label": "Talla pikkus",
-                  "value": "49.5cm"
-                },
-                {
-                  "label": "Talla laius",
-                  "value": "12.7cm"
-                },
-                {
-                  "label": "Rattad",
-                  "value": "120mm"
-                },
-                {
-                  "label": "Kahvel",
-                  "value": "Keermeta diamond IHC"
-                },
-                {
-                  "label": "Lenks",
-                  "value": "Reaper V2 alumiinium, 62cm kõrge ja 56cm lai"
-                },
-                {
-                  "label": "Tõuksi kogukõrgus",
-                  "value": "86.5cm"
-                },
-                {
-                  "label": "Lenksu materjal",
-                  "value": "Alumiinium"
-                },
-                {
-                  "label": "Lenksu väline läbimõõt",
-                  "value": "34.9mm"
-                },
-                {
-                  "label": "Gripid",
-                  "value": "16cm"
-                },
-                {
-                  "label": "Kompressioonisüsteem",
-                  "value": "IHC"
-                },
-                {
-                  "label": "Klamber",
-                  "value": "Z Clamp, Oversized, 2 poldiga (6mm)"
-                },
-                {
-                  "label": "Pidur",
-                  "value": "Flex fender, V2 nailonsüsteem"
-                },
-                {
-                  "label": "Sõidustiil",
-                  "value": "Park, freestyle"
-                },
-                {
-                  "label": "Kokkupanek",
-                  "value": "Osaliselt kokkupandud"
-                }
-              ]
-            }
-          }
-        ],
-        "color": "Roosa",
-        "color_code": "#FF00EE",
-        "source_price": 110.0,
-        "price": 239,
-        "discounted_price": 229,
-        "stock": 99,
-        "images": [
-          "/products/blunt-complete-prodigy-x-oil-slick-trikitoukeratas-1.jpg",
-          "/products/blunt-complete-prodigy-x-oil-slick-trikitoukeratas-2.jpg",
-          "/products/blunt-complete-prodigy-x-oil-slick-trikitoukeratas-3.jpg",
-          "/products/blunt-complete-prodigy-x-oil-slick-trikitoukeratas-4.jpg",
-          "/products/blunt-complete-prodigy-x-oil-slick-trikitoukeratas-5.jpg",
-          "/products/blunt-complete-prodigy-x-oil-slick-trikitoukeratas-7.jpg",
-          "/products/blunt-complete-prodigy-x-oil-slick-trikitoukeratas-6.jpg",
-          "/products/blunt-complete-prodigy-x-oil-slick-trikitoukeratas-8.jpg"
-        ]
-      },
-      {
-        "id": "blunt-prodigy-x-burnt-pipe",
-        "name": "Blunt Prodigy X - Burnt Pipe",
-        "description": [
-          "Blunt Prodigy X Burnt Pipe (põlenud toru efekt) on 2023. aasta tippmudel, mis esindab kümnendat põlvkonda legendaarsest Prodigy seeriast. See silmapaistev trikitõukeratas paistab silma oma unikaalse 'põlenud toru' värviefektiga, mis annab talle eristuva ja pilkupüüdva välimuse. Lilla värvitoonis tõukeratas ei jää märkamata ühelgi rajal ja on ideaalne valik keskmisel ja edasijõudnud tasemel sõitjatele."
-        ],
-        "specifications": [
-          {
-            "title": "TOOTEKIRJELDUS",
-            "description": "Prodigy X 2023 on Blunt Scootersi uusim tippmudel, mis tähistab kümnendat generatsiooni freestyle trikitõukerataste seas. Sellel mudelil on täiustatud EXTECH deck-ekstruusioon, uus Z-klamber, Low Stack headset ja SECTOR 120x26mm rattad, mis tagavad sujuva ja vastupidava sõidukogemuse. Kerge Reaper V2 lenks, tugev Diamond IHC kahvel ja TPR gripid ühenduvad, et pakkuda professionaalset kvaliteeti nii edasijõudnud kui ka kesktasemel sõitjale. Uus deck on laiem ja kergem kui eelkäijad, suurendades kontrolli ja vähendades kaalu, samal ajal säilitades tugevuse."
-          },
-          {
-            "title": "TEHNILISED ANDMED",
-            "table": {
-              "main": [
-                {
-                  "label": "Kaal",
-                  "value": "3.265kg"
-                },
-                {
-                  "label": "Talla pikkus",
-                  "value": "49.5cm"
-                },
-                {
-                  "label": "Talla laius",
-                  "value": "12.7cm"
-                },
-                {
-                  "label": "Rattad",
-                  "value": "120mm"
-                },
-                {
-                  "label": "Kahvel",
-                  "value": "Keermeta diamond IHC"
-                },
-                {
-                  "label": "Lenks",
-                  "value": "Reaper V2 alumiinium, 62cm kõrge ja 56cm lai"
-                },
-                {
-                  "label": "Tõuksi kogukõrgus",
-                  "value": "86.5cm"
-                },
-                {
-                  "label": "Lenksu materjal",
-                  "value": "Alumiinium"
-                },
-                {
-                  "label": "Lenksu väline läbimõõt",
-                  "value": "34.9mm"
-                },
-                {
-                  "label": "Gripid",
-                  "value": "16cm"
-                },
-                {
-                  "label": "Kompressioonisüsteem",
-                  "value": "IHC"
-                },
-                {
-                  "label": "Klamber",
-                  "value": "Z Clamp, Oversized, 2 poldiga (6mm)"
-                },
-                {
-                  "label": "Pidur",
-                  "value": "Flex fender, V2 nailonsüsteem"
-                },
-                {
-                  "label": "Sõidustiil",
-                  "value": "Park, freestyle"
-                },
-                {
-                  "label": "Kokkupanek",
-                  "value": "Osaliselt kokkupandud"
-                }
-              ]
-            }
-          }
-        ],
-        "color": "Lilla",
-        "color_code": "#7F00FF",
-        "source_price": 110.0,
-        "price": 239,
-        "discounted_price": 229,
-        "stock": 99,
-        "images": [
-          "/products/blunt-complete-prodigy-x-burnt-pipe-trikitoukeratas-1.jpg",
-          "/products/blunt-complete-prodigy-x-burnt-pipe-trikitoukeratas-2.jpg",
-          "/products/blunt-complete-prodigy-x-burnt-pipe-trikitoukeratas-3.jpg",
-          "/products/blunt-complete-prodigy-x-burnt-pipe-trikitoukeratas-4.jpg",
-          "/products/blunt-complete-prodigy-x-burnt-pipe-trikitoukeratas-5.jpg",
-          "/products/blunt-complete-prodigy-x-burnt-pipe-trikitoukeratas-6.jpg",
-          "/products/blunt-complete-prodigy-x-burnt-pipe-trikitoukeratas-7.jpg",
-          "/products/blunt-complete-prodigy-x-burnt-pipe-trikitoukeratas-8.jpg"
-        ]
-      },
-      {
-        "id": "blunt-prodigy-x-kuldne",
-        "name": "Blunt Prodigy X - Kuldne",
-        "description": [
-          "Blunt Prodigy X Gold (kuldne) on luksuslik trikitõukeratas, mis ühendab silmapaistva kuldse viimistluse ja 2023. aasta tipptasemel tehnoloogia. See elegantne mudel on kümnes põlvkond kuulsast Prodigy seeriast, pakkudes ainulaadset kombinatsiooni stiili ja jõudlust. Kuldne ja must värvikombinatsioon loob prestiižse välimuse, mis ei jää märkamata igas skeidipargis."
-        ],
-        "specifications": [
-          {
-            "title": "TOOTEKIRJELDUS",
-            "description": "Prodigy X 2023 on Blunt Scootersi uusim tippmudel, mis tähistab kümnendat generatsiooni freestyle trikitõukerataste seas. Sellel mudelil on täiustatud EXTECH deck-ekstruusioon, uus Z-klamber, Low Stack headset ja SECTOR 120x26mm rattad, mis tagavad sujuva ja vastupidava sõidukogemuse. Kerge Reaper V2 lenks, tugev Diamond IHC kahvel ja TPR gripid ühenduvad, et pakkuda professionaalset kvaliteeti nii edasijõudnud kui ka kesktasemel sõitjale. Uus deck on laiem ja kergem kui eelkäijad, suurendades kontrolli ja vähendades kaalu, samal ajal säilitades tugevuse."
-          },
-          {
-            "title": "TEHNILISED ANDMED",
-            "table": {
-              "main": [
-                {
-                  "label": "Kaal",
-                  "value": "3.265kg"
-                },
-                {
-                  "label": "Talla pikkus",
-                  "value": "49.5cm"
-                },
-                {
-                  "label": "Talla laius",
-                  "value": "12.7cm"
-                },
-                {
-                  "label": "Rattad",
-                  "value": "120mm"
-                },
-                {
-                  "label": "Kahvel",
-                  "value": "Keermeta diamond IHC"
-                },
-                {
-                  "label": "Lenks",
-                  "value": "Reaper V2 alumiinium, 62cm kõrge ja 56cm lai"
-                },
-                {
-                  "label": "Tõuksi kogukõrgus",
-                  "value": "86.5cm"
-                },
-                {
-                  "label": "Lenksu materjal",
-                  "value": "Alumiinium"
-                },
-                {
-                  "label": "Lenksu väline läbimõõt",
-                  "value": "34.9mm"
-                },
-                {
-                  "label": "Gripid",
-                  "value": "16cm"
-                },
-                {
-                  "label": "Kompressioonisüsteem",
-                  "value": "IHC"
-                },
-                {
-                  "label": "Klamber",
-                  "value": "Z Clamp, Oversized, 2 poldiga (6mm)"
-                },
-                {
-                  "label": "Pidur",
-                  "value": "Flex fender, V2 nailonsüsteem"
-                },
-                {
-                  "label": "Sõidustiil",
-                  "value": "Park, freestyle"
-                },
-                {
-                  "label": "Kokkupanek",
-                  "value": "Osaliselt kokkupandud"
-                }
-              ]
-            }
-          }
-        ],
-        "color": "Kollane",
-        "color_code": "#FFD700",
-        "source_price": 110.0,
-        "price": 239,
-        "discounted_price": 229,
-        "stock": 99,
-        "images": [
-          "/products/blunt-complete-prodigy-x-kuldne-trikitoukeratas-1.jpg",
-          "/products/blunt-complete-prodigy-x-kuldne-trikitoukeratas-2.jpg",
-          "/products/blunt-complete-prodigy-x-kuldne-trikitoukeratas-3.jpg",
-          "/products/blunt-complete-prodigy-x-kuldne-trikitoukeratas-4.jpg",
-          "/products/blunt-complete-prodigy-x-kuldne-trikitoukeratas-5.jpg",
-          "/products/blunt-complete-prodigy-x-kuldne-trikitoukeratas-6.jpg",
-          "/products/blunt-complete-prodigy-x-kuldne-trikitoukeratas-7.jpg",
-          "/products/blunt-complete-prodigy-x-kuldne-trikitoukeratas-8.jpg"
-        ]
-      },
-      {
-        "id": "blunt-prodigy-x-sinine",
-        "name": "Blunt Prodigy X - Sinine",
-        "description": [
-          "Blunt Prodigy X Teal on värske ja silmapaistev trikitõukeratas, mis paelub tähelepanu oma erksa türkiissinise värvikombinatsiooniga. 2023. aasta mudel esindab kümnendat põlvkonda Prodigy seeriast, mis on arendatud 12 aasta jooksul koostöös professionaalsete sõitjatega. See värskendav türkiissinine toon lisab energiat ja isikupära, muutes tõukeratta silmapaistvaks nii pargis kui tänaval."
-        ],
-        "specifications": [
-          {
-            "title": "TOOTEKIRJELDUS",
-            "description": "Prodigy X 2023 on Blunt Scootersi uusim tippmudel, mis tähistab kümnendat generatsiooni freestyle trikitõukerataste seas. Sellel mudelil on täiustatud EXTECH deck-ekstruusioon, uus Z-klamber, Low Stack headset ja SECTOR 120x26mm rattad, mis tagavad sujuva ja vastupidava sõidukogemuse. Kerge Reaper V2 lenks, tugev Diamond IHC kahvel ja TPR gripid ühenduvad, et pakkuda professionaalset kvaliteeti nii edasijõudnud kui ka kesktasemel sõitjale. Uus deck on laiem ja kergem kui eelkäijad, suurendades kontrolli ja vähendades kaalu, samal ajal säilitades tugevuse."
-          },
-          {
-            "title": "TEHNILISED ANDMED",
-            "table": {
-              "main": [
-                {
-                  "label": "Kaal",
-                  "value": "3.265kg"
-                },
-                {
-                  "label": "Talla pikkus",
-                  "value": "49.5cm"
-                },
-                {
-                  "label": "Talla laius",
-                  "value": "12.7cm"
-                },
-                {
-                  "label": "Rattad",
-                  "value": "120mm"
-                },
-                {
-                  "label": "Kahvel",
-                  "value": "Keermeta diamond IHC"
-                },
-                {
-                  "label": "Lenks",
-                  "value": "Reaper V2 alumiinium, 62cm kõrge ja 56cm lai"
-                },
-                {
-                  "label": "Tõuksi kogukõrgus",
-                  "value": "86.5cm"
-                },
-                {
-                  "label": "Lenksu materjal",
-                  "value": "Alumiinium"
-                },
-                {
-                  "label": "Lenksu väline läbimõõt",
-                  "value": "34.9mm"
-                },
-                {
-                  "label": "Gripid",
-                  "value": "16cm"
-                },
-                {
-                  "label": "Kompressioonisüsteem",
-                  "value": "IHC"
-                },
-                {
-                  "label": "Klamber",
-                  "value": "Z Clamp, Oversized, 2 poldiga (6mm)"
-                },
-                {
-                  "label": "Pidur",
-                  "value": "Flex fender, V2 nailonsüsteem"
-                },
-                {
-                  "label": "Sõidustiil",
-                  "value": "Park, freestyle"
-                },
-                {
-                  "label": "Kokkupanek",
-                  "value": "Osaliselt kokkupandud"
-                }
-              ]
-            }
-          }
+          "Blunt Colt S5 sinine on silmapaistev trikitõukeratas, mis ei jää märkamatuks. Erksinise värviga tõukeratas on ideaalne valik noortele entusiastidele, kes soovivad arendada oma oskusi skeidipargis. Vastupidav 4130 Cromoly terasest lenks ja kvaliteetsed 110mm Diamond rattad tagavad suurepärase kontrolli ja stabiilsuse. Sinine värvilahendus lisab tõukerattale energilist välimust, mis tõmbab tähelepanu igas skeidipargis."
         ],
         "color": "Sinine",
         "color_code": "#2FCACE",
-        "source_price": 110.0,
-        "price": 239,
-        "discounted_price": 229,
+        "source_price": 72.0,
+        "price": 200,
+        "discounted_price": 190,
         "stock": 99,
         "images": [
-          "/products/blunt-complete-prodigy-x-teal-trikitoukeratas-1.jpg",
-          "/products/blunt-complete-prodigy-x-teal-trikitoukeratas-2.jpg",
-          "/products/blunt-complete-prodigy-x-teal-trikitoukeratas-3.jpg",
-          "/products/blunt-complete-prodigy-x-teal-trikitoukeratas-4.jpg",
-          "/products/blunt-complete-prodigy-x-teal-trikitoukeratas-5.jpg",
-          "/products/blunt-complete-prodigy-x-teal-trikitoukeratas-6.jpg",
-          "/products/blunt-complete-prodigy-x-teal-trikitoukeratas-7.jpg",
-          "/products/blunt-complete-prodigy-x-teal-trikitoukeratas-8.jpg"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "blunt-prodigy-x-street",
-    "class": "complete-scooters",
-    "category": ["Tõuksid", "Pro tase", "Street"],
-    "brand": "Blunt",
-    "tags": ["Complete", "SCS"],
-    "video": "https://www.youtube.com/embed/4Jeq18Nkbp8?si=CDXPUsfgF_cgjZyE",
-    "variants": [
-      {
-        "id": "blunt-prodigy-x-street-must",
-        "name": "Blunt Prodigy X Street - Must",
-        "description": [
-          "Blunt Prodigy X Street musta värvi trikitõukeratas on spetsiaalselt tänavasõiduks disainitud, pakkudes maksimaalset jõudlust ja vastupidavust karmides linnatingimustes. Elegantne matt-must viimistlus annab tõukerattale professionaalse välimuse, mis ei jää märkamatuks ükskõik millises linnamaastikus. Tugevdatud konstruktsioon ja täiustatud komponendid teevad sellest ideaalse kaaslase tänavasõidu väljakutseteks."
-        ],
-        "specifications": [
-          {
-            "title": "TOOTEKIRJELDUS",
-            "description": "Blunt Prodigy X Street 2023 on spetsiaalselt tänavasõiduks loodud trikitõukeratas, mis erineb standardsest Prodigy X mudelist oma Box-cut deki disaini ja täiendatud omaduste poolest. Kümnes põlvkond Prodigy seeriast on täiustatud tänavasõidu jaoks optimeeritud komponentidega, pakkudes suuremat vastupidavust ja kontrolli linnamaastikul. Cromoly terasest lenks ja SCS kompressioonisüsteem tagavad maksimaalse tugevuse ja stabiilsuse keerulistes oludes. Erinevalt standardsest Prodigy mudelist on Street versioon varustatud tugevama Cromoly terasest lenksuga ja Box-cut disainiga dekiga, mis pakuvad suuremat tugevust ja kontrolli käsipuude, treppide ja muude linnaobjektide ületamisel. Täiustatud SCS kompressioonisüsteem (Standard Compression System) tagab parema stabiilsuse ja tugevuse võrreldes tavapärase IHC süsteemiga, mis on eriti oluline tänavasõidu karmides tingimustes."
-          },
-          {
-            "title": "TEHNILISED ANDMED",
-            "table": {
-              "main": [
-                {
-                  "label": "Kaal",
-                  "value": "3.265 kg"
-                },
-                {
-                  "label": "Talla laius",
-                  "value": "12.7cm"
-                },
-                {
-                  "label": "Talla pikkus",
-                  "value": "49.5cm"
-                },
-                {
-                  "label": "Tõuksi kogukõrgus",
-                  "value": "90cm"
-                },
-                {
-                  "label": "Lenks",
-                  "value": "kõrgus 62cm, laius 56cm"
-                },
-                {
-                  "label": "Klamber",
-                  "value": "Z Clamp Oversized 2 polti 6 mm"
-                },
-                {
-                  "label": "Kompressioonisüsteem",
-                  "value": "SCS"
-                },
-                {
-                  "label": "Gripid",
-                  "value": "16cm"
-                },
-                {
-                  "label": "Rattad",
-                  "value": "120mm"
-                },
-                {
-                  "label": "Lenks",
-                  "value": "Cromoly teras"
-                },
-                {
-                  "label": "Sõidustiil",
-                  "value": "Street (tänav), park"
-                },
-                {
-                  "label": "Klambri läbimõõt",
-                  "value": "32.34mm"
-                },
-                {
-                  "label": "Lenksu väline läbimõõt",
-                  "value": "34.9mm"
-                },
-                {
-                  "label": "Piduri tüüp",
-                  "value": "Flex fender"
-                },
-                {
-                  "label": "Kokkupanek",
-                  "value": "Osaliselt kokkupandud"
-                }
-              ]
-            }
-          }
-        ],
-        "color": "Must",
-        "color_code": "#000000",
-        "source_price": 120.0,
-        "price": 249,
-        "discounted_price": 239,
-        "stock": 0,
-        "new": true,
-        "images": [
-          "/products/blunt-complete-prodigy-x-street-black-trikitoukeratas-1.jpg",
-          "/products/blunt-complete-prodigy-x-street-black-trikitoukeratas-2.jpg",
-          "/products/blunt-complete-prodigy-x-street-black-trikitoukeratas-3.jpg",
-          "/products/blunt-complete-prodigy-x-street-black-trikitoukeratas-4.jpg",
-          "/products/blunt-complete-prodigy-x-street-black-trikitoukeratas-5.jpg",
-          "/products/blunt-complete-prodigy-x-street-black-trikitoukeratas-6.jpg",
-          "/products/blunt-complete-prodigy-x-street-black-trikitoukeratas-7.jpg",
-          "/products/blunt-complete-prodigy-x-street-black-trikitoukeratas-8.jpg"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "blunt-prodigy-s9",
-    "class": "complete-scooters",
-    "category": ["Tõuksid", "Pro tase", "Park"],
-    "brand": "Blunt",
-    "tags": ["Complete", "IHC"],
-    "video": "https://www.youtube.com/embed/eIotGYhvqRQ?si=p-dFiOaR3Y6bJI6S",
-    "variants": [
-      {
-        "id": "blunt-prodigy-s9-must-oil-slick",
-        "name": "Blunt Prodigy S9 - Must/Oil Slick",
-        "description": [
-          "Blunt Prodigy S9 Must/Oil Slick on üheksanda põlvkonna trikitõukeratas, mis ühendab klassikalise musta disaini ja silmapaistvad Oil Slick vikerkaarevärvides detailid. Kergekaaluline konstruktsioon ja optimaalsed mõõtmed teevad sellest ideaalse valiku keerukamate trikkide sooritamiseks. Kvaliteetsed komponendid tagavad suurepärase jõudluse ja vastupidavuse. Musta värvi elegantne välimus koos Oil Slick detailidega ei jää kindlasti märkamatuks."
-        ],
-        "specifications": [
-          {
-            "title": "TOOTEKIRJELDUS",
-            "description": "Blunt Prodigy S9 2022 on üheksanda põlvkonna trikitõukeratas, mis on loodud keskmise ja edasijõudnud tasemega sõitjatele. See mudel on täiustatud uute komponentidega, mis on kombineeritud kõrgkvaliteetsete osadega, tagades suurepärase jõudluse ja vastupidavuse. Saadaval nii elegantse musta korpusega koos Oil Slick detailidega kui ka täielikult silmapaistva Oil Slick vikerkaarevärvides viimistlusega."
-          },
-          {
-            "title": "TEHNILISED ANDMED",
-            "table": {
-              "main": [
-                {
-                  "label": "Kaal",
-                  "value": "3.265 kg"
-                },
-                {
-                  "label": "Tõuksi kogukõrgus",
-                  "value": "88cm"
-                },
-                {
-                  "label": "Lenks",
-                  "value": "Kõrge tihedusega alumiinium Reaper V2, pikkus 62cm, laius 56cm"
-                },
-                {
-                  "label": "Talla pikkus",
-                  "value": "49.5cm"
-                },
-                {
-                  "label": "Talla laius",
-                  "value": "12cm"
-                },
-                {
-                  "label": "Klamber",
-                  "value": "2 poldiga 6061 standardne alumiiniumklamber, 6mm poldid"
-                },
-                {
-                  "label": "Kompressioonisüsteem",
-                  "value": "IHC"
-                },
-                {
-                  "label": "Pidur",
-                  "value": "Nailonist pealekruvitav, 5mm poldiga"
-                },
-                {
-                  "label": "Gripid",
-                  "value": "16cm pikad"
-                },
-                {
-                  "label": "Rattad",
-                  "value": "120mm"
-                },
-                {
-                  "label": "Sõidustiil",
-                  "value": "Park"
-                },
-                {
-                  "label": "Klambri läbimõõt",
-                  "value": "32.34mm"
-                },
-                {
-                  "label": "Lenksu väline läbimõõt",
-                  "value": "34.9mm"
-                },
-                {
-                  "label": "Piduri tüüp",
-                  "value": "Flex fender"
-                },
-                {
-                  "label": "Kokkupanek",
-                  "value": "Osaliselt kokkupandud"
-                }
-              ]
-            }
-          }
-        ],
-        "color": "Must",
-        "color_code": "#000000",
-        "source_price": 100.0,
-        "price": 249,
-        "discounted_price": 239,
-        "stock": 99,
-        "images": [
-          "/products/complete-prodigy-s9-black-oil-slick-trikitoukeratas-1.jpg",
-          "/products/complete-prodigy-s9-black-oil-slick-trikitoukeratas-2.png",
-          "/products/complete-prodigy-s9-black-oil-slick-trikitoukeratas-3.png",
-          "/products/complete-prodigy-s9-black-oil-slick-trikitoukeratas-4.png",
-          "/products/complete-prodigy-s9-black-oil-slick-trikitoukeratas-5.jpg",
-          "/products/complete-prodigy-s9-black-oil-slick-trikitoukeratas-6.jpg"
+          "/products/blunt-complete-colt-s5-blue-trikitoukeratas-1.png",
+          "/products/blunt-complete-colt-s5-blue-trikitoukeratas-2.png",
+          "/products/blunt-complete-colt-s5-blue-trikitoukeratas-3.png",
+          "/products/blunt-complete-colt-s5-blue-trikitoukeratas-6.png",
+          "/products/blunt-complete-colt-s5-blue-trikitoukeratas-4.png",
+          "/products/blunt-complete-colt-s5-blue-trikitoukeratas-5.png"
         ]
       },
       {
-        "id": "blunt-prodigy-s9-oil-slick",
-        "name": "Blunt Prodigy S9 - Oil Slick",
+        "id": "blunt-colt-s5-roheline",
+        "name": "Blunt Colt S5 - Roheline",
         "description": [
-          "Blunt Prodigy S9 Oil Slick on üheksanda põlvkonna trikitõukeratas, mis paistab silma oma vapustava vikerkaarevärvilise viimistlusega. Kergekaaluline konstruktsioon ja optimaalsed mõõtmed teevad sellest ideaalse valiku keerukamate trikkide sooritamiseks. Kvaliteetsed komponendid tagavad suurepärase jõudluse ja vastupidavuse. Dünaamiline ja pilkupüüdev Oil Slick värvikombinatsioon ei jää kindlasti märkamatuks."
+          "Blunt Colt S5 roheline on energiline trikitõukeratas, mis ei jää märkamatuks. Erkroheline värv lisab isikupära ja silmapaistvat välimust. Vastupidav Peg-cut disainiga dekk, Cromoly terasest lenks ja 110mm Diamond rattad tagavad suurepärase kontrolli ja stabiilsuse parkisõidul. Kaaludes vaid 3.74kg on see tõukeratas kergesti käsitsetav ka nooremate sõitjate poolt, tehes sellest ideaalse valiku esimeseks tõsiseks trikitõukerattaks."
         ],
-        "specifications": [
-          {
-            "title": "TOOTEKIRJELDUS",
-            "description": "Blunt Prodigy S9 2022 on üheksanda põlvkonna trikitõukeratas, mis on loodud keskmise ja edasijõudnud tasemega sõitjatele. See mudel on täiustatud uute komponentidega, mis on kombineeritud kõrgkvaliteetsete osadega, tagades suurepärase jõudluse ja vastupidavuse. Saadaval nii elegantse musta korpusega koos Oil Slick detailidega kui ka täielikult silmapaistva Oil Slick vikerkaarevärvides viimistlusega."
-          },
-          {
-            "title": "TEHNILISED ANDMED",
-            "table": {
-              "main": [
-                {
-                  "label": "Kaal",
-                  "value": "3.265 kg"
-                },
-                {
-                  "label": "Tõuksi kogukõrgus",
-                  "value": "88cm"
-                },
-                {
-                  "label": "Lenks",
-                  "value": "Kõrge tihedusega alumiinium Reaper V2, pikkus 62cm, laius 56cm"
-                },
-                {
-                  "label": "Talla pikkus",
-                  "value": "49.5cm"
-                },
-                {
-                  "label": "Talla laius",
-                  "value": "12cm"
-                },
-                {
-                  "label": "Klamber",
-                  "value": "2 poldiga 6061 standardne alumiiniumklamber, 6mm poldid"
-                },
-                {
-                  "label": "Kompressioonisüsteem",
-                  "value": "IHC"
-                },
-                {
-                  "label": "Pidur",
-                  "value": "Nailonist pealekruvitav, 5mm poldiga"
-                },
-                {
-                  "label": "Gripid",
-                  "value": "16cm pikad"
-                },
-                {
-                  "label": "Rattad",
-                  "value": "120mm"
-                },
-                {
-                  "label": "Sõidustiil",
-                  "value": "Park"
-                },
-                {
-                  "label": "Klambri läbimõõt",
-                  "value": "32.34mm"
-                },
-                {
-                  "label": "Lenksu väline läbimõõt",
-                  "value": "34.9mm"
-                },
-                {
-                  "label": "Piduri tüüp",
-                  "value": "Flex fender"
-                },
-                {
-                  "label": "Kokkupanek",
-                  "value": "Osaliselt kokkupandud"
-                }
-              ]
-            }
-          }
-        ],
-        "color": "Roosa",
-        "color_code": "#FF00EE",
-        "source_price": 100.0,
-        "price": 239,
-        "discounted_price": 229,
+        "color": "Roheline",
+        "color_code": "#85EC73",
+        "source_price": 81.0,
+        "price": 200,
+        "discounted_price": 190,
         "stock": 99,
         "images": [
-          "/products/complete-prodigy-s9-oil-slick-trikitoukeratas-1.png",
-          "/products/complete-prodigy-s9-oil-slick-trikitoukeratas-2.png",
-          "/products/complete-prodigy-s9-oil-slick-trikitoukeratas-3.png",
-          "/products/complete-prodigy-s9-oil-slick-trikitoukeratas-4.png",
-          "/products/complete-prodigy-s9-oil-slick-trikitoukeratas-5.png",
-          "/products/complete-prodigy-s9-oil-slick-trikitoukeratas-7.png"
+          "/products/blunt-complete-colt-s5-green-trikitoukeratas-1.png",
+          "/products/blunt-complete-colt-s5-green-trikitoukeratas-2.png",
+          "/products/blunt-complete-colt-s5-green-trikitoukeratas-3.png",
+          "/products/blunt-complete-colt-s5-green-trikitoukeratas-4.png",
+          "/products/blunt-complete-colt-s5-green-trikitoukeratas-5.png",
+          "/products/blunt-complete-colt-s5-green-trikitoukeratas-6.png"
         ]
       }
     ]
