@@ -643,6 +643,7 @@
         "price": 420,
         "discounted_price": 410,
         "stock": 10,
+        "new": true,
         "images": [
           "/products/blunt-complete-kos-s7-charge-trikitoukeratas-1.png",
           "/products/blunt-complete-kos-s7-charge-trikitoukeratas-2.png",
