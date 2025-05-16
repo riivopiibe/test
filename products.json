@@ -582,7 +582,7 @@
         "price": 249,
         "discounted_price": 239,
         "stock": 0,
-        "new": True,
+        "new": true,
         "images": [
           "/products/blunt-complete-prodigy-x-street-black-trikitoukeratas-1.jpg",
           "/products/blunt-complete-prodigy-x-street-black-trikitoukeratas-2.jpg",
@@ -592,6 +592,204 @@
           "/products/blunt-complete-prodigy-x-street-black-trikitoukeratas-6.jpg",
           "/products/blunt-complete-prodigy-x-street-black-trikitoukeratas-7.jpg",
           "/products/blunt-complete-prodigy-x-street-black-trikitoukeratas-8.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "blunt-prodigy-s9",
+    "class": "complete-scooters",
+    "category": ["Tõuksid", "Pro tase", "Park"],
+    "brand": "Blunt",
+    "tags": ["Complete", "IHC"],
+    "video": "https://www.youtube.com/embed/eIotGYhvqRQ?si=p-dFiOaR3Y6bJI6S",
+    "variants": [
+      {
+        "id": "blunt-prodigy-s9-must-oil-slick",
+        "name": "Blunt Prodigy S9 - Must/Oil Slick",
+        "description": [
+          "Blunt Prodigy S9 Must/Oil Slick on üheksanda põlvkonna trikitõukeratas, mis ühendab klassikalise musta disaini ja silmapaistvad Oil Slick vikerkaarevärvides detailid. Kergekaaluline konstruktsioon ja optimaalsed mõõtmed teevad sellest ideaalse valiku keerukamate trikkide sooritamiseks. Kvaliteetsed komponendid tagavad suurepärase jõudluse ja vastupidavuse. Musta värvi elegantne välimus koos Oil Slick detailidega ei jää kindlasti märkamatuks."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Blunt Prodigy S9 2022 on üheksanda põlvkonna trikitõukeratas, mis on loodud keskmise ja edasijõudnud tasemega sõitjatele. See mudel on täiustatud uute komponentidega, mis on kombineeritud kõrgkvaliteetsete osadega, tagades suurepärase jõudluse ja vastupidavuse. Saadaval nii elegantse musta korpusega koos Oil Slick detailidega kui ka täielikult silmapaistva Oil Slick vikerkaarevärvides viimistlusega. <br><br><iframe width="560" height="315" src="https://www.youtube.com/embed/8VzFftQXdIs?si=RQDI-eZEUKOYxT38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3.265 kg"
+                },
+                {
+                  "label": "Tõuksi kogukõrgus",
+                  "value": "88cm"
+                },
+                {
+                  "label": "Lenks",
+                  "value": "Kõrge tihedusega alumiinium Reaper V2, pikkus 62cm, laius 56cm"
+                },
+                {
+                  "label": "Talla pikkus",
+                  "value": "49.5cm"
+                },
+                {
+                  "label": "Talla laius",
+                  "value": "12cm"
+                },
+                {
+                  "label": "Klamber",
+                  "value": "2 poldiga 6061 standardne alumiiniumklamber, 6mm poldid"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "IHC"
+                },
+                {
+                  "label": "Pidur",
+                  "value": "Nailonist pealekruvitav, 5mm poldiga"
+                },
+                {
+                  "label": "Gripid",
+                  "value": "16cm pikad"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "120mm"
+                },
+                {
+                  "label": "Sõidustiil",
+                  "value": "Park"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "32.34mm"
+                },
+                {
+                  "label": "Lenksu väline läbimõõt",
+                  "value": "34.9mm"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Kokkupanek",
+                  "value": "Osaliselt kokkupandud"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Must",
+        "color_code": "#000000",
+        "source_price": 100.0,
+        "price": 249,
+        "discounted_price": 239,
+        "stock": 99,
+        "images": [
+          "/products/complete-prodigy-s9-black-oil-slick-trikitoukeratas-1.jpg",
+          "/products/complete-prodigy-s9-black-oil-slick-trikitoukeratas-2.png",
+          "/products/complete-prodigy-s9-black-oil-slick-trikitoukeratas-3.png",
+          "/products/complete-prodigy-s9-black-oil-slick-trikitoukeratas-4.png",
+          "/products/complete-prodigy-s9-black-oil-slick-trikitoukeratas-5.jpg",
+          "/products/complete-prodigy-s9-black-oil-slick-trikitoukeratas-6.jpg"
+        ]
+      },
+      {
+        "id": "blunt-prodigy-s9-oil-slick",
+        "name": "Blunt Prodigy S9 - Oil Slick",
+        "description": [
+          "Blunt Prodigy S9 Oil Slick on üheksanda põlvkonna trikitõukeratas, mis paistab silma oma vapustava vikerkaarevärvilise viimistlusega. Kergekaaluline konstruktsioon ja optimaalsed mõõtmed teevad sellest ideaalse valiku keerukamate trikkide sooritamiseks. Kvaliteetsed komponendid tagavad suurepärase jõudluse ja vastupidavuse. Dünaamiline ja pilkupüüdev Oil Slick värvikombinatsioon ei jää kindlasti märkamatuks."
+        ],
+        "specifications": [
+          {
+            "title": "TOOTEKIRJELDUS",
+            "description": "Blunt Prodigy S9 2022 on üheksanda põlvkonna trikitõukeratas, mis on loodud keskmise ja edasijõudnud tasemega sõitjatele. See mudel on täiustatud uute komponentidega, mis on kombineeritud kõrgkvaliteetsete osadega, tagades suurepärase jõudluse ja vastupidavuse. Saadaval nii elegantse musta korpusega koos Oil Slick detailidega kui ka täielikult silmapaistva Oil Slick vikerkaarevärvides viimistlusega. <br><br><iframe width="560" height="315" src="https://www.youtube.com/embed/8VzFftQXdIs?si=RQDI-eZEUKOYxT38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"
+          },
+          {
+            "title": "TEHNILISED ANDMED",
+            "table": {
+              "main": [
+                {
+                  "label": "Kaal",
+                  "value": "3.265 kg"
+                },
+                {
+                  "label": "Tõuksi kogukõrgus",
+                  "value": "88cm"
+                },
+                {
+                  "label": "Lenks",
+                  "value": "Kõrge tihedusega alumiinium Reaper V2, pikkus 62cm, laius 56cm"
+                },
+                {
+                  "label": "Talla pikkus",
+                  "value": "49.5cm"
+                },
+                {
+                  "label": "Talla laius",
+                  "value": "12cm"
+                },
+                {
+                  "label": "Klamber",
+                  "value": "2 poldiga 6061 standardne alumiiniumklamber, 6mm poldid"
+                },
+                {
+                  "label": "Kompressioonisüsteem",
+                  "value": "IHC"
+                },
+                {
+                  "label": "Pidur",
+                  "value": "Nailonist pealekruvitav, 5mm poldiga"
+                },
+                {
+                  "label": "Gripid",
+                  "value": "16cm pikad"
+                },
+                {
+                  "label": "Rattad",
+                  "value": "120mm"
+                },
+                {
+                  "label": "Sõidustiil",
+                  "value": "Park"
+                },
+                {
+                  "label": "Klambri läbimõõt",
+                  "value": "32.34mm"
+                },
+                {
+                  "label": "Lenksu väline läbimõõt",
+                  "value": "34.9mm"
+                },
+                {
+                  "label": "Piduri tüüp",
+                  "value": "Flex fender"
+                },
+                {
+                  "label": "Kokkupanek",
+                  "value": "Osaliselt kokkupandud"
+                }
+              ]
+            }
+          }
+        ],
+        "color": "Roosa",
+        "color_code": "#FF00EE",
+        "source_price": 100.0,
+        "price": 239,
+        "discounted_price": 229,
+        "stock": 99,
+        "images": [
+          "/products/complete-prodigy-s9-oil-slick-trikitoukeratas-1.png",
+          "/products/complete-prodigy-s9-oil-slick-trikitoukeratas-2.png",
+          "/products/complete-prodigy-s9-oil-slick-trikitoukeratas-3.png",
+          "/products/complete-prodigy-s9-oil-slick-trikitoukeratas-4.png",
+          "/products/complete-prodigy-s9-oil-slick-trikitoukeratas-5.png",
+          "/products/complete-prodigy-s9-oil-slick-trikitoukeratas-7.png"
         ]
       }
     ]
