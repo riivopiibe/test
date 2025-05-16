@@ -582,6 +582,7 @@
         "price": 249,
         "discounted_price": 239,
         "stock": 0,
+        "new": True,
         "images": [
           "/products/blunt-complete-prodigy-x-street-black-trikitoukeratas-1.jpg",
           "/products/blunt-complete-prodigy-x-street-black-trikitoukeratas-2.jpg",
