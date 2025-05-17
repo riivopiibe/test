@@ -778,7 +778,7 @@
         "price": 200,
         "discounted_price": 190,
         "stock": 99,
-        "new": true,
+        "new": false,
         "images": [
           "/products/blunt-complete-colt-s5-blue-trikitoukeratas-1.png",
           "/products/blunt-complete-colt-s5-blue-trikitoukeratas-2.png",
